@@ -1,0 +1,65 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/ronaldpsantonio-creator/ProClaVet-core/blob/main/schemas/estructura.schema.json",
+  "title": "Ficha anatómica ProClaVet",
+  "type": "object",
+  "required": [
+    "id",
+    "sys",
+    "layer",
+    "nombre",
+    "ficha"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "sys": {
+      "type": "string",
+      "enum": [
+        "car",
+        "ske",
+        "mus",
+        "dig",
+        "res",
+        "ner",
+        "uri",
+        "rep",
+        "teg",
+        "end",
+        "sen"
+      ]
+    },
+    "layer": {
+      "type": "string"
+    },
+    "nombre": {
+      "type": "string"
+    },
+    "lateralidad": {
+      "type": "string",
+      "enum": [
+        "izquierda",
+        "derecha",
+        "bilateral",
+        "mediana",
+        "no_aplica"
+      ]
+    },
+    "ficha": {
+      "type": "object",
+      "description": "Ficha anatómica con los 12 apartados oficiales del proyecto."
+    },
+    "trazabilidad_ids": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "revision": {
+      "type": "object"
+    }
+  },
+  "additionalProperties": true
+}
