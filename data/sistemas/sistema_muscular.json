@@ -4,8 +4,4317 @@
     "codigo": "mus",
     "nombre": "Sistema muscular"
   },
-  "estado": "plantilla_pendiente_de_migracion",
-  "fuente": null,
-  "estructuras": [],
-  "verificaciones": []
+  "estado": "migrado_pendiente_de_auditoria",
+  "fuente": {
+    "repositorio": "ronaldpsantonio-creator/ProClaVet-preview",
+    "archivo": "data/equino.json",
+    "blob_sha": "63516b9713f2beb4ad5011441b90172b981c4d8e",
+    "criterio_extraccion": {
+      "sys": "mus"
+    },
+    "distribucion_por_capa": {
+      "msu": 133,
+      "mpr": 393,
+      "fas": 44
+    },
+    "fecha_extraccion": "2026-11-21"
+  },
+  "estructuras": [
+    {
+      "id": "equ.mus.cab.001-i",
+      "es": "Cutáneo de la cara (izquierdo)",
+      "la": "Musculus cutaneus faciei",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cab.001-d",
+      "es": "Cutáneo de la cara (derecho)",
+      "la": "Musculus cutaneus faciei",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cab.002-i",
+      "es": "Orbicular del ojo (izquierdo)",
+      "la": "Musculus orbicularis oculi",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cab.002-d",
+      "es": "Orbicular del ojo (derecho)",
+      "la": "Musculus orbicularis oculi",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cab.003-i",
+      "es": "Elevador del párpado superior (izquierdo)",
+      "la": "Musculus levator palpebrae superioris",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cab.003-d",
+      "es": "Elevador del párpado superior (derecho)",
+      "la": "Musculus levator palpebrae superioris",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cab.004-i",
+      "es": "Recto dorsal del bulbo (izquierdo)",
+      "la": "Musculus rectus bulbi dorsalis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cab.004-d",
+      "es": "Recto dorsal del bulbo (derecho)",
+      "la": "Musculus rectus bulbi dorsalis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cab.005-i",
+      "es": "Recto ventral del bulbo (izquierdo)",
+      "la": "Musculus rectus bulbi ventralis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cab.005-d",
+      "es": "Recto ventral del bulbo (derecho)",
+      "la": "Musculus rectus bulbi ventralis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cab.006-i",
+      "es": "Recto medial del bulbo (izquierdo)",
+      "la": "Musculus rectus bulbi medialis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cab.006-d",
+      "es": "Recto medial del bulbo (derecho)",
+      "la": "Musculus rectus bulbi medialis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cab.007-i",
+      "es": "Recto lateral del bulbo (izquierdo)",
+      "la": "Musculus rectus bulbi lateralis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cab.007-d",
+      "es": "Recto lateral del bulbo (derecho)",
+      "la": "Musculus rectus bulbi lateralis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cab.008-i",
+      "es": "Oblicuo dorsal del bulbo (izquierdo)",
+      "la": "Musculus obliquus bulbi dorsalis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cab.008-d",
+      "es": "Oblicuo dorsal del bulbo (derecho)",
+      "la": "Musculus obliquus bulbi dorsalis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cab.009-i",
+      "es": "Oblicuo ventral del bulbo (izquierdo)",
+      "la": "Musculus obliquus bulbi ventralis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cab.009-d",
+      "es": "Oblicuo ventral del bulbo (derecho)",
+      "la": "Musculus obliquus bulbi ventralis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cab.010-i",
+      "es": "Retractor del bulbo (izquierdo)",
+      "la": "Musculus retractor bulbi",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cab.010-d",
+      "es": "Retractor del bulbo (derecho)",
+      "la": "Musculus retractor bulbi",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cab.011-i",
+      "es": "Elevador nasolabial (izquierdo)",
+      "la": "Musculus levator nasolabialis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cab.011-d",
+      "es": "Elevador nasolabial (derecho)",
+      "la": "Musculus levator nasolabialis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cab.012-i",
+      "es": "Elevador del labio superior (izquierdo)",
+      "la": "Musculus levator labii superioris",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cab.012-d",
+      "es": "Elevador del labio superior (derecho)",
+      "la": "Musculus levator labii superioris",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cab.013-i",
+      "es": "Orbicular de la boca (izquierdo)",
+      "la": "Musculus orbicularis oris",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cab.013-d",
+      "es": "Orbicular de la boca (derecho)",
+      "la": "Musculus orbicularis oris",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cab.014-i",
+      "es": "Buccinador (izquierdo)",
+      "la": "Musculus buccinator",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cab.014-d",
+      "es": "Buccinador (derecho)",
+      "la": "Musculus buccinator",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cab.015-i",
+      "es": "Músculo cigomático (izquierdo)",
+      "la": "Musculus zygomaticus",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cab.015-d",
+      "es": "Músculo cigomático (derecho)",
+      "la": "Musculus zygomaticus",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cab.016-i",
+      "es": "Depresor del labio inferior (izquierdo)",
+      "la": "Musculus depressor labii inferioris",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cab.016-d",
+      "es": "Depresor del labio inferior (derecho)",
+      "la": "Musculus depressor labii inferioris",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cab.017-i",
+      "es": "Mentoniano (izquierdo)",
+      "la": "Musculus mentalis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cab.017-d",
+      "es": "Mentoniano (derecho)",
+      "la": "Musculus mentalis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cab.018-i",
+      "es": "Masetero (izquierdo)",
+      "la": "Musculus masseter",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cab.018-d",
+      "es": "Masetero (derecho)",
+      "la": "Musculus masseter",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cab.019-i",
+      "es": "Músculo temporal (izquierdo)",
+      "la": "Musculus temporalis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cab.019-d",
+      "es": "Músculo temporal (derecho)",
+      "la": "Musculus temporalis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cab.020-i",
+      "es": "Pterigoideo medial (izquierdo)",
+      "la": "Musculus pterygoideus medialis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cab.020-d",
+      "es": "Pterigoideo medial (derecho)",
+      "la": "Musculus pterygoideus medialis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cab.021-i",
+      "es": "Pterigoideo lateral (izquierdo)",
+      "la": "Musculus pterygoideus lateralis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cab.021-d",
+      "es": "Pterigoideo lateral (derecho)",
+      "la": "Musculus pterygoideus lateralis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cab.022-i",
+      "es": "Digástrico (izquierdo)",
+      "la": "Musculus digastricus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cab.022-d",
+      "es": "Digástrico (derecho)",
+      "la": "Musculus digastricus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cab.023-i",
+      "es": "Milohioideo (izquierdo)",
+      "la": "Musculus mylohyoideus",
+      "sys": "mus",
+      "layer": "mpr",
+      "ficha": {
+        "ubicacion": "En el piso de la cavidad oral, en el lado izquierdo del espacio intermandibular. Se extiende desde la cara lingual de la mandíbula hacia el plano medio y el basihioides.",
+        "descripcion": "Músculo plano y delgado del grupo suprahioideo. Las fibras de ambos lados se aproximan y se relacionan en el rafe medio, formando gran parte del soporte muscular del piso de la boca.",
+        "relaciones": "Se relaciona lateralmente con la cara medial de la mandíbula; medialmente con el contenido del piso de la boca y la lengua; y con el músculo milohioideo contralateral en el rafe medio. Se encuentra próximo a la glándula sublingual y a estructuras vasculonerviosas de la región.",
+        "accidentes": "Línea milohioidea de la cara lingual de la mandíbula; rafe milohioideo medio; cuerpo del basihioides y proceso lingual del basihioides como referencias de fijación.",
+        "articulaciones": "No forma una articulación. Cruza funcionalmente el espacio intermandibular y actúa sobre el piso de la boca y el aparato hioideo.",
+        "inserciones": "Origen: línea milohioidea de la cara lingual de la mandíbula. Inserción: rafe medio y basihioides, incluida la región del proceso lingual, según la descripción topográfica del atlas equino.",
+        "irrigacion": "La irrigación arterial específica del músculo no queda detallada de forma suficiente en la fuente equina consultada; recibe aporte de vasos de la región intermandibular y sublingual. No se asigna una arteria única.",
+        "inervacion": "Nervio milohioideo, rama del nervio alveolar inferior del nervio mandibular (V3), división mandibular del trigémino.",
+        "funcion": "Eleva y tensa el piso de la boca; contribuye a elevar el aparato hioideo y comprime la lengua contra el paladar, colaborando en la formación y propulsión del bolo durante la masticación y la deglución.",
+        "especie": "En el caballo, el músculo ocupa el espacio intermandibular y se describe con fijación en la línea milohioidea mandibular, el basihioides/proceso lingual y el rafe medio. Es bilateral y sus mitades se encuentran en la línea media.",
+        "clinica": "Su integridad contribuye al soporte del piso oral y a la mecánica de la deglución. Su ubicación es importante al evaluar lesiones, abordajes y masas del espacio intermandibular.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Secciones de músculos del espacio intermandibular y aparato hioideo.\nSisson S. A Text-book of Veterinary Anatomy. Sección de músculos hioideos equinos (referencia histórica complementaria): https://www.gutenberg.org/files/75996/75996-h/75996-h.htm"
+      }
+    },
+    {
+      "id": "equ.mus.cab.023-d",
+      "es": "Milohioideo (derecho)",
+      "la": "Musculus mylohyoideus",
+      "sys": "mus",
+      "layer": "mpr",
+      "ficha": {
+        "ubicacion": "En el piso de la cavidad oral, en el lado derecho del espacio intermandibular. Se extiende desde la cara lingual de la mandíbula hacia el plano medio y el basihioides.",
+        "descripcion": "Músculo plano y delgado del grupo suprahioideo. Las fibras de ambos lados se aproximan y se relacionan en el rafe medio, formando gran parte del soporte muscular del piso de la boca.",
+        "relaciones": "Se relaciona lateralmente con la cara medial de la mandíbula; medialmente con el contenido del piso de la boca y la lengua; y con el músculo milohioideo contralateral en el rafe medio. Se encuentra próximo a la glándula sublingual y a estructuras vasculonerviosas de la región.",
+        "accidentes": "Línea milohioidea de la cara lingual de la mandíbula; rafe milohioideo medio; cuerpo del basihioides y proceso lingual del basihioides como referencias de fijación.",
+        "articulaciones": "No forma una articulación. Cruza funcionalmente el espacio intermandibular y actúa sobre el piso de la boca y el aparato hioideo.",
+        "inserciones": "Origen: línea milohioidea de la cara lingual de la mandíbula. Inserción: rafe medio y basihioides, incluida la región del proceso lingual, según la descripción topográfica del atlas equino.",
+        "irrigacion": "La irrigación arterial específica del músculo no queda detallada de forma suficiente en la fuente equina consultada; recibe aporte de vasos de la región intermandibular y sublingual. No se asigna una arteria única.",
+        "inervacion": "Nervio milohioideo, rama del nervio alveolar inferior del nervio mandibular (V3), división mandibular del trigémino.",
+        "funcion": "Eleva y tensa el piso de la boca; contribuye a elevar el aparato hioideo y comprime la lengua contra el paladar, colaborando en la formación y propulsión del bolo durante la masticación y la deglución.",
+        "especie": "En el caballo, el músculo ocupa el espacio intermandibular y se describe con fijación en la línea milohioidea mandibular, el basihioides/proceso lingual y el rafe medio. Es bilateral y sus mitades se encuentran en la línea media.",
+        "clinica": "Su integridad contribuye al soporte del piso oral y a la mecánica de la deglución. Su ubicación es importante al evaluar lesiones, abordajes y masas del espacio intermandibular.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Secciones de músculos del espacio intermandibular y aparato hioideo.\nSisson S. A Text-book of Veterinary Anatomy. Sección de músculos hioideos equinos (referencia histórica complementaria): https://www.gutenberg.org/files/75996/75996-h/75996-h.htm"
+      }
+    },
+    {
+      "id": "equ.mus.cab.024-i",
+      "es": "Geniohioideo (izquierdo)",
+      "la": "Musculus geniohyoideus",
+      "sys": "mus",
+      "layer": "mpr",
+      "ficha": {
+        "ubicacion": "En la porción rostral del piso de la boca, profundo al milohioideo, en el lado izquierdo de la línea media. Se extiende desde la región incisiva de la mandíbula hacia el proceso lingual del basihioides.",
+        "descripcion": "Músculo suprahioideo alargado y relativamente estrecho, dispuesto longitudinalmente entre la mandíbula rostral y el aparato hioideo. Sus fibras se sitúan junto a las del músculo contralateral.",
+        "relaciones": "Se relaciona ventralmente con el milohioideo y dorsalmente con la lengua y el tejido del piso oral. Se encuentra próximo al geniogloso y al músculo geniohioideo del lado opuesto.",
+        "accidentes": "Región incisiva y superficie genial de la mandíbula; proceso lingual del basihioides, que constituye su referencia de inserción.",
+        "articulaciones": "No forma una articulación. Cruza funcionalmente la región rostral del piso oral y transmite tracción desde la mandíbula al aparato hioideo.",
+        "inserciones": "Origen: porción incisiva de la mandíbula, en la región de la superficie genial. Inserción: proceso lingual del basihioides.",
+        "irrigacion": "La irrigación arterial específica del músculo no se detalla de forma independiente en la fuente equina consultada. Recibe aporte de la vascularización regional del piso de la boca; no se asigna una arteria exclusiva.",
+        "inervacion": "Nervio hipogloso (XII), según la descripción de la musculatura del aparato hioideo equino.",
+        "funcion": "Desplaza rostralmente el aparato hioideo y la lengua. Contribuye a los movimientos coordinados de la lengua y del piso de la boca durante la prensión, manipulación del alimento y deglución.",
+        "especie": "En el caballo, el origen se sitúa en la porción incisiva mandibular y la inserción en el proceso lingual del basihioides. Es un músculo par, con disposición longitudinal en la región ventral de la lengua.",
+        "clinica": "Participa en la movilidad rostral del aparato hioideo y de la lengua; su función debe considerarse en la evaluación de alteraciones de movilidad lingual y deglución.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Secciones de músculos del espacio intermandibular y aparato hioideo."
+      }
+    },
+    {
+      "id": "equ.mus.cab.024-d",
+      "es": "Geniohioideo (derecho)",
+      "la": "Musculus geniohyoideus",
+      "sys": "mus",
+      "layer": "mpr",
+      "ficha": {
+        "ubicacion": "En la porción rostral del piso de la boca, profundo al milohioideo, en el lado derecho de la línea media. Se extiende desde la región incisiva de la mandíbula hacia el proceso lingual del basihioides.",
+        "descripcion": "Músculo suprahioideo alargado y relativamente estrecho, dispuesto longitudinalmente entre la mandíbula rostral y el aparato hioideo. Sus fibras se sitúan junto a las del músculo contralateral.",
+        "relaciones": "Se relaciona ventralmente con el milohioideo y dorsalmente con la lengua y el tejido del piso oral. Se encuentra próximo al geniogloso y al músculo geniohioideo del lado opuesto.",
+        "accidentes": "Región incisiva y superficie genial de la mandíbula; proceso lingual del basihioides, que constituye su referencia de inserción.",
+        "articulaciones": "No forma una articulación. Cruza funcionalmente la región rostral del piso oral y transmite tracción desde la mandíbula al aparato hioideo.",
+        "inserciones": "Origen: porción incisiva de la mandíbula, en la región de la superficie genial. Inserción: proceso lingual del basihioides.",
+        "irrigacion": "La irrigación arterial específica del músculo no se detalla de forma independiente en la fuente equina consultada. Recibe aporte de la vascularización regional del piso de la boca; no se asigna una arteria exclusiva.",
+        "inervacion": "Nervio hipogloso (XII), según la descripción de la musculatura del aparato hioideo equino.",
+        "funcion": "Desplaza rostralmente el aparato hioideo y la lengua. Contribuye a los movimientos coordinados de la lengua y del piso de la boca durante la prensión, manipulación del alimento y deglución.",
+        "especie": "En el caballo, el origen se sitúa en la porción incisiva mandibular y la inserción en el proceso lingual del basihioides. Es un músculo par, con disposición longitudinal en la región ventral de la lengua.",
+        "clinica": "Participa en la movilidad rostral del aparato hioideo y de la lengua; su función debe considerarse en la evaluación de alteraciones de movilidad lingual y deglución.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Secciones de músculos del espacio intermandibular y aparato hioideo."
+      }
+    },
+    {
+      "id": "equ.mus.cab.025-i",
+      "es": "Estilohioideo (izquierdo)",
+      "la": "Musculus stylohyoideus",
+      "sys": "mus",
+      "layer": "mpr",
+      "ficha": {
+        "ubicacion": "En la región profunda y lateral del aparato hioideo, a cada lado de la faringe, en el lado izquierdo.",
+        "descripcion": "Músculo pequeño y alargado asociado al aparato hioideo. En el caballo, su tendón de inserción presenta una división por la que pasa el tendón intermedio del músculo digástrico.",
+        "relaciones": "Se relaciona con el hueso estilohioides, la región del tirohioides y el músculo digástrico; su tendón mantiene una relación característica con el tendón intermedio de este último.",
+        "accidentes": "Extremo caudodorsal del estilohioides y región del tirohioides como referencias de fijación descritas en la anatomía equina clásica.",
+        "articulaciones": "No forma una articulación. Actúa sobre los elementos del aparato hioideo, la lengua o la laringe, según su trayecto.",
+        "inserciones": "Origen: extremo caudodorsal del estilohioides. Inserción: tirohioides, según la descripción equina de Budras et al.",
+        "irrigacion": "La irrigación arterial individual del músculo no está descrita de manera suficientemente específica y consistente en las fuentes equinas consultadas. Recibe aporte de la vascularización regional; no se asigna una arteria exclusiva sin respaldo.",
+        "inervacion": "Rama del nervio facial (VII).",
+        "funcion": "Tracciona el aparato hioideo y la laringe en dirección dorsocaudal, contribuyendo a ajustar su posición durante la deglución.",
+        "especie": "En el caballo, el tendón de inserción está escotado o dividido para permitir el paso del tendón intermedio del digástrico, rasgo anatómico útil para reconocerlo en disección.",
+        "clinica": "La relación de su tendón con el digástrico es importante en la identificación anatómica y en abordajes de la región parotídea y del aparato hioideo.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Tabla de músculos del aparato hioideo y músculos ventrales del cuello. https://equinetherapies.net.au/wp-content/uploads/2020/12/Anatomy-of-the-Horse-6th-Edition.pdf\nIMAIOS. Stylohyoid muscle – Horse. https://www.imaios.com/en/vet-anatomy/anatomical-structures/stylohyoid-muscle-11077964160"
+      }
+    },
+    {
+      "id": "equ.mus.cab.025-d",
+      "es": "Estilohioideo (derecho)",
+      "la": "Musculus stylohyoideus",
+      "sys": "mus",
+      "layer": "mpr",
+      "ficha": {
+        "ubicacion": "En la región profunda y lateral del aparato hioideo, a cada lado de la faringe, en el lado derecho.",
+        "descripcion": "Músculo pequeño y alargado asociado al aparato hioideo. En el caballo, su tendón de inserción presenta una división por la que pasa el tendón intermedio del músculo digástrico.",
+        "relaciones": "Se relaciona con el hueso estilohioides, la región del tirohioides y el músculo digástrico; su tendón mantiene una relación característica con el tendón intermedio de este último.",
+        "accidentes": "Extremo caudodorsal del estilohioides y región del tirohioides como referencias de fijación descritas en la anatomía equina clásica.",
+        "articulaciones": "No forma una articulación. Actúa sobre los elementos del aparato hioideo, la lengua o la laringe, según su trayecto.",
+        "inserciones": "Origen: extremo caudodorsal del estilohioides. Inserción: tirohioides, según la descripción equina de Budras et al.",
+        "irrigacion": "La irrigación arterial individual del músculo no está descrita de manera suficientemente específica y consistente en las fuentes equinas consultadas. Recibe aporte de la vascularización regional; no se asigna una arteria exclusiva sin respaldo.",
+        "inervacion": "Rama del nervio facial (VII).",
+        "funcion": "Tracciona el aparato hioideo y la laringe en dirección dorsocaudal, contribuyendo a ajustar su posición durante la deglución.",
+        "especie": "En el caballo, el tendón de inserción está escotado o dividido para permitir el paso del tendón intermedio del digástrico, rasgo anatómico útil para reconocerlo en disección.",
+        "clinica": "La relación de su tendón con el digástrico es importante en la identificación anatómica y en abordajes de la región parotídea y del aparato hioideo.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Tabla de músculos del aparato hioideo y músculos ventrales del cuello. https://equinetherapies.net.au/wp-content/uploads/2020/12/Anatomy-of-the-Horse-6th-Edition.pdf\nIMAIOS. Stylohyoid muscle – Horse. https://www.imaios.com/en/vet-anatomy/anatomical-structures/stylohyoid-muscle-11077964160"
+      }
+    },
+    {
+      "id": "equ.mus.cue.001-i",
+      "es": "Cutáneo del cuello (izquierdo)",
+      "la": "Musculus cutaneus colli",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cue.001-d",
+      "es": "Cutáneo del cuello (derecho)",
+      "la": "Musculus cutaneus colli",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cue.002-i",
+      "es": "Braquiocefálico (izquierdo)",
+      "la": "Musculus brachiocephalicus",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cue.002-d",
+      "es": "Braquiocefálico (derecho)",
+      "la": "Musculus brachiocephalicus",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cue.003-i",
+      "es": "Esternocefálico (izquierdo)",
+      "la": "Musculus sternocephalicus",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cue.003-d",
+      "es": "Esternocefálico (derecho)",
+      "la": "Musculus sternocephalicus",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cue.004-i",
+      "es": "Omohioideo (izquierdo)",
+      "la": "Musculus omohyoideus",
+      "sys": "mus",
+      "layer": "mpr",
+      "ficha": {
+        "ubicacion": "En la región ventrolateral del cuello, desde la fascia subescapular hacia el aparato hioideo, en el lado izquierdo.",
+        "descripcion": "Músculo delgado, aplanado y oblicuo que conecta la región escapular con el aparato hioideo. En el caballo contribuye a formar el límite profundo o medial del surco yugular.",
+        "relaciones": "Se sitúa profundo a la vena yugular externa en parte de su trayecto y se relaciona con el esternohioideo y con la fascia cervical; ayuda a separar la vena yugular de estructuras profundas del cuello.",
+        "accidentes": "Fascia subescapular próxima a la articulación del hombro y margen lateral del esternohioideo junto a la región basihioidea.",
+        "articulaciones": "No forma una articulación. Actúa sobre los elementos del aparato hioideo, la lengua o la laringe, según su trayecto.",
+        "inserciones": "Origen: fascia subescapular, cerca de la articulación del hombro. Inserción: margen lateral del esternohioideo, próximo a su fijación en el basihioides.",
+        "irrigacion": "La irrigación arterial individual del músculo no está descrita de manera suficientemente específica y consistente en las fuentes equinas consultadas. Recibe aporte de la vascularización regional; no se asigna una arteria exclusiva sin respaldo.",
+        "inervacion": "Ramos ventrales del primer nervio cervical (C1), según la descripción equina clásica.",
+        "funcion": "Actúa como sinergista del esternohioideo y contribuye a retraer o descender el aparato hioideo. También forma parte del plano profundo del surco yugular.",
+        "especie": "En el caballo es un músculo bien desarrollado en comparación con varias otras especies domésticas; forma parte del límite profundo del surco yugular y se extiende desde la fascia subescapular.",
+        "clinica": "Su relación con la vena yugular externa y el paquete carotídeo es relevante para comprender la anatomía del surco yugular y los planos de venopunción.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Tabla de músculos del aparato hioideo y músculos ventrales del cuello. https://equinetherapies.net.au/wp-content/uploads/2020/12/Anatomy-of-the-Horse-6th-Edition.pdf\nUniversity of Minnesota. Ungulate Anatomy Lab Guide, Part 1: Neck. https://pressbooks.umn.edu/ungulateanatomylabguide/chapter/part-1-neck/"
+      }
+    },
+    {
+      "id": "equ.mus.cue.004-d",
+      "es": "Omohioideo (derecho)",
+      "la": "Musculus omohyoideus",
+      "sys": "mus",
+      "layer": "mpr",
+      "ficha": {
+        "ubicacion": "En la región ventrolateral del cuello, desde la fascia subescapular hacia el aparato hioideo, en el lado derecho.",
+        "descripcion": "Músculo delgado, aplanado y oblicuo que conecta la región escapular con el aparato hioideo. En el caballo contribuye a formar el límite profundo o medial del surco yugular.",
+        "relaciones": "Se sitúa profundo a la vena yugular externa en parte de su trayecto y se relaciona con el esternohioideo y con la fascia cervical; ayuda a separar la vena yugular de estructuras profundas del cuello.",
+        "accidentes": "Fascia subescapular próxima a la articulación del hombro y margen lateral del esternohioideo junto a la región basihioidea.",
+        "articulaciones": "No forma una articulación. Actúa sobre los elementos del aparato hioideo, la lengua o la laringe, según su trayecto.",
+        "inserciones": "Origen: fascia subescapular, cerca de la articulación del hombro. Inserción: margen lateral del esternohioideo, próximo a su fijación en el basihioides.",
+        "irrigacion": "La irrigación arterial individual del músculo no está descrita de manera suficientemente específica y consistente en las fuentes equinas consultadas. Recibe aporte de la vascularización regional; no se asigna una arteria exclusiva sin respaldo.",
+        "inervacion": "Ramos ventrales del primer nervio cervical (C1), según la descripción equina clásica.",
+        "funcion": "Actúa como sinergista del esternohioideo y contribuye a retraer o descender el aparato hioideo. También forma parte del plano profundo del surco yugular.",
+        "especie": "En el caballo es un músculo bien desarrollado en comparación con varias otras especies domésticas; forma parte del límite profundo del surco yugular y se extiende desde la fascia subescapular.",
+        "clinica": "Su relación con la vena yugular externa y el paquete carotídeo es relevante para comprender la anatomía del surco yugular y los planos de venopunción.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Tabla de músculos del aparato hioideo y músculos ventrales del cuello. https://equinetherapies.net.au/wp-content/uploads/2020/12/Anatomy-of-the-Horse-6th-Edition.pdf\nUniversity of Minnesota. Ungulate Anatomy Lab Guide, Part 1: Neck. https://pressbooks.umn.edu/ungulateanatomylabguide/chapter/part-1-neck/"
+      }
+    },
+    {
+      "id": "equ.mus.cue.005-i",
+      "es": "Esternohioideo (izquierdo)",
+      "la": "Musculus sternohyoideus",
+      "sys": "mus",
+      "layer": "mpr",
+      "ficha": {
+        "ubicacion": "En la línea ventral del cuello, profundo a la fascia superficial y a la tráquea, a un lado de la línea media (izquierdo).",
+        "descripcion": "Músculo largo, delgado y en forma de banda, perteneciente al grupo infrahioideo. Sus porciones derecha e izquierda pueden estar poco separadas caudalmente y se continúan desde un origen esternal común o muy próximo.",
+        "relaciones": "Se relaciona con el esternotiroideo, la tráquea y la fascia cervical ventral. En el cuello medio puede compartir una intersección tendinosa con el esternotiroideo y otros fascículos.",
+        "accidentes": "Manubrio del esternón como origen; proceso lingual y cuerpo del basihioides como región de inserción.",
+        "articulaciones": "No forma una articulación. Actúa sobre los elementos del aparato hioideo, la lengua o la laringe, según su trayecto.",
+        "inserciones": "Origen: manubrio del esternón, en continuidad o proximidad con el origen del esternotiroideo. Inserción: basihioides, especialmente la región del proceso lingual.",
+        "irrigacion": "La irrigación arterial individual del músculo no está descrita de manera suficientemente específica y consistente en las fuentes equinas consultadas. Recibe aporte de la vascularización regional; no se asigna una arteria exclusiva sin respaldo.",
+        "inervacion": "Ramos ventrales de C1; la descripción de la musculatura infrahioidea equina incluye aporte cervical, con variaciones segmentarias descritas en textos.",
+        "funcion": "Retrae y desciende el basihioides y la raíz de la lengua; contribuye a desplazar caudalmente el aparato hioideo durante la deglución.",
+        "especie": "En el caballo es una banda ventral del cuello que puede unirse caudalmente con el esternotiroideo y separarse cranealmente para alcanzar el basihioides.",
+        "clinica": "Es una referencia anatómica de la región ventral del cuello y participa en el desplazamiento caudal del aparato hioideo. Se debe distinguir del esternotiroideo, que termina en el cartílago tiroides.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Tabla de músculos del aparato hioideo y músculos ventrales del cuello. https://equinetherapies.net.au/wp-content/uploads/2020/12/Anatomy-of-the-Horse-6th-Edition.pdf\nTextbook of Veterinary Anatomy. Elsevier. Sección de músculos infrahioideos y aparato hioideo equino. https://elsevier-elibrary.com/contents/fullcontent/58986/epubcontent_v2/OEBPS/B9781416066071000025.htm"
+      }
+    },
+    {
+      "id": "equ.mus.cue.005-d",
+      "es": "Esternohioideo (derecho)",
+      "la": "Musculus sternohyoideus",
+      "sys": "mus",
+      "layer": "mpr",
+      "ficha": {
+        "ubicacion": "En la línea ventral del cuello, profundo a la fascia superficial y a la tráquea, a un lado de la línea media (derecho).",
+        "descripcion": "Músculo largo, delgado y en forma de banda, perteneciente al grupo infrahioideo. Sus porciones derecha e izquierda pueden estar poco separadas caudalmente y se continúan desde un origen esternal común o muy próximo.",
+        "relaciones": "Se relaciona con el esternotiroideo, la tráquea y la fascia cervical ventral. En el cuello medio puede compartir una intersección tendinosa con el esternotiroideo y otros fascículos.",
+        "accidentes": "Manubrio del esternón como origen; proceso lingual y cuerpo del basihioides como región de inserción.",
+        "articulaciones": "No forma una articulación. Actúa sobre los elementos del aparato hioideo, la lengua o la laringe, según su trayecto.",
+        "inserciones": "Origen: manubrio del esternón, en continuidad o proximidad con el origen del esternotiroideo. Inserción: basihioides, especialmente la región del proceso lingual.",
+        "irrigacion": "La irrigación arterial individual del músculo no está descrita de manera suficientemente específica y consistente en las fuentes equinas consultadas. Recibe aporte de la vascularización regional; no se asigna una arteria exclusiva sin respaldo.",
+        "inervacion": "Ramos ventrales de C1; la descripción de la musculatura infrahioidea equina incluye aporte cervical, con variaciones segmentarias descritas en textos.",
+        "funcion": "Retrae y desciende el basihioides y la raíz de la lengua; contribuye a desplazar caudalmente el aparato hioideo durante la deglución.",
+        "especie": "En el caballo es una banda ventral del cuello que puede unirse caudalmente con el esternotiroideo y separarse cranealmente para alcanzar el basihioides.",
+        "clinica": "Es una referencia anatómica de la región ventral del cuello y participa en el desplazamiento caudal del aparato hioideo. Se debe distinguir del esternotiroideo, que termina en el cartílago tiroides.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Tabla de músculos del aparato hioideo y músculos ventrales del cuello. https://equinetherapies.net.au/wp-content/uploads/2020/12/Anatomy-of-the-Horse-6th-Edition.pdf\nTextbook of Veterinary Anatomy. Elsevier. Sección de músculos infrahioideos y aparato hioideo equino. https://elsevier-elibrary.com/contents/fullcontent/58986/epubcontent_v2/OEBPS/B9781416066071000025.htm"
+      }
+    },
+    {
+      "id": "equ.mus.cue.006-i",
+      "es": "Esternotiroideo (izquierdo)",
+      "la": "Musculus sternothyroideus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cue.006-d",
+      "es": "Esternotiroideo (derecho)",
+      "la": "Musculus sternothyroideus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cue.007-i",
+      "es": "Esplenio (izquierdo)",
+      "la": "Musculus splenius",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cue.007-d",
+      "es": "Esplenio (derecho)",
+      "la": "Musculus splenius",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cue.008-i",
+      "es": "Semiespinoso de la cabeza (izquierdo)",
+      "la": "Musculus semispinalis capitis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cue.008-d",
+      "es": "Semiespinoso de la cabeza (derecho)",
+      "la": "Musculus semispinalis capitis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cue.009-i",
+      "es": "Longuísimo de la cabeza (izquierdo)",
+      "la": "Musculus longissimus capitis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cue.009-d",
+      "es": "Longuísimo de la cabeza (derecho)",
+      "la": "Musculus longissimus capitis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cue.010-i",
+      "es": "Longuísimo del atlas (izquierdo)",
+      "la": "Musculus longissimus atlantis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cue.010-d",
+      "es": "Longuísimo del atlas (derecho)",
+      "la": "Musculus longissimus atlantis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cue.011-i",
+      "es": "Longuísimo del cuello (izquierdo)",
+      "la": "Musculus longissimus cervicis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cue.011-d",
+      "es": "Longuísimo del cuello (derecho)",
+      "la": "Musculus longissimus cervicis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cue.012-i",
+      "es": "Largo de la cabeza (izquierdo)",
+      "la": "Musculus longus capitis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cue.012-d",
+      "es": "Largo de la cabeza (derecho)",
+      "la": "Musculus longus capitis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cue.013-i",
+      "es": "Largo del cuello (izquierdo)",
+      "la": "Musculus longus colli",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cue.013-d",
+      "es": "Largo del cuello (derecho)",
+      "la": "Musculus longus colli",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cue.014-i",
+      "es": "Recto dorsal mayor de la cabeza (izquierdo)",
+      "la": "Musculus rectus capitis dorsalis major",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cue.014-d",
+      "es": "Recto dorsal mayor de la cabeza (derecho)",
+      "la": "Musculus rectus capitis dorsalis major",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cue.015-i",
+      "es": "Recto dorsal menor de la cabeza (izquierdo)",
+      "la": "Musculus rectus capitis dorsalis minor",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cue.015-d",
+      "es": "Recto dorsal menor de la cabeza (derecho)",
+      "la": "Musculus rectus capitis dorsalis minor",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cue.016-i",
+      "es": "Recto ventral de la cabeza (izquierdo)",
+      "la": "Musculus rectus capitis ventralis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cue.016-d",
+      "es": "Recto ventral de la cabeza (derecho)",
+      "la": "Musculus rectus capitis ventralis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cue.017-i",
+      "es": "Recto lateral de la cabeza (izquierdo)",
+      "la": "Musculus rectus capitis lateralis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cue.017-d",
+      "es": "Recto lateral de la cabeza (derecho)",
+      "la": "Musculus rectus capitis lateralis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cue.018-i",
+      "es": "Oblicuo craneal de la cabeza (izquierdo)",
+      "la": "Musculus obliquus capitis cranialis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cue.018-d",
+      "es": "Oblicuo craneal de la cabeza (derecho)",
+      "la": "Musculus obliquus capitis cranialis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cue.019-i",
+      "es": "Oblicuo caudal de la cabeza (izquierdo)",
+      "la": "Musculus obliquus capitis caudalis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cue.019-d",
+      "es": "Oblicuo caudal de la cabeza (derecho)",
+      "la": "Musculus obliquus capitis caudalis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cue.020-i",
+      "es": "Escaleno (izquierdo)",
+      "la": "Musculus scalenus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cue.020-d",
+      "es": "Escaleno (derecho)",
+      "la": "Musculus scalenus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cue.021-i",
+      "es": "Multífido del cuello (izquierdo)",
+      "la": "Musculus multifidus cervicis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cue.021-d",
+      "es": "Multífido del cuello (derecho)",
+      "la": "Musculus multifidus cervicis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.dor.001-i",
+      "es": "Iliocostal lumbar (izquierdo)",
+      "la": "Musculus iliocostalis lumborum",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.dor.001-d",
+      "es": "Iliocostal lumbar (derecho)",
+      "la": "Musculus iliocostalis lumborum",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.dor.002-i",
+      "es": "Iliocostal torácico (izquierdo)",
+      "la": "Musculus iliocostalis thoracis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.dor.002-d",
+      "es": "Iliocostal torácico (derecho)",
+      "la": "Musculus iliocostalis thoracis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.dor.003-i",
+      "es": "Longuísimo lumbar (izquierdo)",
+      "la": "Musculus longissimus lumborum",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.dor.003-d",
+      "es": "Longuísimo lumbar (derecho)",
+      "la": "Musculus longissimus lumborum",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.dor.004-i",
+      "es": "Longuísimo torácico (izquierdo)",
+      "la": "Musculus longissimus thoracis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.dor.004-d",
+      "es": "Longuísimo torácico (derecho)",
+      "la": "Musculus longissimus thoracis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.dor.006-i",
+      "es": "Multífido torácico (izquierdo)",
+      "la": "Musculus multifidus thoracis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.dor.006-d",
+      "es": "Multífido torácico (derecho)",
+      "la": "Musculus multifidus thoracis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.dor.007-i",
+      "es": "Multífido lumbar (izquierdo)",
+      "la": "Musculus multifidus lumborum",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.dor.007-d",
+      "es": "Multífido lumbar (derecho)",
+      "la": "Musculus multifidus lumborum",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.dor.008-i",
+      "es": "Rotadores (izquierdo)",
+      "la": "Musculi rotatores",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.dor.008-d",
+      "es": "Rotadores (derecho)",
+      "la": "Musculi rotatores",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.001-i",
+      "es": "Serrato dorsal craneal (izquierdo)",
+      "la": "Musculus serratus dorsalis cranialis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.tor.001-d",
+      "es": "Serrato dorsal craneal (derecho)",
+      "la": "Musculus serratus dorsalis cranialis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.tor.002-i",
+      "es": "Serrato dorsal caudal (izquierdo)",
+      "la": "Musculus serratus dorsalis caudalis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.tor.002-d",
+      "es": "Serrato dorsal caudal (derecho)",
+      "la": "Musculus serratus dorsalis caudalis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.tor.005-i",
+      "es": "Recto del tórax (izquierdo)",
+      "la": "Musculus rectus thoracis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.005-d",
+      "es": "Recto del tórax (derecho)",
+      "la": "Musculus rectus thoracis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.006-i",
+      "es": "Transverso del tórax (izquierdo)",
+      "la": "Musculus transversus thoracis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.006-d",
+      "es": "Transverso del tórax (derecho)",
+      "la": "Musculus transversus thoracis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.008-i",
+      "es": "Retractor de la costilla (izquierdo)",
+      "la": "Musculus retractor costae",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.008-d",
+      "es": "Retractor de la costilla (derecho)",
+      "la": "Musculus retractor costae",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.abd.001-i",
+      "es": "Oblicuo externo del abdomen (izquierdo)",
+      "la": "Musculus obliquus externus abdominis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.abd.001-d",
+      "es": "Oblicuo externo del abdomen (derecho)",
+      "la": "Musculus obliquus externus abdominis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.abd.002-i",
+      "es": "Oblicuo interno del abdomen (izquierdo)",
+      "la": "Musculus obliquus internus abdominis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.abd.002-d",
+      "es": "Oblicuo interno del abdomen (derecho)",
+      "la": "Musculus obliquus internus abdominis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.abd.003-i",
+      "es": "Transverso del abdomen (izquierdo)",
+      "la": "Musculus transversus abdominis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.abd.003-d",
+      "es": "Transverso del abdomen (derecho)",
+      "la": "Musculus transversus abdominis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.abd.004-i",
+      "es": "Recto del abdomen (izquierdo)",
+      "la": "Musculus rectus abdominis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.abd.004-d",
+      "es": "Recto del abdomen (derecho)",
+      "la": "Musculus rectus abdominis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.abd.005-i",
+      "es": "Cutáneo del tronco (izquierdo)",
+      "la": "Musculus cutaneus trunci",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.abd.005-d",
+      "es": "Cutáneo del tronco (derecho)",
+      "la": "Musculus cutaneus trunci",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.abd.006-i",
+      "es": "Túnica flava del abdomen (izquierdo)",
+      "la": "Tunica flava abdominis",
+      "sys": "mus",
+      "layer": "fas"
+    },
+    {
+      "id": "equ.mus.abd.006-d",
+      "es": "Túnica flava del abdomen (derecho)",
+      "la": "Tunica flava abdominis",
+      "sys": "mus",
+      "layer": "fas"
+    },
+    {
+      "id": "equ.mus.sub.001-i",
+      "es": "Psoas mayor (izquierdo)",
+      "la": "Musculus psoas major",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.sub.001-d",
+      "es": "Psoas mayor (derecho)",
+      "la": "Musculus psoas major",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.sub.002-i",
+      "es": "Psoas menor (izquierdo)",
+      "la": "Musculus psoas minor",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.sub.002-d",
+      "es": "Psoas menor (derecho)",
+      "la": "Musculus psoas minor",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.sub.003-i",
+      "es": "Ilíaco (izquierdo)",
+      "la": "Musculus iliacus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.sub.003-d",
+      "es": "Ilíaco (derecho)",
+      "la": "Musculus iliacus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.sub.004-i",
+      "es": "Cuadrado lumbar (izquierdo)",
+      "la": "Musculus quadratus lumborum",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.sub.004-d",
+      "es": "Cuadrado lumbar (derecho)",
+      "la": "Musculus quadratus lumborum",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.col.001-i",
+      "es": "Sacrococcígeo dorsal (izquierdo)",
+      "la": "Musculus sacrococcygeus dorsalis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.col.001-d",
+      "es": "Sacrococcígeo dorsal (derecho)",
+      "la": "Musculus sacrococcygeus dorsalis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.col.002-i",
+      "es": "Sacrococcígeo lateral (izquierdo)",
+      "la": "Musculus sacrococcygeus lateralis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.col.002-d",
+      "es": "Sacrococcígeo lateral (derecho)",
+      "la": "Musculus sacrococcygeus lateralis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.col.003-i",
+      "es": "Sacrococcígeo ventral (izquierdo)",
+      "la": "Musculus sacrococcygeus ventralis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.col.003-d",
+      "es": "Sacrococcígeo ventral (derecho)",
+      "la": "Musculus sacrococcygeus ventralis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.col.004-i",
+      "es": "Intertransversos de la cola (izquierdo)",
+      "la": "Musculi intertransversarii caudae",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.col.004-d",
+      "es": "Intertransversos de la cola (derecho)",
+      "la": "Musculi intertransversarii caudae",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.col.005-i",
+      "es": "Coccígeo (izquierdo)",
+      "la": "Musculus coccygeus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.col.005-d",
+      "es": "Coccígeo (derecho)",
+      "la": "Musculus coccygeus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.ext.001-i",
+      "es": "Trapecio cervical (izquierdo)",
+      "la": "Musculus trapezius, pars cervicalis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.ext.001-d",
+      "es": "Trapecio cervical (derecho)",
+      "la": "Musculus trapezius, pars cervicalis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.ext.002-i",
+      "es": "Trapecio torácico (izquierdo)",
+      "la": "Musculus trapezius, pars thoracica",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.ext.002-d",
+      "es": "Trapecio torácico (derecho)",
+      "la": "Musculus trapezius, pars thoracica",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.ext.003-i",
+      "es": "Romboides cervical (izquierdo)",
+      "la": "Musculus rhomboideus cervicis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.ext.003-d",
+      "es": "Romboides cervical (derecho)",
+      "la": "Musculus rhomboideus cervicis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.ext.004-i",
+      "es": "Romboides torácico (izquierdo)",
+      "la": "Musculus rhomboideus thoracis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.ext.004-d",
+      "es": "Romboides torácico (derecho)",
+      "la": "Musculus rhomboideus thoracis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.ext.005-i",
+      "es": "Dorsal ancho (izquierdo)",
+      "la": "Musculus latissimus dorsi",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.ext.005-d",
+      "es": "Dorsal ancho (derecho)",
+      "la": "Musculus latissimus dorsi",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.ext.006-i",
+      "es": "Omotransverso (izquierdo)",
+      "la": "Musculus omotransversarius",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.ext.006-d",
+      "es": "Omotransverso (derecho)",
+      "la": "Musculus omotransversarius",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.ext.007-i",
+      "es": "Serrato ventral cervical (izquierdo)",
+      "la": "Musculus serratus ventralis cervicis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.ext.007-d",
+      "es": "Serrato ventral cervical (derecho)",
+      "la": "Musculus serratus ventralis cervicis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.ext.008-i",
+      "es": "Serrato ventral torácico (izquierdo)",
+      "la": "Musculus serratus ventralis thoracis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.ext.008-d",
+      "es": "Serrato ventral torácico (derecho)",
+      "la": "Musculus serratus ventralis thoracis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.ext.009-i",
+      "es": "Pectoral descendente (izquierdo)",
+      "la": "Musculus pectoralis descendens",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.ext.009-d",
+      "es": "Pectoral descendente (derecho)",
+      "la": "Musculus pectoralis descendens",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.ext.010-i",
+      "es": "Pectoral transverso (izquierdo)",
+      "la": "Musculus pectoralis transversus",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.ext.010-d",
+      "es": "Pectoral transverso (derecho)",
+      "la": "Musculus pectoralis transversus",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.ext.011-i",
+      "es": "Pectoral profundo (ascendente) (izquierdo)",
+      "la": "Musculus pectoralis profundus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.ext.011-d",
+      "es": "Pectoral profundo (ascendente) (derecho)",
+      "la": "Musculus pectoralis profundus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.ext.012-i",
+      "es": "Subclavio (izquierdo)",
+      "la": "Musculus subclavius",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.ext.012-d",
+      "es": "Subclavio (derecho)",
+      "la": "Musculus subclavius",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.hom.001-i",
+      "es": "Supraespinoso (izquierdo)",
+      "la": "Musculus supraspinatus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.hom.001-d",
+      "es": "Supraespinoso (derecho)",
+      "la": "Musculus supraspinatus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.hom.002-i",
+      "es": "Infraespinoso (izquierdo)",
+      "la": "Musculus infraspinatus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.hom.002-d",
+      "es": "Infraespinoso (derecho)",
+      "la": "Musculus infraspinatus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.hom.003-i",
+      "es": "Deltoides (izquierdo)",
+      "la": "Musculus deltoideus",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.hom.003-d",
+      "es": "Deltoides (derecho)",
+      "la": "Musculus deltoideus",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.hom.004-i",
+      "es": "Redondo menor (izquierdo)",
+      "la": "Musculus teres minor",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.hom.004-d",
+      "es": "Redondo menor (derecho)",
+      "la": "Musculus teres minor",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.hom.005-i",
+      "es": "Redondo mayor (izquierdo)",
+      "la": "Musculus teres major",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.hom.005-d",
+      "es": "Redondo mayor (derecho)",
+      "la": "Musculus teres major",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.hom.006-i",
+      "es": "Subescapular (izquierdo)",
+      "la": "Musculus subscapularis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.hom.006-d",
+      "es": "Subescapular (derecho)",
+      "la": "Musculus subscapularis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.bra.002-i",
+      "es": "Tensor de la fascia del antebrazo (izquierdo)",
+      "la": "Musculus tensor fasciae antebrachii",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.bra.002-d",
+      "es": "Tensor de la fascia del antebrazo (derecho)",
+      "la": "Musculus tensor fasciae antebrachii",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.bra.003-i",
+      "es": "Ancóneo (izquierdo)",
+      "la": "Musculus anconeus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.bra.003-d",
+      "es": "Ancóneo (derecho)",
+      "la": "Musculus anconeus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.bra.004-i",
+      "es": "Bíceps braquial (izquierdo)",
+      "la": "Musculus biceps brachii",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.bra.004-d",
+      "es": "Bíceps braquial (derecho)",
+      "la": "Musculus biceps brachii",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.bra.005-i",
+      "es": "Braquial (izquierdo)",
+      "la": "Musculus brachialis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.bra.005-d",
+      "es": "Braquial (derecho)",
+      "la": "Musculus brachialis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.bra.006-i",
+      "es": "Coracobraquial (izquierdo)",
+      "la": "Musculus coracobrachialis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.bra.006-d",
+      "es": "Coracobraquial (derecho)",
+      "la": "Musculus coracobrachialis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.ant.001-i",
+      "es": "Extensor radial del carpo (izquierdo)",
+      "la": "Musculus extensor carpi radialis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.ant.001-d",
+      "es": "Extensor radial del carpo (derecho)",
+      "la": "Musculus extensor carpi radialis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.ant.002-i",
+      "es": "Extensor digital común (izquierdo)",
+      "la": "Musculus extensor digitorum communis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.ant.002-d",
+      "es": "Extensor digital común (derecho)",
+      "la": "Musculus extensor digitorum communis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.ant.003-i",
+      "es": "Extensor digital lateral (izquierdo)",
+      "la": "Musculus extensor digitorum lateralis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.ant.003-d",
+      "es": "Extensor digital lateral (derecho)",
+      "la": "Musculus extensor digitorum lateralis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.ant.004-i",
+      "es": "Extensor ulnar del carpo (ulnaris lateralis) (izquierdo)",
+      "la": "Musculus extensor carpi ulnaris",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.ant.004-d",
+      "es": "Extensor ulnar del carpo (ulnaris lateralis) (derecho)",
+      "la": "Musculus extensor carpi ulnaris",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.ant.005-i",
+      "es": "Extensor oblicuo del carpo (izquierdo)",
+      "la": "Musculus extensor carpi obliquus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.ant.005-d",
+      "es": "Extensor oblicuo del carpo (derecho)",
+      "la": "Musculus extensor carpi obliquus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.ant.006-i",
+      "es": "Flexor radial del carpo (izquierdo)",
+      "la": "Musculus flexor carpi radialis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.ant.006-d",
+      "es": "Flexor radial del carpo (derecho)",
+      "la": "Musculus flexor carpi radialis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.ant.007-i",
+      "es": "Flexor ulnar del carpo (izquierdo)",
+      "la": "Musculus flexor carpi ulnaris",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.ant.007-d",
+      "es": "Flexor ulnar del carpo (derecho)",
+      "la": "Musculus flexor carpi ulnaris",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.ant.008-i",
+      "es": "Flexor digital superficial (izquierdo)",
+      "la": "Musculus flexor digitorum superficialis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.ant.008-d",
+      "es": "Flexor digital superficial (derecho)",
+      "la": "Musculus flexor digitorum superficialis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.tor.009",
+      "es": "Diafragma",
+      "la": "Diaphragma",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.abd.007-i",
+      "es": "Cremáster (izquierdo)",
+      "la": "Musculus cremaster",
+      "sys": "mus",
+      "layer": "mpr",
+      "sex": "m"
+    },
+    {
+      "id": "equ.mus.abd.007-d",
+      "es": "Cremáster (derecho)",
+      "la": "Musculus cremaster",
+      "sys": "mus",
+      "layer": "mpr",
+      "sex": "m"
+    },
+    {
+      "id": "equ.mus.cad.001-i",
+      "es": "Glúteo superficial (izquierdo)",
+      "la": "Musculus gluteus superficialis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cad.001-d",
+      "es": "Glúteo superficial (derecho)",
+      "la": "Musculus gluteus superficialis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cad.002-i",
+      "es": "Glúteo medio (izquierdo)",
+      "la": "Musculus gluteus medius",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cad.002-d",
+      "es": "Glúteo medio (derecho)",
+      "la": "Musculus gluteus medius",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cad.003-i",
+      "es": "Glúteo profundo (izquierdo)",
+      "la": "Musculus gluteus profundus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cad.003-d",
+      "es": "Glúteo profundo (derecho)",
+      "la": "Musculus gluteus profundus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cad.004-i",
+      "es": "Tensor de la fascia lata (izquierdo)",
+      "la": "Musculus tensor fasciae latae",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cad.004-d",
+      "es": "Tensor de la fascia lata (derecho)",
+      "la": "Musculus tensor fasciae latae",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cad.005-i",
+      "es": "Obturador interno (izquierdo)",
+      "la": "Musculus obturator internus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cad.005-d",
+      "es": "Obturador interno (derecho)",
+      "la": "Musculus obturator internus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cad.006-i",
+      "es": "Obturador externo (izquierdo)",
+      "la": "Musculus obturator externus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cad.006-d",
+      "es": "Obturador externo (derecho)",
+      "la": "Musculus obturator externus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cad.007-i",
+      "es": "Gemelos pélvicos (izquierdo)",
+      "la": "Musculi gemelli",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cad.007-d",
+      "es": "Gemelos pélvicos (derecho)",
+      "la": "Musculi gemelli",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cad.008-i",
+      "es": "Cuadrado femoral (izquierdo)",
+      "la": "Musculus quadratus femoris",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cad.008-d",
+      "es": "Cuadrado femoral (derecho)",
+      "la": "Musculus quadratus femoris",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.fem.002-i",
+      "es": "Semitendinoso (izquierdo)",
+      "la": "Musculus semitendinosus",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.fem.002-d",
+      "es": "Semitendinoso (derecho)",
+      "la": "Musculus semitendinosus",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.fem.003-i",
+      "es": "Semimembranoso (izquierdo)",
+      "la": "Musculus semimembranosus",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.fem.003-d",
+      "es": "Semimembranoso (derecho)",
+      "la": "Musculus semimembranosus",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.fem.004-i",
+      "es": "Recto femoral (izquierdo)",
+      "la": "Musculus rectus femoris",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.fem.004-d",
+      "es": "Recto femoral (derecho)",
+      "la": "Musculus rectus femoris",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.fem.005-i",
+      "es": "Vasto lateral (izquierdo)",
+      "la": "Musculus vastus lateralis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.fem.005-d",
+      "es": "Vasto lateral (derecho)",
+      "la": "Musculus vastus lateralis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.fem.006-i",
+      "es": "Vasto medial (izquierdo)",
+      "la": "Musculus vastus medialis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.fem.006-d",
+      "es": "Vasto medial (derecho)",
+      "la": "Musculus vastus medialis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.fem.007-i",
+      "es": "Vasto intermedio (izquierdo)",
+      "la": "Musculus vastus intermedius",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.fem.007-d",
+      "es": "Vasto intermedio (derecho)",
+      "la": "Musculus vastus intermedius",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.fem.008-i",
+      "es": "Sartorio (izquierdo)",
+      "la": "Musculus sartorius",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.fem.008-d",
+      "es": "Sartorio (derecho)",
+      "la": "Musculus sartorius",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.fem.009-i",
+      "es": "Grácil (izquierdo)",
+      "la": "Musculus gracilis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.fem.009-d",
+      "es": "Grácil (derecho)",
+      "la": "Musculus gracilis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.fem.010-i",
+      "es": "Pectíneo (izquierdo)",
+      "la": "Musculus pectineus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.fem.010-d",
+      "es": "Pectíneo (derecho)",
+      "la": "Musculus pectineus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.fem.011-i",
+      "es": "Aductor (izquierdo)",
+      "la": "Musculus adductor",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.fem.011-d",
+      "es": "Aductor (derecho)",
+      "la": "Musculus adductor",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.pie.001-i",
+      "es": "Gastrocnemio, cabeza lateral (izquierdo)",
+      "la": "Musculus gastrocnemius, caput laterale",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.pie.001-d",
+      "es": "Gastrocnemio, cabeza lateral (derecho)",
+      "la": "Musculus gastrocnemius, caput laterale",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.pie.002-i",
+      "es": "Gastrocnemio, cabeza medial (izquierdo)",
+      "la": "Musculus gastrocnemius, caput mediale",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.pie.002-d",
+      "es": "Gastrocnemio, cabeza medial (derecho)",
+      "la": "Musculus gastrocnemius, caput mediale",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.pie.003-i",
+      "es": "Sóleo (izquierdo)",
+      "la": "Musculus soleus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.pie.003-d",
+      "es": "Sóleo (derecho)",
+      "la": "Musculus soleus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.pie.004-i",
+      "es": "Flexor digital superficial del miembro pélvico (izquierdo)",
+      "la": "Musculus flexor digitorum superficialis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.pie.004-d",
+      "es": "Flexor digital superficial del miembro pélvico (derecho)",
+      "la": "Musculus flexor digitorum superficialis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.pie.005-i",
+      "es": "Flexor digital lateral (izquierdo)",
+      "la": "Musculus flexor digitorum lateralis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.pie.005-d",
+      "es": "Flexor digital lateral (derecho)",
+      "la": "Musculus flexor digitorum lateralis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.pie.006-i",
+      "es": "Tibial caudal (izquierdo)",
+      "la": "Musculus tibialis caudalis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.pie.006-d",
+      "es": "Tibial caudal (derecho)",
+      "la": "Musculus tibialis caudalis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.pie.007-i",
+      "es": "Poplíteo (izquierdo)",
+      "la": "Musculus popliteus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.pie.007-d",
+      "es": "Poplíteo (derecho)",
+      "la": "Musculus popliteus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.pie.008-i",
+      "es": "Tibial craneal (izquierdo)",
+      "la": "Musculus tibialis cranialis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.pie.008-d",
+      "es": "Tibial craneal (derecho)",
+      "la": "Musculus tibialis cranialis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.pie.009-i",
+      "es": "Fibular tercero (izquierdo)",
+      "la": "Musculus fibularis tertius",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.pie.009-d",
+      "es": "Fibular tercero (derecho)",
+      "la": "Musculus fibularis tertius",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.pie.010-i",
+      "es": "Extensor digital largo (izquierdo)",
+      "la": "Musculus extensor digitorum longus",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.pie.010-d",
+      "es": "Extensor digital largo (derecho)",
+      "la": "Musculus extensor digitorum longus",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.pie.011-i",
+      "es": "Extensor digital lateral del miembro pélvico (izquierdo)",
+      "la": "Musculus extensor digitorum lateralis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.pie.011-d",
+      "es": "Extensor digital lateral del miembro pélvico (derecho)",
+      "la": "Musculus extensor digitorum lateralis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.tor.010-i",
+      "es": "Cutáneo omobraquial (izquierdo)",
+      "la": "Musculus cutaneus omobrachialis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.tor.010-d",
+      "es": "Cutáneo omobraquial (derecho)",
+      "la": "Musculus cutaneus omobrachialis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.tor.011-i",
+      "es": "Fascia toracolumbar (izquierda)",
+      "la": "Fascia thoracolumbalis",
+      "sys": "mus",
+      "layer": "fas"
+    },
+    {
+      "id": "equ.mus.tor.011-d",
+      "es": "Fascia toracolumbar (derecha)",
+      "la": "Fascia thoracolumbalis",
+      "sys": "mus",
+      "layer": "fas"
+    },
+    {
+      "id": "equ.mus.abd.008",
+      "es": "Línea alba",
+      "la": "Linea alba",
+      "sys": "mus",
+      "layer": "fas"
+    },
+    {
+      "id": "equ.mus.per.001-i",
+      "es": "Elevador del ano (izquierdo)",
+      "la": "Musculus levator ani",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.per.001-d",
+      "es": "Elevador del ano (derecho)",
+      "la": "Musculus levator ani",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.per.002",
+      "es": "Esfínter anal externo",
+      "la": "Musculus sphincter ani externus",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.per.003-i",
+      "es": "Isquiocavernoso (izquierdo)",
+      "la": "Musculus ischiocavernosus",
+      "sys": "mus",
+      "layer": "mpr",
+      "sex": "m"
+    },
+    {
+      "id": "equ.mus.per.003-d",
+      "es": "Isquiocavernoso (derecho)",
+      "la": "Musculus ischiocavernosus",
+      "sys": "mus",
+      "layer": "mpr",
+      "sex": "m"
+    },
+    {
+      "id": "equ.mus.per.004",
+      "es": "Bulboesponjoso",
+      "la": "Musculus bulbospongiosus",
+      "sys": "mus",
+      "layer": "mpr",
+      "sex": "m"
+    },
+    {
+      "id": "equ.mus.per.005-i",
+      "es": "Retractor del pene (izquierdo)",
+      "la": "Musculus retractor penis",
+      "sys": "mus",
+      "layer": "mpr",
+      "sex": "m"
+    },
+    {
+      "id": "equ.mus.per.005-d",
+      "es": "Retractor del pene (derecho)",
+      "la": "Musculus retractor penis",
+      "sys": "mus",
+      "layer": "mpr",
+      "sex": "m"
+    },
+    {
+      "id": "equ.mus.per.006",
+      "es": "Constrictor de la vulva",
+      "la": "Musculus constrictor vulvae",
+      "sys": "mus",
+      "layer": "msu",
+      "sex": "f"
+    },
+    {
+      "id": "equ.mus.cab.027-i",
+      "es": "Elevador medial del ángulo del ojo (izquierdo)",
+      "la": "Musculus levator anguli oculi medialis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cab.027-d",
+      "es": "Elevador medial del ángulo del ojo (derecho)",
+      "la": "Musculus levator anguli oculi medialis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cab.028-i",
+      "es": "Malar (izquierdo)",
+      "la": "Musculus malaris",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cab.028-d",
+      "es": "Malar (derecho)",
+      "la": "Musculus malaris",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cab.029-i",
+      "es": "Dilatador apical de la nariz (izquierdo)",
+      "la": "Musculus dilatator naris apicalis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cab.029-d",
+      "es": "Dilatador apical de la nariz (derecho)",
+      "la": "Musculus dilatator naris apicalis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cab.030-i",
+      "es": "Dilatador lateral de la nariz (izquierdo)",
+      "la": "Musculus dilatator naris lateralis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cab.030-d",
+      "es": "Dilatador lateral de la nariz (derecho)",
+      "la": "Musculus dilatator naris lateralis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cab.031-i",
+      "es": "Tensor del tímpano (izquierdo)",
+      "la": "Musculus tensor tympani",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cab.031-d",
+      "es": "Tensor del tímpano (derecho)",
+      "la": "Musculus tensor tympani",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cab.032-i",
+      "es": "Estapedio (izquierdo)",
+      "la": "Musculus stapedius",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cab.032-d",
+      "es": "Estapedio (derecho)",
+      "la": "Musculus stapedius",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cue.023-i",
+      "es": "Tirohioideo (izquierdo)",
+      "la": "Musculus thyrohyoideus",
+      "sys": "mus",
+      "layer": "mpr",
+      "ficha": {
+        "ubicacion": "En la pared lateral de la laringe, entre el cartílago tiroides y el proceso tirohioideo del lado izquierdo.",
+        "descripcion": "Músculo corto del grupo hioideo que conecta el cartílago tiroides con el proceso tirohioideo del aparato hioideo.",
+        "relaciones": "Se encuentra adyacente al cartílago tiroides y al proceso tirohioideo; forma parte de la conexión muscular entre laringe y aparato hioideo.",
+        "accidentes": "Lámina lateral del cartílago tiroides y proceso tirohioideo correspondiente.",
+        "articulaciones": "No forma una articulación. Actúa sobre los elementos del aparato hioideo, la lengua o la laringe, según su trayecto.",
+        "inserciones": "Origen: cartílago tiroides. Inserción: proceso tirohioideo del aparato hioideo.",
+        "irrigacion": "La irrigación arterial individual del músculo no está descrita de manera suficientemente específica y consistente en las fuentes equinas consultadas. Recibe aporte de la vascularización regional; no se asigna una arteria exclusiva sin respaldo.",
+        "inervacion": "Nervio cervical C1. Un estudio de disección, histología y estimulación en caballos encontró que la inervación procede de C1; en algunos ejemplares existe una anastomosis entre C1 y el nervio hipogloso, pero no se identificó una conexión directa del músculo con XII.",
+        "funcion": "Aproxima el cartílago tiroides y el proceso tirohioideo, contribuyendo a desplazar la laringe y el aparato hioideo uno respecto al otro durante la deglución.",
+        "especie": "En el caballo, la inervación del tirohioideo procede principalmente de C1, con variaciones en el patrón de ramificación. Este hallazgo corrige la atribución clásica exclusiva al nervio hipogloso.",
+        "clinica": "La preservación de C1 es relevante en procedimientos quirúrgicos cervicales equinos; su lesión puede comprometer la función del tirohioideo. La evidencia anatómica y de estimulación apoya esta relevancia clínica.",
+        "referencias": "Thyrohyoideus muscle innervation in the horse. Equine Vet J. 2021. PMID: 33155732. https://pubmed.ncbi.nlm.nih.gov/33155732/\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Tabla de músculos del aparato hioideo y músculos ventrales del cuello. https://equinetherapies.net.au/wp-content/uploads/2020/12/Anatomy-of-the-Horse-6th-Edition.pdf"
+      }
+    },
+    {
+      "id": "equ.mus.cue.023-d",
+      "es": "Tirohioideo (derecho)",
+      "la": "Musculus thyrohyoideus",
+      "sys": "mus",
+      "layer": "mpr",
+      "ficha": {
+        "ubicacion": "En la pared lateral de la laringe, entre el cartílago tiroides y el proceso tirohioideo del lado derecho.",
+        "descripcion": "Músculo corto del grupo hioideo que conecta el cartílago tiroides con el proceso tirohioideo del aparato hioideo.",
+        "relaciones": "Se encuentra adyacente al cartílago tiroides y al proceso tirohioideo; forma parte de la conexión muscular entre laringe y aparato hioideo.",
+        "accidentes": "Lámina lateral del cartílago tiroides y proceso tirohioideo correspondiente.",
+        "articulaciones": "No forma una articulación. Actúa sobre los elementos del aparato hioideo, la lengua o la laringe, según su trayecto.",
+        "inserciones": "Origen: cartílago tiroides. Inserción: proceso tirohioideo del aparato hioideo.",
+        "irrigacion": "La irrigación arterial individual del músculo no está descrita de manera suficientemente específica y consistente en las fuentes equinas consultadas. Recibe aporte de la vascularización regional; no se asigna una arteria exclusiva sin respaldo.",
+        "inervacion": "Nervio cervical C1. Un estudio de disección, histología y estimulación en caballos encontró que la inervación procede de C1; en algunos ejemplares existe una anastomosis entre C1 y el nervio hipogloso, pero no se identificó una conexión directa del músculo con XII.",
+        "funcion": "Aproxima el cartílago tiroides y el proceso tirohioideo, contribuyendo a desplazar la laringe y el aparato hioideo uno respecto al otro durante la deglución.",
+        "especie": "En el caballo, la inervación del tirohioideo procede principalmente de C1, con variaciones en el patrón de ramificación. Este hallazgo corrige la atribución clásica exclusiva al nervio hipogloso.",
+        "clinica": "La preservación de C1 es relevante en procedimientos quirúrgicos cervicales equinos; su lesión puede comprometer la función del tirohioideo. La evidencia anatómica y de estimulación apoya esta relevancia clínica.",
+        "referencias": "Thyrohyoideus muscle innervation in the horse. Equine Vet J. 2021. PMID: 33155732. https://pubmed.ncbi.nlm.nih.gov/33155732/\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Tabla de músculos del aparato hioideo y músculos ventrales del cuello. https://equinetherapies.net.au/wp-content/uploads/2020/12/Anatomy-of-the-Horse-6th-Edition.pdf"
+      }
+    },
+    {
+      "id": "equ.mus.len.001-i",
+      "es": "Geniogloso (izquierdo)",
+      "la": "Musculus genioglossus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.len.001-d",
+      "es": "Geniogloso (derecho)",
+      "la": "Musculus genioglossus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.len.002-i",
+      "es": "Hiogloso (izquierdo)",
+      "la": "Musculus hyoglossus",
+      "sys": "mus",
+      "layer": "mpr",
+      "ficha": {
+        "ubicacion": "En la lengua, profundo a sus músculos superficiales y próximo al aparato hioideo, en el lado izquierdo.",
+        "descripcion": "Músculo extrínseco de la lengua, de trayecto longitudinal, que conecta el aparato hioideo con el tejido lingual.",
+        "relaciones": "Se relaciona con el proceso lingual del basihioides y con los elementos estilohioideo y tirohioideo; sus fibras penetran en la lengua y se disponen cerca del plano medio y del dorso lingual.",
+        "accidentes": "Proceso lingual del basihioides y elementos estilohioideo y tirohioideo como referencias de origen; tejido muscular de la lengua como zona de terminación.",
+        "articulaciones": "No forma una articulación. Actúa sobre los elementos del aparato hioideo, la lengua o la laringe, según su trayecto.",
+        "inserciones": "Origen: proceso lingual del basihioides y regiones del estilohioides y tirohioides. Inserción: fibras que terminan en la lengua, muchas próximas al dorso y al plano medio.",
+        "irrigacion": "La irrigación arterial individual del músculo no está descrita de manera suficientemente específica y consistente en las fuentes equinas consultadas. Recibe aporte de la vascularización regional; no se asigna una arteria exclusiva sin respaldo.",
+        "inervacion": "Nervio hipogloso (XII).",
+        "funcion": "Retrae y deprime la lengua, especialmente su porción caudal; actúa como antagonista funcional del geniogloso en la protrusión lingual.",
+        "especie": "En el caballo, el hyoglossus se origina en el proceso lingual del basihioides y en elementos hioideos vecinos, y sus fibras terminan en la lengua. Su función principal es retraerla caudoventralmente.",
+        "clinica": "Participa en la movilidad de la lengua y en la manipulación del alimento durante la masticación y la deglución. Su función debe valorarse junto con la del nervio hipogloso.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Tabla de músculos del aparato hioideo y músculos ventrales del cuello. https://equinetherapies.net.au/wp-content/uploads/2020/12/Anatomy-of-the-Horse-6th-Edition.pdf\nKelly PG. Studies on serial resting and dynamic endoscopic examinations of Thoroughbred yearlings. University of Glasgow; 2015. https://theses.gla.ac.uk/7248/1/2015KellyMVM.pdf"
+      }
+    },
+    {
+      "id": "equ.mus.len.002-d",
+      "es": "Hiogloso (derecho)",
+      "la": "Musculus hyoglossus",
+      "sys": "mus",
+      "layer": "mpr",
+      "ficha": {
+        "ubicacion": "En la lengua, profundo a sus músculos superficiales y próximo al aparato hioideo, en el lado derecho.",
+        "descripcion": "Músculo extrínseco de la lengua, de trayecto longitudinal, que conecta el aparato hioideo con el tejido lingual.",
+        "relaciones": "Se relaciona con el proceso lingual del basihioides y con los elementos estilohioideo y tirohioideo; sus fibras penetran en la lengua y se disponen cerca del plano medio y del dorso lingual.",
+        "accidentes": "Proceso lingual del basihioides y elementos estilohioideo y tirohioideo como referencias de origen; tejido muscular de la lengua como zona de terminación.",
+        "articulaciones": "No forma una articulación. Actúa sobre los elementos del aparato hioideo, la lengua o la laringe, según su trayecto.",
+        "inserciones": "Origen: proceso lingual del basihioides y regiones del estilohioides y tirohioides. Inserción: fibras que terminan en la lengua, muchas próximas al dorso y al plano medio.",
+        "irrigacion": "La irrigación arterial individual del músculo no está descrita de manera suficientemente específica y consistente en las fuentes equinas consultadas. Recibe aporte de la vascularización regional; no se asigna una arteria exclusiva sin respaldo.",
+        "inervacion": "Nervio hipogloso (XII).",
+        "funcion": "Retrae y deprime la lengua, especialmente su porción caudal; actúa como antagonista funcional del geniogloso en la protrusión lingual.",
+        "especie": "En el caballo, el hyoglossus se origina en el proceso lingual del basihioides y en elementos hioideos vecinos, y sus fibras terminan en la lengua. Su función principal es retraerla caudoventralmente.",
+        "clinica": "Participa en la movilidad de la lengua y en la manipulación del alimento durante la masticación y la deglución. Su función debe valorarse junto con la del nervio hipogloso.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Tabla de músculos del aparato hioideo y músculos ventrales del cuello. https://equinetherapies.net.au/wp-content/uploads/2020/12/Anatomy-of-the-Horse-6th-Edition.pdf\nKelly PG. Studies on serial resting and dynamic endoscopic examinations of Thoroughbred yearlings. University of Glasgow; 2015. https://theses.gla.ac.uk/7248/1/2015KellyMVM.pdf"
+      }
+    },
+    {
+      "id": "equ.mus.len.003-i",
+      "es": "Estilogloso (izquierdo)",
+      "la": "Musculus styloglossus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.len.003-d",
+      "es": "Estilogloso (derecho)",
+      "la": "Musculus styloglossus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.len.004-i",
+      "es": "Lingual propio (izquierdo)",
+      "la": "Musculus lingualis proprius",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.len.004-d",
+      "es": "Lingual propio (derecho)",
+      "la": "Musculus lingualis proprius",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.pal.001-i",
+      "es": "Tensor del velo del paladar (izquierdo)",
+      "la": "Musculus tensor veli palatini",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.pal.001-d",
+      "es": "Tensor del velo del paladar (derecho)",
+      "la": "Musculus tensor veli palatini",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.pal.002-i",
+      "es": "Elevador del velo del paladar (izquierdo)",
+      "la": "Musculus levator veli palatini",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.pal.002-d",
+      "es": "Elevador del velo del paladar (derecho)",
+      "la": "Musculus levator veli palatini",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.pal.003-i",
+      "es": "Músculo palatino (izquierdo)",
+      "la": "Musculus palatinus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.pal.003-d",
+      "es": "Músculo palatino (derecho)",
+      "la": "Musculus palatinus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.pal.004-i",
+      "es": "Palatofaríngeo (izquierdo)",
+      "la": "Musculus palatopharyngeus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.pal.004-d",
+      "es": "Palatofaríngeo (derecho)",
+      "la": "Musculus palatopharyngeus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.far.002-i",
+      "es": "Constrictor medio de la faringe (izquierdo)",
+      "la": "Musculus constrictor pharyngis medius",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.far.002-d",
+      "es": "Constrictor medio de la faringe (derecho)",
+      "la": "Musculus constrictor pharyngis medius",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.far.004-i",
+      "es": "Estilofaríngeo caudal (izquierdo)",
+      "la": "Musculus stylopharyngeus caudalis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.far.004-d",
+      "es": "Estilofaríngeo caudal (derecho)",
+      "la": "Musculus stylopharyngeus caudalis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.lar.001-i",
+      "es": "Cricotiroideo (izquierdo)",
+      "la": "Musculus cricothyroideus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.lar.001-d",
+      "es": "Cricotiroideo (derecho)",
+      "la": "Musculus cricothyroideus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.lar.002-i",
+      "es": "Cricoaritenoideo dorsal (izquierdo)",
+      "la": "Musculus cricoarytenoideus dorsalis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.lar.002-d",
+      "es": "Cricoaritenoideo dorsal (derecho)",
+      "la": "Musculus cricoarytenoideus dorsalis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.lar.003-i",
+      "es": "Cricoaritenoideo lateral (izquierdo)",
+      "la": "Musculus cricoarytenoideus lateralis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.lar.003-d",
+      "es": "Cricoaritenoideo lateral (derecho)",
+      "la": "Musculus cricoarytenoideus lateralis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.lar.005",
+      "es": "Aritenoideo transverso",
+      "la": "Musculus arytenoideus transversus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cab.033-i",
+      "es": "Frontoescutular (izquierdo)",
+      "la": "Musculus frontoscutularis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cab.033-d",
+      "es": "Frontoescutular (derecho)",
+      "la": "Musculus frontoscutularis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cab.034",
+      "es": "Interescutular",
+      "la": "Musculus interscutularis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cab.035-i",
+      "es": "Escutuloauricular superficial dorsal (izquierdo)",
+      "la": "Musculus scutuloauricularis superficialis dorsalis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cab.035-d",
+      "es": "Escutuloauricular superficial dorsal (derecho)",
+      "la": "Musculus scutuloauricularis superficialis dorsalis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cab.036-i",
+      "es": "Escutuloauricular superficial medio (izquierdo)",
+      "la": "Musculus scutuloauricularis superficialis medius",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cab.036-d",
+      "es": "Escutuloauricular superficial medio (derecho)",
+      "la": "Musculus scutuloauricularis superficialis medius",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cab.037-i",
+      "es": "Escutuloauricular superficial accesorio (izquierdo)",
+      "la": "Musculus scutuloauricularis superficialis accessorius",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cab.037-d",
+      "es": "Escutuloauricular superficial accesorio (derecho)",
+      "la": "Musculus scutuloauricularis superficialis accessorius",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cab.038-i",
+      "es": "Escutuloauricular profundo mayor (izquierdo)",
+      "la": "Musculus scutuloauricularis profundus major",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cab.038-d",
+      "es": "Escutuloauricular profundo mayor (derecho)",
+      "la": "Musculus scutuloauricularis profundus major",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cab.039-i",
+      "es": "Escutuloauricular profundo menor (izquierdo)",
+      "la": "Musculus scutuloauricularis profundus minor",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cab.039-d",
+      "es": "Escutuloauricular profundo menor (derecho)",
+      "la": "Musculus scutuloauricularis profundus minor",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cab.040-i",
+      "es": "Cigomaticoauricular (izquierdo)",
+      "la": "Musculus zygomaticoauricularis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cab.040-d",
+      "es": "Cigomaticoauricular (derecho)",
+      "la": "Musculus zygomaticoauricularis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cab.041-i",
+      "es": "Cervicoauricular superficial (izquierdo)",
+      "la": "Musculus cervicoauricularis superficialis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cab.041-d",
+      "es": "Cervicoauricular superficial (derecho)",
+      "la": "Musculus cervicoauricularis superficialis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cab.042-i",
+      "es": "Cervicoauricular medio (izquierdo)",
+      "la": "Musculus cervicoauricularis medius",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cab.042-d",
+      "es": "Cervicoauricular medio (derecho)",
+      "la": "Musculus cervicoauricularis medius",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cab.043-i",
+      "es": "Cervicoauricular profundo (izquierdo)",
+      "la": "Musculus cervicoauricularis profundus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cab.043-d",
+      "es": "Cervicoauricular profundo (derecho)",
+      "la": "Musculus cervicoauricularis profundus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cab.044-i",
+      "es": "Parotidoauricular (izquierdo)",
+      "la": "Musculus parotidoauricularis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cab.044-d",
+      "es": "Parotidoauricular (derecho)",
+      "la": "Musculus parotidoauricularis",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.man.002-i",
+      "es": "Interóseo medial de la mano (vestigial, variable) (izquierdo)",
+      "la": "Musculus interosseus medialis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.man.002-d",
+      "es": "Interóseo medial de la mano (vestigial, variable) (derecho)",
+      "la": "Musculus interosseus medialis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.man.003-i",
+      "es": "Interóseo lateral de la mano (vestigial, variable) (izquierdo)",
+      "la": "Musculus interosseus lateralis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.man.003-d",
+      "es": "Interóseo lateral de la mano (vestigial, variable) (derecho)",
+      "la": "Musculus interosseus lateralis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.pes.001-i",
+      "es": "Extensor digital corto del pie (vestigial) (izquierdo)",
+      "la": "Musculus extensor digitorum brevis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.pes.001-d",
+      "es": "Extensor digital corto del pie (vestigial) (derecho)",
+      "la": "Musculus extensor digitorum brevis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.hom.007-i",
+      "es": "Articular del hombro (capsular) (izquierdo)",
+      "la": "Musculus articularis humeri",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.hom.007-d",
+      "es": "Articular del hombro (capsular) (derecho)",
+      "la": "Musculus articularis humeri",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cad.009-i",
+      "es": "Articular de la cadera (capsular) (izquierdo)",
+      "la": "Musculus articularis coxae",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cad.009-d",
+      "es": "Articular de la cadera (capsular) (derecho)",
+      "la": "Musculus articularis coxae",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.012-i",
+      "es": "Intercostal externo, espacio 1 (izquierdo)",
+      "la": "Musculus intercostalis externus, spatium 1",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.012-d",
+      "es": "Intercostal externo, espacio 1 (derecho)",
+      "la": "Musculus intercostalis externus, spatium 1",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.013-i",
+      "es": "Intercostal externo, espacio 2 (izquierdo)",
+      "la": "Musculus intercostalis externus, spatium 2",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.013-d",
+      "es": "Intercostal externo, espacio 2 (derecho)",
+      "la": "Musculus intercostalis externus, spatium 2",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.014-i",
+      "es": "Intercostal externo, espacio 3 (izquierdo)",
+      "la": "Musculus intercostalis externus, spatium 3",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.014-d",
+      "es": "Intercostal externo, espacio 3 (derecho)",
+      "la": "Musculus intercostalis externus, spatium 3",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.015-i",
+      "es": "Intercostal externo, espacio 4 (izquierdo)",
+      "la": "Musculus intercostalis externus, spatium 4",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.015-d",
+      "es": "Intercostal externo, espacio 4 (derecho)",
+      "la": "Musculus intercostalis externus, spatium 4",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.016-i",
+      "es": "Intercostal externo, espacio 5 (izquierdo)",
+      "la": "Musculus intercostalis externus, spatium 5",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.016-d",
+      "es": "Intercostal externo, espacio 5 (derecho)",
+      "la": "Musculus intercostalis externus, spatium 5",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.017-i",
+      "es": "Intercostal externo, espacio 6 (izquierdo)",
+      "la": "Musculus intercostalis externus, spatium 6",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.017-d",
+      "es": "Intercostal externo, espacio 6 (derecho)",
+      "la": "Musculus intercostalis externus, spatium 6",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.018-i",
+      "es": "Intercostal externo, espacio 7 (izquierdo)",
+      "la": "Musculus intercostalis externus, spatium 7",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.018-d",
+      "es": "Intercostal externo, espacio 7 (derecho)",
+      "la": "Musculus intercostalis externus, spatium 7",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.019-i",
+      "es": "Intercostal externo, espacio 8 (izquierdo)",
+      "la": "Musculus intercostalis externus, spatium 8",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.019-d",
+      "es": "Intercostal externo, espacio 8 (derecho)",
+      "la": "Musculus intercostalis externus, spatium 8",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.020-i",
+      "es": "Intercostal externo, espacio 9 (izquierdo)",
+      "la": "Musculus intercostalis externus, spatium 9",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.020-d",
+      "es": "Intercostal externo, espacio 9 (derecho)",
+      "la": "Musculus intercostalis externus, spatium 9",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.021-i",
+      "es": "Intercostal externo, espacio 10 (izquierdo)",
+      "la": "Musculus intercostalis externus, spatium 10",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.021-d",
+      "es": "Intercostal externo, espacio 10 (derecho)",
+      "la": "Musculus intercostalis externus, spatium 10",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.022-i",
+      "es": "Intercostal externo, espacio 11 (izquierdo)",
+      "la": "Musculus intercostalis externus, spatium 11",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.022-d",
+      "es": "Intercostal externo, espacio 11 (derecho)",
+      "la": "Musculus intercostalis externus, spatium 11",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.023-i",
+      "es": "Intercostal externo, espacio 12 (izquierdo)",
+      "la": "Musculus intercostalis externus, spatium 12",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.023-d",
+      "es": "Intercostal externo, espacio 12 (derecho)",
+      "la": "Musculus intercostalis externus, spatium 12",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.024-i",
+      "es": "Intercostal externo, espacio 13 (izquierdo)",
+      "la": "Musculus intercostalis externus, spatium 13",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.024-d",
+      "es": "Intercostal externo, espacio 13 (derecho)",
+      "la": "Musculus intercostalis externus, spatium 13",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.025-i",
+      "es": "Intercostal externo, espacio 14 (izquierdo)",
+      "la": "Musculus intercostalis externus, spatium 14",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.025-d",
+      "es": "Intercostal externo, espacio 14 (derecho)",
+      "la": "Musculus intercostalis externus, spatium 14",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.026-i",
+      "es": "Intercostal externo, espacio 15 (izquierdo)",
+      "la": "Musculus intercostalis externus, spatium 15",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.026-d",
+      "es": "Intercostal externo, espacio 15 (derecho)",
+      "la": "Musculus intercostalis externus, spatium 15",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.027-i",
+      "es": "Intercostal externo, espacio 16 (izquierdo)",
+      "la": "Musculus intercostalis externus, spatium 16",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.027-d",
+      "es": "Intercostal externo, espacio 16 (derecho)",
+      "la": "Musculus intercostalis externus, spatium 16",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.028-i",
+      "es": "Intercostal externo, espacio 17 (izquierdo)",
+      "la": "Musculus intercostalis externus, spatium 17",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.028-d",
+      "es": "Intercostal externo, espacio 17 (derecho)",
+      "la": "Musculus intercostalis externus, spatium 17",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.029-i",
+      "es": "Intercostal interno, espacio 1 (izquierdo)",
+      "la": "Musculus intercostalis internus, spatium 1",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.029-d",
+      "es": "Intercostal interno, espacio 1 (derecho)",
+      "la": "Musculus intercostalis internus, spatium 1",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.030-i",
+      "es": "Intercostal interno, espacio 2 (izquierdo)",
+      "la": "Musculus intercostalis internus, spatium 2",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.030-d",
+      "es": "Intercostal interno, espacio 2 (derecho)",
+      "la": "Musculus intercostalis internus, spatium 2",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.031-i",
+      "es": "Intercostal interno, espacio 3 (izquierdo)",
+      "la": "Musculus intercostalis internus, spatium 3",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.031-d",
+      "es": "Intercostal interno, espacio 3 (derecho)",
+      "la": "Musculus intercostalis internus, spatium 3",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.032-i",
+      "es": "Intercostal interno, espacio 4 (izquierdo)",
+      "la": "Musculus intercostalis internus, spatium 4",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.032-d",
+      "es": "Intercostal interno, espacio 4 (derecho)",
+      "la": "Musculus intercostalis internus, spatium 4",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.033-i",
+      "es": "Intercostal interno, espacio 5 (izquierdo)",
+      "la": "Musculus intercostalis internus, spatium 5",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.033-d",
+      "es": "Intercostal interno, espacio 5 (derecho)",
+      "la": "Musculus intercostalis internus, spatium 5",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.034-i",
+      "es": "Intercostal interno, espacio 6 (izquierdo)",
+      "la": "Musculus intercostalis internus, spatium 6",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.034-d",
+      "es": "Intercostal interno, espacio 6 (derecho)",
+      "la": "Musculus intercostalis internus, spatium 6",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.035-i",
+      "es": "Intercostal interno, espacio 7 (izquierdo)",
+      "la": "Musculus intercostalis internus, spatium 7",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.035-d",
+      "es": "Intercostal interno, espacio 7 (derecho)",
+      "la": "Musculus intercostalis internus, spatium 7",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.036-i",
+      "es": "Intercostal interno, espacio 8 (izquierdo)",
+      "la": "Musculus intercostalis internus, spatium 8",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.036-d",
+      "es": "Intercostal interno, espacio 8 (derecho)",
+      "la": "Musculus intercostalis internus, spatium 8",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.037-i",
+      "es": "Intercostal interno, espacio 9 (izquierdo)",
+      "la": "Musculus intercostalis internus, spatium 9",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.037-d",
+      "es": "Intercostal interno, espacio 9 (derecho)",
+      "la": "Musculus intercostalis internus, spatium 9",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.038-i",
+      "es": "Intercostal interno, espacio 10 (izquierdo)",
+      "la": "Musculus intercostalis internus, spatium 10",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.038-d",
+      "es": "Intercostal interno, espacio 10 (derecho)",
+      "la": "Musculus intercostalis internus, spatium 10",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.039-i",
+      "es": "Intercostal interno, espacio 11 (izquierdo)",
+      "la": "Musculus intercostalis internus, spatium 11",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.039-d",
+      "es": "Intercostal interno, espacio 11 (derecho)",
+      "la": "Musculus intercostalis internus, spatium 11",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.040-i",
+      "es": "Intercostal interno, espacio 12 (izquierdo)",
+      "la": "Musculus intercostalis internus, spatium 12",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.040-d",
+      "es": "Intercostal interno, espacio 12 (derecho)",
+      "la": "Musculus intercostalis internus, spatium 12",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.041-i",
+      "es": "Intercostal interno, espacio 13 (izquierdo)",
+      "la": "Musculus intercostalis internus, spatium 13",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.041-d",
+      "es": "Intercostal interno, espacio 13 (derecho)",
+      "la": "Musculus intercostalis internus, spatium 13",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.042-i",
+      "es": "Intercostal interno, espacio 14 (izquierdo)",
+      "la": "Musculus intercostalis internus, spatium 14",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.042-d",
+      "es": "Intercostal interno, espacio 14 (derecho)",
+      "la": "Musculus intercostalis internus, spatium 14",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.043-i",
+      "es": "Intercostal interno, espacio 15 (izquierdo)",
+      "la": "Musculus intercostalis internus, spatium 15",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.043-d",
+      "es": "Intercostal interno, espacio 15 (derecho)",
+      "la": "Musculus intercostalis internus, spatium 15",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.044-i",
+      "es": "Intercostal interno, espacio 16 (izquierdo)",
+      "la": "Musculus intercostalis internus, spatium 16",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.044-d",
+      "es": "Intercostal interno, espacio 16 (derecho)",
+      "la": "Musculus intercostalis internus, spatium 16",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.045-i",
+      "es": "Intercostal interno, espacio 17 (izquierdo)",
+      "la": "Musculus intercostalis internus, spatium 17",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.045-d",
+      "es": "Intercostal interno, espacio 17 (derecho)",
+      "la": "Musculus intercostalis internus, spatium 17",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.046-i",
+      "es": "Elevador de la costilla 2 (izquierdo)",
+      "la": "Musculus levator costae, costa 2",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.046-d",
+      "es": "Elevador de la costilla 2 (derecho)",
+      "la": "Musculus levator costae, costa 2",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.047-i",
+      "es": "Elevador de la costilla 3 (izquierdo)",
+      "la": "Musculus levator costae, costa 3",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.047-d",
+      "es": "Elevador de la costilla 3 (derecho)",
+      "la": "Musculus levator costae, costa 3",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.048-i",
+      "es": "Elevador de la costilla 4 (izquierdo)",
+      "la": "Musculus levator costae, costa 4",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.048-d",
+      "es": "Elevador de la costilla 4 (derecho)",
+      "la": "Musculus levator costae, costa 4",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.049-i",
+      "es": "Elevador de la costilla 5 (izquierdo)",
+      "la": "Musculus levator costae, costa 5",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.049-d",
+      "es": "Elevador de la costilla 5 (derecho)",
+      "la": "Musculus levator costae, costa 5",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.050-i",
+      "es": "Elevador de la costilla 6 (izquierdo)",
+      "la": "Musculus levator costae, costa 6",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.050-d",
+      "es": "Elevador de la costilla 6 (derecho)",
+      "la": "Musculus levator costae, costa 6",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.051-i",
+      "es": "Elevador de la costilla 7 (izquierdo)",
+      "la": "Musculus levator costae, costa 7",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.051-d",
+      "es": "Elevador de la costilla 7 (derecho)",
+      "la": "Musculus levator costae, costa 7",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.052-i",
+      "es": "Elevador de la costilla 8 (izquierdo)",
+      "la": "Musculus levator costae, costa 8",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.052-d",
+      "es": "Elevador de la costilla 8 (derecho)",
+      "la": "Musculus levator costae, costa 8",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.053-i",
+      "es": "Elevador de la costilla 9 (izquierdo)",
+      "la": "Musculus levator costae, costa 9",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.053-d",
+      "es": "Elevador de la costilla 9 (derecho)",
+      "la": "Musculus levator costae, costa 9",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.054-i",
+      "es": "Elevador de la costilla 10 (izquierdo)",
+      "la": "Musculus levator costae, costa 10",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.054-d",
+      "es": "Elevador de la costilla 10 (derecho)",
+      "la": "Musculus levator costae, costa 10",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.055-i",
+      "es": "Elevador de la costilla 11 (izquierdo)",
+      "la": "Musculus levator costae, costa 11",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.055-d",
+      "es": "Elevador de la costilla 11 (derecho)",
+      "la": "Musculus levator costae, costa 11",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.056-i",
+      "es": "Elevador de la costilla 12 (izquierdo)",
+      "la": "Musculus levator costae, costa 12",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.056-d",
+      "es": "Elevador de la costilla 12 (derecho)",
+      "la": "Musculus levator costae, costa 12",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.057-i",
+      "es": "Elevador de la costilla 13 (izquierdo)",
+      "la": "Musculus levator costae, costa 13",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.057-d",
+      "es": "Elevador de la costilla 13 (derecho)",
+      "la": "Musculus levator costae, costa 13",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.058-i",
+      "es": "Elevador de la costilla 14 (izquierdo)",
+      "la": "Musculus levator costae, costa 14",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.058-d",
+      "es": "Elevador de la costilla 14 (derecho)",
+      "la": "Musculus levator costae, costa 14",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.059-i",
+      "es": "Elevador de la costilla 15 (izquierdo)",
+      "la": "Musculus levator costae, costa 15",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.059-d",
+      "es": "Elevador de la costilla 15 (derecho)",
+      "la": "Musculus levator costae, costa 15",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.060-i",
+      "es": "Elevador de la costilla 16 (izquierdo)",
+      "la": "Musculus levator costae, costa 16",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.060-d",
+      "es": "Elevador de la costilla 16 (derecho)",
+      "la": "Musculus levator costae, costa 16",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.061-i",
+      "es": "Elevador de la costilla 17 (izquierdo)",
+      "la": "Musculus levator costae, costa 17",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.061-d",
+      "es": "Elevador de la costilla 17 (derecho)",
+      "la": "Musculus levator costae, costa 17",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.062-i",
+      "es": "Elevador de la costilla 18 (izquierdo)",
+      "la": "Musculus levator costae, costa 18",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.tor.062-d",
+      "es": "Elevador de la costilla 18 (derecho)",
+      "la": "Musculus levator costae, costa 18",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.dor.011-i",
+      "es": "Espinal torácico y cervical (izquierdo)",
+      "la": "Musculus spinalis thoracis et cervicis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.dor.011-d",
+      "es": "Espinal torácico y cervical (derecho)",
+      "la": "Musculus spinalis thoracis et cervicis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.dor.012-i",
+      "es": "Semiespinoso torácico y cervical (izquierdo)",
+      "la": "Musculus semispinalis thoracis et cervicis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.dor.012-d",
+      "es": "Semiespinoso torácico y cervical (derecho)",
+      "la": "Musculus semispinalis thoracis et cervicis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.dor.013-i",
+      "es": "Interespinoso torácico (izquierdo)",
+      "la": "Musculus interspinalis thoracis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.dor.013-d",
+      "es": "Interespinoso torácico (derecho)",
+      "la": "Musculus interspinalis thoracis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.dor.014-i",
+      "es": "Interespinoso lumbar (izquierdo)",
+      "la": "Musculus interspinalis lumborum",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.dor.014-d",
+      "es": "Interespinoso lumbar (derecho)",
+      "la": "Musculus interspinalis lumborum",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.dor.015-i",
+      "es": "Intertransverso lumbar, espacio L1-L2 (izquierdo)",
+      "la": "Musculus intertransversarius lumborum, spatium L1-L2",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.dor.015-d",
+      "es": "Intertransverso lumbar, espacio L1-L2 (derecho)",
+      "la": "Musculus intertransversarius lumborum, spatium L1-L2",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.dor.016-i",
+      "es": "Intertransverso lumbar, espacio L2-L3 (izquierdo)",
+      "la": "Musculus intertransversarius lumborum, spatium L2-L3",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.dor.016-d",
+      "es": "Intertransverso lumbar, espacio L2-L3 (derecho)",
+      "la": "Musculus intertransversarius lumborum, spatium L2-L3",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.dor.017-i",
+      "es": "Intertransverso lumbar, espacio L3-L4 (izquierdo)",
+      "la": "Musculus intertransversarius lumborum, spatium L3-L4",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.dor.017-d",
+      "es": "Intertransverso lumbar, espacio L3-L4 (derecho)",
+      "la": "Musculus intertransversarius lumborum, spatium L3-L4",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cue.024-i",
+      "es": "Interespinoso cervical (izquierdo)",
+      "la": "Musculus interspinalis cervicis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cue.024-d",
+      "es": "Interespinoso cervical (derecho)",
+      "la": "Musculus interspinalis cervicis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cue.025-i",
+      "es": "Intertransverso cervical dorsal (izquierdo)",
+      "la": "Musculus intertransversarius dorsalis cervicis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cue.025-d",
+      "es": "Intertransverso cervical dorsal (derecho)",
+      "la": "Musculus intertransversarius dorsalis cervicis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cue.026-i",
+      "es": "Intertransverso cervical intermedio (izquierdo)",
+      "la": "Musculus intertransversarius intermedius cervicis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cue.026-d",
+      "es": "Intertransverso cervical intermedio (derecho)",
+      "la": "Musculus intertransversarius intermedius cervicis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cue.027-i",
+      "es": "Intertransverso cervical ventral (izquierdo)",
+      "la": "Musculus intertransversarius ventralis cervicis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cue.027-d",
+      "es": "Intertransverso cervical ventral (derecho)",
+      "la": "Musculus intertransversarius ventralis cervicis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.bra.007-i",
+      "es": "Tríceps braquial, cabeza larga (izquierdo)",
+      "la": "Musculus triceps brachii, caput longum",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.bra.007-d",
+      "es": "Tríceps braquial, cabeza larga (derecho)",
+      "la": "Musculus triceps brachii, caput longum",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.bra.008-i",
+      "es": "Tríceps braquial, cabeza lateral (izquierdo)",
+      "la": "Musculus triceps brachii, caput laterale",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.bra.008-d",
+      "es": "Tríceps braquial, cabeza lateral (derecho)",
+      "la": "Musculus triceps brachii, caput laterale",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.bra.009-i",
+      "es": "Tríceps braquial, cabeza medial (izquierdo)",
+      "la": "Musculus triceps brachii, caput mediale",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.bra.009-d",
+      "es": "Tríceps braquial, cabeza medial (derecho)",
+      "la": "Musculus triceps brachii, caput mediale",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.fem.012-i",
+      "es": "Bíceps femoral, cabeza vertebral (izquierdo)",
+      "la": "Musculus biceps femoris, caput vertebrale",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.fem.012-d",
+      "es": "Bíceps femoral, cabeza vertebral (derecho)",
+      "la": "Musculus biceps femoris, caput vertebrale",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.fem.013-i",
+      "es": "Bíceps femoral, cabeza pélvica (izquierdo)",
+      "la": "Musculus biceps femoris, caput pelvinum",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.fem.013-d",
+      "es": "Bíceps femoral, cabeza pélvica (derecho)",
+      "la": "Musculus biceps femoris, caput pelvinum",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.ant.010-i",
+      "es": "Flexor digital profundo, cabeza humeral (izquierdo)",
+      "la": "Musculus flexor digitorum profundus, caput humerale",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.ant.010-d",
+      "es": "Flexor digital profundo, cabeza humeral (derecho)",
+      "la": "Musculus flexor digitorum profundus, caput humerale",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.ant.011-i",
+      "es": "Flexor digital profundo, cabeza ulnar (izquierdo)",
+      "la": "Musculus flexor digitorum profundus, caput ulnare",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.ant.011-d",
+      "es": "Flexor digital profundo, cabeza ulnar (derecho)",
+      "la": "Musculus flexor digitorum profundus, caput ulnare",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.ant.012-i",
+      "es": "Flexor digital profundo, cabeza radial (izquierdo)",
+      "la": "Musculus flexor digitorum profundus, caput radiale",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.ant.012-d",
+      "es": "Flexor digital profundo, cabeza radial (derecho)",
+      "la": "Musculus flexor digitorum profundus, caput radiale",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.man.004-i",
+      "es": "Lumbrical medial de la mano (izquierdo)",
+      "la": "Musculus lumbricalis medialis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.man.004-d",
+      "es": "Lumbrical medial de la mano (derecho)",
+      "la": "Musculus lumbricalis medialis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.man.005-i",
+      "es": "Lumbrical lateral de la mano (izquierdo)",
+      "la": "Musculus lumbricalis lateralis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.man.005-d",
+      "es": "Lumbrical lateral de la mano (derecho)",
+      "la": "Musculus lumbricalis lateralis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.pes.002-i",
+      "es": "Lumbrical medial del pie (izquierdo)",
+      "la": "Musculus lumbricalis medialis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.pes.002-d",
+      "es": "Lumbrical medial del pie (derecho)",
+      "la": "Musculus lumbricalis medialis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.pes.003-i",
+      "es": "Lumbrical lateral del pie (izquierdo)",
+      "la": "Musculus lumbricalis lateralis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.pes.003-d",
+      "es": "Lumbrical lateral del pie (derecho)",
+      "la": "Musculus lumbricalis lateralis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.pes.004-i",
+      "es": "Interóseo medial del pie (vestigial) (izquierdo)",
+      "la": "Musculus interosseus medialis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.pes.004-d",
+      "es": "Interóseo medial del pie (vestigial) (derecho)",
+      "la": "Musculus interosseus medialis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.pes.005-i",
+      "es": "Interóseo lateral del pie (vestigial) (izquierdo)",
+      "la": "Musculus interosseus lateralis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.pes.005-d",
+      "es": "Interóseo lateral del pie (vestigial) (derecho)",
+      "la": "Musculus interosseus lateralis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cad.010-i",
+      "es": "Piriforme (izquierdo)",
+      "la": "Musculus piriformis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cad.010-d",
+      "es": "Piriforme (derecho)",
+      "la": "Musculus piriformis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.cab.045-i",
+      "es": "Ceratohioideo (izquierdo)",
+      "la": "Musculus ceratohyoideus",
+      "sys": "mus",
+      "layer": "mpr",
+      "ficha": {
+        "ubicacion": "En el espacio entre los elementos ceratohioideo y tirohioideo del aparato hioideo, en el lado izquierdo; profundo al músculo hiogloso.",
+        "descripcion": "Músculo delgado y aplanado que ocupa el ángulo formado entre el ceratohioides y el proceso tirohioideo. Forma una lámina muscular corta en la región profunda del aparato hioideo.",
+        "relaciones": "Está cubierto por el hiogloso y se relaciona con los bordes rostrales del proceso tirohioideo y caudales del ceratohioides; también alcanza la región proximal del estilohioides.",
+        "accidentes": "Borde rostral del proceso tirohioideo; borde caudal del ceratohioides y extremo proximal del estilohioides.",
+        "articulaciones": "No forma una articulación. Su acción modifica la posición relativa de los componentes del aparato hioideo, la lengua o la laringe.",
+        "inserciones": "Origen: borde rostral del proceso tirohioideo. Inserción: borde caudal del ceratohioides y extremo proximal del estilohioides.",
+        "irrigacion": "La irrigación arterial específica no está descrita de forma suficientemente detallada en las fuentes equinas consultadas. Recibe aporte de la vascularización regional; no se asigna una arteria exclusiva sin respaldo.",
+        "inervacion": "Nervio glosofaríngeo (IX), según la descripción de la musculatura del aparato hioideo equino.",
+        "funcion": "Tracciona el aparato hioideo y la laringe en dirección rostrodorsal.",
+        "especie": "En el caballo es una lámina muscular fina, completamente cubierta por el hiogloso, que ocupa el espacio angular entre los elementos ceratohioideo y tirohioideo.",
+        "clinica": "Su posición profunda y su cobertura por el hiogloso son referencias importantes en la disección del aparato hioideo y en la interpretación de lesiones de esta región.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Tabla de músculos del aparato hioideo.\nSultan Ahmed N. Anatomy, Part 7: Digestive System. University of Mosul; 2019."
+      }
+    },
+    {
+      "id": "equ.mus.cab.045-d",
+      "es": "Ceratohioideo (derecho)",
+      "la": "Musculus ceratohyoideus",
+      "sys": "mus",
+      "layer": "mpr",
+      "ficha": {
+        "ubicacion": "En el espacio entre los elementos ceratohioideo y tirohioideo del aparato hioideo, en el lado derecho; profundo al músculo hiogloso.",
+        "descripcion": "Músculo delgado y aplanado que ocupa el ángulo formado entre el ceratohioides y el proceso tirohioideo. Forma una lámina muscular corta en la región profunda del aparato hioideo.",
+        "relaciones": "Está cubierto por el hiogloso y se relaciona con los bordes rostrales del proceso tirohioideo y caudales del ceratohioides; también alcanza la región proximal del estilohioides.",
+        "accidentes": "Borde rostral del proceso tirohioideo; borde caudal del ceratohioides y extremo proximal del estilohioides.",
+        "articulaciones": "No forma una articulación. Su acción modifica la posición relativa de los componentes del aparato hioideo, la lengua o la laringe.",
+        "inserciones": "Origen: borde rostral del proceso tirohioideo. Inserción: borde caudal del ceratohioides y extremo proximal del estilohioides.",
+        "irrigacion": "La irrigación arterial específica no está descrita de forma suficientemente detallada en las fuentes equinas consultadas. Recibe aporte de la vascularización regional; no se asigna una arteria exclusiva sin respaldo.",
+        "inervacion": "Nervio glosofaríngeo (IX), según la descripción de la musculatura del aparato hioideo equino.",
+        "funcion": "Tracciona el aparato hioideo y la laringe en dirección rostrodorsal.",
+        "especie": "En el caballo es una lámina muscular fina, completamente cubierta por el hiogloso, que ocupa el espacio angular entre los elementos ceratohioideo y tirohioideo.",
+        "clinica": "Su posición profunda y su cobertura por el hiogloso son referencias importantes en la disección del aparato hioideo y en la interpretación de lesiones de esta región.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Tabla de músculos del aparato hioideo.\nSultan Ahmed N. Anatomy, Part 7: Digestive System. University of Mosul; 2019."
+      }
+    },
+    {
+      "id": "equ.mus.cab.046-i",
+      "es": "Occipitohioideo (izquierdo)",
+      "la": "Musculus occipitohyoideus",
+      "sys": "mus",
+      "layer": "mpr",
+      "ficha": {
+        "ubicacion": "En la región caudolateral del aparato hioideo, entre el proceso paracondilar del occipital y el extremo caudodorsal del estilohioides, en el lado izquierdo.",
+        "descripcion": "Músculo corto y relativamente ancho que conecta la base del cráneo con el estilohioides. En el caballo presenta fascículos carnosos mezclados con fibras tendinosas.",
+        "relaciones": "Su cara profunda se adhiere estrechamente a la pared de la bolsa gutural. Se relaciona con el proceso paracondilar del occipital, el estilohioides y el vientre caudal del digástrico.",
+        "accidentes": "Proceso paracondilar (yugular) del occipital; extremo caudodorsal del estilohioides.",
+        "articulaciones": "No forma una articulación. Su acción modifica la posición relativa de los componentes del aparato hioideo, la lengua o la laringe.",
+        "inserciones": "Origen: proceso paracondilar del occipital. Inserción: extremo caudodorsal del estilohioides.",
+        "irrigacion": "La irrigación arterial específica no está descrita de forma suficientemente detallada en las fuentes equinas consultadas. Recibe aporte de la vascularización regional; no se asigna una arteria exclusiva sin respaldo.",
+        "inervacion": "Rama del nervio facial (VII).",
+        "funcion": "Desciende la raíz de la lengua y la laringe; moviliza el estilohioides y contribuye al desplazamiento caudoventral del aparato hioideo.",
+        "especie": "En el caballo es relativamente ancho; su cara profunda está adherida a la bolsa gutural. Esta relación topográfica se utiliza como referencia anatómica de la región.",
+        "clinica": "La íntima relación con la bolsa gutural es clínicamente importante en procedimientos y enfermedades de esta cavidad. Debe considerarse en abordajes y en la interpretación de adherencias o lesiones locales.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Tabla de músculos del aparato hioideo.\nBarone R. Anatomie comparée des mammifères domestiques. Tome 2: Arthrologie et myologie. Particularités des Équidés."
+      }
+    },
+    {
+      "id": "equ.mus.cab.046-d",
+      "es": "Occipitohioideo (derecho)",
+      "la": "Musculus occipitohyoideus",
+      "sys": "mus",
+      "layer": "mpr",
+      "ficha": {
+        "ubicacion": "En la región caudolateral del aparato hioideo, entre el proceso paracondilar del occipital y el extremo caudodorsal del estilohioides, en el lado derecho.",
+        "descripcion": "Músculo corto y relativamente ancho que conecta la base del cráneo con el estilohioides. En el caballo presenta fascículos carnosos mezclados con fibras tendinosas.",
+        "relaciones": "Su cara profunda se adhiere estrechamente a la pared de la bolsa gutural. Se relaciona con el proceso paracondilar del occipital, el estilohioides y el vientre caudal del digástrico.",
+        "accidentes": "Proceso paracondilar (yugular) del occipital; extremo caudodorsal del estilohioides.",
+        "articulaciones": "No forma una articulación. Su acción modifica la posición relativa de los componentes del aparato hioideo, la lengua o la laringe.",
+        "inserciones": "Origen: proceso paracondilar del occipital. Inserción: extremo caudodorsal del estilohioides.",
+        "irrigacion": "La irrigación arterial específica no está descrita de forma suficientemente detallada en las fuentes equinas consultadas. Recibe aporte de la vascularización regional; no se asigna una arteria exclusiva sin respaldo.",
+        "inervacion": "Rama del nervio facial (VII).",
+        "funcion": "Desciende la raíz de la lengua y la laringe; moviliza el estilohioides y contribuye al desplazamiento caudoventral del aparato hioideo.",
+        "especie": "En el caballo es relativamente ancho; su cara profunda está adherida a la bolsa gutural. Esta relación topográfica se utiliza como referencia anatómica de la región.",
+        "clinica": "La íntima relación con la bolsa gutural es clínicamente importante en procedimientos y enfermedades de esta cavidad. Debe considerarse en abordajes y en la interpretación de adherencias o lesiones locales.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Tabla de músculos del aparato hioideo.\nBarone R. Anatomie comparée des mammifères domestiques. Tome 2: Arthrologie et myologie. Particularités des Équidés."
+      }
+    },
+    {
+      "id": "equ.mus.cab.047",
+      "es": "Hioideo transverso",
+      "la": "Musculus hyoideus transversus",
+      "sys": "mus",
+      "layer": "mpr",
+      "ficha": {
+        "ubicacion": "En la región dorsal del aparato hioideo, entre los ceratohioides derecho e izquierdo, próximo a la raíz de la lengua.",
+        "descripcion": "Pequeño músculo transversal que conecta ambos ceratohioides. Sus fibras se aproximan a la línea media y se continúan mediante un rafe o tendón medio poco definido.",
+        "relaciones": "Se relaciona con los ceratohioides de ambos lados y con la musculatura de la raíz de la lengua, incluida la región del hiogloso.",
+        "accidentes": "Ceratohioides derecho e izquierdo; rafe o tendón medio de unión.",
+        "articulaciones": "No forma una articulación. Su acción modifica la posición relativa de los componentes del aparato hioideo, la lengua o la laringe.",
+        "inserciones": "Origen: ceratohioides. Inserción: rafe medio, donde se une con el músculo del lado opuesto.",
+        "irrigacion": "La irrigación arterial específica no está descrita de forma suficientemente detallada en las fuentes equinas consultadas. Recibe aporte de la vascularización regional; no se asigna una arteria exclusiva sin respaldo.",
+        "inervacion": "Nervio glosofaríngeo (IX), según la descripción equina de los músculos del aparato hioideo.",
+        "funcion": "Eleva la raíz de la lengua.",
+        "especie": "En el caballo está bien desarrollado y conecta transversalmente los dos ceratohioides mediante un tendón medio poco conspicuo.",
+        "clinica": "Contribuye a la elevación de la raíz lingual y a la mecánica de la deglución. Su disposición transversal debe tenerse en cuenta al estudiar la región profunda de la lengua.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Tabla de músculos del aparato hioideo.\nSultan Ahmed N. Anatomy, Part 7: Digestive System. University of Mosul; 2019."
+      }
+    },
+    {
+      "id": "equ.mus.cab.048-i",
+      "es": "Depresor del labio superior (izquierdo)",
+      "la": "Musculus depressor labii superioris",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cab.048-d",
+      "es": "Depresor del labio superior (derecho)",
+      "la": "Musculus depressor labii superioris",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cab.049-i",
+      "es": "Transverso de la nariz (izquierdo)",
+      "la": "Musculus transversus nasi",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cab.049-d",
+      "es": "Transverso de la nariz (derecho)",
+      "la": "Musculus transversus nasi",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.lar.006-i",
+      "es": "Tiroaritenoideo, porción vocal rostral (izquierdo)",
+      "la": "Musculus thyroarytenoideus, pars vocalis rostralis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.lar.006-d",
+      "es": "Tiroaritenoideo, porción vocal rostral (derecho)",
+      "la": "Musculus thyroarytenoideus, pars vocalis rostralis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.lar.007-i",
+      "es": "Tiroaritenoideo, porción vocal caudal (izquierdo)",
+      "la": "Musculus thyroarytenoideus, pars vocalis caudalis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.lar.007-d",
+      "es": "Tiroaritenoideo, porción vocal caudal (derecho)",
+      "la": "Musculus thyroarytenoideus, pars vocalis caudalis",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.lar.008",
+      "es": "Hioepiglótico",
+      "la": "Musculus hyoepiglotticus",
+      "sys": "mus",
+      "layer": "mpr",
+      "ficha": {
+        "ubicacion": "En la región ventral de la laringe, entre el basihioides y la superficie ventral del cuerpo del cartílago epiglótico. Es un músculo impar en el registro del atlas, aunque anatómicamente se describe como bilobulado.",
+        "descripcion": "Músculo extrínseco de la laringe, bilobulado, que conecta el basihioides con la epiglotis. Es el único músculo que se inserta directamente en el cartílago epiglótico.",
+        "relaciones": "Se relaciona con el basihioides, el ligamento hioepiglótico y la superficie ventral del cuerpo de la epiglotis. Sus fascículos derecho e izquierdo se disponen a ambos lados de la línea media.",
+        "accidentes": "Basihioides; base de la superficie rostral/ventral del cartílago epiglótico; ligamento hioepiglótico como relación ligamentosa.",
+        "articulaciones": "No forma una articulación. Su acción modifica la posición relativa de los componentes del aparato hioideo, la lengua o la laringe.",
+        "inserciones": "Origen: basihioides. Inserción: superficie ventral del cuerpo del cartílago epiglótico, mediante una zona de fijación alargada.",
+        "irrigacion": "La irrigación arterial específica no está descrita de forma suficientemente detallada en las fuentes equinas consultadas. Recibe aporte de la vascularización regional; no se asigna una arteria exclusiva sin respaldo.",
+        "inervacion": "Rama del nervio hipogloso (XII), según la disección de los nervios del aparato hioideo equino.",
+        "funcion": "Tracciona la epiglotis hacia el basihioides y la desplaza rostroventralmente, modificando su posición respecto al paladar blando y la entrada laríngea.",
+        "especie": "En el caballo es bilobulado y se origina en el basihioides. Estudios anatómicos en cadáveres equinos describieron una inserción ventral en el cuerpo epiglótico de aproximadamente 12–15 mm de longitud y 8–10 mm de anchura.",
+        "clinica": "Su inserción puede palparse durante el examen oral de caballos anestesiados. Su función influye en la posición epiglótica y en la configuración de la vía aérea superior.",
+        "referencias": "Holcombe SJ, et al. Hyoepiglotticus muscle in horses: anatomical observations. Am J Vet Res. 2002;63(12):1617–1621. https://avmajournals.avma.org/downloadpdf/journals/ajvr/63/12/ajvr.2002.63.1617.pdf\nDucharme NG, et al. Role of the hypoglossal nerve in equine nasopharyngeal stability. J Appl Physiol. 2009. https://journals.physiology.org/doi/full/10.1152/japplphysiol.91177.2008\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Tabla de músculos del aparato hioideo."
+      }
+    },
+    {
+      "id": "equ.mus.far.005-i",
+      "es": "Pterigofaríngeo (izquierdo)",
+      "la": "Musculus pterygopharyngeus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.far.005-d",
+      "es": "Pterigofaríngeo (derecho)",
+      "la": "Musculus pterygopharyngeus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.far.006-i",
+      "es": "Tirofaríngeo (izquierdo)",
+      "la": "Musculus thyropharyngeus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.far.006-d",
+      "es": "Tirofaríngeo (derecho)",
+      "la": "Musculus thyropharyngeus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.far.007-i",
+      "es": "Cricofaríngeo (izquierdo)",
+      "la": "Musculus cricopharyngeus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.far.007-d",
+      "es": "Cricofaríngeo (derecho)",
+      "la": "Musculus cricopharyngeus",
+      "sys": "mus",
+      "layer": "mpr"
+    },
+    {
+      "id": "equ.mus.fas.001-i",
+      "es": "Fascia temporal (izquierda)",
+      "la": "Fascia temporalis",
+      "sys": "mus",
+      "layer": "fas"
+    },
+    {
+      "id": "equ.mus.fas.001-d",
+      "es": "Fascia temporal (derecha)",
+      "la": "Fascia temporalis",
+      "sys": "mus",
+      "layer": "fas"
+    },
+    {
+      "id": "equ.mus.fas.002-i",
+      "es": "Fascia parotideomasetérica (izquierda)",
+      "la": "Fascia parotideomasseterica",
+      "sys": "mus",
+      "layer": "fas"
+    },
+    {
+      "id": "equ.mus.fas.002-d",
+      "es": "Fascia parotideomasetérica (derecha)",
+      "la": "Fascia parotideomasseterica",
+      "sys": "mus",
+      "layer": "fas"
+    },
+    {
+      "id": "equ.mus.fas.003-i",
+      "es": "Fascia bucofaríngea (izquierda)",
+      "la": "Fascia buccopharyngea",
+      "sys": "mus",
+      "layer": "fas"
+    },
+    {
+      "id": "equ.mus.fas.003-d",
+      "es": "Fascia bucofaríngea (derecha)",
+      "la": "Fascia buccopharyngea",
+      "sys": "mus",
+      "layer": "fas"
+    },
+    {
+      "id": "equ.mus.fas.004",
+      "es": "Fascia faringobasilar",
+      "la": "Fascia pharyngobasilaris",
+      "sys": "mus",
+      "layer": "fas"
+    },
+    {
+      "id": "equ.mus.fas.005-i",
+      "es": "Fascia cervical, lámina superficial (izquierda)",
+      "la": "Fascia cervicalis, lamina superficialis",
+      "sys": "mus",
+      "layer": "fas"
+    },
+    {
+      "id": "equ.mus.fas.005-d",
+      "es": "Fascia cervical, lámina superficial (derecha)",
+      "la": "Fascia cervicalis, lamina superficialis",
+      "sys": "mus",
+      "layer": "fas"
+    },
+    {
+      "id": "equ.mus.fas.006-i",
+      "es": "Fascia axilar (izquierda)",
+      "la": "Fascia axillaris",
+      "sys": "mus",
+      "layer": "fas"
+    },
+    {
+      "id": "equ.mus.fas.006-d",
+      "es": "Fascia axilar (derecha)",
+      "la": "Fascia axillaris",
+      "sys": "mus",
+      "layer": "fas"
+    },
+    {
+      "id": "equ.mus.fas.007-i",
+      "es": "Fascia endotorácica (izquierda)",
+      "la": "Fascia endothoracica",
+      "sys": "mus",
+      "layer": "fas"
+    },
+    {
+      "id": "equ.mus.fas.007-d",
+      "es": "Fascia endotorácica (derecha)",
+      "la": "Fascia endothoracica",
+      "sys": "mus",
+      "layer": "fas"
+    },
+    {
+      "id": "equ.mus.fas.008-i",
+      "es": "Fascia transversal (izquierda)",
+      "la": "Fascia transversalis",
+      "sys": "mus",
+      "layer": "fas"
+    },
+    {
+      "id": "equ.mus.fas.008-d",
+      "es": "Fascia transversal (derecha)",
+      "la": "Fascia transversalis",
+      "sys": "mus",
+      "layer": "fas"
+    },
+    {
+      "id": "equ.mus.fas.009-i",
+      "es": "Fascia ilíaca (izquierda)",
+      "la": "Fascia iliaca",
+      "sys": "mus",
+      "layer": "fas"
+    },
+    {
+      "id": "equ.mus.fas.009-d",
+      "es": "Fascia ilíaca (derecha)",
+      "la": "Fascia iliaca",
+      "sys": "mus",
+      "layer": "fas"
+    },
+    {
+      "id": "equ.mus.fas.010-i",
+      "es": "Fascia glútea (izquierda)",
+      "la": "Fascia glutea",
+      "sys": "mus",
+      "layer": "fas"
+    },
+    {
+      "id": "equ.mus.fas.010-d",
+      "es": "Fascia glútea (derecha)",
+      "la": "Fascia glutea",
+      "sys": "mus",
+      "layer": "fas"
+    },
+    {
+      "id": "equ.mus.fas.011-i",
+      "es": "Fascia del diafragma pélvico, superior (izquierda)",
+      "la": "Fascia diaphragmatis pelvis superior",
+      "sys": "mus",
+      "layer": "fas"
+    },
+    {
+      "id": "equ.mus.fas.011-d",
+      "es": "Fascia del diafragma pélvico, superior (derecha)",
+      "la": "Fascia diaphragmatis pelvis superior",
+      "sys": "mus",
+      "layer": "fas"
+    },
+    {
+      "id": "equ.mus.fas.012-i",
+      "es": "Fascia del diafragma pélvico, inferior (izquierda)",
+      "la": "Fascia diaphragmatis pelvis inferior",
+      "sys": "mus",
+      "layer": "fas"
+    },
+    {
+      "id": "equ.mus.fas.012-d",
+      "es": "Fascia del diafragma pélvico, inferior (derecha)",
+      "la": "Fascia diaphragmatis pelvis inferior",
+      "sys": "mus",
+      "layer": "fas"
+    },
+    {
+      "id": "equ.mus.fas.013-i",
+      "es": "Fascia braquial (izquierda)",
+      "la": "Fascia brachii",
+      "sys": "mus",
+      "layer": "fas"
+    },
+    {
+      "id": "equ.mus.fas.013-d",
+      "es": "Fascia braquial (derecha)",
+      "la": "Fascia brachii",
+      "sys": "mus",
+      "layer": "fas"
+    },
+    {
+      "id": "equ.mus.fas.014-i",
+      "es": "Fascia antebraquial (izquierda)",
+      "la": "Fascia antebrachii",
+      "sys": "mus",
+      "layer": "fas"
+    },
+    {
+      "id": "equ.mus.fas.014-d",
+      "es": "Fascia antebraquial (derecha)",
+      "la": "Fascia antebrachii",
+      "sys": "mus",
+      "layer": "fas"
+    },
+    {
+      "id": "equ.mus.fas.015-i",
+      "es": "Retináculo flexor del carpo (izquierdo)",
+      "la": "Retinaculum flexorum carpi",
+      "sys": "mus",
+      "layer": "fas"
+    },
+    {
+      "id": "equ.mus.fas.015-d",
+      "es": "Retináculo flexor del carpo (derecho)",
+      "la": "Retinaculum flexorum carpi",
+      "sys": "mus",
+      "layer": "fas"
+    },
+    {
+      "id": "equ.mus.fas.016-i",
+      "es": "Retináculo extensor del carpo (izquierdo)",
+      "la": "Retinaculum extensorum carpi",
+      "sys": "mus",
+      "layer": "fas"
+    },
+    {
+      "id": "equ.mus.fas.016-d",
+      "es": "Retináculo extensor del carpo (derecho)",
+      "la": "Retinaculum extensorum carpi",
+      "sys": "mus",
+      "layer": "fas"
+    },
+    {
+      "id": "equ.mus.fas.017-i",
+      "es": "Fascia lata (izquierda)",
+      "la": "Fascia lata",
+      "sys": "mus",
+      "layer": "fas"
+    },
+    {
+      "id": "equ.mus.fas.017-d",
+      "es": "Fascia lata (derecha)",
+      "la": "Fascia lata",
+      "sys": "mus",
+      "layer": "fas"
+    },
+    {
+      "id": "equ.mus.fas.018-i",
+      "es": "Fascia crural (izquierda)",
+      "la": "Fascia cruris",
+      "sys": "mus",
+      "layer": "fas"
+    },
+    {
+      "id": "equ.mus.fas.018-d",
+      "es": "Fascia crural (derecha)",
+      "la": "Fascia cruris",
+      "sys": "mus",
+      "layer": "fas"
+    },
+    {
+      "id": "equ.mus.fas.019-i",
+      "es": "Retináculo flexor del tarso (izquierdo)",
+      "la": "Retinaculum flexorum tarsi",
+      "sys": "mus",
+      "layer": "fas"
+    },
+    {
+      "id": "equ.mus.fas.019-d",
+      "es": "Retináculo flexor del tarso (derecho)",
+      "la": "Retinaculum flexorum tarsi",
+      "sys": "mus",
+      "layer": "fas"
+    },
+    {
+      "id": "equ.mus.fas.020-i",
+      "es": "Retináculo extensor del tarso (izquierdo)",
+      "la": "Retinaculum extensorum tarsi",
+      "sys": "mus",
+      "layer": "fas"
+    },
+    {
+      "id": "equ.mus.fas.020-d",
+      "es": "Retináculo extensor del tarso (derecho)",
+      "la": "Retinaculum extensorum tarsi",
+      "sys": "mus",
+      "layer": "fas"
+    }
+  ],
+  "verificaciones": [
+    {
+      "tipo": "extraccion_y_migracion",
+      "estado": "verificada",
+      "fecha": "2026-11-21",
+      "total_estructuras": 570,
+      "distribucion_por_capa": {
+        "msu": 133,
+        "mpr": 393,
+        "fas": 44
+      },
+      "ids_unicos": true,
+      "fichas_con_revision_individual": 0,
+      "fichas_con_estado_verificado": 0,
+      "fuente_preservada_sin_modificaciones": true,
+      "alcance": "Verifica la correspondencia de los registros migrados con la fuente canónica y la integridad del JSON. No equivale a la auditoría anatómica completa ni declara verificado el sistema muscular."
+    }
+  ]
 }
