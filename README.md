@@ -1,23 +1,35 @@
 # ProClaVet-core
 
-Repositorio principal de **ProClaVet / VETANATOMY 3D**. Organiza el catálogo anatómico equino por sistemas, con datos, esquemas de validación y documentación separados.
+Repositorio principal de **ProClaVet / VETANATOMY 3D**. Contiene el catálogo anatómico equino organizado por sistemas, la aplicación web, esquemas de validación y documentación.
 
 ## Estado de la migración
 
-**Estado:** extracción estructural completada.
+**Datos:** extracción estructural completada. **Aplicación:** integración web inicial incorporada; pendiente de validación funcional en GitHub Pages.
 
-- Fuente canónica: `ronaldpsantonio-creator/ProClaVet-preview/data/equino.json`, rama `main`.
-- Blob de la fuente: `63516b9713f2beb4ad5011441b90172b981c4d8e`.
-- Inventario extraído: **3.881 registros**, **3.881 IDs únicos**, distribuidos en **12 archivos**.
-- Los repositorios `ProClaVet` y `ProClaVet-preview` se mantienen intactos.
-- La extracción y su integridad están verificadas; esto **no** significa que todas las fichas anatómicas estén completas ni que todos los sistemas hayan superado su auditoría anatómica.
+- Fuente canónica de datos: `ronaldpsantonio-creator/ProClaVet-preview/data/equino.json`, rama `main`.
+- Blob fuente: `63516b9713f2beb4ad5011441b90172b981c4d8e`.
+- Inventario: **3.881 registros**, **3.881 IDs únicos**, distribuidos en **12 archivos JSON**.
+- La aplicación carga los 12 archivos en memoria sin recombinarlos ni alterar su contenido.
+- `ProClaVet` y `ProClaVet-preview` permanecen intactos.
+- La integridad de extracción no certifica la exactitud anatómica de todas las fichas ni la auditoría de todos los sistemas.
+
+## Aplicación web
+
+- `index.html`: entrada de VetAnatomy 3D.
+- `css/styles.css`: estilos adaptables a móvil y escritorio.
+- `js/app.js`: visor Three.js, filtros, fichas, capas y autoevaluación; adaptado a los 12 catálogos.
+- `manifest.webmanifest` y `sw.js`: metadatos PWA y caché de recursos.
+- `assets/laminas/`: láminas SVG del atlas equino C1 y axis C2.
+- `icons/`: icono PWA.
+
+GitHub Pages publica contenido estático. Los modelos GLB solo se mostrarán cuando existan archivos válidos en las rutas declaradas por cada registro; el visor conserva representaciones esquemáticas provisionales donde corresponda.
 
 ## Distribución de los 12 archivos
 
 | Archivo | Registros |
 |---|---:|
-| `sistema_esqueletico.json` | 221 (219 óseos + 2 cartílagos del aparato hioideo) |
-| `sistema_articular.json` | 158 (152 musculoesqueléticos + 6 respiratorios) |
+| `sistema_esqueletico.json` | 221 |
+| `sistema_articular.json` | 158 |
 | `sistema_muscular.json` | 570 |
 | `sistema_digestivo.json` | 141 |
 | `sistema_respiratorio.json` | 157 |
@@ -30,7 +42,7 @@ Repositorio principal de **ProClaVet / VETANATOMY 3D**. Organiza el catálogo an
 | `sistema_sensorial.json` | 210 |
 | **Total** | **3.881** |
 
-Las seis estructuras `res/art` se alojan en el archivo articular; por eso el respiratorio contiene 157 registros. Las dos entradas `ske/org` del cartílago timpanohioideo se conservan en el archivo esquelético sin incorporarlas al conteo osteológico verificado.
+Las seis estructuras `res/art` se alojan en el archivo articular. Los dos cartílagos timpanohioideos se conservan en el archivo esquelético sin incorporarlos al conteo osteológico verificado.
 
 ## Estado de las fichas
 
@@ -47,10 +59,10 @@ En la fuente hay 395 registros con ficha, 69 con estado individual `verificada` 
 
 ## Próximas etapas
 
-1. Auditar anatómicamente cada sistema y sus fichas.
-2. Completar y revisar las relaciones bilaterales pendientes.
-3. Validar referencias, nomenclatura, jerarquía y clasificación.
-4. Integrar la aplicación y comprobar su funcionamiento con los datos organizados.
+1. Validar la carga de los 12 archivos y el visor en Pages.
+2. Probar navegación, fichas, filtros, caché offline y diseño móvil.
+3. Incorporar y verificar los modelos GLB disponibles.
+4. Auditar anatómicamente cada sistema y sus fichas.
 5. Declarar este repositorio como versión oficial solo después de la validación funcional y autorización correspondiente.
 
-Consulta `docs/migracion.md` para el inventario, las reglas de extracción y los controles ejecutados.
+Consulta `docs/migracion.md` para el inventario y los controles de extracción.
