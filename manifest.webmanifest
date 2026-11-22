@@ -1,0 +1,8 @@
+{
+  "name": "ProClaVet · VetAnatomy 3D",
+  "short_name": "ProClaVet",
+  "description": "Atlas veterinario equino tridimensional e interactivo",
+  "start_url": "./", "scope": "./", "display": "standalone",
+  "background_color": "#10161c", "theme_color": "#0f766e", "lang": "es",
+  "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" }]
+}
