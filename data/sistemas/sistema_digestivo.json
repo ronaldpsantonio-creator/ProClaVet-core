@@ -4,8 +4,1024 @@
     "codigo": "dig",
     "nombre": "Sistema digestivo"
   },
-  "estado": "plantilla_pendiente_de_migracion",
-  "fuente": null,
-  "estructuras": [],
-  "verificaciones": []
+  "estado": "migrado_pendiente_de_auditoria",
+  "fuente": {
+    "repositorio": "ronaldpsantonio-creator/ProClaVet-preview",
+    "archivo": "data/equino.json",
+    "blob_sha": "63516b9713f2beb4ad5011441b90172b981c4d8e",
+    "criterio_extraccion": {
+      "sys": "dig"
+    },
+    "distribucion_por_capa": {
+      "org": 107,
+      "cav": 34
+    },
+    "fecha_extraccion": "2026-11-21"
+  },
+  "estructuras": [
+    {
+      "id": "equ.dig.boc.001",
+      "es": "Labio superior",
+      "la": "Labium superius",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.boc.002",
+      "es": "Labio inferior",
+      "la": "Labium inferius",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.boc.003-i",
+      "es": "Mejilla (izquierdo)",
+      "la": "Bucca",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.boc.003-d",
+      "es": "Mejilla (derecho)",
+      "la": "Bucca",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.boc.004",
+      "es": "Encía",
+      "la": "Gingiva",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.boc.005",
+      "es": "Paladar duro",
+      "la": "Palatum durum",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.boc.006",
+      "es": "Paladar blando",
+      "la": "Palatum molle",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.boc.007",
+      "es": "Lengua",
+      "la": "Lingua",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.boc.008-i",
+      "es": "Espacio interdental (diastema) (izquierdo)",
+      "la": "Diastema",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.boc.008-d",
+      "es": "Espacio interdental (diastema) (derecho)",
+      "la": "Diastema",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.boc.009-i",
+      "es": "Glándula parótida (izquierdo)",
+      "la": "Glandula parotis",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.boc.009-d",
+      "es": "Glándula parótida (derecho)",
+      "la": "Glandula parotis",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.boc.010-i",
+      "es": "Glándula mandibular (izquierdo)",
+      "la": "Glandula mandibularis",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.boc.010-d",
+      "es": "Glándula mandibular (derecho)",
+      "la": "Glandula mandibularis",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.boc.011-i",
+      "es": "Glándula sublingual (izquierdo)",
+      "la": "Glandula sublingualis",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.boc.011-d",
+      "es": "Glándula sublingual (derecho)",
+      "la": "Glandula sublingualis",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.boc.012-i",
+      "es": "Conducto parotídeo (izquierdo)",
+      "la": "Ductus parotideus",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.boc.012-d",
+      "es": "Conducto parotídeo (derecho)",
+      "la": "Ductus parotideus",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.boc.013-i",
+      "es": "Conducto mandibular (izquierdo)",
+      "la": "Ductus mandibularis",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.boc.013-d",
+      "es": "Conducto mandibular (derecho)",
+      "la": "Ductus mandibularis",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.fae.001",
+      "es": "Faringe",
+      "la": "Pharynx",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.eso.001",
+      "es": "Esófago, porción cervical",
+      "la": "Oesophagus, pars cervicalis",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.eso.002",
+      "es": "Esófago, porción torácica",
+      "la": "Oesophagus, pars thoracica",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.eso.003",
+      "es": "Esófago, porción abdominal",
+      "la": "Oesophagus, pars abdominalis",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.est.001",
+      "es": "Estómago",
+      "la": "Gaster",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.est.002",
+      "es": "Región no glandular del estómago",
+      "la": "Pars non glandularis",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.est.003",
+      "es": "Región glandular del estómago",
+      "la": "Pars glandularis",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.est.004",
+      "es": "Margo plicatus",
+      "la": "Margo plicatus",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.est.005",
+      "es": "Cardias",
+      "la": "Cardia",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.est.006",
+      "es": "Píloro",
+      "la": "Pylorus",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.int.001",
+      "es": "Duodeno",
+      "la": "Duodenum",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.int.002",
+      "es": "Yeyuno",
+      "la": "Jejunum",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.int.003",
+      "es": "Íleon",
+      "la": "Ileum",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.cie.001",
+      "es": "Ciego",
+      "la": "Caecum",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.cie.002",
+      "es": "Ciego, base",
+      "la": "Basis caeci",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.cie.003",
+      "es": "Ciego, cuerpo",
+      "la": "Corpus caeci",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.cie.004",
+      "es": "Ciego, ápice",
+      "la": "Apex caeci",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.col.001",
+      "es": "Colon mayor (ascendente)",
+      "la": "Colon ascendens",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.col.002",
+      "es": "Colon ventral derecho",
+      "la": "Colon ventrale dextrum",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.col.003",
+      "es": "Flexura esternal",
+      "la": "Flexura sternalis (flexura diaphragmatica ventralis)",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.col.004",
+      "es": "Colon ventral izquierdo",
+      "la": "Colon ventrale sinistrum",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.col.005",
+      "es": "Flexura pélvica",
+      "la": "Flexura pelvina",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.col.006",
+      "es": "Colon dorsal izquierdo",
+      "la": "Colon dorsale sinistrum",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.col.007",
+      "es": "Flexura diafragmática",
+      "la": "Flexura diaphragmatica (flexura diaphragmatica dorsalis)",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.col.008",
+      "es": "Colon dorsal derecho",
+      "la": "Colon dorsale dextrum",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.col.009",
+      "es": "Colon transverso",
+      "la": "Colon transversum",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.col.010",
+      "es": "Colon menor (descendente)",
+      "la": "Colon descendens",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.rec.001",
+      "es": "Recto",
+      "la": "Rectum",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.rec.002",
+      "es": "Conducto anal",
+      "la": "Canalis analis",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.rec.003",
+      "es": "Ano",
+      "la": "Anus",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.hig.001",
+      "es": "Hígado",
+      "la": "Hepar",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.hig.002",
+      "es": "Lóbulo izquierdo lateral del hígado",
+      "la": "Lobus hepatis sinister lateralis",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.hig.003",
+      "es": "Lóbulo izquierdo medial del hígado",
+      "la": "Lobus hepatis sinister medialis",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.hig.004",
+      "es": "Lóbulo cuadrado del hígado",
+      "la": "Lobus quadratus",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.hig.005",
+      "es": "Lóbulo derecho del hígado",
+      "la": "Lobus hepatis dexter",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.hig.006",
+      "es": "Lóbulo caudado del hígado",
+      "la": "Lobus caudatus",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.hig.007",
+      "es": "Proceso caudado",
+      "la": "Processus caudatus",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.hig.008",
+      "es": "Proceso papilar",
+      "la": "Processus papillaris",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.hig.009",
+      "es": "Conducto colédoco",
+      "la": "Ductus choledochus",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.pan.001",
+      "es": "Páncreas",
+      "la": "Pancreas",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.den.001-i",
+      "es": "Incisivo 1 superior (pinza) (izquierdo)",
+      "la": "Dens incisivus primus, maxillaris",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.den.001-d",
+      "es": "Incisivo 1 superior (pinza) (derecho)",
+      "la": "Dens incisivus primus, maxillaris",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.den.002-i",
+      "es": "Incisivo 2 superior (mediano) (izquierdo)",
+      "la": "Dens incisivus secundus, maxillaris",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.den.002-d",
+      "es": "Incisivo 2 superior (mediano) (derecho)",
+      "la": "Dens incisivus secundus, maxillaris",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.den.003-i",
+      "es": "Incisivo 3 superior (extremo) (izquierdo)",
+      "la": "Dens incisivus tertius, maxillaris",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.den.003-d",
+      "es": "Incisivo 3 superior (extremo) (derecho)",
+      "la": "Dens incisivus tertius, maxillaris",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.den.004-i",
+      "es": "Canino superior (variable) (izquierdo)",
+      "la": "Dens caninus, maxillaris",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.den.004-d",
+      "es": "Canino superior (variable) (derecho)",
+      "la": "Dens caninus, maxillaris",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.den.005-i",
+      "es": "Premolar 1 superior (diente de lobo, variable) (izquierdo)",
+      "la": "Dens praemolaris primus, maxillaris",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.den.005-d",
+      "es": "Premolar 1 superior (diente de lobo, variable) (derecho)",
+      "la": "Dens praemolaris primus, maxillaris",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.den.006-i",
+      "es": "Premolar 2 superior (izquierdo)",
+      "la": "Dens praemolaris secundus, maxillaris",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.den.006-d",
+      "es": "Premolar 2 superior (derecho)",
+      "la": "Dens praemolaris secundus, maxillaris",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.den.007-i",
+      "es": "Premolar 3 superior (izquierdo)",
+      "la": "Dens praemolaris tertius, maxillaris",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.den.007-d",
+      "es": "Premolar 3 superior (derecho)",
+      "la": "Dens praemolaris tertius, maxillaris",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.den.008-i",
+      "es": "Premolar 4 superior (izquierdo)",
+      "la": "Dens praemolaris quartus, maxillaris",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.den.008-d",
+      "es": "Premolar 4 superior (derecho)",
+      "la": "Dens praemolaris quartus, maxillaris",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.den.009-i",
+      "es": "Molar 1 superior (izquierdo)",
+      "la": "Dens molaris primus, maxillaris",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.den.009-d",
+      "es": "Molar 1 superior (derecho)",
+      "la": "Dens molaris primus, maxillaris",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.den.010-i",
+      "es": "Molar 2 superior (izquierdo)",
+      "la": "Dens molaris secundus, maxillaris",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.den.010-d",
+      "es": "Molar 2 superior (derecho)",
+      "la": "Dens molaris secundus, maxillaris",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.den.011-i",
+      "es": "Molar 3 superior (izquierdo)",
+      "la": "Dens molaris tertius, maxillaris",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.den.011-d",
+      "es": "Molar 3 superior (derecho)",
+      "la": "Dens molaris tertius, maxillaris",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.den.012-i",
+      "es": "Incisivo 1 inferior (pinza) (izquierdo)",
+      "la": "Dens incisivus primus, mandibularis",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.den.012-d",
+      "es": "Incisivo 1 inferior (pinza) (derecho)",
+      "la": "Dens incisivus primus, mandibularis",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.den.013-i",
+      "es": "Incisivo 2 inferior (mediano) (izquierdo)",
+      "la": "Dens incisivus secundus, mandibularis",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.den.013-d",
+      "es": "Incisivo 2 inferior (mediano) (derecho)",
+      "la": "Dens incisivus secundus, mandibularis",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.den.014-i",
+      "es": "Incisivo 3 inferior (extremo) (izquierdo)",
+      "la": "Dens incisivus tertius, mandibularis",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.den.014-d",
+      "es": "Incisivo 3 inferior (extremo) (derecho)",
+      "la": "Dens incisivus tertius, mandibularis",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.den.015-i",
+      "es": "Canino inferior (variable) (izquierdo)",
+      "la": "Dens caninus, mandibularis",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.den.015-d",
+      "es": "Canino inferior (variable) (derecho)",
+      "la": "Dens caninus, mandibularis",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.den.016-i",
+      "es": "Premolar 1 inferior (diente de lobo, variable) (izquierdo)",
+      "la": "Dens praemolaris primus, mandibularis",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.den.016-d",
+      "es": "Premolar 1 inferior (diente de lobo, variable) (derecho)",
+      "la": "Dens praemolaris primus, mandibularis",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.den.017-i",
+      "es": "Premolar 2 inferior (izquierdo)",
+      "la": "Dens praemolaris secundus, mandibularis",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.den.017-d",
+      "es": "Premolar 2 inferior (derecho)",
+      "la": "Dens praemolaris secundus, mandibularis",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.den.018-i",
+      "es": "Premolar 3 inferior (izquierdo)",
+      "la": "Dens praemolaris tertius, mandibularis",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.den.018-d",
+      "es": "Premolar 3 inferior (derecho)",
+      "la": "Dens praemolaris tertius, mandibularis",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.den.019-i",
+      "es": "Premolar 4 inferior (izquierdo)",
+      "la": "Dens praemolaris quartus, mandibularis",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.den.019-d",
+      "es": "Premolar 4 inferior (derecho)",
+      "la": "Dens praemolaris quartus, mandibularis",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.den.020-i",
+      "es": "Molar 1 inferior (izquierdo)",
+      "la": "Dens molaris primus, mandibularis",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.den.020-d",
+      "es": "Molar 1 inferior (derecho)",
+      "la": "Dens molaris primus, mandibularis",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.den.021-i",
+      "es": "Molar 2 inferior (izquierdo)",
+      "la": "Dens molaris secundus, mandibularis",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.den.021-d",
+      "es": "Molar 2 inferior (derecho)",
+      "la": "Dens molaris secundus, mandibularis",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.den.022-i",
+      "es": "Molar 3 inferior (izquierdo)",
+      "la": "Dens molaris tertius, mandibularis",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.den.022-d",
+      "es": "Molar 3 inferior (derecho)",
+      "la": "Dens molaris tertius, mandibularis",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.eso.004",
+      "es": "Hiato esofágico del diafragma",
+      "la": "Hiatus oesophageus",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.per.001",
+      "es": "Mesenterio (mesenterio común)",
+      "la": "Mesenterium",
+      "sys": "dig",
+      "layer": "cav"
+    },
+    {
+      "id": "equ.dig.per.002",
+      "es": "Raíz del mesenterio",
+      "la": "Radix mesenterii",
+      "sys": "dig",
+      "layer": "cav"
+    },
+    {
+      "id": "equ.dig.per.003",
+      "es": "Mesoduodeno",
+      "la": "Mesoduodenum",
+      "sys": "dig",
+      "layer": "cav"
+    },
+    {
+      "id": "equ.dig.per.004",
+      "es": "Mesoyeyuno",
+      "la": "Mesojejunum",
+      "sys": "dig",
+      "layer": "cav"
+    },
+    {
+      "id": "equ.dig.per.005",
+      "es": "Mesoíleon",
+      "la": "Mesoileum",
+      "sys": "dig",
+      "layer": "cav"
+    },
+    {
+      "id": "equ.dig.per.006",
+      "es": "Mesocolon ascendente",
+      "la": "Mesocolon ascendens",
+      "sys": "dig",
+      "layer": "cav"
+    },
+    {
+      "id": "equ.dig.per.007",
+      "es": "Mesocolon descendente",
+      "la": "Mesocolon descendens",
+      "sys": "dig",
+      "layer": "cav"
+    },
+    {
+      "id": "equ.dig.per.008",
+      "es": "Omento mayor",
+      "la": "Omentum majus",
+      "sys": "dig",
+      "layer": "cav"
+    },
+    {
+      "id": "equ.dig.per.009",
+      "es": "Omento menor",
+      "la": "Omentum minus",
+      "sys": "dig",
+      "layer": "cav"
+    },
+    {
+      "id": "equ.dig.per.010",
+      "es": "Bolsa omental",
+      "la": "Bursa omentalis",
+      "sys": "dig",
+      "layer": "cav"
+    },
+    {
+      "id": "equ.dig.per.011",
+      "es": "Foramen epiploico",
+      "la": "Foramen epiploicum",
+      "sys": "dig",
+      "layer": "cav"
+    },
+    {
+      "id": "equ.dig.per.012",
+      "es": "Ligamento gastrofrénico",
+      "la": "Ligamentum gastrophrenicum",
+      "sys": "dig",
+      "layer": "cav"
+    },
+    {
+      "id": "equ.dig.per.013",
+      "es": "Ligamento gastroesplénico",
+      "la": "Ligamentum gastrosplenicum",
+      "sys": "dig",
+      "layer": "cav"
+    },
+    {
+      "id": "equ.dig.per.014",
+      "es": "Ligamento hepatogástrico",
+      "la": "Ligamentum hepatogastricum",
+      "sys": "dig",
+      "layer": "cav"
+    },
+    {
+      "id": "equ.dig.per.015",
+      "es": "Ligamento hepatoduodenal",
+      "la": "Ligamentum hepatoduodenale",
+      "sys": "dig",
+      "layer": "cav"
+    },
+    {
+      "id": "equ.dig.per.016",
+      "es": "Ligamento falciforme del hígado",
+      "la": "Ligamentum falciforme hepatis",
+      "sys": "dig",
+      "layer": "cav"
+    },
+    {
+      "id": "equ.dig.per.017",
+      "es": "Ligamento redondo del hígado",
+      "la": "Ligamentum teres hepatis",
+      "sys": "dig",
+      "layer": "cav"
+    },
+    {
+      "id": "equ.dig.per.018",
+      "es": "Ligamento coronario del hígado",
+      "la": "Ligamentum coronarium hepatis",
+      "sys": "dig",
+      "layer": "cav"
+    },
+    {
+      "id": "equ.dig.per.019",
+      "es": "Ligamento triangular izquierdo del hígado",
+      "la": "Ligamentum triangulare sinistrum",
+      "sys": "dig",
+      "layer": "cav"
+    },
+    {
+      "id": "equ.dig.per.020",
+      "es": "Ligamento triangular derecho del hígado",
+      "la": "Ligamentum triangulare dextrum",
+      "sys": "dig",
+      "layer": "cav"
+    },
+    {
+      "id": "equ.dig.per.021",
+      "es": "Ligamento hepatorrenal",
+      "la": "Ligamentum hepatorenale",
+      "sys": "dig",
+      "layer": "cav"
+    },
+    {
+      "id": "equ.dig.per.022",
+      "es": "Pliegue ileocecal (ligamento ileocecal)",
+      "la": "Plica ileocaecalis (Ligamentum ileocaecale)",
+      "sys": "dig",
+      "layer": "cav"
+    },
+    {
+      "id": "equ.dig.per.023",
+      "es": "Pliegue cecocólico (ligamento cecocólico)",
+      "la": "Plica caecocolica (Ligamentum caecocolicum)",
+      "sys": "dig",
+      "layer": "cav"
+    },
+    {
+      "id": "equ.dig.per.024",
+      "es": "Ligamento nefroesplénico",
+      "la": "Ligamentum nephrolienale",
+      "sys": "dig",
+      "layer": "cav"
+    },
+    {
+      "id": "equ.dig.fae.002",
+      "es": "Orofaringe",
+      "la": "Pars oralis pharyngis",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.fae.003",
+      "es": "Laringofaringe",
+      "la": "Pars laryngea pharyngis",
+      "sys": "dig",
+      "layer": "org"
+    },
+    {
+      "id": "equ.dig.per.025",
+      "es": "Peritoneo",
+      "la": "Peritoneum",
+      "sys": "dig",
+      "layer": "cav"
+    },
+    {
+      "id": "equ.dig.per.026",
+      "es": "Peritoneo parietal",
+      "la": "Peritoneum parietale",
+      "sys": "dig",
+      "layer": "cav"
+    },
+    {
+      "id": "equ.dig.per.027",
+      "es": "Peritoneo visceral",
+      "la": "Peritoneum viscerale",
+      "sys": "dig",
+      "layer": "cav"
+    },
+    {
+      "id": "equ.dig.per.028",
+      "es": "Cavidad peritoneal",
+      "la": "Cavitas peritonealis",
+      "sys": "dig",
+      "layer": "cav"
+    },
+    {
+      "id": "equ.dig.per.029",
+      "es": "Cavidad abdominal",
+      "la": "Cavitas abdominalis",
+      "sys": "dig",
+      "layer": "cav"
+    },
+    {
+      "id": "equ.dig.per.030",
+      "es": "Cavidad pélvica",
+      "la": "Cavitas pelvis",
+      "sys": "dig",
+      "layer": "cav"
+    },
+    {
+      "id": "equ.dig.per.031",
+      "es": "Retroperitoneo (espacio retroperitoneal)",
+      "la": "Spatium retroperitoneale",
+      "sys": "dig",
+      "layer": "cav"
+    },
+    {
+      "id": "equ.dig.per.032",
+      "es": "Excavación rectogenital",
+      "la": "Excavatio rectogenitalis",
+      "sys": "dig",
+      "layer": "cav"
+    },
+    {
+      "id": "equ.dig.per.033",
+      "es": "Excavación vesicogenital",
+      "la": "Excavatio vesicogenitalis",
+      "sys": "dig",
+      "layer": "cav"
+    },
+    {
+      "id": "equ.dig.per.034",
+      "es": "Excavación pubovesical",
+      "la": "Excavatio pubovesicalis",
+      "sys": "dig",
+      "layer": "cav"
+    }
+  ],
+  "verificaciones": [
+    {
+      "tipo": "extraccion_y_migracion",
+      "estado": "verificada",
+      "fecha": "2026-11-21",
+      "total_estructuras": 141,
+      "distribucion_por_capa": {
+        "org": 107,
+        "cav": 34
+      },
+      "ids_unicos": true,
+      "fichas_con_revision_individual": 0,
+      "fichas_con_estado_verificado": 0,
+      "fuente_preservada_sin_modificaciones": true,
+      "alcance": "Verifica la correspondencia exacta de los registros migrados con la fuente canónica y la integridad del JSON. No equivale a la auditoría anatómica completa ni declara verificado el sistema digestivo."
+    }
+  ]
 }
