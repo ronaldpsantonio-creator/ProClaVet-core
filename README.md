@@ -4,7 +4,7 @@ Repositorio principal de **ProClaVet / VETANATOMY 3D**. Organiza el catálogo an
 
 ## Estado de la migración
 
-<badge>Extracción estructural completada</badge>
+**Estado:** extracción estructural completada.
 
 - Fuente canónica: `ronaldpsantonio-creator/ProClaVet-preview/data/equino.json`, rama `main`.
 - Blob de la fuente: `63516b9713f2beb4ad5011441b90172b981c4d8e`.
