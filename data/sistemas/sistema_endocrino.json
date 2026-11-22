@@ -4,8 +4,315 @@
     "codigo": "end",
     "nombre": "Sistema endocrino"
   },
-  "estado": "plantilla_pendiente_de_migracion",
-  "fuente": null,
-  "estructuras": [],
-  "verificaciones": []
+  "estado": "migrado_pendiente_de_auditoria",
+  "fuente": {
+    "repositorio": "ronaldpsantonio-creator/ProClaVet-preview",
+    "archivo": "data/equino.json",
+    "blob_sha": "63516b9713f2beb4ad5011441b90172b981c4d8e",
+    "criterio_extraccion": {
+      "sys": "end"
+    },
+    "distribucion_por_capa": {
+      "org": 40
+    },
+    "fecha_extraccion": "2026-11-21"
+  },
+  "estructuras": [
+    {
+      "id": "equ.end.hip.001",
+      "es": "Hipófisis (glándula pituitaria)",
+      "la": "Hypophysis; Glandula pituitaria",
+      "sys": "end",
+      "layer": "org"
+    },
+    {
+      "id": "equ.end.hip.002",
+      "es": "Adenohipófisis",
+      "la": "Adenohypophysis",
+      "sys": "end",
+      "layer": "org"
+    },
+    {
+      "id": "equ.end.hip.003",
+      "es": "Parte distal",
+      "la": "Pars distalis",
+      "sys": "end",
+      "layer": "org"
+    },
+    {
+      "id": "equ.end.hip.004",
+      "es": "Parte intermedia",
+      "la": "Pars intermedia",
+      "sys": "end",
+      "layer": "org"
+    },
+    {
+      "id": "equ.end.hip.005",
+      "es": "Parte tuberal",
+      "la": "Pars tuberalis",
+      "sys": "end",
+      "layer": "org"
+    },
+    {
+      "id": "equ.end.hip.006",
+      "es": "Neurohipófisis",
+      "la": "Neurohypophysis",
+      "sys": "end",
+      "layer": "org"
+    },
+    {
+      "id": "equ.end.hip.007",
+      "es": "Parte nerviosa (lóbulo posterior)",
+      "la": "Pars nervosa",
+      "sys": "end",
+      "layer": "org"
+    },
+    {
+      "id": "equ.end.hip.008",
+      "es": "Fosa hipofisaria",
+      "la": "Fossa hypophysialis",
+      "sys": "end",
+      "layer": "org"
+    },
+    {
+      "id": "equ.end.epi.001",
+      "es": "Epífisis (glándula pineal)",
+      "la": "Epiphysis cerebri; Glandula pinealis",
+      "sys": "end",
+      "layer": "org"
+    },
+    {
+      "id": "equ.end.tir.001",
+      "es": "Glándula tiroides",
+      "la": "Glandula thyroidea",
+      "sys": "end",
+      "layer": "org"
+    },
+    {
+      "id": "equ.end.tir.002",
+      "es": "Lóbulo (derecho)",
+      "la": "Lobus dexter",
+      "sys": "end",
+      "layer": "org"
+    },
+    {
+      "id": "equ.end.tir.003",
+      "es": "Lóbulo (izquierdo)",
+      "la": "Lobus sinister",
+      "sys": "end",
+      "layer": "org"
+    },
+    {
+      "id": "equ.end.tir.004",
+      "es": "Istmo tiroideo",
+      "la": "Isthmus glandulae thyroideae",
+      "sys": "end",
+      "layer": "org"
+    },
+    {
+      "id": "equ.end.tir.005",
+      "es": "Folículos tiroideos",
+      "la": "Folliculi thyroidei",
+      "sys": "end",
+      "layer": "org"
+    },
+    {
+      "id": "equ.end.tir.006",
+      "es": "Cápsula fibrosa de la tiroides",
+      "la": "Capsula fibrosa glandulae thyroideae",
+      "sys": "end",
+      "layer": "org"
+    },
+    {
+      "id": "equ.end.par.001-i",
+      "es": "Glándula paratiroides externa (izquierda)",
+      "la": "Glandula parathyroidea externa",
+      "sys": "end",
+      "layer": "org"
+    },
+    {
+      "id": "equ.end.par.001-d",
+      "es": "Glándula paratiroides externa (derecha)",
+      "la": "Glandula parathyroidea externa",
+      "sys": "end",
+      "layer": "org"
+    },
+    {
+      "id": "equ.end.par.002-i",
+      "es": "Glándula paratiroides interna (izquierda)",
+      "la": "Glandula parathyroidea interna",
+      "sys": "end",
+      "layer": "org"
+    },
+    {
+      "id": "equ.end.par.002-d",
+      "es": "Glándula paratiroides interna (derecha)",
+      "la": "Glandula parathyroidea interna",
+      "sys": "end",
+      "layer": "org"
+    },
+    {
+      "id": "equ.end.sup.001-i",
+      "es": "Glándula suprarrenal (izquierda)",
+      "la": "Glandula suprarenalis",
+      "sys": "end",
+      "layer": "org"
+    },
+    {
+      "id": "equ.end.sup.001-d",
+      "es": "Glándula suprarrenal (derecha)",
+      "la": "Glandula suprarenalis",
+      "sys": "end",
+      "layer": "org"
+    },
+    {
+      "id": "equ.end.sup.002-i",
+      "es": "Corteza suprarrenal (izquierda)",
+      "la": "Cortex glandulae suprarenalis",
+      "sys": "end",
+      "layer": "org"
+    },
+    {
+      "id": "equ.end.sup.002-d",
+      "es": "Corteza suprarrenal (derecha)",
+      "la": "Cortex glandulae suprarenalis",
+      "sys": "end",
+      "layer": "org"
+    },
+    {
+      "id": "equ.end.sup.003-i",
+      "es": "Zona glomerular (izquierda)",
+      "la": "Zona glomerulosa",
+      "sys": "end",
+      "layer": "org"
+    },
+    {
+      "id": "equ.end.sup.003-d",
+      "es": "Zona glomerular (derecha)",
+      "la": "Zona glomerulosa",
+      "sys": "end",
+      "layer": "org"
+    },
+    {
+      "id": "equ.end.sup.004-i",
+      "es": "Zona fascicular (izquierda)",
+      "la": "Zona fasciculata",
+      "sys": "end",
+      "layer": "org"
+    },
+    {
+      "id": "equ.end.sup.004-d",
+      "es": "Zona fascicular (derecha)",
+      "la": "Zona fasciculata",
+      "sys": "end",
+      "layer": "org"
+    },
+    {
+      "id": "equ.end.sup.005-i",
+      "es": "Zona reticular (izquierda)",
+      "la": "Zona reticularis",
+      "sys": "end",
+      "layer": "org"
+    },
+    {
+      "id": "equ.end.sup.005-d",
+      "es": "Zona reticular (derecha)",
+      "la": "Zona reticularis",
+      "sys": "end",
+      "layer": "org"
+    },
+    {
+      "id": "equ.end.sup.006-i",
+      "es": "Médula suprarrenal (izquierda)",
+      "la": "Medulla glandulae suprarenalis",
+      "sys": "end",
+      "layer": "org"
+    },
+    {
+      "id": "equ.end.sup.006-d",
+      "es": "Médula suprarrenal (derecha)",
+      "la": "Medulla glandulae suprarenalis",
+      "sys": "end",
+      "layer": "org"
+    },
+    {
+      "id": "equ.end.sup.007-i",
+      "es": "Cápsula de la suprarrenal (izquierda)",
+      "la": "Capsula glandulae suprarenalis",
+      "sys": "end",
+      "layer": "org"
+    },
+    {
+      "id": "equ.end.sup.007-d",
+      "es": "Cápsula de la suprarrenal (derecha)",
+      "la": "Capsula glandulae suprarenalis",
+      "sys": "end",
+      "layer": "org"
+    },
+    {
+      "id": "equ.end.otr.001",
+      "es": "Islotes pancreáticos (de Langerhans)",
+      "la": "Insulae pancreaticae",
+      "sys": "end",
+      "layer": "org"
+    },
+    {
+      "id": "equ.end.otr.002",
+      "es": "Cuerpos paraaórticos (paraganglios)",
+      "la": "Paraganglia aortica abdominalia",
+      "sys": "end",
+      "layer": "org"
+    },
+    {
+      "id": "equ.end.otr.003-i",
+      "es": "Glomo carotídeo (izquierdo)",
+      "la": "Glomus caroticum",
+      "sys": "end",
+      "layer": "org"
+    },
+    {
+      "id": "equ.end.otr.003-d",
+      "es": "Glomo carotídeo (derecho)",
+      "la": "Glomus caroticum",
+      "sys": "end",
+      "layer": "org"
+    },
+    {
+      "id": "equ.end.otr.004-i",
+      "es": "Cuerpo carotídeo (izquierdo)",
+      "la": "Corpus caroticum",
+      "sys": "end",
+      "layer": "org"
+    },
+    {
+      "id": "equ.end.otr.004-d",
+      "es": "Cuerpo carotídeo (derecho)",
+      "la": "Corpus caroticum",
+      "sys": "end",
+      "layer": "org"
+    },
+    {
+      "id": "equ.end.otr.005",
+      "es": "Cuerpos aórticos",
+      "la": "Corpora aortica",
+      "sys": "end",
+      "layer": "org"
+    }
+  ],
+  "verificaciones": [
+    {
+      "tipo": "extraccion_y_migracion",
+      "estado": "verificada",
+      "fecha": "2026-11-21",
+      "total_estructuras": 40,
+      "distribucion_por_capa": {
+        "org": 40
+      },
+      "ids_unicos": true,
+      "fichas_con_revision_individual": 0,
+      "fichas_con_estado_verificado": 0,
+      "fuente_preservada_sin_modificaciones": true,
+      "alcance": "Verifica la correspondencia exacta de los registros migrados con la fuente canónica y la integridad del JSON. No equivale a la auditoría anatómica completa ni declara verificado el sistema endocrino."
+    }
+  ]
 }
