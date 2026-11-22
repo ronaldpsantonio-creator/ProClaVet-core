@@ -60,3 +60,10 @@ No se modificaron los repositorios `ProClaVet` ni `ProClaVet-preview`. No se eli
 Se incorporó al repositorio destino la interfaz web de la vista previa: `index.html`, `css/styles.css`, `js/app.js`, `manifest.webmanifest`, `sw.js`, el icono PWA y las dos láminas SVG del atlas. El cargador JavaScript se adaptó para leer los 12 archivos de `data/sistemas/`, admitiendo los contenedores `structures` y `estructuras` y verificando en ejecución 3.881 registros e IDs únicos. Los JSON de datos no se modificaron durante esta integración.
 
 La publicación debe probarse todavía en GitHub Pages; no se declara validación funcional hasta comprobar carga, consola, navegación y caché desde la URL pública.
+
+
+## Ajuste de navegación y esquema — 2026-11-22
+
+Se alineó la navegación con los 12 archivos de `data/sistemas/`. La interfaz incluye un filtro articular separado, asignado por procedencia del archivo. Los registros de `sistema_articular.json` mantienen sus valores originales de `sys` (incluidos `ske` y `res`), IDs y fichas; la aplicación incorpora una etiqueta de catálogo solo en memoria. El filtro cardiovascular agrupa también las estructuras linfáticas, ya que no hay un archivo linfático independiente.
+
+Se corrigió `schemas/estructura.schema.json` para reflejar el formato real de los registros: `es`, `la`, `sys` y `layer` son los campos estructurales requeridos; `ficha` es opcional y admite apartados pendientes. No se reescribieron los 12 JSON.

@@ -1,8 +1,10 @@
 "use strict";
 const $=i=>document.getElementById(i);
-const SYSTEMS=[["ske","Esquelético"],["mus","Muscular"],["dig","Digestivo"],["res","Respiratorio"],["car","Cardiovascular"],["lin","Linfático"],["ner","Nervioso"],["uri","Urinario"],["rep","Reproductor"],["teg","Tegumentario"],["end","Endocrino"],["sen","Sentidos"]];
-// Linfático = regiones linfáticas dentro de car (ganglios, conductos y órganos linfoides); no requiere cambiar el JSON
-const LYM=new Set(["lin","lco","lor"]);const skey=s=>s.sys==="car"&&LYM.has(s.id.split(".")[2])?"lin":s.sys;
+const SYSTEMS=[["ske","Esquelético"],["art","Articular"],["mus","Muscular"],["dig","Digestivo"],["res","Respiratorio"],["car","Cardiovascular y linfático"],["ner","Nervioso"],["uri","Urinario"],["rep","Reproductor"],["teg","Tegumentario"],["end","Endocrino"],["sen","Sensorial"]];
+// La navegación sigue los 12 catálogos JSON. El grupo articular se identifica por el archivo de origen,
+// sin reescribir sys, IDs ni ningún otro dato anatómico. El catálogo cardiovascular conserva sus
+// estructuras linfáticas porque no existe un JSON linfático independiente.
+const skey=s=>s._catalog==="art"?"art":s.sys;
 const LAYERS=[["pel","Piel y tejido subcutáneo"],["fas","Fascias"],["msu","Músculos superficiales"],["mpr","Músculos profundos"],["oss","Sistema óseo"],["art","Articulaciones y ligamentos"],["vas","Sistema vascular"],["ner","Sistema nervioso"],["org","Órganos internos"],["cav","Cavidades y estructuras profundas"]];
 const FIELDS=[["ubicacion","Ubicación anatómica"],["descripcion","Descripción morfológica"],["relaciones","Relaciones anatómicas"],["accidentes","Accidentes anatómicos"],["articulaciones","Articulaciones"],["inserciones","Inserciones musculares"],["irrigacion","Irrigación"],["inervacion","Inervación"],["funcion","Función"],["especie","Particularidades de la especie"],["clinica","Importancia clínica"],["referencias","Referencias bibliográficas"]];
 const ANATOMY_PLATES={
@@ -60,9 +62,26 @@ function makeMesh(P){
 function centerOf(P){return P.k==="seg"?V3(...P.a).add(V3(...P.b)).multiplyScalar(.5):P.k==="rib"?V3(...P.pts[2]):V3(...P.p)}
 // ---- Carga de datos y estructuras
 const loader=new THREE.GLTFLoader();
-const DATA_FILES=["data/sistemas/sistema_articular.json","data/sistemas/sistema_cardiovascular.json","data/sistemas/sistema_digestivo.json","data/sistemas/sistema_endocrino.json","data/sistemas/sistema_esqueletico.json","data/sistemas/sistema_muscular.json","data/sistemas/sistema_nervioso.json","data/sistemas/sistema_reproductor.json","data/sistemas/sistema_respiratorio.json","data/sistemas/sistema_sensorial.json","data/sistemas/sistema_tegumentario.json","data/sistemas/sistema_urinario.json"];
-Promise.all(DATA_FILES.map(path=>fetch(path,{cache:"no-store"}).then(r=>{if(!r.ok)throw Error(path+" HTTP "+r.status);return r.json()})))
- .then(parts=>({structures:parts.flatMap(d=>d.structures||d.estructuras||[])}))
+const DATA_FILES=[
+ {catalogo:"art",path:"data/sistemas/sistema_articular.json"},
+ {catalogo:"car",path:"data/sistemas/sistema_cardiovascular.json"},
+ {catalogo:"dig",path:"data/sistemas/sistema_digestivo.json"},
+ {catalogo:"end",path:"data/sistemas/sistema_endocrino.json"},
+ {catalogo:"ske",path:"data/sistemas/sistema_esqueletico.json"},
+ {catalogo:"mus",path:"data/sistemas/sistema_muscular.json"},
+ {catalogo:"ner",path:"data/sistemas/sistema_nervioso.json"},
+ {catalogo:"rep",path:"data/sistemas/sistema_reproductor.json"},
+ {catalogo:"res",path:"data/sistemas/sistema_respiratorio.json"},
+ {catalogo:"sen",path:"data/sistemas/sistema_sensorial.json"},
+ {catalogo:"teg",path:"data/sistemas/sistema_tegumentario.json"},
+ {catalogo:"uri",path:"data/sistemas/sistema_urinario.json"}
+];
+Promise.all(DATA_FILES.map(async entry=>{
+ const r=await fetch(entry.path,{cache:"no-store"});
+ if(!r.ok)throw Error(entry.path+" HTTP "+r.status);
+ return {catalogo:entry.catalogo,data:await r.json()};
+}))
+ .then(parts=>({structures:parts.flatMap(({catalogo,data})=>(data.structures||data.estructuras||[]).map(s=>({...s,_catalog:catalogo})))}))
  .then(d=>{const ids=d.structures.map(s=>s.id);if(ids.length!==3881||new Set(ids).size!==3881)throw Error("Inventario incompatible: "+ids.length+" registros / "+new Set(ids).size+" IDs únicos");return d})
  .then(build).catch(e=>{$("warn").textContent="Error al cargar catálogo anatómico: "+e.message});
 function build(d){

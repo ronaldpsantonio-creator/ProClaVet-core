@@ -1,55 +1,137 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://github.com/ronaldpsantonio-creator/ProClaVet-core/blob/main/schemas/estructura.schema.json",
-  "title": "Ficha anatómica ProClaVet",
+  "title": "Registro de estructura anatómica ProClaVet",
+  "description": "Esquema compatible con los registros actuales de los 12 catálogos JSON. Los datos de origen se conservan sin exigir campos de ficha que pueden estar pendientes.",
   "type": "object",
   "required": [
     "id",
+    "es",
+    "la",
     "sys",
-    "layer",
-    "nombre",
-    "ficha"
+    "layer"
   ],
   "properties": {
     "id": {
       "type": "string",
       "minLength": 1
     },
+    "es": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Nombre de la estructura en español."
+    },
+    "la": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Nombre anatómico en latín (NAV), cuando está disponible en el registro."
+    },
     "sys": {
       "type": "string",
       "enum": [
         "car",
-        "ske",
-        "mus",
         "dig",
-        "res",
-        "ner",
-        "uri",
-        "rep",
-        "teg",
         "end",
-        "sen"
-      ]
+        "mus",
+        "ner",
+        "rep",
+        "res",
+        "sen",
+        "ske",
+        "teg",
+        "uri"
+      ],
+      "description": "Código anatómico original del registro. No se sustituye por el nombre del archivo de catálogo."
     },
     "layer": {
-      "type": "string"
-    },
-    "nombre": {
-      "type": "string"
-    },
-    "lateralidad": {
       "type": "string",
       "enum": [
-        "izquierda",
-        "derecha",
-        "bilateral",
-        "mediana",
-        "no_aplica"
+        "art",
+        "cav",
+        "fas",
+        "mpr",
+        "msu",
+        "ner",
+        "org",
+        "oss",
+        "pel",
+        "vas"
       ]
+    },
+    "lateralidad": {
+      "type": "string"
+    },
+    "sex": {
+      "type": "string",
+      "enum": [
+        "f",
+        "m"
+      ]
+    },
+    "model": {
+      "type": "string"
+    },
+    "ph": {
+      "type": "object",
+      "properties": {
+        "c": {},
+        "p": {
+          "type": "array",
+          "items": {
+            "type": "number"
+          }
+        },
+        "s": {
+          "type": "array",
+          "items": {
+            "type": "number"
+          }
+        }
+      },
+      "additionalProperties": true
     },
     "ficha": {
       "type": "object",
-      "description": "Ficha anatómica con los 12 apartados oficiales del proyecto."
+      "description": "Ficha anatómica parcial o completa. Los 12 apartados se conservan como campos independientes y pueden faltar mientras la ficha está en desarrollo.",
+      "properties": {
+        "ubicacion": {
+          "type": "string"
+        },
+        "descripcion": {
+          "type": "string"
+        },
+        "relaciones": {
+          "type": "string"
+        },
+        "accidentes": {
+          "type": "string"
+        },
+        "articulaciones": {
+          "type": "string"
+        },
+        "inserciones": {
+          "type": "string"
+        },
+        "irrigacion": {
+          "type": "string"
+        },
+        "inervacion": {
+          "type": "string"
+        },
+        "funcion": {
+          "type": "string"
+        },
+        "especie": {
+          "type": "string"
+        },
+        "clinica": {
+          "type": "string"
+        },
+        "referencias": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": true
     },
     "trazabilidad_ids": {
       "type": "array",
@@ -57,8 +139,20 @@
         "type": "string"
       }
     },
+    "historial_origen": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": true
+      }
+    },
     "revision": {
-      "type": "object"
+      "type": "object",
+      "additionalProperties": true
+    },
+    "relacion_conceptual": {
+      "type": "object",
+      "additionalProperties": true
     }
   },
   "additionalProperties": true

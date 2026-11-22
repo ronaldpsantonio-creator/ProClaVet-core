@@ -16,7 +16,7 @@
 
 ## Distribución
 
-Los 11 códigos de sistema conservados son `car`, `ske`, `mus`, `dig`, `res`, `ner`, `uri`, `rep`, `teg`, `end` y `sen`. El archivo articular independiente organiza las articulaciones y los ligamentos musculoesqueléticos incluidos en ese sistema.
+Los 12 catálogos JSON se corresponden con los filtros de navegación. El filtro articular se determina por el archivo de origen (`sistema_articular.json`), sin cambiar los códigos `sys` originales de sus registros. El filtro «Cardiovascular y linfático» reúne las estructuras del catálogo cardiovascular, que no tiene un archivo linfático independiente. La marca de catálogo se añade solo en memoria durante la carga.
 
 ## Publicación
 
@@ -30,3 +30,8 @@ El sitio se publica como GitHub Pages de proyecto en `/ProClaVet-core/`. Los rec
 - Las estructuras pares se modelan como una ficha bilateral única.
 - Los IDs históricos se mantienen en trazabilidad.
 - Cada archivo se valida antes de considerarse migrado.
+
+
+## Esquema de registros
+
+El esquema de `schemas/estructura.schema.json` refleja los datos reales: `es` y `la` son los campos de nombre; `ficha` es opcional y puede estar incompleta durante el desarrollo. Los 12 apartados de la ficha están descritos como propiedades individuales, sin convertir campos pendientes en requisitos ni modificar registros existentes.

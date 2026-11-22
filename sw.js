@@ -1,5 +1,5 @@
 // ProClaVet-core · Service Worker PWA
-const CACHE="proclavet-core-v1";
+const CACHE="proclavet-core-v2";
 const DATA=["data/sistemas/sistema_articular.json","data/sistemas/sistema_cardiovascular.json","data/sistemas/sistema_digestivo.json","data/sistemas/sistema_endocrino.json","data/sistemas/sistema_esqueletico.json","data/sistemas/sistema_muscular.json","data/sistemas/sistema_nervioso.json","data/sistemas/sistema_reproductor.json","data/sistemas/sistema_respiratorio.json","data/sistemas/sistema_sensorial.json","data/sistemas/sistema_tegumentario.json","data/sistemas/sistema_urinario.json"];
 const CORE=["./","index.html","css/styles.css","js/app.js","manifest.webmanifest","icons/icon-192.png","assets/laminas/atlas-equino-c1.svg","assets/laminas/axis-equino-c2.svg",...DATA];
 self.addEventListener("install",e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(CORE)).then(()=>self.skipWaiting())));

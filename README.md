@@ -66,3 +66,12 @@ En la fuente hay 395 registros con ficha, 69 con estado individual `verificada` 
 5. Declarar este repositorio como versión oficial solo después de la validación funcional y autorización correspondiente.
 
 Consulta `docs/migracion.md` para el inventario y los controles de extracción.
+
+
+## Correspondencia entre navegación y catálogos
+
+La navegación de la aplicación presenta los 12 catálogos JSON: esquelético, articular, muscular, digestivo, respiratorio, cardiovascular y linfático, nervioso, urinario, reproductor, tegumentario, endocrino y sensorial. El grupo cardiovascular y linfático comparte el catálogo cardiovascular, ya que no existe un archivo linfático independiente.
+
+El grupo articular se identifica por el archivo de procedencia `sistema_articular.json`. Sus registros conservan sus códigos `sys` originales (`ske` o `res`), sus IDs, lateralidad, fichas y trazabilidad. La aplicación añade únicamente una marca de catálogo en memoria durante la carga; no escribe ni modifica los JSON.
+
+El esquema `schemas/estructura.schema.json` describe el formato real de los registros: nombres `es` y `la`, campos anatómicos originales y ficha opcional/parcial con sus 12 apartados. No exige que una ficha pendiente contenga información que todavía no ha sido revisada.
