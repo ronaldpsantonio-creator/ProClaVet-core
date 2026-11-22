@@ -1,63 +1,56 @@
 # ProClaVet-core
 
-Repositorio principal de **ProClaVet / VETANATOMY 3D**. Esta versión organiza el catálogo anatómico por sistemas y separa los datos de la aplicación, los esquemas de validación y la documentación.
+Repositorio principal de **ProClaVet / VETANATOMY 3D**. Organiza el catálogo anatómico equino por sistemas, con datos, esquemas de validación y documentación separados.
 
-## Estado del proyecto
+## Estado de la migración
 
-- Fase: construcción de la estructura base.
-- Fuente de datos para la migración: `ProClaVet-preview/data/equino.json`.
-- La fuente anterior se conserva intacta durante toda la migración.
-- No se consideran migrados los registros hasta completar importación, conciliación y validación.
-- Los repositorios anteriores no se retirarán hasta que esta versión esté completa, validada y funcional.
+<badge>Extracción estructural completada</badge>
 
-## Organización prevista
+- Fuente canónica: `ronaldpsantonio-creator/ProClaVet-preview/data/equino.json`, rama `main`.
+- Blob de la fuente: `63516b9713f2beb4ad5011441b90172b981c4d8e`.
+- Inventario extraído: **3.881 registros**, **3.881 IDs únicos**, distribuidos en **12 archivos**.
+- Los repositorios `ProClaVet` y `ProClaVet-preview` se mantienen intactos.
+- La extracción y su integridad están verificadas; esto **no** significa que todas las fichas anatómicas estén completas ni que todos los sistemas hayan superado su auditoría anatómica.
 
-```text
-ProClaVet-core/
-├── README.md
-├── data/
-│   └── sistemas/
-│       ├── sistema_cardiovascular.json
-│       ├── sistema_esqueletico.json
-│       ├── sistema_articular.json
-│       ├── sistema_muscular.json
-│       ├── sistema_digestivo.json
-│       ├── sistema_respiratorio.json
-│       ├── sistema_nervioso.json
-│       ├── sistema_urinario.json
-│       ├── sistema_reproductor.json
-│       ├── sistema_tegumentario.json
-│       ├── sistema_endocrino.json
-│       └── sistema_sensorial.json
-├── schemas/
-│   └── estructura.schema.json
-├── docs/
-│   ├── arquitectura.md
-│   └── migracion.md
-└── src/
-    └── README.md
-```
+## Distribución de los 12 archivos
 
-## Códigos de sistema
+| Archivo | Registros |
+|---|---:|
+| `sistema_esqueletico.json` | 221 (219 óseos + 2 cartílagos del aparato hioideo) |
+| `sistema_articular.json` | 158 (152 musculoesqueléticos + 6 respiratorios) |
+| `sistema_muscular.json` | 570 |
+| `sistema_digestivo.json` | 141 |
+| `sistema_respiratorio.json` | 157 |
+| `sistema_cardiovascular.json` | 594 |
+| `sistema_nervioso.json` | 1.305 |
+| `sistema_urinario.json` | 68 |
+| `sistema_reproductor.json` | 238 |
+| `sistema_tegumentario.json` | 179 |
+| `sistema_endocrino.json` | 40 |
+| `sistema_sensorial.json` | 210 |
+| **Total** | **3.881** |
 
-Se conservan los códigos existentes: `car`, `ske`, `mus`, `dig`, `res`, `ner`, `uri`, `rep`, `teg`, `end` y `sen`. El sistema articular se mantiene en un archivo propio y agrupa las articulaciones y los ligamentos musculoesqueléticos correspondientes.
+Las seis estructuras `res/art` se alojan en el archivo articular; por eso el respiratorio contiene 157 registros. Las dos entradas `ske/org` del cartílago timpanohioideo se conservan en el archivo esquelético sin incorporarlas al conteo osteológico verificado.
+
+## Estado de las fichas
+
+En la fuente hay 395 registros con ficha, 69 con estado individual `verificada` y 61 con estado `aprobada_y_verificada`. La extracción no rellena campos ausentes ni convierte registros pendientes en fichas verificadas.
 
 ## Reglas de integridad anatómica
 
-1. Los identificadores anatómicos son únicos y estables.
-2. Toda estructura anatómica par se representa mediante una ficha bilateral única, con lateralidad izquierda/derecha y diferencias anatómicas reales documentadas.
-3. La trazabilidad conserva los identificadores laterales históricos cuando se consoliden fichas bilaterales.
-4. No se eliminan ni sobrescriben registros sin conciliación y validación.
-5. Las fichas mantienen los 12 apartados anatómicos establecidos por el proyecto.
-6. Al finalizar la auditoría de cada sistema se añadirá al final de su archivo el registro explícito **SISTEMA VERIFICADO**, con total de estructuras, estado, fecha y responsable de aprobación.
+1. Los identificadores anatómicos son estables y únicos.
+2. Las estructuras pares se representan mediante ficha bilateral cuando están consolidadas, con lateralidad explícita y trazabilidad de los IDs históricos.
+3. Las diferencias anatómicas izquierda/derecha se conservan; no se fusionan descripciones que no sean equivalentes.
+4. No se eliminan ni sobrescriben registros históricos sin conciliación.
+5. Las fichas mantienen los 12 apartados oficiales; los campos sin evidencia no se completan con texto genérico.
+6. Al terminar la auditoría anatómica de cada sistema se añade el registro explícito **SISTEMA VERIFICADO**, con alcance y total comprobables.
 
-## Plan de migración
+## Próximas etapas
 
-1. Crear y revisar la estructura del repositorio.
-2. Leer la fuente vigente completa y congelar un inventario de referencia.
-3. Distribuir los registros en los 12 archivos de sistema sin pérdida ni duplicación.
-4. Validar IDs, cantidades, referencias, trazabilidad bilateral y estructura de fichas.
-5. Integrar la aplicación y comprobar su funcionamiento con los datos organizados.
-6. Solo después de la validación funcional, establecer este repositorio como oficial y retirar los anteriores con autorización.
+1. Auditar anatómicamente cada sistema y sus fichas.
+2. Completar y revisar las relaciones bilaterales pendientes.
+3. Validar referencias, nomenclatura, jerarquía y clasificación.
+4. Integrar la aplicación y comprobar su funcionamiento con los datos organizados.
+5. Declarar este repositorio como versión oficial solo después de la validación funcional y autorización correspondiente.
 
-**Importante:** los archivos de datos iniciales son plantillas estructurales; no representan todavía la migración del catálogo.
+Consulta `docs/migracion.md` para el inventario, las reglas de extracción y los controles ejecutados.
