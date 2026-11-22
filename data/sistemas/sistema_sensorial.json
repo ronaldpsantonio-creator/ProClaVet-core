@@ -4,8 +4,1518 @@
     "codigo": "sen",
     "nombre": "Sistema sensorial"
   },
-  "estado": "plantilla_pendiente_de_migracion",
-  "fuente": null,
-  "estructuras": [],
-  "verificaciones": []
+  "estado": "migrado_pendiente_de_auditoria",
+  "fuente": {
+    "repositorio": "ronaldpsantonio-creator/ProClaVet-preview",
+    "archivo": "data/equino.json",
+    "blob_sha": "63516b9713f2beb4ad5011441b90172b981c4d8e",
+    "criterio_extraccion": {
+      "sys": "sen",
+      "layer": "org"
+    },
+    "distribucion_por_subsistema": {
+      "ocu": 44,
+      "ane": 50,
+      "oex": 26,
+      "omd": 18,
+      "oin": 48,
+      "olf": 14,
+      "gus": 10
+    },
+    "fecha_extraccion": "2026-11-21"
+  },
+  "estructuras": [
+    {
+      "id": "equ.sen.ocu.001-i",
+      "es": "Globo ocular (izquierdo)",
+      "la": "Bulbus oculi",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ocu.001-d",
+      "es": "Globo ocular (derecho)",
+      "la": "Bulbus oculi",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ocu.002-i",
+      "es": "Túnica fibrosa del globo ocular (izquierda)",
+      "la": "Tunica fibrosa bulbi",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ocu.002-d",
+      "es": "Túnica fibrosa del globo ocular (derecha)",
+      "la": "Tunica fibrosa bulbi",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ocu.003-i",
+      "es": "Esclera (izquierda)",
+      "la": "Sclera",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ocu.003-d",
+      "es": "Esclera (derecha)",
+      "la": "Sclera",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ocu.004-i",
+      "es": "Córnea (izquierda)",
+      "la": "Cornea",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ocu.004-d",
+      "es": "Córnea (derecha)",
+      "la": "Cornea",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ocu.005-i",
+      "es": "Limbo corneal (izquierdo)",
+      "la": "Limbus corneae",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ocu.005-d",
+      "es": "Limbo corneal (derecho)",
+      "la": "Limbus corneae",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ocu.006-i",
+      "es": "Túnica vascular del globo ocular (úvea) (izquierda)",
+      "la": "Tunica vasculosa bulbi",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ocu.006-d",
+      "es": "Túnica vascular del globo ocular (úvea) (derecha)",
+      "la": "Tunica vasculosa bulbi",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ocu.007-i",
+      "es": "Coroides (izquierda)",
+      "la": "Choroidea",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ocu.007-d",
+      "es": "Coroides (derecha)",
+      "la": "Choroidea",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ocu.008-i",
+      "es": "Tapetum lucidum (fibroso) (izquierdo)",
+      "la": "Tapetum lucidum fibrosum",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ocu.008-d",
+      "es": "Tapetum lucidum (fibroso) (derecho)",
+      "la": "Tapetum lucidum fibrosum",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ocu.009-i",
+      "es": "Cuerpo ciliar (izquierdo)",
+      "la": "Corpus ciliare",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ocu.009-d",
+      "es": "Cuerpo ciliar (derecho)",
+      "la": "Corpus ciliare",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ocu.010-i",
+      "es": "Iris (izquierda)",
+      "la": "Iris",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ocu.010-d",
+      "es": "Iris (derecha)",
+      "la": "Iris",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ocu.011-i",
+      "es": "Pupila (izquierda)",
+      "la": "Pupilla",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ocu.011-d",
+      "es": "Pupila (derecha)",
+      "la": "Pupilla",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ocu.012-i",
+      "es": "Cuerpos negros (granulaciones del iris) (izquierdos)",
+      "la": "Granula iridica",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ocu.012-d",
+      "es": "Cuerpos negros (granulaciones del iris) (derechos)",
+      "la": "Granula iridica",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ocu.013-i",
+      "es": "Músculo esfínter de la pupila (izquierdo)",
+      "la": "M. sphincter pupillae",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ocu.013-d",
+      "es": "Músculo esfínter de la pupila (derecho)",
+      "la": "M. sphincter pupillae",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ocu.014-i",
+      "es": "Músculo dilatador de la pupila (izquierdo)",
+      "la": "M. dilatator pupillae",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ocu.014-d",
+      "es": "Músculo dilatador de la pupila (derecho)",
+      "la": "M. dilatator pupillae",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ocu.015-i",
+      "es": "Túnica interna (retina) (izquierda)",
+      "la": "Tunica interna bulbi; Retina",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ocu.015-d",
+      "es": "Túnica interna (retina) (derecha)",
+      "la": "Tunica interna bulbi; Retina",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ocu.016-i",
+      "es": "Papila óptica (disco óptico) (izquierda)",
+      "la": "Discus nervi optici",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ocu.016-d",
+      "es": "Papila óptica (disco óptico) (derecha)",
+      "la": "Discus nervi optici",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ocu.017-i",
+      "es": "Cámara anterior (izquierda)",
+      "la": "Camera anterior bulbi",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ocu.017-d",
+      "es": "Cámara anterior (derecha)",
+      "la": "Camera anterior bulbi",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ocu.018-i",
+      "es": "Cámara posterior (izquierda)",
+      "la": "Camera posterior bulbi",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ocu.018-d",
+      "es": "Cámara posterior (derecha)",
+      "la": "Camera posterior bulbi",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ocu.019-i",
+      "es": "Humor acuoso (izquierdo)",
+      "la": "Humor aquosus",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ocu.019-d",
+      "es": "Humor acuoso (derecho)",
+      "la": "Humor aquosus",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ocu.020-i",
+      "es": "Cristalino (izquierdo)",
+      "la": "Lens",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ocu.020-d",
+      "es": "Cristalino (derecho)",
+      "la": "Lens",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ocu.021-i",
+      "es": "Cuerpo vítreo (izquierdo)",
+      "la": "Corpus vitreum",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ocu.021-d",
+      "es": "Cuerpo vítreo (derecho)",
+      "la": "Corpus vitreum",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ocu.022-i",
+      "es": "Ángulo iridocorneal (izquierdo)",
+      "la": "Angulus iridocornealis",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ocu.022-d",
+      "es": "Ángulo iridocorneal (derecho)",
+      "la": "Angulus iridocornealis",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.001-i",
+      "es": "Párpado superior (izquierdo)",
+      "la": "Palpebra superior",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.001-d",
+      "es": "Párpado superior (derecho)",
+      "la": "Palpebra superior",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.002-i",
+      "es": "Párpado inferior (izquierdo)",
+      "la": "Palpebra inferior",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.002-d",
+      "es": "Párpado inferior (derecho)",
+      "la": "Palpebra inferior",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.003-i",
+      "es": "Pestañas (izquierdas)",
+      "la": "Cilia palpebrae",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.003-d",
+      "es": "Pestañas (derechas)",
+      "la": "Cilia palpebrae",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.004-i",
+      "es": "Conjuntiva palpebral (izquierda)",
+      "la": "Tunica conjunctiva palpebrarum",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.004-d",
+      "es": "Conjuntiva palpebral (derecha)",
+      "la": "Tunica conjunctiva palpebrarum",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.005-i",
+      "es": "Conjuntiva bulbar (izquierda)",
+      "la": "Tunica conjunctiva bulbi",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.005-d",
+      "es": "Conjuntiva bulbar (derecha)",
+      "la": "Tunica conjunctiva bulbi",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.006-i",
+      "es": "Saco conjuntival (izquierdo)",
+      "la": "Saccus conjunctivalis",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.006-d",
+      "es": "Saco conjuntival (derecho)",
+      "la": "Saccus conjunctivalis",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.007-i",
+      "es": "Tercer párpado (membrana nictitante) (izquierdo)",
+      "la": "Palpebra tertia",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.007-d",
+      "es": "Tercer párpado (membrana nictitante) (derecho)",
+      "la": "Palpebra tertia",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.008-i",
+      "es": "Cartílago del tercer párpado (izquierdo)",
+      "la": "Cartilago palpebrae tertiae",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.008-d",
+      "es": "Cartílago del tercer párpado (derecho)",
+      "la": "Cartilago palpebrae tertiae",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.009-i",
+      "es": "Glándula del tercer párpado (izquierda)",
+      "la": "Glandula palpebrae tertiae",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.009-d",
+      "es": "Glándula del tercer párpado (derecha)",
+      "la": "Glandula palpebrae tertiae",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.010-i",
+      "es": "Glándula lagrimal (izquierda)",
+      "la": "Glandula lacrimalis",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.010-d",
+      "es": "Glándula lagrimal (derecha)",
+      "la": "Glandula lacrimalis",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.011-i",
+      "es": "Carúncula lagrimal (izquierda)",
+      "la": "Caruncula lacrimalis",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.011-d",
+      "es": "Carúncula lagrimal (derecha)",
+      "la": "Caruncula lacrimalis",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.012-i",
+      "es": "Puntos lagrimales (izquierdos)",
+      "la": "Puncta lacrimalia",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.012-d",
+      "es": "Puntos lagrimales (derechos)",
+      "la": "Puncta lacrimalia",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.013-i",
+      "es": "Conductos lagrimales (izquierdos)",
+      "la": "Canaliculi lacrimales",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.013-d",
+      "es": "Conductos lagrimales (derechos)",
+      "la": "Canaliculi lacrimales",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.014-i",
+      "es": "Saco lagrimal (izquierdo)",
+      "la": "Saccus lacrimalis",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.014-d",
+      "es": "Saco lagrimal (derecho)",
+      "la": "Saccus lacrimalis",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.015-i",
+      "es": "Conducto nasolagrimal (izquierdo)",
+      "la": "Ductus nasolacrimalis",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.015-d",
+      "es": "Conducto nasolagrimal (derecho)",
+      "la": "Ductus nasolacrimalis",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.016-i",
+      "es": "Periórbita (izquierda)",
+      "la": "Periorbita",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.016-d",
+      "es": "Periórbita (derecha)",
+      "la": "Periorbita",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.017-i",
+      "es": "Cuerpo adiposo de la órbita (izquierdo)",
+      "la": "Corpus adiposum orbitae",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.017-d",
+      "es": "Cuerpo adiposo de la órbita (derecho)",
+      "la": "Corpus adiposum orbitae",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.018-i",
+      "es": "Fascia orbitaria (izquierda)",
+      "la": "Fascia orbitalis",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.018-d",
+      "es": "Fascia orbitaria (derecha)",
+      "la": "Fascia orbitalis",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.019-i",
+      "es": "Músculo recto dorsal (izquierdo)",
+      "la": "M. rectus dorsalis",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.019-d",
+      "es": "Músculo recto dorsal (derecho)",
+      "la": "M. rectus dorsalis",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.020-i",
+      "es": "Músculo recto ventral (izquierdo)",
+      "la": "M. rectus ventralis",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.020-d",
+      "es": "Músculo recto ventral (derecho)",
+      "la": "M. rectus ventralis",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.021-i",
+      "es": "Músculo recto medial (izquierdo)",
+      "la": "M. rectus medialis",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.021-d",
+      "es": "Músculo recto medial (derecho)",
+      "la": "M. rectus medialis",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.022-i",
+      "es": "Músculo recto lateral (izquierdo)",
+      "la": "M. rectus lateralis",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.022-d",
+      "es": "Músculo recto lateral (derecho)",
+      "la": "M. rectus lateralis",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.023-i",
+      "es": "Músculo oblicuo dorsal (izquierdo)",
+      "la": "M. obliquus dorsalis",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.023-d",
+      "es": "Músculo oblicuo dorsal (derecho)",
+      "la": "M. obliquus dorsalis",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.024-i",
+      "es": "Músculo oblicuo ventral (izquierdo)",
+      "la": "M. obliquus ventralis",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.024-d",
+      "es": "Músculo oblicuo ventral (derecho)",
+      "la": "M. obliquus ventralis",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.025-i",
+      "es": "Músculo retractor del globo ocular (izquierdo)",
+      "la": "M. retractor bulbi",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.ane.025-d",
+      "es": "Músculo retractor del globo ocular (derecho)",
+      "la": "M. retractor bulbi",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oex.001-i",
+      "es": "Pabellón auricular (izquierdo)",
+      "la": "Auricula",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oex.001-d",
+      "es": "Pabellón auricular (derecho)",
+      "la": "Auricula",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oex.002-i",
+      "es": "Cartílago auricular (escutiforme y anular) (izquierdo)",
+      "la": "Cartilago auriculae",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oex.002-d",
+      "es": "Cartílago auricular (escutiforme y anular) (derecho)",
+      "la": "Cartilago auriculae",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oex.003-i",
+      "es": "Cartílago escutiforme (izquierdo)",
+      "la": "Cartilago scutiformis",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oex.003-d",
+      "es": "Cartílago escutiforme (derecho)",
+      "la": "Cartilago scutiformis",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oex.004-i",
+      "es": "Cartílago anular (izquierdo)",
+      "la": "Cartilago annularis",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oex.004-d",
+      "es": "Cartílago anular (derecho)",
+      "la": "Cartilago annularis",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oex.005-i",
+      "es": "Concha auricular (izquierda)",
+      "la": "Concha auriculae",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oex.005-d",
+      "es": "Concha auricular (derecha)",
+      "la": "Concha auriculae",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oex.006-i",
+      "es": "Hélix (izquierdo)",
+      "la": "Helix",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oex.006-d",
+      "es": "Hélix (derecho)",
+      "la": "Helix",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oex.007-i",
+      "es": "Antihélix (izquierdo)",
+      "la": "Anthelix",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oex.007-d",
+      "es": "Antihélix (derecho)",
+      "la": "Anthelix",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oex.008-i",
+      "es": "Trago (izquierdo)",
+      "la": "Tragus",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oex.008-d",
+      "es": "Trago (derecho)",
+      "la": "Tragus",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oex.009-i",
+      "es": "Antitrago (izquierdo)",
+      "la": "Antitragus",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oex.009-d",
+      "es": "Antitrago (derecho)",
+      "la": "Antitragus",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oex.010-i",
+      "es": "Meato acústico externo (izquierdo)",
+      "la": "Meatus acusticus externus",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oex.010-d",
+      "es": "Meato acústico externo (derecho)",
+      "la": "Meatus acusticus externus",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oex.011-i",
+      "es": "Conducto auditivo externo (cartilaginoso) (izquierdo)",
+      "la": "Meatus acusticus externus cartilagineus",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oex.011-d",
+      "es": "Conducto auditivo externo (cartilaginoso) (derecho)",
+      "la": "Meatus acusticus externus cartilagineus",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oex.012-i",
+      "es": "Meato acústico externo óseo (izquierdo)",
+      "la": "Meatus acusticus externus osseus",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oex.012-d",
+      "es": "Meato acústico externo óseo (derecho)",
+      "la": "Meatus acusticus externus osseus",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oex.013-i",
+      "es": "Membrana timpánica (izquierda)",
+      "la": "Membrana tympanica",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oex.013-d",
+      "es": "Membrana timpánica (derecha)",
+      "la": "Membrana tympanica",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.omd.001-i",
+      "es": "Cavidad timpánica (izquierda)",
+      "la": "Cavum tympani",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.omd.001-d",
+      "es": "Cavidad timpánica (derecha)",
+      "la": "Cavum tympani",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.omd.002-i",
+      "es": "Bulla timpánica (izquierda)",
+      "la": "Bulla tympanica",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.omd.002-d",
+      "es": "Bulla timpánica (derecha)",
+      "la": "Bulla tympanica",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.omd.003-i",
+      "es": "Articulación incudomaleolar (izquierda)",
+      "la": "Articulatio incudomallearis",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.omd.003-d",
+      "es": "Articulación incudomaleolar (derecha)",
+      "la": "Articulatio incudomallearis",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.omd.004-i",
+      "es": "Articulación incudoestapedial (izquierda)",
+      "la": "Articulatio incudostapedialis",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.omd.004-d",
+      "es": "Articulación incudoestapedial (derecha)",
+      "la": "Articulatio incudostapedialis",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.omd.005-i",
+      "es": "Músculo estapedio (izquierdo)",
+      "la": "M. stapedius",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.omd.005-d",
+      "es": "Músculo estapedio (derecho)",
+      "la": "M. stapedius",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.omd.006-i",
+      "es": "Ventana vestibular (oval) (izquierda)",
+      "la": "Fenestra vestibuli",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.omd.006-d",
+      "es": "Ventana vestibular (oval) (derecha)",
+      "la": "Fenestra vestibuli",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.omd.007-i",
+      "es": "Ventana coclear (redonda) (izquierda)",
+      "la": "Fenestra cochleae",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.omd.007-d",
+      "es": "Ventana coclear (redonda) (derecha)",
+      "la": "Fenestra cochleae",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.omd.008-i",
+      "es": "Promontorio (izquierdo)",
+      "la": "Promontorium",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.omd.008-d",
+      "es": "Promontorio (derecho)",
+      "la": "Promontorium",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.omd.009-i",
+      "es": "Trompa auditiva (de Eustaquio) (izquierda)",
+      "la": "Tuba auditiva",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.omd.009-d",
+      "es": "Trompa auditiva (de Eustaquio) (derecha)",
+      "la": "Tuba auditiva",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.001-i",
+      "es": "Laberinto óseo (izquierdo)",
+      "la": "Labyrinthus osseus",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.001-d",
+      "es": "Laberinto óseo (derecho)",
+      "la": "Labyrinthus osseus",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.002-i",
+      "es": "Vestíbulo óseo (izquierdo)",
+      "la": "Vestibulum",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.002-d",
+      "es": "Vestíbulo óseo (derecho)",
+      "la": "Vestibulum",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.003-i",
+      "es": "Conductos semicirculares óseos (izquierdos)",
+      "la": "Canales semicirculares ossei",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.003-d",
+      "es": "Conductos semicirculares óseos (derechos)",
+      "la": "Canales semicirculares ossei",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.004-i",
+      "es": "Cóclea ósea (izquierda)",
+      "la": "Cochlea",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.004-d",
+      "es": "Cóclea ósea (derecha)",
+      "la": "Cochlea",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.005-i",
+      "es": "Modiolo (izquierdo)",
+      "la": "Modiolus",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.005-d",
+      "es": "Modiolo (derecho)",
+      "la": "Modiolus",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.006-i",
+      "es": "Lámina espiral ósea (izquierda)",
+      "la": "Lamina spiralis ossea",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.006-d",
+      "es": "Lámina espiral ósea (derecha)",
+      "la": "Lamina spiralis ossea",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.007-i",
+      "es": "Laberinto membranoso (izquierdo)",
+      "la": "Labyrinthus membranaceus",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.007-d",
+      "es": "Laberinto membranoso (derecho)",
+      "la": "Labyrinthus membranaceus",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.008-i",
+      "es": "Utrículo (izquierdo)",
+      "la": "Utriculus",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.008-d",
+      "es": "Utrículo (derecho)",
+      "la": "Utriculus",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.009-i",
+      "es": "Sáculo (izquierdo)",
+      "la": "Sacculus",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.009-d",
+      "es": "Sáculo (derecho)",
+      "la": "Sacculus",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.010-i",
+      "es": "Conductos semicirculares membranosos (izquierdos)",
+      "la": "Ductus semicirculares",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.010-d",
+      "es": "Conductos semicirculares membranosos (derechos)",
+      "la": "Ductus semicirculares",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.011-i",
+      "es": "Conducto coclear (izquierdo)",
+      "la": "Ductus cochlearis",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.011-d",
+      "es": "Conducto coclear (derecho)",
+      "la": "Ductus cochlearis",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.012-i",
+      "es": "Rampa vestibular (izquierda)",
+      "la": "Scala vestibuli",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.012-d",
+      "es": "Rampa vestibular (derecha)",
+      "la": "Scala vestibuli",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.013-i",
+      "es": "Rampa timpánica (izquierda)",
+      "la": "Scala tympani",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.013-d",
+      "es": "Rampa timpánica (derecha)",
+      "la": "Scala tympani",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.014-i",
+      "es": "Órgano espiral (de Corti) (izquierdo)",
+      "la": "Organum spirale",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.014-d",
+      "es": "Órgano espiral (de Corti) (derecho)",
+      "la": "Organum spirale",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.015-i",
+      "es": "Membrana basilar (izquierda)",
+      "la": "Membrana basilaris",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.015-d",
+      "es": "Membrana basilar (derecha)",
+      "la": "Membrana basilaris",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.016-i",
+      "es": "Membrana tectoria (izquierda)",
+      "la": "Membrana tectoria",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.016-d",
+      "es": "Membrana tectoria (derecha)",
+      "la": "Membrana tectoria",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.017-i",
+      "es": "Mácula del utrículo (izquierda)",
+      "la": "Macula utriculi",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.017-d",
+      "es": "Mácula del utrículo (derecha)",
+      "la": "Macula utriculi",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.018-i",
+      "es": "Mácula del sáculo (izquierda)",
+      "la": "Macula sacculi",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.018-d",
+      "es": "Mácula del sáculo (derecha)",
+      "la": "Macula sacculi",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.019-i",
+      "es": "Crestas ampulares (izquierdas)",
+      "la": "Cristae ampullares",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.019-d",
+      "es": "Crestas ampulares (derechas)",
+      "la": "Cristae ampullares",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.020-i",
+      "es": "Acueducto del vestíbulo (izquierdo)",
+      "la": "Aqueductus vestibuli",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.020-d",
+      "es": "Acueducto del vestíbulo (derecho)",
+      "la": "Aqueductus vestibuli",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.021-i",
+      "es": "Acueducto de la cóclea (izquierdo)",
+      "la": "Aqueductus cochleae",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.021-d",
+      "es": "Acueducto de la cóclea (derecho)",
+      "la": "Aqueductus cochleae",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.022-i",
+      "es": "Conducto auditivo interno (izquierdo)",
+      "la": "Meatus acusticus internus",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.022-d",
+      "es": "Conducto auditivo interno (derecho)",
+      "la": "Meatus acusticus internus",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.023-i",
+      "es": "Perilinfa (izquierda)",
+      "la": "Perilympha",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.023-d",
+      "es": "Perilinfa (derecha)",
+      "la": "Perilympha",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.024-i",
+      "es": "Endolinfa (izquierda)",
+      "la": "Endolympha",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.oin.024-d",
+      "es": "Endolinfa (derecha)",
+      "la": "Endolympha",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.olf.001-i",
+      "es": "Región olfatoria de la mucosa nasal (izquierda)",
+      "la": "Regio olfactoria tunicae mucosae nasi",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.olf.001-d",
+      "es": "Región olfatoria de la mucosa nasal (derecha)",
+      "la": "Regio olfactoria tunicae mucosae nasi",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.olf.002-i",
+      "es": "Epitelio olfatorio (izquierdo)",
+      "la": "Epithelium olfactorium",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.olf.002-d",
+      "es": "Epitelio olfatorio (derecho)",
+      "la": "Epithelium olfactorium",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.olf.003-i",
+      "es": "Glándulas olfatorias (de Bowman) (izquierdas)",
+      "la": "Glandulae olfactoriae",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.olf.003-d",
+      "es": "Glándulas olfatorias (de Bowman) (derechas)",
+      "la": "Glandulae olfactoriae",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.olf.004-i",
+      "es": "Órgano vomeronasal (izquierdo)",
+      "la": "Organum vomeronasale",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.olf.004-d",
+      "es": "Órgano vomeronasal (derecho)",
+      "la": "Organum vomeronasale",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.olf.005-i",
+      "es": "Cartílago vomeronasal (izquierdo)",
+      "la": "Cartilago vomeronasalis",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.olf.005-d",
+      "es": "Cartílago vomeronasal (derecho)",
+      "la": "Cartilago vomeronasalis",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.olf.006-i",
+      "es": "Conducto incisivo (izquierdo)",
+      "la": "Ductus incisivus",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.olf.006-d",
+      "es": "Conducto incisivo (derecho)",
+      "la": "Ductus incisivus",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.olf.007-i",
+      "es": "Conducto nasopalatino (izquierdo)",
+      "la": "Ductus nasopalatinus",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.olf.007-d",
+      "es": "Conducto nasopalatino (derecho)",
+      "la": "Ductus nasopalatinus",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.gus.001-i",
+      "es": "Papilas gustativas (izquierdas)",
+      "la": "Papillae gustatoriae",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.gus.001-d",
+      "es": "Papilas gustativas (derechas)",
+      "la": "Papillae gustatoriae",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.gus.002-i",
+      "es": "Botones gustativos (izquierdos)",
+      "la": "Caliculi gustatorii",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.gus.002-d",
+      "es": "Botones gustativos (derechos)",
+      "la": "Caliculi gustatorii",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.gus.003-i",
+      "es": "Papilas valladas (izquierdas)",
+      "la": "Papillae vallatae",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.gus.003-d",
+      "es": "Papilas valladas (derechas)",
+      "la": "Papillae vallatae",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.gus.004-i",
+      "es": "Papilas fungiformes (izquierdas)",
+      "la": "Papillae fungiformes",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.gus.004-d",
+      "es": "Papilas fungiformes (derechas)",
+      "la": "Papillae fungiformes",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.gus.005-i",
+      "es": "Papilas foliadas (izquierdas)",
+      "la": "Papillae foliatae",
+      "sys": "sen",
+      "layer": "org"
+    },
+    {
+      "id": "equ.sen.gus.005-d",
+      "es": "Papilas foliadas (derechas)",
+      "la": "Papillae foliatae",
+      "sys": "sen",
+      "layer": "org"
+    }
+  ],
+  "verificaciones": [
+    {
+      "tipo": "extraccion_y_migracion",
+      "estado": "verificada",
+      "fecha": "2026-11-21",
+      "total_estructuras": 210,
+      "distribucion_por_subsistema": {
+        "ocu": 44,
+        "ane": 50,
+        "oex": 26,
+        "omd": 18,
+        "oin": 48,
+        "olf": 14,
+        "gus": 10
+      },
+      "ids_unicos": true,
+      "fichas_con_revision_individual": 0,
+      "fichas_con_estado_verificado": 0,
+      "fuente_preservada_sin_modificaciones": true,
+      "alcance": "Verifica la correspondencia exacta de los registros migrados con la fuente canónica y la integridad del JSON. No equivale a la auditoría anatómica completa ni declara verificado el sistema sensorial."
+    }
+  ]
 }
