@@ -140,11 +140,8 @@
       }
     },
     "historial_origen": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "additionalProperties": true
-      }
+      "type": "string",
+      "description": "Referencia o descripción del origen histórico del registro."
     },
     "revision": {
       "type": "object",
