@@ -1,0 +1,11 @@
+{
+  "schema_version": "1.0.0",
+  "sistema": {
+    "codigo": "ner",
+    "nombre": "Sistema nervioso"
+  },
+  "estado": "plantilla_pendiente_de_migracion",
+  "fuente": null,
+  "estructuras": [],
+  "verificaciones": []
+}
