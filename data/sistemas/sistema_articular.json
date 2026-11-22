@@ -10,10 +10,22 @@
     "archivo": "data/equino.json",
     "blob_sha": "63516b9713f2beb4ad5011441b90172b981c4d8e",
     "criterio_extraccion": {
-      "sys": "ske",
-      "layer": "art"
+      "or": [
+        {
+          "sys": "ske",
+          "layer": "art"
+        },
+        {
+          "sys": "res",
+          "layer": "art"
+        }
+      ]
     },
-    "fecha_extraccion": "2026-11-21"
+    "fecha_extraccion": "2026-11-22",
+    "distribucion_por_capa": {
+      "ske/art": 152,
+      "res/art": 6
+    }
   },
   "estructuras": [
     {
@@ -3624,6 +3636,76 @@
         "fecha": "2026-11-21",
         "alcance": "Ficha bilateral consolidada a partir de las fichas aprobadas izquierda y derecha, con autorización expresa del usuario. Los registros de origen se conservan en el historial para trazabilidad. Validación estructural del registro y del JSON completada; la verificación textual no certifica por sí sola el modelo 3D."
       }
+    },
+    {
+      "id": "equ.res.lar.008-i",
+      "es": "Articulación cricoaritenoidea (izquierda)",
+      "la": "Articulatio cricoarytenoidea",
+      "sys": "res",
+      "layer": "art"
+    },
+    {
+      "id": "equ.res.lar.008-d",
+      "es": "Articulación cricoaritenoidea (derecha)",
+      "la": "Articulatio cricoarytenoidea",
+      "sys": "res",
+      "layer": "art"
+    },
+    {
+      "id": "equ.res.lar.009-i",
+      "es": "Articulación cricotiroidea (izquierda)",
+      "la": "Articulatio cricothyroidea",
+      "sys": "res",
+      "layer": "art"
+    },
+    {
+      "id": "equ.res.lar.009-d",
+      "es": "Articulación cricotiroidea (derecha)",
+      "la": "Articulatio cricothyroidea",
+      "sys": "res",
+      "layer": "art"
+    },
+    {
+      "id": "equ.res.lar.021-i",
+      "es": "Articulación tirohioidea (izquierda)",
+      "la": "Articulatio thyrohyoidea",
+      "sys": "res",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En el lado izquierdo de la laringe, entre el extremo distal del proceso tirohioideo correspondiente del aparato hioideo y el cuerno rostral del cartílago tiroides.",
+        "descripcion": "Articulación sinovial que conecta el proceso tirohioideo con el cartílago tiroides. No debe confundirse con la unión basihioidea, donde el proceso tirohioideo se continúa con el basihioides y puede presentar sinostosis con la maduración.",
+        "relaciones": "Se relaciona medialmente con la laringe y sus estructuras cartilaginosas; dorsalmente con la región de la raíz de la lengua y el aparato hioideo; y caudalmente con el resto del esqueleto laríngeo. La disposición es bilateral.",
+        "accidentes": "Superficies articulares del extremo distal del proceso tirohioideo y del cuerno rostral del cartílago tiroides; cartílago articular hialino y pequeña cavidad articular con cápsula.",
+        "articulaciones": "Articula el proceso tirohioideo con el cuerno rostral del cartílago tiroides. Es una articulación sinovial pequeña; no corresponde a la sinostosis entre el basihioides y el proceso tirohioideo.",
+        "inserciones": "No constituye una superficie de inserción muscular principal. La cápsula articular se fija alrededor de los márgenes de las superficies articulares.",
+        "irrigacion": "La irrigación capsular específica no se describe de forma independiente y consistente en las fuentes consultadas. Recibe aporte de la vascularización regional de la laringe; no se asigna una arteria exclusiva sin respaldo.",
+        "inervacion": "La inervación articular específica no está detallada de forma consistente en las fuentes consultadas. No se atribuye un nervio exclusivo.",
+        "funcion": "Permite una conexión móvil entre el aparato hioideo y el cartílago tiroides, coordinando los desplazamientos del aparato hioideo con los movimientos de la laringe durante la deglución y la función respiratoria.",
+        "especie": "En el caballo, el proceso tirohioideo es una prolongación del basihioides y su extremo distal se articula con el cuerno rostral del cartílago tiroides mediante una pequeña articulación sinovial. La unión proximal basihioides–proceso tirohioideo es distinta y puede osificarse con la edad.",
+        "clinica": "Es una conexión relevante para la movilidad coordinada del aparato hioideo y la laringe. La valoración de alteraciones debe considerar la articulación distal y distinguirla de cambios de osificación en la unión basihioidea.",
+        "referencias": "Hartl B, Egerbacher M, Kneissl SM. Correlated Imaging of the Equine Hyoid Apparatus Using CT, Micro-CT, and Histology. Front Vet Sci. 2021;8:652563. https://doi.org/10.3389/fvets.2021.652563\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Secciones de músculos del espacio intermandibular y aparato hioideo."
+      }
+    },
+    {
+      "id": "equ.res.lar.021-d",
+      "es": "Articulación tirohioidea (derecha)",
+      "la": "Articulatio thyrohyoidea",
+      "sys": "res",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En el lado derecho de la laringe, entre el extremo distal del proceso tirohioideo correspondiente del aparato hioideo y el cuerno rostral del cartílago tiroides.",
+        "descripcion": "Articulación sinovial que conecta el proceso tirohioideo con el cartílago tiroides. No debe confundirse con la unión basihioidea, donde el proceso tirohioideo se continúa con el basihioides y puede presentar sinostosis con la maduración.",
+        "relaciones": "Se relaciona medialmente con la laringe y sus estructuras cartilaginosas; dorsalmente con la región de la raíz de la lengua y el aparato hioideo; y caudalmente con el resto del esqueleto laríngeo. La disposición es bilateral.",
+        "accidentes": "Superficies articulares del extremo distal del proceso tirohioideo y del cuerno rostral del cartílago tiroides; cartílago articular hialino y pequeña cavidad articular con cápsula.",
+        "articulaciones": "Articula el proceso tirohioideo con el cuerno rostral del cartílago tiroides. Es una articulación sinovial pequeña; no corresponde a la sinostosis entre el basihioides y el proceso tirohioideo.",
+        "inserciones": "No constituye una superficie de inserción muscular principal. La cápsula articular se fija alrededor de los márgenes de las superficies articulares.",
+        "irrigacion": "La irrigación capsular específica no se describe de forma independiente y consistente en las fuentes consultadas. Recibe aporte de la vascularización regional de la laringe; no se asigna una arteria exclusiva sin respaldo.",
+        "inervacion": "La inervación articular específica no está detallada de forma consistente en las fuentes consultadas. No se atribuye un nervio exclusivo.",
+        "funcion": "Permite una conexión móvil entre el aparato hioideo y el cartílago tiroides, coordinando los desplazamientos del aparato hioideo con los movimientos de la laringe durante la deglución y la función respiratoria.",
+        "especie": "En el caballo, el proceso tirohioideo es una prolongación del basihioides y su extremo distal se articula con el cuerno rostral del cartílago tiroides mediante una pequeña articulación sinovial. La unión proximal basihioides–proceso tirohioideo es distinta y puede osificarse con la edad.",
+        "clinica": "Es una conexión relevante para la movilidad coordinada del aparato hioideo y la laringe. La valoración de alteraciones debe considerar la articulación distal y distinguirla de cambios de osificación en la unión basihioidea.",
+        "referencias": "Hartl B, Egerbacher M, Kneissl SM. Correlated Imaging of the Equine Hyoid Apparatus Using CT, Micro-CT, and Histology. Front Vet Sci. 2021;8:652563. https://doi.org/10.3389/fvets.2021.652563\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Secciones de músculos del espacio intermandibular y aparato hioideo."
+      }
     }
   ],
   "verificaciones": [
@@ -3637,6 +3719,21 @@
       "fichas_con_estado_verificado": 59,
       "fuente_preservada_sin_modificaciones": true,
       "alcance": "Verifica la correspondencia de los registros migrados con la fuente canónica y la integridad del JSON. No equivale a la auditoría anatómica completa ni declara verificado el sistema articular."
+    },
+    {
+      "tipo": "conciliacion_completa_de_extraccion",
+      "estado": "verificada",
+      "fecha": "2026-11-22",
+      "total_estructuras": 158,
+      "distribucion_por_origen": {
+        "ske/art": 152,
+        "res/art": 6
+      },
+      "ids_unicos": true,
+      "registros_con_revision_individual": 59,
+      "registros_aprobados_y_verificados": 59,
+      "fuente_preservada_sin_modificaciones": true,
+      "alcance": "Incluye las articulaciones y ligamentos musculoesqueléticos (ske/art) y las seis articulaciones laríngeas/tirohioideas clasificadas en res/art. Verifica extracción e integridad, no sustituye la auditoría anatómica."
     }
   ]
 }
