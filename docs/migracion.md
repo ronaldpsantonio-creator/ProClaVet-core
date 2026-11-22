@@ -53,3 +53,10 @@ La verificación de extracción comprueba recuentos, unicidad y correspondencia 
 ## Preservación
 
 No se modificaron los repositorios `ProClaVet` ni `ProClaVet-preview`. No se eliminaron registros de la fuente. Los IDs laterales históricos se mantienen en las fichas bilaterales ya consolidadas y las diferencias laterales existentes se conservan.
+
+
+## Integración de la aplicación web — 2026-11-22
+
+Se incorporó al repositorio destino la interfaz web de la vista previa: `index.html`, `css/styles.css`, `js/app.js`, `manifest.webmanifest`, `sw.js`, el icono PWA y las dos láminas SVG del atlas. El cargador JavaScript se adaptó para leer los 12 archivos de `data/sistemas/`, admitiendo los contenedores `structures` y `estructuras` y verificando en ejecución 3.881 registros e IDs únicos. Los JSON de datos no se modificaron durante esta integración.
+
+La publicación debe probarse todavía en GitHub Pages; no se declara validación funcional hasta comprobar carga, consola, navegación y caché desde la URL pública.
