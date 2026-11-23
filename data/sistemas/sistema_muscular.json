@@ -35,18 +35,32 @@
       "layer": "msu"
     },
     {
-      "id": "equ.mus.cab.002-i",
-      "es": "Orbicular del ojo (izquierdo)",
+      "id": "equ.mus.cab.002",
+      "es": "Orbicular del ojo (bilateral)",
       "la": "Musculus orbicularis oculi",
       "sys": "mus",
-      "layer": "msu"
-    },
-    {
-      "id": "equ.mus.cab.002-d",
-      "es": "Orbicular del ojo (derecho)",
-      "la": "Musculus orbicularis oculi",
-      "sys": "mus",
-      "layer": "msu"
+      "layer": "msu",
+      "ficha": {
+        "ubicacion": "Rodea la hendidura palpebral, dentro de los párpados superior e inferior de cada ojo.",
+        "descripcion": "Músculo facial par, de disposición circular alrededor del ojo, extenso en el caballo.",
+        "inserciones": "Rodea la hendidura palpebral en el espesor de ambos párpados. Las fijaciones precisas, como el ligamento palpebral medial, no quedan detalladas en las fuentes equinas consultadas.",
+        "irrigacion": "No queda detallada en las fuentes equinas consultadas para este músculo; no se asigna una arteria específica.",
+        "inervacion": "Ramos palpebrales del nervio auriculopalpebral, rama del nervio facial (VII).",
+        "funcion": "Cierra los párpados y es el principal responsable del cierre del ojo y del parpadeo en el caballo; su contracción parcial reduce la abertura palpebral sin cerrarla del todo y recluye la región infraorbitaria.",
+        "especie": "En el caballo, el cierre ocular depende sobre todo del orbicular del ojo, junto con la relajación del elevador del párpado superior, de forma semejante al perro y al gato.",
+        "referencias": "Wathan J, Burrows AM, Waller BM, McComb K. EquiFACS: The Equine Facial Action Coding System. PLoS One. 2015;10(8):e0131738. doi:10.1371/journal.pone.0131738"
+      },
+      "lateralidad": "bilateral",
+      "trazabilidad_ids": [
+        "equ.mus.cab.002-i",
+        "equ.mus.cab.002-d"
+      ],
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-22",
+        "alcance": "Ficha parcial redactada a partir de Sisson 1895 y EquiFACS 2015 (acceso abierto/dominio público). No se consultaron directamente Budras/Sack, Dyce ni la NAV. Sin relaciones, accidentes ni clínica; irrigación sin detallar. Un archivo generado con Gemini se usó solo como comparación, no como fuente. Pendiente de cotejo con NAV, Dyce y WikiVet y de revisión del usuario."
+      },
+      "historial_origen": "Consolidación bilateral de dos registros laterales sin ficha; los IDs laterales originales se conservan en trazabilidad_ids."
     },
     {
       "id": "equ.mus.cab.003-i",
@@ -161,88 +175,169 @@
       "layer": "mpr"
     },
     {
-      "id": "equ.mus.cab.011-i",
-      "es": "Elevador nasolabial (izquierdo)",
+      "id": "equ.mus.cab.011",
+      "es": "Elevador nasolabial (bilateral)",
       "la": "Musculus levator nasolabialis",
       "sys": "mus",
-      "layer": "msu"
+      "layer": "msu",
+      "ficha": {
+        "ubicacion": "En la cara dorsal del rostro, a cada lado de la cabeza, desde la región frontonasal hacia el ollar y el labio superior.",
+        "descripcion": "Músculo facial par, descrito también como elevador del labio superior y del ala de la nariz (Musculus levator labii superioris alaeque nasi), sinónimo usado para el elevador nasolabial.",
+        "inserciones": "Origen: huesos frontal y nasal. Inserción: ollar (ala de la nariz) y labio superior.",
+        "irrigacion": "No queda detallada en las fuentes equinas consultadas para este músculo; no se asigna una arteria específica.",
+        "inervacion": "Ramos bucales del nervio facial (VII).",
+        "funcion": "Eleva el labio superior y dilata el ollar; su acción aislada tira de la comisura del labio superior en dirección oblicua hacia el puente nasal (acción de tirón agudo de la comisura labial).",
+        "especie": "En el caballo participa en la elevación del labio superior junto con el elevador del labio superior y el transverso de la nariz.",
+        "referencias": "Sisson S. Ligaments and Muscles of the Horse. Toronto: J. A. Carveth & Co.; 1895. Regiones facial y temporomaxilar.\nWathan J, Burrows AM, Waller BM, McComb K. EquiFACS: The Equine Facial Action Coding System. PLoS One. 2015;10(8):e0131738. doi:10.1371/journal.pone.0131738"
+      },
+      "lateralidad": "bilateral",
+      "trazabilidad_ids": [
+        "equ.mus.cab.011-i",
+        "equ.mus.cab.011-d"
+      ],
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-22",
+        "alcance": "Ficha parcial redactada a partir de Sisson 1895 y EquiFACS 2015 (acceso abierto/dominio público). No se consultaron directamente Budras/Sack, Dyce ni la NAV. Sin relaciones, accidentes ni clínica; irrigación sin detallar. Un archivo generado con Gemini se usó solo como comparación, no como fuente. Pendiente de cotejo con NAV, Dyce y WikiVet y de revisión del usuario."
+      },
+      "historial_origen": "Consolidación bilateral de dos registros laterales sin ficha; los IDs laterales originales se conservan en trazabilidad_ids."
     },
     {
-      "id": "equ.mus.cab.011-d",
-      "es": "Elevador nasolabial (derecho)",
-      "la": "Musculus levator nasolabialis",
-      "sys": "mus",
-      "layer": "msu"
-    },
-    {
-      "id": "equ.mus.cab.012-i",
-      "es": "Elevador del labio superior (izquierdo)",
+      "id": "equ.mus.cab.012",
+      "es": "Elevador del labio superior (bilateral)",
       "la": "Musculus levator labii superioris",
       "sys": "mus",
-      "layer": "msu"
+      "layer": "msu",
+      "ficha": {
+        "ubicacion": "En la cara lateral del rostro, a cada lado de la cabeza, desde la región infraorbitaria hacia el labio superior.",
+        "descripcion": "Músculo facial par que eleva el labio superior; en la nomenclatura clásica se describe como elevador propio del labio superior (nasalis longus).",
+        "inserciones": "Origen: huesos malar y maxilar, ventrales a la órbita. Inserción: labio superior.",
+        "irrigacion": "No queda detallada en las fuentes equinas consultadas para este músculo; no se asigna una arteria específica.",
+        "inervacion": "Ramos bucales del nervio facial (VII).",
+        "funcion": "Actuando ambos lados a la vez eleva el labio superior; por separado lo eleva y lo desplaza hacia el lado del músculo que actúa. Contribuye a la elevación y el rizado del labio superior junto con el transverso de la nariz.",
+        "referencias": "Sisson S. Ligaments and Muscles of the Horse. Toronto: J. A. Carveth & Co.; 1895. Regiones facial y temporomaxilar.\nWathan J, Burrows AM, Waller BM, McComb K. EquiFACS: The Equine Facial Action Coding System. PLoS One. 2015;10(8):e0131738. doi:10.1371/journal.pone.0131738"
+      },
+      "lateralidad": "bilateral",
+      "trazabilidad_ids": [
+        "equ.mus.cab.012-i",
+        "equ.mus.cab.012-d"
+      ],
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-22",
+        "alcance": "Ficha parcial redactada a partir de Sisson 1895 y EquiFACS 2015 (acceso abierto/dominio público). No se consultaron directamente Budras/Sack, Dyce ni la NAV. Sin relaciones, accidentes ni clínica; irrigación sin detallar. Un archivo generado con Gemini se usó solo como comparación, no como fuente. Pendiente de cotejo con NAV, Dyce y WikiVet y de revisión del usuario."
+      },
+      "historial_origen": "Consolidación bilateral de dos registros laterales sin ficha; los IDs laterales originales se conservan en trazabilidad_ids."
     },
     {
-      "id": "equ.mus.cab.012-d",
-      "es": "Elevador del labio superior (derecho)",
-      "la": "Musculus levator labii superioris",
-      "sys": "mus",
-      "layer": "msu"
-    },
-    {
-      "id": "equ.mus.cab.013-i",
-      "es": "Orbicular de la boca (izquierdo)",
+      "id": "equ.mus.cab.013",
+      "es": "Orbicular de la boca (bilateral)",
       "la": "Musculus orbicularis oris",
       "sys": "mus",
-      "layer": "msu"
+      "layer": "msu",
+      "ficha": {
+        "ubicacion": "Rodea la abertura bucal, en el espesor de los labios superior e inferior, con continuidad hacia ambas comisuras labiales.",
+        "descripcion": "Músculo facial de disposición esfinteriana, cuyas fibras circunscriben la abertura de la boca en forma elíptica.",
+        "inserciones": "Las fuentes equinas consultadas lo describen como un esfínter que rodea la boca, sin fijaciones óseas detalladas; sus fibras se continúan con los músculos de los labios y las mejillas que convergen en la comisura labial (modiolo).",
+        "irrigacion": "No queda detallada en las fuentes equinas consultadas para este músculo; no se asigna una arteria específica.",
+        "inervacion": "Ramos del nervio facial (VII).",
+        "funcion": "Cierra los labios; interviene en la protrusión de los labios y en su compresión mutua.",
+        "especie": "En el caballo, los músculos de la zona inferior de la cara convergen en la comisura labial formando una masa muscular grande y compleja, en la que participa el orbicular de la boca.",
+        "referencias": "Sisson S. Ligaments and Muscles of the Horse. Toronto: J. A. Carveth & Co.; 1895. Regiones facial y temporomaxilar.\nWathan J, Burrows AM, Waller BM, McComb K. EquiFACS: The Equine Facial Action Coding System. PLoS One. 2015;10(8):e0131738. doi:10.1371/journal.pone.0131738"
+      },
+      "lateralidad": "bilateral",
+      "trazabilidad_ids": [
+        "equ.mus.cab.013-i",
+        "equ.mus.cab.013-d"
+      ],
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-22",
+        "alcance": "Ficha parcial redactada a partir de Sisson 1895 y EquiFACS 2015 (acceso abierto/dominio público). No se consultaron directamente Budras/Sack, Dyce ni la NAV. Sin relaciones, accidentes ni clínica; irrigación sin detallar. Un archivo generado con Gemini se usó solo como comparación, no como fuente. Pendiente de cotejo con NAV, Dyce y WikiVet y de revisión del usuario."
+      },
+      "historial_origen": "Consolidación bilateral de dos registros laterales sin ficha; los IDs laterales originales se conservan en trazabilidad_ids."
     },
     {
-      "id": "equ.mus.cab.013-d",
-      "es": "Orbicular de la boca (derecho)",
-      "la": "Musculus orbicularis oris",
-      "sys": "mus",
-      "layer": "msu"
-    },
-    {
-      "id": "equ.mus.cab.014-i",
-      "es": "Buccinador (izquierdo)",
+      "id": "equ.mus.cab.014",
+      "es": "Buccinador (bilateral)",
       "la": "Musculus buccinator",
       "sys": "mus",
-      "layer": "mpr"
+      "layer": "mpr",
+      "ficha": {
+        "ubicacion": "En la pared de la mejilla, a cada lado de la cabeza, entre los arcos dentarios y la comisura labial.",
+        "descripcion": "Músculo facial plano que forma la pared muscular de la mejilla.",
+        "inserciones": "Se fija en el maxilar desde el alvéolo del diente canino hasta la tuberosidad alveolar, y de manera similar en la mandíbula; rostralmente mezcla sus fibras con las del orbicular de la boca.",
+        "irrigacion": "No queda detallada en las fuentes equinas consultadas para este músculo; no se asigna una arteria específica.",
+        "inervacion": "Ramos bucales del nervio facial (VII).",
+        "funcion": "Presiona el alimento entre los dientes yugales durante la masticación; también puede retraer la comisura labial.",
+        "referencias": "Sisson S. Ligaments and Muscles of the Horse. Toronto: J. A. Carveth & Co.; 1895. Regiones facial y temporomaxilar."
+      },
+      "lateralidad": "bilateral",
+      "trazabilidad_ids": [
+        "equ.mus.cab.014-i",
+        "equ.mus.cab.014-d"
+      ],
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-22",
+        "alcance": "Ficha parcial redactada a partir de Sisson 1895 y EquiFACS 2015 (acceso abierto/dominio público). No se consultaron directamente Budras/Sack, Dyce ni la NAV. Sin relaciones, accidentes ni clínica; irrigación sin detallar. Un archivo generado con Gemini se usó solo como comparación, no como fuente. Pendiente de cotejo con NAV, Dyce y WikiVet y de revisión del usuario."
+      },
+      "historial_origen": "Consolidación bilateral de dos registros laterales sin ficha; los IDs laterales originales se conservan en trazabilidad_ids."
     },
     {
-      "id": "equ.mus.cab.014-d",
-      "es": "Buccinador (derecho)",
-      "la": "Musculus buccinator",
-      "sys": "mus",
-      "layer": "mpr"
-    },
-    {
-      "id": "equ.mus.cab.015-i",
-      "es": "Músculo cigomático (izquierdo)",
+      "id": "equ.mus.cab.015",
+      "es": "Músculo cigomático (bilateral)",
       "la": "Musculus zygomaticus",
       "sys": "mus",
-      "layer": "msu"
+      "layer": "msu",
+      "ficha": {
+        "ubicacion": "En la cara lateral de la cabeza, a cada lado, sobre el masetero y hacia la comisura labial.",
+        "descripcion": "Músculo facial par, delgado, que se extiende desde la superficie del masetero hasta el ángulo de la boca.",
+        "inserciones": "Origen: superficie del masetero. Inserción: músculo buccinador, inmediatamente por encima del ángulo de la boca.",
+        "irrigacion": "No queda detallada en las fuentes equinas consultadas para este músculo; no se asigna una arteria específica.",
+        "inervacion": "Ramos bucales del nervio facial (VII).",
+        "funcion": "Tira de la comisura labial en sentido caudal (retracción de la comisura); la descripción clásica de Sisson lo da como elevador del ángulo de la boca.",
+        "especie": "El caballo posee un cigomático mayor, llamado habitualmente músculo cigomático, y un cigomático menor, también denominado malar.",
+        "referencias": "Sisson S. Ligaments and Muscles of the Horse. Toronto: J. A. Carveth & Co.; 1895. Regiones facial y temporomaxilar.\nWathan J, Burrows AM, Waller BM, McComb K. EquiFACS: The Equine Facial Action Coding System. PLoS One. 2015;10(8):e0131738. doi:10.1371/journal.pone.0131738"
+      },
+      "lateralidad": "bilateral",
+      "trazabilidad_ids": [
+        "equ.mus.cab.015-i",
+        "equ.mus.cab.015-d"
+      ],
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-22",
+        "alcance": "Ficha parcial redactada a partir de Sisson 1895 y EquiFACS 2015 (acceso abierto/dominio público). No se consultaron directamente Budras/Sack, Dyce ni la NAV. Sin relaciones, accidentes ni clínica; irrigación sin detallar. Un archivo generado con Gemini se usó solo como comparación, no como fuente. Pendiente de cotejo con NAV, Dyce y WikiVet y de revisión del usuario."
+      },
+      "historial_origen": "Consolidación bilateral de dos registros laterales sin ficha; los IDs laterales originales se conservan en trazabilidad_ids."
     },
     {
-      "id": "equ.mus.cab.015-d",
-      "es": "Músculo cigomático (derecho)",
-      "la": "Musculus zygomaticus",
-      "sys": "mus",
-      "layer": "msu"
-    },
-    {
-      "id": "equ.mus.cab.016-i",
-      "es": "Depresor del labio inferior (izquierdo)",
+      "id": "equ.mus.cab.016",
+      "es": "Depresor del labio inferior (bilateral)",
       "la": "Musculus depressor labii inferioris",
       "sys": "mus",
-      "layer": "msu"
-    },
-    {
-      "id": "equ.mus.cab.016-d",
-      "es": "Depresor del labio inferior (derecho)",
-      "la": "Musculus depressor labii inferioris",
-      "sys": "mus",
-      "layer": "msu"
+      "layer": "msu",
+      "ficha": {
+        "ubicacion": "En la región de la mejilla inferior y el borde de la rama de la mandíbula, a cada lado de la cabeza, hacia el labio inferior.",
+        "descripcion": "Músculo facial par que desciende el labio inferior.",
+        "inserciones": "Según Sisson (1895): origen en el borde de la rama de la mandíbula, caudal al último molar; inserción en el labio inferior. Esta descripción no se ha contrastado con textos equinos modernos.",
+        "irrigacion": "No queda detallada en las fuentes equinas consultadas para este músculo; no se asigna una arteria específica.",
+        "inervacion": "Ramos bucales del nervio facial (VII).",
+        "funcion": "Desciende el labio inferior, tirando de él ventralmente y hacia lateral; en conjunto con el mentoniano modifica la forma del labio inferior.",
+        "referencias": "Sisson S. Ligaments and Muscles of the Horse. Toronto: J. A. Carveth & Co.; 1895. Regiones facial y temporomaxilar.\nWathan J, Burrows AM, Waller BM, McComb K. EquiFACS: The Equine Facial Action Coding System. PLoS One. 2015;10(8):e0131738. doi:10.1371/journal.pone.0131738"
+      },
+      "lateralidad": "bilateral",
+      "trazabilidad_ids": [
+        "equ.mus.cab.016-i",
+        "equ.mus.cab.016-d"
+      ],
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-22",
+        "alcance": "Ficha parcial redactada a partir de Sisson 1895 y EquiFACS 2015 (acceso abierto/dominio público). No se consultaron directamente Budras/Sack, Dyce ni la NAV. Sin relaciones, accidentes ni clínica; irrigación sin detallar. Un archivo generado con Gemini se usó solo como comparación, no como fuente. Pendiente de cotejo con NAV, Dyce y WikiVet y de revisión del usuario."
+      },
+      "historial_origen": "Consolidación bilateral de dos registros laterales sin ficha; los IDs laterales originales se conservan en trazabilidad_ids."
     },
     {
       "id": "equ.mus.cab.017-i",
@@ -259,46 +354,94 @@
       "layer": "msu"
     },
     {
-      "id": "equ.mus.cab.018-i",
-      "es": "Masetero (izquierdo)",
+      "id": "equ.mus.cab.018",
+      "es": "Masetero (bilateral)",
       "la": "Musculus masseter",
       "sys": "mus",
-      "layer": "msu"
+      "layer": "msu",
+      "ficha": {
+        "ubicacion": "Cara lateral de la mandíbula, en la región de la mejilla. Se extiende desde la cresta facial y el arco cigomático hasta la fosa maseterina de la rama de la mandíbula. Es el único músculo masticador situado en el lado lateral de la mandíbula; los otros cuatro (pterigoideos medial y lateral, digástrico con su porción occipitomandibular) están en el lado medial y el temporal ocupa la fosa temporal.",
+        "descripcion": "Músculo masticador voluminoso, considerado el más fuerte e importante del aparato masticatorio equino. La NAV (2017) lo divide en una parte superficial y una parte profunda. Un estudio de disección en 8 cabezas de caballo (Süß et al., 2024) describe nueve capas musculares constantes, separadas por láminas tendinosas; cada capa tiene una aponeurosis y una porción carnosa de grosor variable. Según esos autores, las capas 1 a 3 podrían corresponder a la parte superficial y las capas 4 a 9 a la parte profunda. La división en nueve capas es una propuesta de ese estudio, no una subdivisión de la NAV.",
+        "relaciones": "La capa más medial (capa 8) cubre la porción molar del músculo buccinador, el seno venoso bucal con el nervio bucal que lo acompaña y el seno de la vena profunda de la cara. Medial a la capa 9 también se observan esos senos venosos y el cuerpo adiposo extraperiorbitario. En la zona caudodorsal, cerca de la articulación temporomandibular, la capa 1 no llega hasta la articulación y deja ver capas más profundas (la 'ventana del masetero'). La arteria y la vena transversas de la cara quedan superficiales en el borde caudal del músculo, ventrales a la articulación temporomandibular.",
+        "accidentes": "Cresta facial y arco cigomático (origen). Fosa maseterina de la mandíbula, con un patrón constante de crestas óseas descrito por Süß et al. (2024): línea maseterina ventral (a lo largo del borde ventral de la rama; recibe la capa 2 y la porción carnosa de la capa 1), líneas maseterinas centrales (dos crestas paralelas: la ventral recibe la capa 4 y la dorsal la parte caudal de la capa 6), línea maseterina dorsal (capa 9) y línea maseterina perpendicular (parte rostral de la capa 6 y capa 8). Esos nombres de crestas son propuestos por el estudio y no constan en la NAV. Borde caudoventral de la rama mandibular, desde el proceso condilar hasta la escotadura de los vasos faciales.",
+        "articulaciones": "No forma una articulación. Mueve la mandíbula en la articulación temporomandibular.",
+        "inserciones": "Origen: cresta facial y arco cigomático; cada capa nace por aponeurosis o por porción carnosa. Inserción: fosa maseterina y borde caudoventral de la rama mandibular; también margen rostroventral de la rama (parte rostral de la capa 6). Süß et al. (2024) agrupan las capas así: grupo superficial (capas 1 a 3), que se inserta a lo largo de todo el borde ventral de la rama (línea maseterina ventral); grupo profundo caudal (capas 4, 5, parte caudal de la 6, 7 y 9), que se inserta en las crestas situadas caudales a la línea maseterina perpendicular; y grupo profundo rostral (parte rostral de la capa 6 y capa 8), que se inserta rostralmente en la línea maseterina perpendicular.",
+        "irrigacion": "La arteria y la vena maseterinas entran al músculo por el borde caudal de la mandíbula, entre el segundo tercio dorsal y el tercio ventral de la capa 1; ramas vasculares recorren la lámina tendinosa de la zona ventral de la capa 2 y la porción aponeurótica de la parte rostral de la capa 6. La arteria y la vena transversas de la cara, superficiales en el borde caudal del músculo, atraviesan la capa 3 en la parte caudal de la cresta facial.",
+        "inervacion": "Nervio maseterino, rama del nervio mandibular (V3) del trigémino; es el único nervio del músculo. Entra por el borde caudomedial, algo rostral a la articulación temporomandibular. Su tronco principal sigue un recorrido constante de dorsocaudal a ventrorostral, con una angulación de 30° a 40° respecto a la cresta facial, y pasa de medial a lateral en seis puntos fijos: atraviesa las capas 6, 5 y 3, o bordea el borde rostral de las capas 7, 4 y 2.",
+        "funcion": "Con contracción bilateral eleva la mandíbula y la presiona contra el maxilar; con contracción unilateral la desplaza lateralmente, lo que permite el movimiento de trituración (Seiferle y Frewein, 2003; Liebich et al., 2019, citados en Süß et al., 2024). Puede ejercer fuerzas de hasta 1758 N sobre los molares. La masticación equina es unilateral: un lado tritura (lado de trabajo) y el otro acompaña el movimiento (lado de balance).",
+        "especie": "En el caballo es el músculo masticador más potente, con una cresta facial alargada y una fosa maseterina bien desarrollada. Es el único músculo que une la mandíbula con una estructura craneal lateral (la cresta facial); los demás masticadores van desde estructuras craneales mediales hacia la mandíbula. Como la sutura intermandibular está osificada y es inmóvil, los dos lados de la mandíbula requieren una coordinación muy fina. Es bilateral.",
+        "clinica": "No detallada en las fuentes consultadas. Süß et al. (2024) señalan que el conocimiento de sus capas y del curso del nervio maseterino sirve de base para estudios de odontología equina, de biomecánica de la masticación y de técnicas de tratamiento miofascial.",
+        "referencias": "Süß F, Guth S, Müller-Ehrenberg H, Röcken M, Staszyk C. Gross anatomy of the equine masseter muscle: lamination and intramuscular course of the N. massetericus. Anat Histol Embryol. 2024;53(6):e70000. doi:10.1111/ahe.70000. Citados en ese trabajo y no consultados directamente: Nomina Anatomica Veterinaria, 6.ª ed., 2017; Seiferle E, Frewein J. 2003; Liebich HG, König HE, Maierl J. 2019."
+      },
+      "lateralidad": "bilateral",
+      "trazabilidad_ids": [
+        "equ.mus.cab.018-i",
+        "equ.mus.cab.018-d"
+      ],
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-22",
+        "alcance": "Ficha redactada a partir de Süß et al. 2024 (acceso abierto). No se consultaron directamente Budras/Sack, Dyce ni la NAV. Pendiente de cotejo con NAV, Dyce y WikiVet y de revisión del usuario."
+      },
+      "historial_origen": "Consolidación bilateral de dos registros laterales sin ficha; los registros laterales originales se conservan en history."
     },
     {
-      "id": "equ.mus.cab.018-d",
-      "es": "Masetero (derecho)",
-      "la": "Musculus masseter",
-      "sys": "mus",
-      "layer": "msu"
-    },
-    {
-      "id": "equ.mus.cab.019-i",
-      "es": "Músculo temporal (izquierdo)",
+      "id": "equ.mus.cab.019",
+      "es": "Músculo temporal (bilateral)",
       "la": "Musculus temporalis",
       "sys": "mus",
-      "layer": "mpr"
+      "layer": "mpr",
+      "ficha": {
+        "ubicacion": "En la fosa temporal de la región dorsolateral del cráneo, a cada lado de la cabeza. Sus fibras convergen hacia el proceso coronoides de la mandíbula, pasando medialmente al arco cigomático.",
+        "descripcion": "Músculo masticador par, elevador de la mandíbula, que ocupa la fosa temporal. Junto con el masetero y los pterigoideos forma el grupo de músculos masticadores.",
+        "articulaciones": "No forma una articulación. Actúa sobre la articulación temporomandibular al elevar y desplazar la mandíbula.",
+        "inserciones": "Origen: fosa temporal. Inserción: proceso coronoides de la mandíbula.",
+        "irrigacion": "No queda detallada en las fuentes equinas consultadas para este músculo; no se asigna una arteria específica.",
+        "inervacion": "Nervio mandibular (V3), rama del nervio trigémino, mediante los nervios temporales profundos.",
+        "funcion": "Eleva principalmente la mandíbula y se opone a la acción de protrusión del pterigoideo lateral; también interviene en los movimientos laterales de la mandíbula.",
+        "especie": "En el caballo, el músculo temporal se aloja en la fosa temporal, dorsomedial a la mandíbula, mientras que el masetero es el único músculo masticador situado en la cara lateral de la mandíbula.",
+        "referencias": "Sisson S. Ligaments and Muscles of the Horse. Toronto: J. A. Carveth & Co.; 1895. Regiones facial y temporomaxilar.\nSüß et al. Gross anatomy of the equine masseter muscle: lamination. Anat Histol Embryol. 2024;53:e70000. doi:10.1111/ahe.70000"
+      },
+      "lateralidad": "bilateral",
+      "trazabilidad_ids": [
+        "equ.mus.cab.019-i",
+        "equ.mus.cab.019-d"
+      ],
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-22",
+        "alcance": "Ficha parcial redactada a partir de Sisson 1895 y EquiFACS 2015 y Süß et al. 2024 (acceso abierto/dominio público). No se consultaron directamente Budras/Sack, Dyce ni la NAV. Sin relaciones, accidentes ni clínica; irrigación sin detallar. Un archivo generado con Gemini se usó solo como comparación, no como fuente. Pendiente de cotejo con NAV, Dyce y WikiVet y de revisión del usuario."
+      },
+      "historial_origen": "Consolidación bilateral de dos registros laterales sin ficha; los IDs laterales originales se conservan en trazabilidad_ids."
     },
     {
-      "id": "equ.mus.cab.019-d",
-      "es": "Músculo temporal (derecho)",
-      "la": "Musculus temporalis",
-      "sys": "mus",
-      "layer": "mpr"
-    },
-    {
-      "id": "equ.mus.cab.020-i",
-      "es": "Pterigoideo medial (izquierdo)",
+      "id": "equ.mus.cab.020",
+      "es": "Pterigoideo medial (bilateral)",
       "la": "Musculus pterygoideus medialis",
       "sys": "mus",
-      "layer": "mpr"
-    },
-    {
-      "id": "equ.mus.cab.020-d",
-      "es": "Pterigoideo medial (derecho)",
-      "la": "Musculus pterygoideus medialis",
-      "sys": "mus",
-      "layer": "mpr"
+      "layer": "mpr",
+      "ficha": {
+        "ubicacion": "En la cara medial de la rama de la mandíbula, a cada lado de la cabeza, entre la región pterigopalatina y la superficie interna de la rama mandibular.",
+        "descripcion": "Músculo masticador par, elevador de la mandíbula, situado medialmente a la rama mandibular.",
+        "articulaciones": "No forma una articulación. Actúa sobre la articulación temporomandibular al elevar y desplazar lateralmente la mandíbula.",
+        "inserciones": "Origen: cresta rugosa formada por el hueso palatino y el proceso pterigoideo del esfenoides. Inserción: cara medial excavada de la rama de la mandíbula.",
+        "irrigacion": "No queda detallada en las fuentes equinas consultadas para este músculo; no se asigna una arteria específica.",
+        "inervacion": "Nervio mandibular (V3), rama del nervio trigémino, mediante el nervio pterigoideo medial.",
+        "funcion": "Actuando ambos lados a la vez eleva la mandíbula; cuando actúa un solo lado produce movimiento lateral de la mandíbula.",
+        "especie": "En el caballo, el pterigoideo medial es uno de los músculos masticadores situados medialmente a la mandíbula, en oposición al masetero, que es el único lateral.",
+        "referencias": "Sisson S. Ligaments and Muscles of the Horse. Toronto: J. A. Carveth & Co.; 1895. Regiones facial y temporomaxilar.\nSüß et al. Gross anatomy of the equine masseter muscle: lamination. Anat Histol Embryol. 2024;53:e70000. doi:10.1111/ahe.70000"
+      },
+      "lateralidad": "bilateral",
+      "trazabilidad_ids": [
+        "equ.mus.cab.020-i",
+        "equ.mus.cab.020-d"
+      ],
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-22",
+        "alcance": "Ficha parcial redactada a partir de Sisson 1895 y EquiFACS 2015 y Süß et al. 2024 (acceso abierto/dominio público). No se consultaron directamente Budras/Sack, Dyce ni la NAV. Sin relaciones, accidentes ni clínica; irrigación sin detallar. Un archivo generado con Gemini se usó solo como comparación, no como fuente. Pendiente de cotejo con NAV, Dyce y WikiVet y de revisión del usuario."
+      },
+      "historial_origen": "Consolidación bilateral de dos registros laterales sin ficha; los IDs laterales originales se conservan en trazabilidad_ids."
     },
     {
       "id": "equ.mus.cab.021-i",
@@ -4315,6 +4458,42 @@
       "fichas_con_estado_verificado": 0,
       "fuente_preservada_sin_modificaciones": true,
       "alcance": "Verifica la correspondencia de los registros migrados con la fuente canónica y la integridad del JSON. No equivale a la auditoría anatómica completa ni declara verificado el sistema muscular."
+    },
+    {
+      "tipo": "consolidacion_bilateral",
+      "estado": "en_curso",
+      "fecha": "2026-11-22",
+      "estructuras_consolidadas": [
+        "equ.mus.cab.018",
+        "equ.mus.cab.002",
+        "equ.mus.cab.011",
+        "equ.mus.cab.012",
+        "equ.mus.cab.013",
+        "equ.mus.cab.014",
+        "equ.mus.cab.015",
+        "equ.mus.cab.016",
+        "equ.mus.cab.019",
+        "equ.mus.cab.020"
+      ],
+      "total_estructuras": 560,
+      "ids_unicos": true,
+      "alcance": "Registra la consolidación de pares laterales en una ficha bilateral única. No sustituye la auditoría anatómica del sistema muscular."
+    }
+  ],
+  "history": [
+    {
+      "id": "equ.mus.cab.018-i",
+      "es": "Masetero (izquierdo)",
+      "la": "Musculus masseter",
+      "sys": "mus",
+      "layer": "msu"
+    },
+    {
+      "id": "equ.mus.cab.018-d",
+      "es": "Masetero (derecho)",
+      "la": "Musculus masseter",
+      "sys": "mus",
+      "layer": "msu"
     }
   ]
 }
