@@ -1212,45 +1212,35 @@
     },
     {
       "id": "equ.ske.amp.013-i",
-      "es": "Articulación interfalángica distal (izquierda)",
+      "es": "Articulación interfalángica distal (bilateral)",
       "la": "Articulatio interphalangea distalis",
       "sys": "ske",
       "layer": "art",
       "ficha": {
-        "ubicacion": "En el casco del lado izquierdo, entre la tróclea distal de la falange media, la falange distal y el hueso navicular.",
-        "descripcion": "Articulación entre la falange media, la falange distal y el hueso navicular (sesamoideo distal) del lado izquierdo. Permite extensión y una flexión ligera.",
-        "relaciones": "La bolsa del navicular queda entre el hueso navicular y el tendón flexor digital profundo. La cápsula tiene una bolsa dorsal pequeña, bajo el tendón extensor digital, y otra plantar mayor, bajo el flexor digital profundo.",
+        "ubicacion": "En ambos cascos, entre la tróclea distal de la falange media, la falange distal y el hueso navicular.",
+        "descripcion": "Articulación sinovial distal del dedo, formada por la falange media, la falange distal y el hueso navicular (sesamoideo distal). Permite principalmente flexión y extensión limitada.",
+        "relaciones": "La bolsa podotroclear o navicular se sitúa entre el hueso navicular y el tendón flexor digital profundo y constituye una cavidad sinovial independiente. La cápsula de la articulación presenta recesos dorsal y palmar/plantar; no debe describirse la bolsa navicular como una prolongación habitual de la cápsula.",
         "accidentes": "Tróclea distal de la falange media, falange distal, hueso navicular, bolsa dorsal y plantar de la articulación y bolsa del navicular.",
         "articulaciones": "Articulación sinovial con ligamentos colaterales, ligamentos sesamoideos distales y colaterales de los sesamoideos. Los cartílagos ungulares tienen ligamentos hacia las tres falanges y el navicular.",
         "inserciones": "Los ligamentos colaterales unen la falange media con la falange distal. Los ligamentos sesamoideos distales unen el borde distal del navicular con la falange distal.",
         "irrigacion": "No se localizaron descripciones equinas de la irrigación de esta articulación en las fuentes consultadas.",
         "inervacion": "No se localizó una descripción equina de la inervación específica de esta articulación. La inervación sensitiva del hueso navicular procede de los nervios digitales, que discurren por los ligamentos colaterales sesamoideos y por el ligamento sesamoideo distal (impar).",
         "funcion": "Permite extensión y flexión ligera del dedo dentro del casco. La articulación está estabilizada por los ligamentos colaterales y los ligamentos sesamoideos distales.",
-        "especie": "En un estudio con 66 pares de miembros de cadáver (miembros torácicos), la bolsa del navicular se opacificó tras inyectar la articulación solo en el 5,3 % de los miembros: la comunicación es poco frecuente e inconstante. WikiVet describe la articulación para ambos miembros, con palmar y plantar intercambiables. Los datos de comunicación con la bolsa del navicular provienen de miembros torácicos; no se localizó un estudio equivalente en miembros pelvianos.",
-        "clinica": "La osteoartritis afecta con más frecuencia a los miembros anteriores. Las invaginaciones sinoviales del borde distal del navicular se asocian más a la sinovitis de esta articulación que a la enfermedad primaria del hueso navicular. La cojera se localiza con anestesia de los nervios digitales o intraarticular.",
+        "especie": "En el caballo, la comunicación entre la articulación interfalángica distal y la bolsa navicular es rara e inconstante: un estudio de miembros torácicos cadavéricos la detectó en el 5,3 % de los casos. No se extrapola ese porcentaje a los miembros pelvianos.",
+        "clinica": "La osteoartritis afecta con mayor frecuencia a los miembros torácicos. La comunicación con la bolsa navicular no es habitual y debe considerarse una variante infrecuente. La cojera puede investigarse mediante anestesia diagnóstica de nervios digitales o analgesia intraarticular, interpretando los resultados junto con la exploración clínica.",
         "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nWikiVet, Phalanges - Horse Anatomy. https://en.wikivet.net/Phalanges_-_Horse_Anatomy\n\nMoorman VJ. Osteoarthritis of the Distal Interphalangeal (Coffin) Joint in Horses. MSD Veterinary Manual, rev. 2024. https://www.msdvetmanual.com/musculoskeletal-system/disorders-of-the-foot-in-horses/osteoarthritis-of-the-distal-interphalangeal-coffin-joint-in-horses\n\nCommunication between the distal interphalangeal joint and the navicular bursa in the horse at computed tomography arthrography. Anat Histol Embryol. 2019 (66 pares de miembros anteriores de cadáveres). https://read.qxmd.com/read/30609106/communication-between-the-distal-interphalangeal-joint-and-the-navicular-bursa-in-the-horse-at-computed-tomography-arthrography"
-      }
-    },
-    {
-      "id": "equ.ske.amp.013-d",
-      "es": "Articulación interfalángica distal (derecha)",
-      "la": "Articulatio interphalangea distalis",
-      "sys": "ske",
-      "layer": "art",
-      "ficha": {
-        "ubicacion": "En el casco del lado derecho, entre la tróclea distal de la falange media, la falange distal y el hueso navicular.",
-        "descripcion": "Articulación entre la falange media, la falange distal y el hueso navicular (sesamoideo distal) del lado derecho. Permite extensión y una flexión ligera.",
-        "relaciones": "La bolsa del navicular queda entre el hueso navicular y el tendón flexor digital profundo. La cápsula tiene una bolsa dorsal pequeña, bajo el tendón extensor digital, y otra plantar mayor, bajo el flexor digital profundo.",
-        "accidentes": "Tróclea distal de la falange media, falange distal, hueso navicular, bolsa dorsal y plantar de la articulación y bolsa del navicular.",
-        "articulaciones": "Articulación sinovial con ligamentos colaterales, ligamentos sesamoideos distales y colaterales de los sesamoideos. Los cartílagos ungulares tienen ligamentos hacia las tres falanges y el navicular.",
-        "inserciones": "Los ligamentos colaterales unen la falange media con la falange distal. Los ligamentos sesamoideos distales unen el borde distal del navicular con la falange distal.",
-        "irrigacion": "No se localizaron descripciones equinas de la irrigación de esta articulación en las fuentes consultadas.",
-        "inervacion": "No se localizó una descripción equina de la inervación específica de esta articulación. La inervación sensitiva del hueso navicular procede de los nervios digitales, que discurren por los ligamentos colaterales sesamoideos y por el ligamento sesamoideo distal (impar).",
-        "funcion": "Permite extensión y flexión ligera del dedo dentro del casco. La articulación está estabilizada por los ligamentos colaterales y los ligamentos sesamoideos distales.",
-        "especie": "En un estudio con 66 pares de miembros de cadáver (miembros torácicos), la bolsa del navicular se opacificó tras inyectar la articulación solo en el 5,3 % de los miembros: la comunicación es poco frecuente e inconstante. WikiVet describe la articulación para ambos miembros, con palmar y plantar intercambiables. Los datos de comunicación con la bolsa del navicular provienen de miembros torácicos; no se localizó un estudio equivalente en miembros pelvianos.",
-        "clinica": "La osteoartritis afecta con más frecuencia a los miembros anteriores. Las invaginaciones sinoviales del borde distal del navicular se asocian más a la sinovitis de esta articulación que a la enfermedad primaria del hueso navicular. La cojera se localiza con anestesia de los nervios digitales o intraarticular.",
-        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nWikiVet, Phalanges - Horse Anatomy. https://en.wikivet.net/Phalanges_-_Horse_Anatomy\n\nMoorman VJ. Osteoarthritis of the Distal Interphalangeal (Coffin) Joint in Horses. MSD Veterinary Manual, rev. 2024. https://www.msdvetmanual.com/musculoskeletal-system/disorders-of-the-foot-in-horses/osteoarthritis-of-the-distal-interphalangeal-coffin-joint-in-horses\n\nCommunication between the distal interphalangeal joint and the navicular bursa in the horse at computed tomography arthrography. Anat Histol Embryol. 2019 (66 pares de miembros anteriores de cadáveres). https://read.qxmd.com/read/30609106/communication-between-the-distal-interphalangeal-joint-and-the-navicular-bursa-in-the-horse-at-computed-tomography-arthrography"
-      }
+      },
+      "lateralidad": "bilateral",
+      "trazabilidad_ids": [
+        "equ.ske.amp.013-i",
+        "equ.ske.amp.013-d"
+      ],
+      "revision": {
+        "estado": "aprobada_y_verificada",
+        "fecha": "2026-11-22",
+        "alcance": "Ficha bilateral consolidada y aprobada expresamente por el usuario en la tanda 2. Se cotejaron ambas fichas de origen y se aplicaron las correcciones anatómicas aprobadas. Validación estructural del registro y del JSON completada; no certifica por sí sola el modelo 3D."
+      },
+      "historial_origen": "Consolidación bilateral de los registros históricos izquierdo y derecho; se conserva la trazabilidad de ambos IDs."
     },
     {
       "id": "equ.ske.lax.001",
@@ -1479,343 +1469,268 @@
         "especie": "La NAV lo registra sin restricción de especie y lo describe en rumiantes y en el caballo; el ligamento transverso del atlas figura solo para otras especies (ver lax.008) y el ligamento del ápice del diente no se indica para el caballo. Los autores del estudio de resonancia lo señalan como rasgo especial de la especie, junto con la ausencia del ligamento transverso y la presencia del ligamento atlantoaxial ventral.",
         "clinica": "En tomografía se ha descrito mineralización de este ligamento en tres caballos. Un estudio posterior la asoció con la edad y el sexo, pero no con el síndrome de sacudida de cabeza; sus autores recomiendan interpretar con cautela su significado clínico en los estudios de TC equinos.",
         "referencias": "Gutiérrez-Crespo B, Kircher PR, Carrera I. 3 Tesla magnetic resonance imaging of the occipitoatlantoaxial region in the normal horse. Vet Radiol Ultrasound 2014;55(3):278-285. https://www.pubmed.gov/24219352/\n\nLawson AL, Carslake HB, Kane-Smyth J, Maddox TW, Talbot AM. Mineralisation of the longitudinal odontoid ligament in three horses identified on computed tomographic examination. Equine Vet Educ 2021;33(3):e44-e52. https://katalog.lib.cas.cz/KNAV/EdsRecord/edb,148517473\n\nMineralisation of the longitudinal odontoid ligament of the horse and its association with age, sex and head shaking (tomografía computarizada). Vet Radiol Ultrasound 2021;62(3):289-298. https://madbarn.com/research/computed-tomography-identified-mineralisation-of-the-longitudinal-odontoid-ligament-of-the-horse-is-associated-with-age-and-sex-but-not-with-the-clinical-sign-of-head-shaking\n\nNomina Anatomica Veterinaria, 6.ª ed. (2017), I.C.V.G.A.N. / W.A.V.A. https://www.vetmed.uni-leipzig.de/fileadmin/Fakult%C3%A4t_VMF/Institut_Veterin%C3%A4r-Anatomisches/Dokumente/NAV_6th-Edition-2017.pdf Arthrologia, Articulatio atlantoaxialis, Lig. longitudinale dentis y nota 7."
+      },
+      "revision": {
+        "estado": "aprobada_y_verificada",
+        "fecha": "2026-11-22",
+        "alcance": "Ficha impar individual aprobada expresamente por el usuario en la tanda 2. Se conserva su ID histórico único. Validación estructural del registro y del JSON completada; no certifica por sí sola el modelo 3D."
       }
     },
     {
       "id": "equ.ske.lmt.003-i",
-      "es": "Ligamento colateral medial del carpo (izquierdo)",
+      "es": "Ligamento colateral medial del carpo (bilateral)",
       "la": "Ligamentum collaterale carpi mediale",
       "sys": "ske",
       "layer": "art",
       "ficha": {
-        "ubicacion": "Cara medial del carpo del lado izquierdo, desde el radio hasta el segundo metacarpiano.",
-        "descripcion": "Ligamento colateral medial largo del carpo. Se origina en el proceso estiloides medial del radio y termina en el segundo metacarpiano (hueso accesorio medial). Una rama profunda se inserta en el segundo carpiano.",
+        "ubicacion": "Cara medial del carpo de ambos lados, desde el radio hasta el segundo metacarpiano.",
+        "descripcion": "Ligamento colateral medial largo del carpo. Se origina en la región del proceso estiloides medial del radio y presenta inserciones distales en el segundo metacarpiano (MC II), con una rama profunda hacia el segundo hueso carpiano.",
         "relaciones": "Cubre medialmente las tres articulaciones del carpo. Los ligamentos cortos unen carpianos vecinos de una misma fila o de la fila adyacente.",
-        "accidentes": "Proceso estiloides medial del radio; segundo metacarpiano; segundo carpiano.",
+        "accidentes": "Proceso estiloides medial del radio; segundo hueso carpiano; segundo metacarpiano (MC II).",
         "articulaciones": "Articulaciones antebraquiocarpiana, mediocarpiana y carpometacarpiana (carpo).",
-        "inserciones": "Origen en el proceso estiloides medial del radio; inserción en el segundo metacarpiano, con una rama profunda en el segundo carpiano.",
+        "inserciones": "Origen en la región del proceso estiloides medial del radio; fibras distales al segundo metacarpiano (MC II) y una rama profunda al segundo carpiano.",
         "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
         "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
         "funcion": "Refuerza el carpo por su lado medial.",
-        "especie": "En el caballo el ligamento llega hasta el segundo metacarpiano, un hueso accesorio.",
+        "especie": "En el caballo, el MC II es un metacarpiano rudimentario (metacarpiano accesorio), no un hueso accesorio del carpo.",
         "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
         "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy"
-      }
-    },
-    {
-      "id": "equ.ske.lmt.003-d",
-      "es": "Ligamento colateral medial del carpo (derecho)",
-      "la": "Ligamentum collaterale carpi mediale",
-      "sys": "ske",
-      "layer": "art",
-      "ficha": {
-        "ubicacion": "Cara medial del carpo del lado derecho, desde el radio hasta el segundo metacarpiano.",
-        "descripcion": "Ligamento colateral medial largo del carpo. Se origina en el proceso estiloides medial del radio y termina en el segundo metacarpiano (hueso accesorio medial). Una rama profunda se inserta en el segundo carpiano.",
-        "relaciones": "Cubre medialmente las tres articulaciones del carpo. Los ligamentos cortos unen carpianos vecinos de una misma fila o de la fila adyacente.",
-        "accidentes": "Proceso estiloides medial del radio; segundo metacarpiano; segundo carpiano.",
-        "articulaciones": "Articulaciones antebraquiocarpiana, mediocarpiana y carpometacarpiana (carpo).",
-        "inserciones": "Origen en el proceso estiloides medial del radio; inserción en el segundo metacarpiano, con una rama profunda en el segundo carpiano.",
-        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
-        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
-        "funcion": "Refuerza el carpo por su lado medial.",
-        "especie": "En el caballo el ligamento llega hasta el segundo metacarpiano, un hueso accesorio.",
-        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
-        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy"
-      }
+      },
+      "lateralidad": "bilateral",
+      "trazabilidad_ids": [
+        "equ.ske.lmt.003-i",
+        "equ.ske.lmt.003-d"
+      ],
+      "revision": {
+        "estado": "aprobada_y_verificada",
+        "fecha": "2026-11-22",
+        "alcance": "Ficha bilateral consolidada y aprobada expresamente por el usuario en la tanda 2. Se cotejaron ambas fichas de origen y se aplicaron las correcciones anatómicas aprobadas. Validación estructural del registro y del JSON completada; no certifica por sí sola el modelo 3D."
+      },
+      "historial_origen": "Consolidación bilateral de los registros históricos izquierdo y derecho; se conserva la trazabilidad de ambos IDs."
     },
     {
       "id": "equ.ske.lmt.004-i",
-      "es": "Ligamento colateral lateral del carpo (izquierdo)",
+      "es": "Ligamento colateral lateral del carpo (bilateral)",
       "la": "Ligamentum collaterale carpi laterale",
       "sys": "ske",
       "layer": "art",
       "ficha": {
-        "ubicacion": "Cara lateral del carpo del lado izquierdo, desde el radio hasta el cuarto metacarpiano.",
-        "descripcion": "Ligamento colateral lateral largo del carpo. Se origina en el proceso estiloides lateral del radio y se divide en una rama superficial, que termina en el cuarto metacarpiano (hueso accesorio lateral), y dos ramas profundas, que se insertan en el carpiano ulnar y en el cuarto carpiano.",
+        "ubicacion": "Cara lateral del carpo de ambos lados, desde el radio hasta el cuarto metacarpiano.",
+        "descripcion": "Ligamento colateral lateral largo del carpo. Se origina en la región del proceso estiloides lateral del radio y se divide en una rama superficial hacia el cuarto metacarpiano (MC IV) y ramas profundas hacia el carpiano ulnar y el cuarto carpiano.",
         "relaciones": "Cubre lateralmente las tres articulaciones del carpo. Los ligamentos cortos unen carpianos vecinos.",
-        "accidentes": "Proceso estiloides lateral del radio; cuarto metacarpiano; carpiano ulnar; cuarto carpiano.",
+        "accidentes": "Proceso estiloides lateral del radio; cuarto metacarpiano (MC IV); carpiano ulnar; cuarto carpiano.",
         "articulaciones": "Articulaciones antebraquiocarpiana, mediocarpiana y carpometacarpiana (carpo).",
-        "inserciones": "Origen en el proceso estiloides lateral del radio; rama superficial al cuarto metacarpiano y ramas profundas al carpiano ulnar y al cuarto carpiano.",
+        "inserciones": "Origen en la región del proceso estiloides lateral del radio; rama superficial al cuarto metacarpiano (MC IV) y ramas profundas al carpiano ulnar y al cuarto carpiano.",
         "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
         "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
         "funcion": "Refuerza el carpo por su lado lateral.",
-        "especie": "En el caballo la rama superficial llega hasta el cuarto metacarpiano, un hueso accesorio.",
+        "especie": "En el caballo, el MC IV es un metacarpiano rudimentario (metacarpiano accesorio), no un hueso accesorio del carpo.",
         "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
         "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy"
-      }
-    },
-    {
-      "id": "equ.ske.lmt.004-d",
-      "es": "Ligamento colateral lateral del carpo (derecho)",
-      "la": "Ligamentum collaterale carpi laterale",
-      "sys": "ske",
-      "layer": "art",
-      "ficha": {
-        "ubicacion": "Cara lateral del carpo del lado derecho, desde el radio hasta el cuarto metacarpiano.",
-        "descripcion": "Ligamento colateral lateral largo del carpo. Se origina en el proceso estiloides lateral del radio y se divide en una rama superficial, que termina en el cuarto metacarpiano (hueso accesorio lateral), y dos ramas profundas, que se insertan en el carpiano ulnar y en el cuarto carpiano.",
-        "relaciones": "Cubre lateralmente las tres articulaciones del carpo. Los ligamentos cortos unen carpianos vecinos.",
-        "accidentes": "Proceso estiloides lateral del radio; cuarto metacarpiano; carpiano ulnar; cuarto carpiano.",
-        "articulaciones": "Articulaciones antebraquiocarpiana, mediocarpiana y carpometacarpiana (carpo).",
-        "inserciones": "Origen en el proceso estiloides lateral del radio; rama superficial al cuarto metacarpiano y ramas profundas al carpiano ulnar y al cuarto carpiano.",
-        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
-        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
-        "funcion": "Refuerza el carpo por su lado lateral.",
-        "especie": "En el caballo la rama superficial llega hasta el cuarto metacarpiano, un hueso accesorio.",
-        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
-        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy"
-      }
+      },
+      "lateralidad": "bilateral",
+      "trazabilidad_ids": [
+        "equ.ske.lmt.004-i",
+        "equ.ske.lmt.004-d"
+      ],
+      "revision": {
+        "estado": "aprobada_y_verificada",
+        "fecha": "2026-11-22",
+        "alcance": "Ficha bilateral consolidada y aprobada expresamente por el usuario en la tanda 2. Se cotejaron ambas fichas de origen y se aplicaron las correcciones anatómicas aprobadas. Validación estructural del registro y del JSON completada; no certifica por sí sola el modelo 3D."
+      },
+      "historial_origen": "Consolidación bilateral de los registros históricos izquierdo y derecho; se conserva la trazabilidad de ambos IDs."
     },
     {
       "id": "equ.ske.lmt.005-i",
-      "es": "Ligamento suspensorio del menudillo (izquierdo)",
+      "es": "Músculo interóseo medio (ligamento suspensorio del menudillo) (bilateral)",
       "la": "Musculus interosseus medius",
       "sys": "ske",
       "layer": "art",
       "ficha": {
-        "ubicacion": "Cara palmar del tercer metacarpiano del lado izquierdo, desde el carpo hasta el menudillo.",
-        "descripcion": "Músculo interóseo medio (tercer interóseo) convertido en una estructura totalmente tendinosa. Nace en la parte proximal del tercer metacarpiano y en los huesos del carpo distal. Distalmente se divide en ramas medial y lateral, que pasan a cada lado del menudillo para unirse al tendón extensor digital común.",
+        "ubicacion": "Cara palmar del tercer metacarpiano de ambos miembros torácicos, desde la región carpiana hasta el menudillo.",
+        "descripcion": "El músculo interóseo medio (tercer interóseo), conocido funcionalmente como ligamento suspensorio del menudillo, es una estructura predominantemente tendinosa que conserva escasas fibras musculares, sobre todo en su porción proximal. Desciende por la cara palmar del tercer metacarpiano y se divide distalmente en ramas medial y lateral.",
         "relaciones": "El receso palmar de la cápsula del menudillo queda entre el tercer metacarpiano y el ligamento suspensorio. Los sesamoideos proximales quedan incluidos en él.",
         "accidentes": "Parte proximal del tercer metacarpiano; huesos del carpo distal; sesamoideos proximales.",
-        "articulaciones": "Articulación del menudillo (metacarpofalángica).",
-        "inserciones": "Origen proximal en el tercer metacarpiano y en el carpo distal. Distalmente se continúa con los ligamentos sesamoideos distales, que conectan los sesamoideos con la falange proximal y la media, y sus ramas se unen al tendón extensor digital común.",
+        "articulaciones": "Se relaciona funcionalmente con el aparato suspensor del menudillo y la articulación metacarpofalángica.",
+        "inserciones": "Se origina en la región proximopalmar del tercer metacarpiano, con aportes de los huesos carpianos distales y del ligamento palmar del carpo. Sus ramas se fijan a las caras abaxiales de los sesamoideos proximales; las ramas extensoras continúan dorsalmente y se unen al tendón extensor digital común. Los ligamentos sesamoideos distales son estructuras independientes y no deben confundirse con las inserciones del interóseo medio.",
         "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
         "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
         "funcion": "Forma parte del aparato suspensor: sostiene el menudillo, evita su hiperextensión y limita la flexión palmar.",
-        "especie": "En el caballo es totalmente tendinoso. Junto con los ligamentos sesamoideos distales, resiste la extensión del menudillo sin acción muscular.",
+        "especie": "En el caballo el interóseo medio es predominantemente tendinoso, pero no debe calificarse como absolutamente desprovisto de fibras musculares; pueden persistir fibras musculares proximales.",
         "clinica": "Las lesiones de sus inserciones proximal y distal se observan con frecuencia en la práctica veterinaria.",
         "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nWikiVet, Stay Apparatus - Horse Anatomy. https://en.wikivet.net/Stay_Apparatus_-_Horse_Anatomy\n\nRevisión sobre el ligamento nucal y sus desmopatías de inserción. Veterinární Medicína, 2020, n.º 8 (cita a Budras et al., 2005). https://vetmed.agriculturejournals.cz/pdfs/vet/2020/08/01.pdf"
-      }
-    },
-    {
-      "id": "equ.ske.lmt.005-d",
-      "es": "Ligamento suspensorio del menudillo (derecho)",
-      "la": "Musculus interosseus medius",
-      "sys": "ske",
-      "layer": "art",
-      "ficha": {
-        "ubicacion": "Cara palmar del tercer metacarpiano del lado derecho, desde el carpo hasta el menudillo.",
-        "descripcion": "Músculo interóseo medio (tercer interóseo) convertido en una estructura totalmente tendinosa. Nace en la parte proximal del tercer metacarpiano y en los huesos del carpo distal. Distalmente se divide en ramas medial y lateral, que pasan a cada lado del menudillo para unirse al tendón extensor digital común.",
-        "relaciones": "El receso palmar de la cápsula del menudillo queda entre el tercer metacarpiano y el ligamento suspensorio. Los sesamoideos proximales quedan incluidos en él.",
-        "accidentes": "Parte proximal del tercer metacarpiano; huesos del carpo distal; sesamoideos proximales.",
-        "articulaciones": "Articulación del menudillo (metacarpofalángica).",
-        "inserciones": "Origen proximal en el tercer metacarpiano y en el carpo distal. Distalmente se continúa con los ligamentos sesamoideos distales, que conectan los sesamoideos con la falange proximal y la media, y sus ramas se unen al tendón extensor digital común.",
-        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
-        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
-        "funcion": "Forma parte del aparato suspensor: sostiene el menudillo, evita su hiperextensión y limita la flexión palmar.",
-        "especie": "En el caballo es totalmente tendinoso. Junto con los ligamentos sesamoideos distales, resiste la extensión del menudillo sin acción muscular.",
-        "clinica": "Las lesiones de sus inserciones proximal y distal se observan con frecuencia en la práctica veterinaria.",
-        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nWikiVet, Stay Apparatus - Horse Anatomy. https://en.wikivet.net/Stay_Apparatus_-_Horse_Anatomy\n\nRevisión sobre el ligamento nucal y sus desmopatías de inserción. Veterinární Medicína, 2020, n.º 8 (cita a Budras et al., 2005). https://vetmed.agriculturejournals.cz/pdfs/vet/2020/08/01.pdf"
-      }
+      },
+      "lateralidad": "bilateral",
+      "trazabilidad_ids": [
+        "equ.ske.lmt.005-i",
+        "equ.ske.lmt.005-d"
+      ],
+      "revision": {
+        "estado": "aprobada_y_verificada",
+        "fecha": "2026-11-22",
+        "alcance": "Ficha bilateral consolidada y aprobada expresamente por el usuario en la tanda 2. Se cotejaron ambas fichas de origen y se aplicaron las correcciones anatómicas aprobadas. Validación estructural del registro y del JSON completada; no certifica por sí sola el modelo 3D."
+      },
+      "historial_origen": "Consolidación bilateral de los registros históricos izquierdo y derecho; se conserva la trazabilidad de ambos IDs."
     },
     {
       "id": "equ.ske.lmt.006-i",
-      "es": "Ligamento accesorio inferior (check inferior) (izquierdo)",
+      "es": "Ligamento accesorio inferior (check inferior) (bilateral)",
       "la": "Ligamentum accessorium (m. flexoris digitalis profundi)",
       "sys": "ske",
       "layer": "art",
       "ficha": {
-        "ubicacion": "Cara palmar del metacarpo del lado izquierdo, desde el carpo hasta la mitad del metacarpo, donde se une al tendón flexor digital profundo.",
-        "descripcion": "Ligamento accesorio del músculo flexor digital profundo (ligamento de retención inferior, «check inferior»). Se une al tendón flexor digital profundo hacia la mitad del metacarpo y lo refuerza.",
-        "relaciones": "Se une al tendón flexor digital profundo, que forma un tendón grueso poco antes del carpo.",
+        "ubicacion": "Cara palmar del carpo y del metacarpo de ambos miembros torácicos, hasta la unión con el tendón flexor digital profundo en el tercio medio del metacarpo.",
+        "descripcion": "Ligamento accesorio inferior del músculo flexor digital profundo (check inferior), que se origina en la región palmar del carpo, en continuidad con el ligamento palmar del carpo, y se une al tendón flexor digital profundo en el tercio medio del metacarpo.",
+        "relaciones": "Se continúa distalmente con el tendón flexor digital profundo y forma parte del aparato de retención palmar del miembro torácico.",
         "accidentes": "Región palmar del metacarpo; tendón flexor digital profundo.",
         "articulaciones": "Región del carpo y del metacarpo (aparato de retención).",
-        "inserciones": "Termina en el tendón flexor digital profundo, a la altura de la mitad del metacarpo. No se localizó en las fuentes consultadas el detalle de su origen.",
+        "inserciones": "Se origina en la región palmar del carpo y en el ligamento palmar del carpo; se une al tendón flexor digital profundo aproximadamente en el tercio medio del metacarpo.",
         "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
         "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
         "funcion": "Forma parte del aparato de retención del miembro torácico, que sostiene el miembro con poco esfuerzo muscular.",
-        "especie": "En el miembro pelviano el aparato de retención del flexor digital profundo es muy parecido al del torácico.",
+        "especie": "En el caballo está bien desarrollado en el miembro torácico. En el miembro pelviano es más pequeño, variable y puede estar ausente; no debe describirse como equivalente constante en ambos pares de miembros.",
         "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
         "referencias": "WikiVet, Stay Apparatus - Horse Anatomy. https://en.wikivet.net/Stay_Apparatus_-_Horse_Anatomy"
-      }
-    },
-    {
-      "id": "equ.ske.lmt.006-d",
-      "es": "Ligamento accesorio inferior (check inferior) (derecho)",
-      "la": "Ligamentum accessorium (m. flexoris digitalis profundi)",
-      "sys": "ske",
-      "layer": "art",
-      "ficha": {
-        "ubicacion": "Cara palmar del metacarpo del lado derecho, desde el carpo hasta la mitad del metacarpo, donde se une al tendón flexor digital profundo.",
-        "descripcion": "Ligamento accesorio del músculo flexor digital profundo (ligamento de retención inferior, «check inferior»). Se une al tendón flexor digital profundo hacia la mitad del metacarpo y lo refuerza.",
-        "relaciones": "Se une al tendón flexor digital profundo, que forma un tendón grueso poco antes del carpo.",
-        "accidentes": "Región palmar del metacarpo; tendón flexor digital profundo.",
-        "articulaciones": "Región del carpo y del metacarpo (aparato de retención).",
-        "inserciones": "Termina en el tendón flexor digital profundo, a la altura de la mitad del metacarpo. No se localizó en las fuentes consultadas el detalle de su origen.",
-        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
-        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
-        "funcion": "Forma parte del aparato de retención del miembro torácico, que sostiene el miembro con poco esfuerzo muscular.",
-        "especie": "En el miembro pelviano el aparato de retención del flexor digital profundo es muy parecido al del torácico.",
-        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
-        "referencias": "WikiVet, Stay Apparatus - Horse Anatomy. https://en.wikivet.net/Stay_Apparatus_-_Horse_Anatomy"
-      }
+      },
+      "lateralidad": "bilateral",
+      "trazabilidad_ids": [
+        "equ.ske.lmt.006-i",
+        "equ.ske.lmt.006-d"
+      ],
+      "revision": {
+        "estado": "aprobada_y_verificada",
+        "fecha": "2026-11-22",
+        "alcance": "Ficha bilateral consolidada y aprobada expresamente por el usuario en la tanda 2. Se cotejaron ambas fichas de origen y se aplicaron las correcciones anatómicas aprobadas. Validación estructural del registro y del JSON completada; no certifica por sí sola el modelo 3D."
+      },
+      "historial_origen": "Consolidación bilateral de los registros históricos izquierdo y derecho; se conserva la trazabilidad de ambos IDs."
     },
     {
       "id": "equ.ske.lmt.007-i",
-      "es": "Ligamento accesorio superior (check superior) (izquierdo)",
+      "es": "Ligamento accesorio superior (check superior) (bilateral)",
       "la": "Ligamentum accessorium (m. flexoris digitalis superficialis)",
       "sys": "ske",
       "layer": "art",
       "ficha": {
-        "ubicacion": "Cara palmar del antebrazo distal del lado izquierdo, a la altura del carpo.",
-        "descripcion": "Ligamento accesorio del músculo flexor digital superficial (ligamento de retención superior, «check superior»). Es la cabeza radial tendinosa del músculo, que se une a él a la altura del carpo.",
+        "ubicacion": "Región caudomedial del radio distal y cara palmar del antebrazo distal de ambos miembros torácicos.",
+        "descripcion": "Ligamento accesorio superior del músculo flexor digital superficial (check superior), una estructura ligamentosa que se origina en la región caudomedial del radio distal y se une al tendón del flexor digital superficial en el antebrazo distal.",
         "relaciones": "Se une al flexor digital superficial, que sigue más allá del carpo como un tendón grueso.",
         "accidentes": "Región palmar del antebrazo distal y del carpo; tendón flexor digital superficial.",
         "articulaciones": "Región del carpo (aparato de retención).",
-        "inserciones": "Se une al músculo flexor digital superficial a la altura del carpo. No se localizó en las fuentes consultadas el detalle de su origen en el radio.",
+        "inserciones": "Se origina en la región caudomedial del radio distal y se une al tendón del músculo flexor digital superficial en el antebrazo distal.",
         "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
         "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
         "funcion": "Forma parte del aparato de retención del miembro torácico.",
-        "especie": "El flexor digital superficial del miembro pelviano es totalmente tendinoso, por lo que no tiene un ligamento de retención equivalente.",
+        "especie": "En el caballo está presente en el miembro torácico. No existe un equivalente funcional constante en el miembro pelviano, donde la organización del músculo flexor digital superficial es diferente.",
         "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
         "referencias": "WikiVet, Stay Apparatus - Horse Anatomy. https://en.wikivet.net/Stay_Apparatus_-_Horse_Anatomy"
-      }
-    },
-    {
-      "id": "equ.ske.lmt.007-d",
-      "es": "Ligamento accesorio superior (check superior) (derecho)",
-      "la": "Ligamentum accessorium (m. flexoris digitalis superficialis)",
-      "sys": "ske",
-      "layer": "art",
-      "ficha": {
-        "ubicacion": "Cara palmar del antebrazo distal del lado derecho, a la altura del carpo.",
-        "descripcion": "Ligamento accesorio del músculo flexor digital superficial (ligamento de retención superior, «check superior»). Es la cabeza radial tendinosa del músculo, que se une a él a la altura del carpo.",
-        "relaciones": "Se une al flexor digital superficial, que sigue más allá del carpo como un tendón grueso.",
-        "accidentes": "Región palmar del antebrazo distal y del carpo; tendón flexor digital superficial.",
-        "articulaciones": "Región del carpo (aparato de retención).",
-        "inserciones": "Se une al músculo flexor digital superficial a la altura del carpo. No se localizó en las fuentes consultadas el detalle de su origen en el radio.",
-        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
-        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
-        "funcion": "Forma parte del aparato de retención del miembro torácico.",
-        "especie": "El flexor digital superficial del miembro pelviano es totalmente tendinoso, por lo que no tiene un ligamento de retención equivalente.",
-        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
-        "referencias": "WikiVet, Stay Apparatus - Horse Anatomy. https://en.wikivet.net/Stay_Apparatus_-_Horse_Anatomy"
-      }
+      },
+      "lateralidad": "bilateral",
+      "trazabilidad_ids": [
+        "equ.ske.lmt.007-i",
+        "equ.ske.lmt.007-d"
+      ],
+      "revision": {
+        "estado": "aprobada_y_verificada",
+        "fecha": "2026-11-22",
+        "alcance": "Ficha bilateral consolidada y aprobada expresamente por el usuario en la tanda 2. Se cotejaron ambas fichas de origen y se aplicaron las correcciones anatómicas aprobadas. Validación estructural del registro y del JSON completada; no certifica por sí sola el modelo 3D."
+      },
+      "historial_origen": "Consolidación bilateral de los registros históricos izquierdo y derecho; se conserva la trazabilidad de ambos IDs."
     },
     {
       "id": "equ.ske.lmt.008-i",
-      "es": "Ligamento colateral medial del menudillo (izquierdo)",
+      "es": "Ligamento colateral medial del menudillo (bilateral)",
       "la": "Ligamentum collaterale mediale (articulationis metacarpophalangeae)",
       "sys": "ske",
       "layer": "art",
       "ficha": {
-        "ubicacion": "Cara medial del menudillo del lado izquierdo, entre el tercer metacarpiano y la falange proximal.",
-        "descripcion": "Ligamento colateral medial de la articulación del menudillo. Une el tercer metacarpiano con la falange proximal; una rama profunda se fija al hueso sesamoideo. Los ligamentos colaterales sesamoideos conectan la cara externa de los sesamoideos con la falange proximal, con una rama propia hacia el tercer metacarpiano.",
+        "ubicacion": "Cara medial del menudillo de ambos lados, entre el tercer metacarpiano y la falange proximal.",
+        "descripcion": "Ligamento colateral medial de la articulación metacarpofalángica (menudillo), con componentes superficial y profundo. Une el tercer metacarpiano con la falange proximal; el componente profundo puede presentar una fijación al sesamoideo proximal.",
         "relaciones": "La cápsula del menudillo se divide en un receso dorsal y otro palmar.",
         "accidentes": "Tercer metacarpiano; falange proximal; hueso sesamoideo proximal.",
         "articulaciones": "Articulación del menudillo (metacarpofalángica).",
-        "inserciones": "Une el tercer metacarpiano con la falange proximal, con una rama profunda hacia el sesamoideo.",
+        "inserciones": "Sus componentes se extienden desde el extremo distal del tercer metacarpiano hacia la falange proximal; el componente profundo puede fijarse también al sesamoideo proximal. Debe distinguirse del ligamento colateral sesamoideo medial.",
         "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
         "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
         "funcion": "Refuerza el menudillo por su lado medial.",
         "especie": "WikiVet describe un par de ligamentos colaterales con una rama profunda al sesamoideo; los ligamentos sesamoideos colaterales son distintos.",
         "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
         "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy"
-      }
-    },
-    {
-      "id": "equ.ske.lmt.008-d",
-      "es": "Ligamento colateral medial del menudillo (derecho)",
-      "la": "Ligamentum collaterale mediale (articulationis metacarpophalangeae)",
-      "sys": "ske",
-      "layer": "art",
-      "ficha": {
-        "ubicacion": "Cara medial del menudillo del lado derecho, entre el tercer metacarpiano y la falange proximal.",
-        "descripcion": "Ligamento colateral medial de la articulación del menudillo. Une el tercer metacarpiano con la falange proximal; una rama profunda se fija al hueso sesamoideo. Los ligamentos colaterales sesamoideos conectan la cara externa de los sesamoideos con la falange proximal, con una rama propia hacia el tercer metacarpiano.",
-        "relaciones": "La cápsula del menudillo se divide en un receso dorsal y otro palmar.",
-        "accidentes": "Tercer metacarpiano; falange proximal; hueso sesamoideo proximal.",
-        "articulaciones": "Articulación del menudillo (metacarpofalángica).",
-        "inserciones": "Une el tercer metacarpiano con la falange proximal, con una rama profunda hacia el sesamoideo.",
-        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
-        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
-        "funcion": "Refuerza el menudillo por su lado medial.",
-        "especie": "WikiVet describe un par de ligamentos colaterales con una rama profunda al sesamoideo; los ligamentos sesamoideos colaterales son distintos.",
-        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
-        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy"
-      }
+      },
+      "lateralidad": "bilateral",
+      "trazabilidad_ids": [
+        "equ.ske.lmt.008-i",
+        "equ.ske.lmt.008-d"
+      ],
+      "revision": {
+        "estado": "aprobada_y_verificada",
+        "fecha": "2026-11-22",
+        "alcance": "Ficha bilateral consolidada y aprobada expresamente por el usuario en la tanda 2. Se cotejaron ambas fichas de origen y se aplicaron las correcciones anatómicas aprobadas. Validación estructural del registro y del JSON completada; no certifica por sí sola el modelo 3D."
+      },
+      "historial_origen": "Consolidación bilateral de los registros históricos izquierdo y derecho; se conserva la trazabilidad de ambos IDs."
     },
     {
       "id": "equ.ske.lmt.009-i",
-      "es": "Ligamento colateral lateral del menudillo (izquierdo)",
+      "es": "Ligamento colateral lateral del menudillo (bilateral)",
       "la": "Ligamentum collaterale laterale (articulationis metacarpophalangeae)",
       "sys": "ske",
       "layer": "art",
       "ficha": {
-        "ubicacion": "Cara lateral del menudillo del lado izquierdo, entre el tercer metacarpiano y la falange proximal.",
-        "descripcion": "Ligamento colateral lateral de la articulación del menudillo. Une el tercer metacarpiano con la falange proximal; una rama profunda se fija al hueso sesamoideo. Los ligamentos colaterales sesamoideos conectan la cara externa de los sesamoideos con la falange proximal, con una rama propia hacia el tercer metacarpiano.",
+        "ubicacion": "Cara lateral del menudillo de ambos lados, entre el tercer metacarpiano y la falange proximal.",
+        "descripcion": "Ligamento colateral lateral de la articulación metacarpofalángica (menudillo), con componentes superficial y profundo. Une el tercer metacarpiano con la falange proximal; el componente profundo puede presentar una fijación al sesamoideo proximal.",
         "relaciones": "La cápsula del menudillo se divide en un receso dorsal y otro palmar.",
         "accidentes": "Tercer metacarpiano; falange proximal; hueso sesamoideo proximal.",
         "articulaciones": "Articulación del menudillo (metacarpofalángica).",
-        "inserciones": "Une el tercer metacarpiano con la falange proximal, con una rama profunda hacia el sesamoideo.",
+        "inserciones": "Sus componentes se extienden desde el extremo distal del tercer metacarpiano hacia la falange proximal; el componente profundo puede fijarse también al sesamoideo proximal. Debe distinguirse del ligamento colateral sesamoideo lateral.",
         "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
         "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
         "funcion": "Refuerza el menudillo por su lado lateral.",
         "especie": "WikiVet describe un par de ligamentos colaterales con una rama profunda al sesamoideo; los ligamentos sesamoideos colaterales son distintos.",
         "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
         "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy"
-      }
-    },
-    {
-      "id": "equ.ske.lmt.009-d",
-      "es": "Ligamento colateral lateral del menudillo (derecho)",
-      "la": "Ligamentum collaterale laterale (articulationis metacarpophalangeae)",
-      "sys": "ske",
-      "layer": "art",
-      "ficha": {
-        "ubicacion": "Cara lateral del menudillo del lado derecho, entre el tercer metacarpiano y la falange proximal.",
-        "descripcion": "Ligamento colateral lateral de la articulación del menudillo. Une el tercer metacarpiano con la falange proximal; una rama profunda se fija al hueso sesamoideo. Los ligamentos colaterales sesamoideos conectan la cara externa de los sesamoideos con la falange proximal, con una rama propia hacia el tercer metacarpiano.",
-        "relaciones": "La cápsula del menudillo se divide en un receso dorsal y otro palmar.",
-        "accidentes": "Tercer metacarpiano; falange proximal; hueso sesamoideo proximal.",
-        "articulaciones": "Articulación del menudillo (metacarpofalángica).",
-        "inserciones": "Une el tercer metacarpiano con la falange proximal, con una rama profunda hacia el sesamoideo.",
-        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
-        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
-        "funcion": "Refuerza el menudillo por su lado lateral.",
-        "especie": "WikiVet describe un par de ligamentos colaterales con una rama profunda al sesamoideo; los ligamentos sesamoideos colaterales son distintos.",
-        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
-        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy"
-      }
+      },
+      "lateralidad": "bilateral",
+      "trazabilidad_ids": [
+        "equ.ske.lmt.009-i",
+        "equ.ske.lmt.009-d"
+      ],
+      "revision": {
+        "estado": "aprobada_y_verificada",
+        "fecha": "2026-11-22",
+        "alcance": "Ficha bilateral consolidada y aprobada expresamente por el usuario en la tanda 2. Se cotejaron ambas fichas de origen y se aplicaron las correcciones anatómicas aprobadas. Validación estructural del registro y del JSON completada; no certifica por sí sola el modelo 3D."
+      },
+      "historial_origen": "Consolidación bilateral de los registros históricos izquierdo y derecho; se conserva la trazabilidad de ambos IDs."
     },
     {
       "id": "equ.ske.lmt.010-i",
-      "es": "Ligamento anular palmar (izquierdo)",
+      "es": "Ligamento anular palmar (bilateral)",
       "la": "Ligamentum annulare palmare",
       "sys": "ske",
       "layer": "art",
       "ficha": {
-        "ubicacion": "Cara palmar del menudillo del lado izquierdo, alrededor de los sesamoideos y los tendones flexores.",
-        "descripcion": "Ligamento anular palmar del menudillo: rodea los sesamoideos, los tendones flexores y sus vainas sinoviales.",
-        "relaciones": "Mantiene en posición los tendones flexores, que discurren en el surco del ligamento intersesamoideo.",
+        "ubicacion": "Cara palmar del menudillo de ambos lados, alrededor de los sesamoideos y los tendones flexores.",
+        "descripcion": "Ligamento anular palmar del menudillo, una banda fibrosa transversal que se fija a las superficies abaxiales de los sesamoideos proximales y completa el límite palmar del canal sesamoideo por el que pasan los tendones flexores.",
+        "relaciones": "Se relaciona con los sesamoideos proximales, el ligamento intersesamoideo, los tendones flexores digitales superficial y profundo y la vaina digital. Mantiene los tendones flexores aplicados contra la cara palmar del menudillo.",
         "accidentes": "Sesamoideos proximales; tendones flexores y vainas sinoviales.",
         "articulaciones": "Articulación del menudillo (metacarpofalángica).",
-        "inserciones": "Rodea la cara palmar del menudillo. No se localizaron en las fuentes consultadas sus puntos de fijación.",
+        "inserciones": "Se fija a las superficies abaxiales de los sesamoideos proximales, formando un arco fibroso palmar; no se limita a rodear de manera inespecífica los sesamoideos.",
         "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
         "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
-        "funcion": "Mantiene los tendones flexores contra los sesamoideos durante el movimiento del menudillo.",
+        "funcion": "Retiene los tendones flexores contra la región palmar del menudillo y contribuye a formar el canal sesamoideo, evitando su desplazamiento durante la flexión y extensión.",
         "especie": "WikiVet lo incluye entre los ligamentos de soporte del menudillo, junto con los ligamentos sesamoideos distales.",
         "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
         "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy"
-      }
-    },
-    {
-      "id": "equ.ske.lmt.010-d",
-      "es": "Ligamento anular palmar (derecho)",
-      "la": "Ligamentum annulare palmare",
-      "sys": "ske",
-      "layer": "art",
-      "ficha": {
-        "ubicacion": "Cara palmar del menudillo del lado derecho, alrededor de los sesamoideos y los tendones flexores.",
-        "descripcion": "Ligamento anular palmar del menudillo: rodea los sesamoideos, los tendones flexores y sus vainas sinoviales.",
-        "relaciones": "Mantiene en posición los tendones flexores, que discurren en el surco del ligamento intersesamoideo.",
-        "accidentes": "Sesamoideos proximales; tendones flexores y vainas sinoviales.",
-        "articulaciones": "Articulación del menudillo (metacarpofalángica).",
-        "inserciones": "Rodea la cara palmar del menudillo. No se localizaron en las fuentes consultadas sus puntos de fijación.",
-        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
-        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
-        "funcion": "Mantiene los tendones flexores contra los sesamoideos durante el movimiento del menudillo.",
-        "especie": "WikiVet lo incluye entre los ligamentos de soporte del menudillo, junto con los ligamentos sesamoideos distales.",
-        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
-        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy"
-      }
+      },
+      "lateralidad": "bilateral",
+      "trazabilidad_ids": [
+        "equ.ske.lmt.010-i",
+        "equ.ske.lmt.010-d"
+      ],
+      "revision": {
+        "estado": "aprobada_y_verificada",
+        "fecha": "2026-11-22",
+        "alcance": "Ficha bilateral consolidada y aprobada expresamente por el usuario en la tanda 2. Se cotejaron ambas fichas de origen y se aplicaron las correcciones anatómicas aprobadas. Validación estructural del registro y del JSON completada; no certifica por sí sola el modelo 3D."
+      },
+      "historial_origen": "Consolidación bilateral de los registros históricos izquierdo y derecho; se conserva la trazabilidad de ambos IDs."
     },
     {
       "id": "equ.ske.lmt.011-i",
@@ -3663,6 +3578,21 @@
       "registros_aprobados_y_verificados": 59,
       "fuente_preservada_sin_modificaciones": true,
       "alcance": "Incluye las articulaciones y ligamentos musculoesqueléticos (ske/art) y las seis articulaciones laríngeas/tirohioideas clasificadas en res/art. Verifica extracción e integridad, no sustituye la auditoría anatómica."
+    },
+    {
+      "tipo": "consolidacion_y_aprobacion_tanda_2",
+      "estado": "verificada",
+      "fecha": "2026-11-22",
+      "fichas_unicas_integradas": 10,
+      "pares_bilaterales_consolidados": 9,
+      "fichas_impares_individuales": 1,
+      "ids_historicos_conservados": 19,
+      "total_estructuras": 143,
+      "registros_con_revision_aprobada_y_verificada": 68,
+      "ids_unicos": true,
+      "fichas_con_12_apartados": true,
+      "fuente_preservada_sin_modificaciones": true,
+      "alcance": "Integra exclusivamente las diez fichas aprobadas de la tanda 2 en sistema_articular.json. Los pares laterales se consolidan bajo el ID izquierdo con el ID derecho conservado en trazabilidad_ids; la ficha impar mantiene su ID. No declara verificado el sistema articular."
     }
   ]
 }
