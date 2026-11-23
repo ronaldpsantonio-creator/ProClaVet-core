@@ -82,7 +82,7 @@ Promise.all(DATA_FILES.map(async entry=>{
  return {catalogo:entry.catalogo,data:await r.json()};
 }))
  .then(parts=>({structures:parts.flatMap(({catalogo,data})=>(data.structures||data.estructuras||[]).map(s=>({...s,_catalog:catalogo})))}))
- .then(d=>{const ids=d.structures.map(s=>s.id);if(ids.length!==3881||new Set(ids).size!==3881)throw Error("Inventario incompatible: "+ids.length+" registros / "+new Set(ids).size+" IDs únicos");return d})
+ .then(d=>{const ids=d.structures.flatMap(s=>[s.id,...(s.trazabilidad_ids||[])]);const total=d.structures.reduce((n,s)=>n+((s.trazabilidad_ids&&s.trazabilidad_ids.length)||1),0);if(total!==3902||new Set(ids).size!==ids.length)throw Error("Inventario incompatible: "+total+" registros equivalentes / "+new Set(ids).size+" IDs únicos de "+ids.length);return d})
  .then(build).catch(e=>{$("warn").textContent="Error al cargar catálogo anatómico: "+e.message});
 function build(d){
  d.structures.filter(s=>!s.id.startsWith("equ.prv.ske.")).forEach(s=>{
