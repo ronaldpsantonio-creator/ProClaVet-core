@@ -24,7 +24,23 @@
       "la": "Scrotum",
       "sys": "rep",
       "layer": "org",
-      "sex": "m"
+      "sex": "m",
+      "ficha": {
+        "ubicacion": "Región inguinal, entre los muslos, ventral al abdomen.",
+        "descripcion": "Bolsa cutánea que aloja los testículos, los epidídimos y la parte distal de los cordones espermáticos. En el caballo es menos péndula que la del toro y se mantiene más cerca del abdomen. Su piel es suave y flexible, de textura grasosa por las glándulas sebáceas; también se describe como fina, elástica, muy pigmentada y con pocos pelos finos. Una línea media longitudinal, donde se fusionan los dos sacos, la divide en dos compartimentos mediante el septo escrotal, y cada testículo se aloja con su eje largo en posición horizontal.",
+        "relaciones": "De superficial a profundo: piel, túnica dartos, fascia espermática externa, cremáster, fascia espermática interna y túnica vaginal. La cavidad vaginal se comunica con la cavidad peritoneal a través del canal inguinal y del anillo vaginal.",
+        "irrigacion": "La arteria y la vena pudendas externas atraviesan el canal inguinal junto con el cordón espermático. La distribución de sus ramas escrotales no queda detallada en las fuentes equinas consultadas.",
+        "inervacion": "El nervio genitofemoral atraviesa el canal inguinal. Su territorio concreto en la piel escrotal del caballo no queda detallado en las fuentes consultadas.",
+        "funcion": "Protege los testículos y participa en su termorregulación: la túnica dartos y el cremáster los acercan o alejan del cuerpo.",
+        "especie": "En el caballo el escroto es menos péndulo que en el toro, y los testículos se disponen con el eje largo horizontal.",
+        "clinica": "Una hernia inguinal indirecta, la más frecuente en el caballo, puede alcanzar el escroto con asas intestinales.",
+        "referencias": "eXtension. Stallion anatomy: External Reproductive Organs. horses.extension.org | Capítulo 15: The Reproductive System (material docente en línea, flippingbook; autoría no identificada). | Larsen R (ed). CVM Large Animal Anatomy, cap. 9 «Reproductive Tracts and Genitalia» (rev. T. Clark, 2024). University of Minnesota, CC BY-NC 4.0. open.lib.umn.edu/largeanimalanatomy | NC State University College of Veterinary Medicine. Reproductive unit, Lab 4A «Male Ungulate Urethral and Reproductive Anatomy» y Lab 5A «Male Review Lab». ncstate.pressbooks.pub/unit8reproductive | Rodgerson DH, Hanson RR. Cryptorchidism in horses. Part I: Anatomy, causes, and diagnosis. Compendium Equine, noviembre de 1997."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha redactada a partir de material docente universitario y artículos de acceso abierto (ver referencias). No se consultaron directamente la NAV, Dyce, Budras/Sack ni Sisson. Sin apartados de accidentes ni de articulaciones; irrigación e inervación solo cuando constan en fuentes equinas. Pendiente de cotejo con NAV, Dyce y WikiVet y de revisión del usuario. Territorio de irrigación e inervación de la piel escrotal sin detalle equino."
+      }
     },
     {
       "id": "equ.rep.esc.002",
@@ -32,7 +48,22 @@
       "la": "Raphe scroti",
       "sys": "rep",
       "layer": "org",
-      "sex": "m"
+      "sex": "m",
+      "ficha": {
+        "ubicacion": "Línea media de la piel del escroto.",
+        "descripcion": "Línea longitudinal de la piel escrotal, correspondiente a la zona de fusión de los dos sacos del escroto. Señala por fuera la posición del septo escrotal.",
+        "relaciones": "En profundidad se continúa con el septo escrotal, formado por la túnica dartos.",
+        "irrigacion": "No queda detallada en las fuentes equinas consultadas.",
+        "inervacion": "No queda detallada en las fuentes equinas consultadas.",
+        "funcion": "Marca externa de la división del escroto en dos compartimentos; no se describe una función propia en las fuentes consultadas.",
+        "clinica": "Sirve de guía en la castración cerrada por abordaje escrotal, donde se practican dos incisiones paralelas al rafe a través de la piel y de la túnica dartos.",
+        "referencias": "NC State University College of Veterinary Medicine. Reproductive unit, Lab 4A «Male Ungulate Urethral and Reproductive Anatomy» y Lab 5A «Male Review Lab». ncstate.pressbooks.pub/unit8reproductive | eXtension. Stallion anatomy: External Reproductive Organs. horses.extension.org | Material docente sobre castración equina. Università degli Studi di Teramo (elearning.unite.it)."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha redactada a partir de material docente universitario y artículos de acceso abierto (ver referencias). No se consultaron directamente la NAV, Dyce, Budras/Sack ni Sisson. Sin apartados de accidentes ni de articulaciones; irrigación e inervación solo cuando constan en fuentes equinas. Pendiente de cotejo con NAV, Dyce y WikiVet y de revisión del usuario."
+      }
     },
     {
       "id": "equ.rep.esc.003",
@@ -40,7 +71,23 @@
       "la": "Tunica dartos",
       "sys": "rep",
       "layer": "org",
-      "sex": "m"
+      "sex": "m",
+      "ficha": {
+        "ubicacion": "Inmediatamente profunda a la piel del escroto.",
+        "descripcion": "Capa de músculo liso bajo la piel escrotal. En la línea media forma el septo escrotal completo que separa los dos testículos.",
+        "relaciones": "Su disposición en la línea media corresponde externamente al rafe escrotal. Profundamente se disponen la fascia espermática externa, el cremáster, la fascia espermática interna y la túnica vaginal.",
+        "irrigacion": "No queda detallada en las fuentes equinas consultadas.",
+        "inervacion": "Es músculo liso; su inervación no queda detallada en las fuentes equinas consultadas.",
+        "funcion": "Su contracción sostenida arruga la piel y reduce el tamaño del escroto, y mantiene los testículos próximos al cuerpo para conservar el calor; con el calor se relaja y los aleja. La espermatogénesis requiere una temperatura determinada.",
+        "especie": "Las fuentes consultadas la describen de forma común para los ungulados domésticos; no se encontraron diferencias propias del caballo.",
+        "clinica": "En la castración cerrada por abordaje escrotal se incide junto con la piel.",
+        "referencias": "Larsen R (ed). CVM Large Animal Anatomy, cap. 9 «Reproductive Tracts and Genitalia» (rev. T. Clark, 2024). University of Minnesota, CC BY-NC 4.0. open.lib.umn.edu/largeanimalanatomy | NC State University College of Veterinary Medicine. Reproductive unit, Lab 4A «Male Ungulate Urethral and Reproductive Anatomy» y Lab 5A «Male Review Lab». ncstate.pressbooks.pub/unit8reproductive | Capítulo 15: The Reproductive System (material docente en línea, flippingbook; autoría no identificada). | Material docente sobre castración equina. Università degli Studi di Teramo (elearning.unite.it)."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha redactada a partir de material docente universitario y artículos de acceso abierto (ver referencias). No se consultaron directamente la NAV, Dyce, Budras/Sack ni Sisson. Sin apartados de accidentes ni de articulaciones; irrigación e inervación solo cuando constan en fuentes equinas. Pendiente de cotejo con NAV, Dyce y WikiVet y de revisión del usuario."
+      }
     },
     {
       "id": "equ.rep.esc.004",
@@ -48,295 +95,541 @@
       "la": "Septum scroti",
       "sys": "rep",
       "layer": "org",
-      "sex": "m"
+      "sex": "m",
+      "ficha": {
+        "ubicacion": "Plano medio del escroto, entre ambos testículos.",
+        "descripcion": "Tabique completo formado por la túnica dartos que divide el escroto en dos compartimentos, uno para cada testículo. Su posición se indica externamente por el rafe escrotal.",
+        "relaciones": "Continuo con la túnica dartos de la pared escrotal; en superficie corresponde al rafe escrotal.",
+        "irrigacion": "No queda detallada en las fuentes equinas consultadas.",
+        "inervacion": "No queda detallada en las fuentes equinas consultadas.",
+        "funcion": "Separa los dos testículos en compartimentos independientes; no se describe una función adicional en las fuentes consultadas.",
+        "referencias": "Larsen R (ed). CVM Large Animal Anatomy, cap. 9 «Reproductive Tracts and Genitalia» (rev. T. Clark, 2024). University of Minnesota, CC BY-NC 4.0. open.lib.umn.edu/largeanimalanatomy | NC State University College of Veterinary Medicine. Reproductive unit, Lab 4A «Male Ungulate Urethral and Reproductive Anatomy» y Lab 5A «Male Review Lab». ncstate.pressbooks.pub/unit8reproductive | Capítulo 15: The Reproductive System (material docente en línea, flippingbook; autoría no identificada)."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha redactada a partir de material docente universitario y artículos de acceso abierto (ver referencias). No se consultaron directamente la NAV, Dyce, Budras/Sack ni Sisson. Sin apartados de accidentes ni de articulaciones; irrigación e inervación solo cuando constan en fuentes equinas. Pendiente de cotejo con NAV, Dyce y WikiVet y de revisión del usuario."
+      }
     },
     {
-      "id": "equ.rep.esc.005-i",
-      "es": "Fascia espermática externa (izquierda)",
+      "id": "equ.rep.esc.005",
+      "es": "Fascia espermática externa (bilateral)",
       "la": "Fascia spermatica externa",
       "sys": "rep",
       "layer": "org",
-      "sex": "m"
+      "sex": "m",
+      "ficha": {
+        "ubicacion": "Capa laxa de la pared escrotal, profunda a la túnica dartos, que rodea al cremáster y a la fascia espermática interna.",
+        "descripcion": "Fascia relativamente laxa que se continúa proximalmente con la fascia externa de la pared abdominal. Esa laxitud permite que la túnica vaginal, con el testículo y el epidídimo que contiene, se desplace dentro del escroto.",
+        "relaciones": "El cremáster queda por fuera de la fascia espermática interna y rodeado por la fascia espermática externa. El ligamento escrotal une la fascia espermática interna a la pared interna del escroto.",
+        "irrigacion": "No queda detallada en las fuentes equinas consultadas.",
+        "inervacion": "No queda detallada en las fuentes equinas consultadas.",
+        "funcion": "Permite la movilidad de la túnica vaginal y del testículo dentro del escroto.",
+        "clinica": "En la castración cerrada por abordaje escrotal se separa la fascia escrotal de la túnica parietal con una gasa seca hasta exponer el cremáster.",
+        "referencias": "NC State University College of Veterinary Medicine. Reproductive unit, Lab 4A «Male Ungulate Urethral and Reproductive Anatomy» y Lab 5A «Male Review Lab». ncstate.pressbooks.pub/unit8reproductive | Larsen R (ed). CVM Large Animal Anatomy, cap. 9 «Reproductive Tracts and Genitalia» (rev. T. Clark, 2024). University of Minnesota, CC BY-NC 4.0. open.lib.umn.edu/largeanimalanatomy | Material docente sobre castración equina. Università degli Studi di Teramo (elearning.unite.it)."
+      },
+      "lateralidad": "bilateral",
+      "trazabilidad_ids": [
+        "equ.rep.esc.005-i",
+        "equ.rep.esc.005-d"
+      ],
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha redactada a partir de material docente universitario y artículos de acceso abierto (ver referencias). No se consultaron directamente la NAV, Dyce, Budras/Sack ni Sisson. Sin apartados de accidentes ni de articulaciones; irrigación e inervación solo cuando constan en fuentes equinas. Pendiente de cotejo con NAV, Dyce y WikiVet y de revisión del usuario."
+      },
+      "historial_origen": "Consolidación bilateral de dos registros laterales sin ficha; los IDs laterales originales se conservan en trazabilidad_ids."
     },
     {
-      "id": "equ.rep.esc.005-d",
-      "es": "Fascia espermática externa (derecha)",
-      "la": "Fascia spermatica externa",
-      "sys": "rep",
-      "layer": "org",
-      "sex": "m"
-    },
-    {
-      "id": "equ.rep.esc.006-i",
-      "es": "Fascia espermática interna (izquierda)",
+      "id": "equ.rep.esc.006",
+      "es": "Fascia espermática interna (bilateral)",
       "la": "Fascia spermatica interna",
       "sys": "rep",
       "layer": "org",
-      "sex": "m"
+      "sex": "m",
+      "ficha": {
+        "ubicacion": "Capa más profunda de la pared escrotal, adherida a la lámina parietal de la túnica vaginal.",
+        "descripcion": "Se continúa proximalmente con la fascia transversal de la cavidad abdominal y se adhiere a la lámina parietal de la túnica vaginal. Explica la dureza y la opacidad de la túnica vaginal, nombre clínico del conjunto formado por esta fascia y la lámina parietal.",
+        "relaciones": "El cremáster queda por fuera de ella. El ligamento escrotal la une a la pared interna del escroto. Su incisión junto con la lámina parietal abre la cavidad vaginal.",
+        "irrigacion": "No queda detallada en las fuentes equinas consultadas.",
+        "inervacion": "No queda detallada en las fuentes equinas consultadas.",
+        "funcion": "Aporta resistencia a la túnica vaginal en el conjunto fascia–lámina parietal.",
+        "clinica": "En las técnicas de castración abierta o semicerrada se incide el conjunto fascia espermática interna–lámina parietal para abrir la túnica vaginal.",
+        "referencias": "NC State University College of Veterinary Medicine. Reproductive unit, Lab 4A «Male Ungulate Urethral and Reproductive Anatomy» y Lab 5A «Male Review Lab». ncstate.pressbooks.pub/unit8reproductive | Larsen R (ed). CVM Large Animal Anatomy, cap. 9 «Reproductive Tracts and Genitalia» (rev. T. Clark, 2024). University of Minnesota, CC BY-NC 4.0. open.lib.umn.edu/largeanimalanatomy | Material docente sobre castración equina. Università degli Studi di Teramo (elearning.unite.it)."
+      },
+      "lateralidad": "bilateral",
+      "trazabilidad_ids": [
+        "equ.rep.esc.006-i",
+        "equ.rep.esc.006-d"
+      ],
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha redactada a partir de material docente universitario y artículos de acceso abierto (ver referencias). No se consultaron directamente la NAV, Dyce, Budras/Sack ni Sisson. Sin apartados de accidentes ni de articulaciones; irrigación e inervación solo cuando constan en fuentes equinas. Pendiente de cotejo con NAV, Dyce y WikiVet y de revisión del usuario."
+      },
+      "historial_origen": "Consolidación bilateral de dos registros laterales sin ficha; los IDs laterales originales se conservan en trazabilidad_ids."
     },
     {
-      "id": "equ.rep.esc.006-d",
-      "es": "Fascia espermática interna (derecha)",
-      "la": "Fascia spermatica interna",
-      "sys": "rep",
-      "layer": "org",
-      "sex": "m"
-    },
-    {
-      "id": "equ.rep.esc.007-i",
-      "es": "Túnica vaginal (izquierda)",
+      "id": "equ.rep.esc.007",
+      "es": "Túnica vaginal (bilateral)",
       "la": "Tunica vaginalis testis",
       "sys": "rep",
       "layer": "org",
-      "sex": "m"
+      "sex": "m",
+      "ficha": {
+        "ubicacion": "Dentro del escroto, envolviendo el testículo, el epidídimo y la parte distal del cordón espermático; atraviesa el canal inguinal.",
+        "descripcion": "Evaginación del peritoneo formada por dos láminas, parietal y visceral, entre las cuales queda la cavidad vaginal. Son membranas serosas que producen una pequeña cantidad de líquido seroso, el cual permite el movimiento sin fricción del testículo y del cordón. En el desarrollo, el proceso vaginal se forma hacia los 45–50 días de gestación y el testículo entra en el escroto entre el día 315 de gestación y los 10 días posteriores al nacimiento.",
+        "relaciones": "Se abre a la cavidad peritoneal por el anillo vaginal, interno al anillo inguinal profundo. Su lámina visceral forma el mesorquio y el mesoconducto deferente. El cremáster se continúa con la lámina parietal en el polo caudal del testículo. Se une a la pared escrotal por el ligamento escrotal y a la cola del epidídimo por el ligamento de la cola del epidídimo.",
+        "irrigacion": "No queda detallada en las fuentes equinas consultadas.",
+        "inervacion": "No queda detallada en las fuentes equinas consultadas.",
+        "funcion": "Recubre y permite el deslizamiento del testículo, el epidídimo y el cordón; su cavidad comunica con la cavidad peritoneal.",
+        "clinica": "La cavidad vaginal es la vía de la hernia inguinal indirecta, la más frecuente en el caballo y una secuela relativamente común de la castración. El tamaño del anillo vaginal se valora por palpación rectal.",
+        "referencias": "Larsen R (ed). CVM Large Animal Anatomy, cap. 9 «Reproductive Tracts and Genitalia» (rev. T. Clark, 2024). University of Minnesota, CC BY-NC 4.0. open.lib.umn.edu/largeanimalanatomy | Rodgerson DH, Hanson RR. Cryptorchidism in horses. Part I: Anatomy, causes, and diagnosis. Compendium Equine, noviembre de 1997. | Revisión sobre evisceración postcastración en el caballo. Cornell University eCommons (ecommons.cornell.edu; autoría no identificada en el fragmento consultado)."
+      },
+      "lateralidad": "bilateral",
+      "trazabilidad_ids": [
+        "equ.rep.esc.007-i",
+        "equ.rep.esc.007-d"
+      ],
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha redactada a partir de material docente universitario y artículos de acceso abierto (ver referencias). No se consultaron directamente la NAV, Dyce, Budras/Sack ni Sisson. Sin apartados de accidentes ni de articulaciones; irrigación e inervación solo cuando constan en fuentes equinas. Pendiente de cotejo con NAV, Dyce y WikiVet y de revisión del usuario."
+      },
+      "historial_origen": "Consolidación bilateral de dos registros laterales sin ficha; los IDs laterales originales se conservan en trazabilidad_ids."
     },
     {
-      "id": "equ.rep.esc.007-d",
-      "es": "Túnica vaginal (derecha)",
-      "la": "Tunica vaginalis testis",
-      "sys": "rep",
-      "layer": "org",
-      "sex": "m"
-    },
-    {
-      "id": "equ.rep.esc.008-i",
-      "es": "Lámina parietal de la túnica vaginal (izquierda)",
+      "id": "equ.rep.esc.008",
+      "es": "Lámina parietal de la túnica vaginal (bilateral)",
       "la": "Lamina parietalis tunicae vaginalis",
       "sys": "rep",
       "layer": "org",
-      "sex": "m"
+      "sex": "m",
+      "ficha": {
+        "ubicacion": "Lámina externa de la túnica vaginal, que reviste la pared de la cavidad vaginal por dentro de la fascia espermática interna.",
+        "descripcion": "Saco fibroseroso continuo con el peritoneo parietal de la cavidad abdominal. Con la fascia espermática interna, a la que se adhiere, constituye lo que en clínica se denomina túnica vaginal.",
+        "relaciones": "Se une a la lámina visceral mediante los mesenterios que acompañan al cordón espermático (mesorquio y mesoconducto deferente). El cremáster se continúa con ella en el polo caudal del testículo, y la cola del epidídimo se une a ella por el ligamento de la cola del epidídimo.",
+        "irrigacion": "No queda detallada en las fuentes equinas consultadas.",
+        "inervacion": "No queda detallada en las fuentes equinas consultadas.",
+        "funcion": "Delimita externamente la cavidad vaginal.",
+        "clinica": "En la castración cerrada no se incide la túnica parietal, que se libera del ligamento escrotal y de la fascia escrotal; en las técnicas abierta y semicerrada se incide para exteriorizar el testículo.",
+        "referencias": "Capítulo 15: The Reproductive System (material docente en línea, flippingbook; autoría no identificada). | NC State University College of Veterinary Medicine. Reproductive unit, Lab 4A «Male Ungulate Urethral and Reproductive Anatomy» y Lab 5A «Male Review Lab». ncstate.pressbooks.pub/unit8reproductive | Larsen R (ed). CVM Large Animal Anatomy, cap. 9 «Reproductive Tracts and Genitalia» (rev. T. Clark, 2024). University of Minnesota, CC BY-NC 4.0. open.lib.umn.edu/largeanimalanatomy | Rodgerson DH, Hanson RR. Cryptorchidism in horses. Part I: Anatomy, causes, and diagnosis. Compendium Equine, noviembre de 1997. | Revisión sobre evisceración postcastración en el caballo. Cornell University eCommons (ecommons.cornell.edu; autoría no identificada en el fragmento consultado). | Material docente sobre castración equina. Università degli Studi di Teramo (elearning.unite.it). | Ungulate Anatomy Lab Guide, Part 5: Male Genitalia. University of Minnesota. pressbooks.umn.edu/ungulateanatomylabguide"
+      },
+      "lateralidad": "bilateral",
+      "trazabilidad_ids": [
+        "equ.rep.esc.008-i",
+        "equ.rep.esc.008-d"
+      ],
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha redactada a partir de material docente universitario y artículos de acceso abierto (ver referencias). No se consultaron directamente la NAV, Dyce, Budras/Sack ni Sisson. Sin apartados de accidentes ni de articulaciones; irrigación e inervación solo cuando constan en fuentes equinas. Pendiente de cotejo con NAV, Dyce y WikiVet y de revisión del usuario."
+      },
+      "historial_origen": "Consolidación bilateral de dos registros laterales sin ficha; los IDs laterales originales se conservan en trazabilidad_ids."
     },
     {
-      "id": "equ.rep.esc.008-d",
-      "es": "Lámina parietal de la túnica vaginal (derecha)",
-      "la": "Lamina parietalis tunicae vaginalis",
-      "sys": "rep",
-      "layer": "org",
-      "sex": "m"
-    },
-    {
-      "id": "equ.rep.esc.009-i",
-      "es": "Lámina visceral de la túnica vaginal (izquierda)",
+      "id": "equ.rep.esc.009",
+      "es": "Lámina visceral de la túnica vaginal (bilateral)",
       "la": "Lamina visceralis tunicae vaginalis",
       "sys": "rep",
       "layer": "org",
-      "sex": "m"
+      "sex": "m",
+      "ficha": {
+        "ubicacion": "Lámina interna de la túnica vaginal, adherida al testículo, al epidídimo y a las estructuras del cordón.",
+        "descripcion": "Membrana serosa íntimamente adherida al testículo, a los conductos y a los vasos. Rodea el conducto deferente, formando el mesoconducto deferente, y los vasos, nervios y linfáticos testiculares, formando el mesorquio. Bajo ella se encuentra la túnica albugínea, más gruesa y fibrosa.",
+        "relaciones": "Se continúa con la lámina parietal a través de los mesenterios del cordón espermático.",
+        "irrigacion": "No queda detallada en las fuentes equinas consultadas.",
+        "inervacion": "No queda detallada en las fuentes equinas consultadas.",
+        "funcion": "Cubre el testículo y el epidídimo y favorece su deslizamiento dentro de la cavidad vaginal.",
+        "referencias": "Revisión sobre evisceración postcastración en el caballo. Cornell University eCommons (ecommons.cornell.edu; autoría no identificada en el fragmento consultado). | Larsen R (ed). CVM Large Animal Anatomy, cap. 9 «Reproductive Tracts and Genitalia» (rev. T. Clark, 2024). University of Minnesota, CC BY-NC 4.0. open.lib.umn.edu/largeanimalanatomy | NC State University College of Veterinary Medicine. Reproductive unit, Lab 4A «Male Ungulate Urethral and Reproductive Anatomy» y Lab 5A «Male Review Lab». ncstate.pressbooks.pub/unit8reproductive | Ungulate Anatomy Lab Guide, Part 5: Male Genitalia. University of Minnesota. pressbooks.umn.edu/ungulateanatomylabguide"
+      },
+      "lateralidad": "bilateral",
+      "trazabilidad_ids": [
+        "equ.rep.esc.009-i",
+        "equ.rep.esc.009-d"
+      ],
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha redactada a partir de material docente universitario y artículos de acceso abierto (ver referencias). No se consultaron directamente la NAV, Dyce, Budras/Sack ni Sisson. Sin apartados de accidentes ni de articulaciones; irrigación e inervación solo cuando constan en fuentes equinas. Pendiente de cotejo con NAV, Dyce y WikiVet y de revisión del usuario."
+      },
+      "historial_origen": "Consolidación bilateral de dos registros laterales sin ficha; los IDs laterales originales se conservan en trazabilidad_ids."
     },
     {
-      "id": "equ.rep.esc.009-d",
-      "es": "Lámina visceral de la túnica vaginal (derecha)",
-      "la": "Lamina visceralis tunicae vaginalis",
-      "sys": "rep",
-      "layer": "org",
-      "sex": "m"
-    },
-    {
-      "id": "equ.rep.esc.010-i",
-      "es": "Cavidad vaginal (izquierda)",
+      "id": "equ.rep.esc.010",
+      "es": "Cavidad vaginal (bilateral)",
       "la": "Cavum vaginale",
       "sys": "rep",
       "layer": "org",
-      "sex": "m"
+      "sex": "m",
+      "ficha": {
+        "ubicacion": "Espacio entre las láminas parietal y visceral de la túnica vaginal, dentro del escroto y a lo largo del cordón espermático.",
+        "descripcion": "Espacio seroso que contiene una pequeña cantidad de líquido y se comunica libremente con la cavidad peritoneal a través del anillo vaginal.",
+        "relaciones": "Alberga el testículo, el epidídimo y las estructuras del cordón con sus mesenterios (mesorquio y mesoconducto deferente).",
+        "irrigacion": "No queda detallada en las fuentes equinas consultadas.",
+        "inervacion": "No queda detallada en las fuentes equinas consultadas.",
+        "funcion": "Permite el movimiento sin fricción del testículo y del cordón espermático.",
+        "clinica": "Es la vía por la que asas intestinales pueden llegar al escroto (hernia inguinal indirecta, la más frecuente en el caballo).",
+        "referencias": "Larsen R (ed). CVM Large Animal Anatomy, cap. 9 «Reproductive Tracts and Genitalia» (rev. T. Clark, 2024). University of Minnesota, CC BY-NC 4.0. open.lib.umn.edu/largeanimalanatomy | Rodgerson DH, Hanson RR. Cryptorchidism in horses. Part I: Anatomy, causes, and diagnosis. Compendium Equine, noviembre de 1997."
+      },
+      "lateralidad": "bilateral",
+      "trazabilidad_ids": [
+        "equ.rep.esc.010-i",
+        "equ.rep.esc.010-d"
+      ],
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha redactada a partir de material docente universitario y artículos de acceso abierto (ver referencias). No se consultaron directamente la NAV, Dyce, Budras/Sack ni Sisson. Sin apartados de accidentes ni de articulaciones; irrigación e inervación solo cuando constan en fuentes equinas. Pendiente de cotejo con NAV, Dyce y WikiVet y de revisión del usuario."
+      },
+      "historial_origen": "Consolidación bilateral de dos registros laterales sin ficha; los IDs laterales originales se conservan en trazabilidad_ids."
     },
     {
-      "id": "equ.rep.esc.010-d",
-      "es": "Cavidad vaginal (derecha)",
-      "la": "Cavum vaginale",
-      "sys": "rep",
-      "layer": "org",
-      "sex": "m"
-    },
-    {
-      "id": "equ.rep.esc.011-i",
-      "es": "Anillo vaginal (izquierdo)",
+      "id": "equ.rep.esc.011",
+      "es": "Anillo vaginal (bilateral)",
       "la": "Anulus vaginalis",
       "sys": "rep",
       "layer": "org",
-      "sex": "m"
+      "sex": "m",
+      "ficha": {
+        "ubicacion": "Entrada de la túnica vaginal desde la cavidad abdominal, interno al anillo inguinal profundo y considerado separado del canal inguinal. Se localiza a 8–12 cm de la línea media, justo craneal al borde de la pelvis.",
+        "descripcion": "Abertura de la túnica vaginal que marca el límite entre la cavidad peritoneal y la cavidad vaginal. Está formado por el peritoneo al salir del abdomen hacia el canal inguinal. Su posición señala la del anillo inguinal profundo, que se forma por la reflexión de la fascia transversal por fuera del anillo vaginal.",
+        "relaciones": "El conducto deferente entra por su aspecto caudomedial y los vasos testiculares lo atraviesan; en el semental se palpa por vía rectal.",
+        "irrigacion": "No queda detallada en las fuentes equinas consultadas.",
+        "inervacion": "No queda detallada en las fuentes equinas consultadas.",
+        "funcion": "Comunica la cavidad peritoneal con la cavidad vaginal.",
+        "clinica": "Un anillo vaginal grande se ha relacionado con la hernia inguinal y con la evisceración postcastración; se palpa por vía rectal para valorar su tamaño y detectar asas intestinales. En la criptorquidia, el testículo con retención abdominal queda junto al anillo vaginal.",
+        "referencias": "Rodgerson DH, Hanson RR. Cryptorchidism in horses. Part I: Anatomy, causes, and diagnosis. Compendium Equine, noviembre de 1997. | Ungulate Anatomy Lab Guide, Part 2: Pelvic Inlet. University of Minnesota. pressbooks.umn.edu/ungulateanatomylabguide | Revisión sobre evisceración postcastración en el caballo. Cornell University eCommons (ecommons.cornell.edu; autoría no identificada en el fragmento consultado). | Equine castration – special scenarios (inguinal hernias). Large Animal Surgery, University of Minnesota. open.lib.umn.edu/largeanimalsurgery | Veterinary Gross Anatomy Ungulate Dissection, Lab 15 (pelvic inlet). University of Minnesota. vanat.ahc.umn.edu/ungDissect/Lab15"
+      },
+      "lateralidad": "bilateral",
+      "trazabilidad_ids": [
+        "equ.rep.esc.011-i",
+        "equ.rep.esc.011-d"
+      ],
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha redactada a partir de material docente universitario y artículos de acceso abierto (ver referencias). No se consultaron directamente la NAV, Dyce, Budras/Sack ni Sisson. Sin apartados de accidentes ni de articulaciones; irrigación e inervación solo cuando constan en fuentes equinas. Pendiente de cotejo con NAV, Dyce y WikiVet y de revisión del usuario."
+      },
+      "historial_origen": "Consolidación bilateral de dos registros laterales sin ficha; los IDs laterales originales se conservan en trazabilidad_ids."
     },
     {
-      "id": "equ.rep.esc.011-d",
-      "es": "Anillo vaginal (derecho)",
-      "la": "Anulus vaginalis",
-      "sys": "rep",
-      "layer": "org",
-      "sex": "m"
-    },
-    {
-      "id": "equ.rep.esc.012-i",
-      "es": "Canal inguinal (izquierdo)",
+      "id": "equ.rep.esc.012",
+      "es": "Canal inguinal (bilateral)",
       "la": "Canalis inguinalis",
       "sys": "rep",
       "layer": "org",
-      "sex": "m"
+      "sex": "m",
+      "ficha": {
+        "ubicacion": "Pared abdominal ventral, entre el anillo inguinal profundo y el anillo inguinal superficial.",
+        "descripcion": "Pasaje en hendidura, oblicuo y aplanado, entre los músculos oblicuos externo e interno del abdomen. En el caballo es relativamente largo en comparación con otras especies domésticas. En la mayoría de los adultos está inclinado, lo que dificulta el paso de contenido abdominal; en el potro es más vertical y, con el tiempo, los anillos cambian de posición.",
+        "relaciones": "Contiene el cordón espermático, la arteria y la vena pudendas externas y el nervio genitofemoral.",
+        "irrigacion": "La arteria y la vena pudendas externas lo atraviesan.",
+        "inervacion": "El nervio genitofemoral lo atraviesa.",
+        "funcion": "Paso del testículo en su descenso desde el abdomen al escroto y, en el adulto, del cordón espermático y de los vasos pudendos externos.",
+        "especie": "El canal inguinal del caballo es relativamente largo comparado con el de otras especies domésticas; la criptorquidia es frecuente en esta especie.",
+        "clinica": "Las hernias inguinales aparecen en potros (no suelen ser una urgencia) y en sementales reproductores (urgencia). En la criptorquidia, el testículo con retención inguinal puede estar dentro del canal o fuera del anillo superficial.",
+        "referencias": "Rodgerson DH, Hanson RR. Cryptorchidism in horses. Part I: Anatomy, causes, and diagnosis. Compendium Equine, noviembre de 1997. | Revisión sobre evisceración postcastración en el caballo. Cornell University eCommons (ecommons.cornell.edu; autoría no identificada en el fragmento consultado). | Larsen R (ed). CVM Large Animal Anatomy, cap. 9 «Reproductive Tracts and Genitalia» (rev. T. Clark, 2024). University of Minnesota, CC BY-NC 4.0. open.lib.umn.edu/largeanimalanatomy | Equine castration – special scenarios (inguinal hernias). Large Animal Surgery, University of Minnesota. open.lib.umn.edu/largeanimalsurgery | Larsen R (ed). CVM Large Animal Anatomy, cap. 6 «Abdomen 1: Equine and Porcine». University of Minnesota. open.lib.umn.edu/largeanimalanatomy"
+      },
+      "lateralidad": "bilateral",
+      "trazabilidad_ids": [
+        "equ.rep.esc.012-i",
+        "equ.rep.esc.012-d"
+      ],
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha redactada a partir de material docente universitario y artículos de acceso abierto (ver referencias). No se consultaron directamente la NAV, Dyce, Budras/Sack ni Sisson. Sin apartados de accidentes ni de articulaciones; irrigación e inervación solo cuando constan en fuentes equinas. Pendiente de cotejo con NAV, Dyce y WikiVet y de revisión del usuario."
+      },
+      "historial_origen": "Consolidación bilateral de dos registros laterales sin ficha; los IDs laterales originales se conservan en trazabilidad_ids."
     },
     {
-      "id": "equ.rep.esc.012-d",
-      "es": "Canal inguinal (derecho)",
-      "la": "Canalis inguinalis",
-      "sys": "rep",
-      "layer": "org",
-      "sex": "m"
-    },
-    {
-      "id": "equ.rep.esc.013-i",
-      "es": "Anillo inguinal superficial (izquierdo)",
+      "id": "equ.rep.esc.013",
+      "es": "Anillo inguinal superficial (bilateral)",
       "la": "Anulus inguinalis superficialis",
       "sys": "rep",
       "layer": "org",
-      "sex": "m"
+      "sex": "m",
+      "ficha": {
+        "ubicacion": "Aponeurosis del músculo oblicuo externo del abdomen, en la región inguinal; ligeramente craneal al anillo inguinal profundo.",
+        "descripcion": "Hendidura en la aponeurosis del oblicuo externo, de dirección paralela a la de las fibras del tendón de ese músculo. Es el extremo externo del canal inguinal.",
+        "relaciones": "Por ella pasa la túnica vaginal con el cordón espermático. El borde caudal de la aponeurosis del oblicuo externo, fijado al iliopsoas y al sartorio, constituye el ligamento inguinal.",
+        "irrigacion": "No queda detallada en las fuentes equinas consultadas.",
+        "inervacion": "No queda detallada en las fuentes equinas consultadas.",
+        "funcion": "Salida externa del canal inguinal.",
+        "clinica": "Su palpación externa, junto con la del escroto, forma parte de la exploración del caballo con sospecha de testículo retenido.",
+        "referencias": "Rodgerson DH, Hanson RR. Cryptorchidism in horses. Part I: Anatomy, causes, and diagnosis. Compendium Equine, noviembre de 1997. | Revisión sobre evisceración postcastración en el caballo. Cornell University eCommons (ecommons.cornell.edu; autoría no identificada en el fragmento consultado). | Larsen R (ed). CVM Large Animal Anatomy, cap. 6 «Abdomen 1: Equine and Porcine». University of Minnesota. open.lib.umn.edu/largeanimalanatomy"
+      },
+      "lateralidad": "bilateral",
+      "trazabilidad_ids": [
+        "equ.rep.esc.013-i",
+        "equ.rep.esc.013-d"
+      ],
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha redactada a partir de material docente universitario y artículos de acceso abierto (ver referencias). No se consultaron directamente la NAV, Dyce, Budras/Sack ni Sisson. Sin apartados de accidentes ni de articulaciones; irrigación e inervación solo cuando constan en fuentes equinas. Pendiente de cotejo con NAV, Dyce y WikiVet y de revisión del usuario."
+      },
+      "historial_origen": "Consolidación bilateral de dos registros laterales sin ficha; los IDs laterales originales se conservan en trazabilidad_ids."
     },
     {
-      "id": "equ.rep.esc.013-d",
-      "es": "Anillo inguinal superficial (derecho)",
-      "la": "Anulus inguinalis superficialis",
-      "sys": "rep",
-      "layer": "org",
-      "sex": "m"
-    },
-    {
-      "id": "equ.rep.esc.014-i",
-      "es": "Anillo inguinal profundo (izquierdo)",
+      "id": "equ.rep.esc.014",
+      "es": "Anillo inguinal profundo (bilateral)",
       "la": "Anulus inguinalis profundus",
       "sys": "rep",
       "layer": "org",
-      "sex": "m"
+      "sex": "m",
+      "ficha": {
+        "ubicacion": "Cara interna de la pared abdominal ventral; entrada del canal inguinal.",
+        "descripcion": "Espacio triangular y dilatable. Está limitado cranealmente por el borde caudal libre del músculo oblicuo interno, caudalmente por la pelvis y el ligamento inguinal, y ventromedialmente por el músculo recto del abdomen y el tendón prepúbico. Se forma por la reflexión de la fascia transversal.",
+        "relaciones": "El anillo vaginal, interno a él, marca su posición. En el macho, el conducto deferente y los vasos testiculares se disponen junto a esta región.",
+        "irrigacion": "No queda detallada en las fuentes equinas consultadas.",
+        "inervacion": "No queda detallada en las fuentes equinas consultadas.",
+        "funcion": "Entrada abdominal del canal inguinal.",
+        "clinica": "Es un punto de referencia en la criptorquidia: el testículo parcialmente descendido suele estar en el canal inguinal, pero puede quedar en el abdomen junto al anillo vaginal.",
+        "referencias": "Rodgerson DH, Hanson RR. Cryptorchidism in horses. Part I: Anatomy, causes, and diagnosis. Compendium Equine, noviembre de 1997. | Ungulate Anatomy Lab Guide, Part 2: Pelvic Inlet. University of Minnesota. pressbooks.umn.edu/ungulateanatomylabguide | Revisión sobre evisceración postcastración en el caballo. Cornell University eCommons (ecommons.cornell.edu; autoría no identificada en el fragmento consultado). | Larsen R (ed). CVM Large Animal Anatomy, cap. 6 «Abdomen 1: Equine and Porcine». University of Minnesota. open.lib.umn.edu/largeanimalanatomy | Veterinary Gross Anatomy Ungulate Dissection, Lab 15 (pelvic inlet). University of Minnesota. vanat.ahc.umn.edu/ungDissect/Lab15"
+      },
+      "lateralidad": "bilateral",
+      "trazabilidad_ids": [
+        "equ.rep.esc.014-i",
+        "equ.rep.esc.014-d"
+      ],
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha redactada a partir de material docente universitario y artículos de acceso abierto (ver referencias). No se consultaron directamente la NAV, Dyce, Budras/Sack ni Sisson. Sin apartados de accidentes ni de articulaciones; irrigación e inervación solo cuando constan en fuentes equinas. Pendiente de cotejo con NAV, Dyce y WikiVet y de revisión del usuario."
+      },
+      "historial_origen": "Consolidación bilateral de dos registros laterales sin ficha; los IDs laterales originales se conservan en trazabilidad_ids."
     },
     {
-      "id": "equ.rep.esc.014-d",
-      "es": "Anillo inguinal profundo (derecho)",
-      "la": "Anulus inguinalis profundus",
-      "sys": "rep",
-      "layer": "org",
-      "sex": "m"
-    },
-    {
-      "id": "equ.rep.esc.015-i",
-      "es": "Cordón espermático (izquierdo)",
+      "id": "equ.rep.esc.015",
+      "es": "Cordón espermático (bilateral)",
       "la": "Funiculus spermaticus",
       "sys": "rep",
       "layer": "org",
-      "sex": "m"
+      "sex": "m",
+      "ficha": {
+        "ubicacion": "Desde el anillo vaginal, a través del canal inguinal, hasta el extremo craneal del testículo, ya en el escroto.",
+        "descripcion": "Está formado por el conducto deferente, la arteria testicular, la vena testicular (plexo pampiniforme), el nervio testicular y los vasos linfáticos, envueltos por las láminas parietal y visceral de la túnica vaginal. En clínica se incluyen además el cremáster y la túnica vaginal, aunque anatómicamente el cremáster queda por fuera de la fascia espermática interna.",
+        "relaciones": "Atraviesa el canal inguinal junto con la arteria y la vena pudendas externas y el nervio genitofemoral, que no forman parte del cordón.",
+        "irrigacion": "Arteria testicular; el drenaje venoso se hace por la vena testicular y el plexo pampiniforme.",
+        "inervacion": "Nervio testicular.",
+        "funcion": "Conecta el testículo con la cavidad abdominal y conduce el conducto deferente, los vasos y los nervios.",
+        "clinica": "En la castración se aplican los emasculadores a todo el cordón; en caballos con cordón grande el cremáster puede separarse de él por disección roma. Se ha propuesto que en sementales maduros la gran distensión venosa del cordón ayuda a impedir que el contenido abdominal entre en el canal inguinal.",
+        "referencias": "Larsen R (ed). CVM Large Animal Anatomy, cap. 9 «Reproductive Tracts and Genitalia» (rev. T. Clark, 2024). University of Minnesota, CC BY-NC 4.0. open.lib.umn.edu/largeanimalanatomy | NC State University College of Veterinary Medicine. Reproductive unit, Lab 4A «Male Ungulate Urethral and Reproductive Anatomy» y Lab 5A «Male Review Lab». ncstate.pressbooks.pub/unit8reproductive | Ungulate Anatomy Lab Guide, Part 5: Male Genitalia. University of Minnesota. pressbooks.umn.edu/ungulateanatomylabguide | Revisión sobre evisceración postcastración en el caballo. Cornell University eCommons (ecommons.cornell.edu; autoría no identificada en el fragmento consultado)."
+      },
+      "lateralidad": "bilateral",
+      "trazabilidad_ids": [
+        "equ.rep.esc.015-i",
+        "equ.rep.esc.015-d"
+      ],
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha redactada a partir de material docente universitario y artículos de acceso abierto (ver referencias). No se consultaron directamente la NAV, Dyce, Budras/Sack ni Sisson. Sin apartados de accidentes ni de articulaciones; irrigación e inervación solo cuando constan en fuentes equinas. Pendiente de cotejo con NAV, Dyce y WikiVet y de revisión del usuario."
+      },
+      "historial_origen": "Consolidación bilateral de dos registros laterales sin ficha; los IDs laterales originales se conservan en trazabilidad_ids."
     },
     {
-      "id": "equ.rep.esc.015-d",
-      "es": "Cordón espermático (derecho)",
-      "la": "Funiculus spermaticus",
-      "sys": "rep",
-      "layer": "org",
-      "sex": "m"
-    },
-    {
-      "id": "equ.rep.esc.016-i",
-      "es": "Mesorquio (izquierdo)",
+      "id": "equ.rep.esc.016",
+      "es": "Mesorquio (bilateral)",
       "la": "Mesorchium",
       "sys": "rep",
       "layer": "org",
-      "sex": "m"
+      "sex": "m",
+      "ficha": {
+        "ubicacion": "Pliegue de la lámina visceral de la túnica vaginal en el cordón espermático, unido a los vasos testiculares.",
+        "descripcion": "Mesenterio de sostén formado por la lámina visceral de la túnica vaginal alrededor de los vasos, nervios y linfáticos testiculares; es continuo con las láminas parietal y visceral. En el feto es la inserción dorsal del testículo, junto con el ligamento diafragmático craneal y el gubernáculo caudal.",
+        "relaciones": "Junto con el mesoconducto deferente conecta el testículo y el conducto deferente con la túnica vaginal parietal.",
+        "irrigacion": "No queda detallada en las fuentes equinas consultadas.",
+        "inervacion": "No queda detallada en las fuentes equinas consultadas.",
+        "funcion": "Sostiene los vasos testiculares dentro de la cavidad vaginal.",
+        "referencias": "Larsen R (ed). CVM Large Animal Anatomy, cap. 9 «Reproductive Tracts and Genitalia» (rev. T. Clark, 2024). University of Minnesota, CC BY-NC 4.0. open.lib.umn.edu/largeanimalanatomy | Ungulate Anatomy Lab Guide, Part 5: Male Genitalia. University of Minnesota. pressbooks.umn.edu/ungulateanatomylabguide | Rodgerson DH, Hanson RR. Cryptorchidism in horses. Part I: Anatomy, causes, and diagnosis. Compendium Equine, noviembre de 1997."
+      },
+      "lateralidad": "bilateral",
+      "trazabilidad_ids": [
+        "equ.rep.esc.016-i",
+        "equ.rep.esc.016-d"
+      ],
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha redactada a partir de material docente universitario y artículos de acceso abierto (ver referencias). No se consultaron directamente la NAV, Dyce, Budras/Sack ni Sisson. Sin apartados de accidentes ni de articulaciones; irrigación e inervación solo cuando constan en fuentes equinas. Pendiente de cotejo con NAV, Dyce y WikiVet y de revisión del usuario."
+      },
+      "historial_origen": "Consolidación bilateral de dos registros laterales sin ficha; los IDs laterales originales se conservan en trazabilidad_ids."
     },
     {
-      "id": "equ.rep.esc.016-d",
-      "es": "Mesorquio (derecho)",
-      "la": "Mesorchium",
-      "sys": "rep",
-      "layer": "org",
-      "sex": "m"
-    },
-    {
-      "id": "equ.rep.esc.017-i",
-      "es": "Mesoepidídimo (izquierdo)",
+      "id": "equ.rep.esc.017",
+      "es": "Mesoepidídimo (bilateral)",
       "la": "Mesepididymis",
       "sys": "rep",
       "layer": "org",
-      "sex": "m"
+      "sex": "m",
+      "ficha": {
+        "ubicacion": "Entre el epidídimo y el testículo; su localización exacta como estructura independiente no queda detallada en las fuentes equinas consultadas.",
+        "descripcion": "Las fuentes equinas consultadas no describen directamente el mesoepidídimo. Sí describen la relación entre ambos órganos: la cabeza del epidídimo se une al aspecto craneal del testículo, el cuerpo se sitúa en su aspecto dorsolateral y la cola se une al polo caudal por el ligamento propio del testículo; en el lado lateral queda un espacio entre epidídimo y testículo, la bolsa testicular. Un estudio de 104 testículos de caballos castrados describió ocho patrones de fusión entre epidídimo y testículo, el más frecuente la adherencia estrecha de todo el epidídimo (40 %).",
+        "relaciones": "Relacionado con la bolsa testicular, el ligamento propio del testículo y el ligamento de la cola del epidídimo.",
+        "irrigacion": "No queda detallada en las fuentes equinas consultadas.",
+        "inervacion": "No queda detallada en las fuentes equinas consultadas.",
+        "funcion": "No queda detallada en las fuentes equinas consultadas.",
+        "referencias": "Larsen R (ed). CVM Large Animal Anatomy, cap. 9 «Reproductive Tracts and Genitalia» (rev. T. Clark, 2024). University of Minnesota, CC BY-NC 4.0. open.lib.umn.edu/largeanimalanatomy | Ungulate Anatomy Lab Guide, Part 5: Male Genitalia. University of Minnesota. pressbooks.umn.edu/ungulateanatomylabguide | Rodgerson DH, Hanson RR. Cryptorchidism in horses. Part I: Anatomy, causes, and diagnosis. Compendium Equine, noviembre de 1997. | Anatomical variations in epididymal-testicular fusion in stallions and their possible clinical significance. Equine Vet J. 2016;48(4):490-495 (publicado en línea el 23-jul-2015). doi:10.1111/evj.12464"
+      },
+      "lateralidad": "bilateral",
+      "trazabilidad_ids": [
+        "equ.rep.esc.017-i",
+        "equ.rep.esc.017-d"
+      ],
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha redactada a partir de material docente universitario y artículos de acceso abierto (ver referencias). No se consultaron directamente la NAV, Dyce, Budras/Sack ni Sisson. Sin apartados de accidentes ni de articulaciones; irrigación e inervación solo cuando constan en fuentes equinas. Pendiente de cotejo con NAV, Dyce y WikiVet y de revisión del usuario. Mesoepidídimo sin descripción directa en las fuentes consultadas: la ficha recoge solo la relación epidídimo–testículo."
+      },
+      "historial_origen": "Consolidación bilateral de dos registros laterales sin ficha; los IDs laterales originales se conservan en trazabilidad_ids."
     },
     {
-      "id": "equ.rep.esc.017-d",
-      "es": "Mesoepidídimo (derecho)",
-      "la": "Mesepididymis",
-      "sys": "rep",
-      "layer": "org",
-      "sex": "m"
-    },
-    {
-      "id": "equ.rep.esc.018-i",
-      "es": "Mesoconducto deferente (izquierdo)",
+      "id": "equ.rep.esc.018",
+      "es": "Mesoconducto deferente (bilateral)",
       "la": "Mesoductus deferens",
       "sys": "rep",
       "layer": "org",
-      "sex": "m"
+      "sex": "m",
+      "ficha": {
+        "ubicacion": "Pliegue de la lámina visceral de la túnica vaginal que rodea al conducto deferente en el cordón espermático.",
+        "descripcion": "Mesenterio de sostén formado por la lámina visceral de la túnica vaginal alrededor del conducto deferente. Está unido al conducto deferente y es continuo con las láminas parietal y visceral.",
+        "relaciones": "Acompaña al conducto deferente, que se aleja de la cola del epidídimo; en el testículo del semental se identifica junto a él.",
+        "irrigacion": "No queda detallada en las fuentes equinas consultadas.",
+        "inervacion": "No queda detallada en las fuentes equinas consultadas.",
+        "funcion": "Sostiene el conducto deferente dentro de la cavidad vaginal.",
+        "referencias": "Larsen R (ed). CVM Large Animal Anatomy, cap. 9 «Reproductive Tracts and Genitalia» (rev. T. Clark, 2024). University of Minnesota, CC BY-NC 4.0. open.lib.umn.edu/largeanimalanatomy | Ungulate Anatomy Lab Guide, Part 5: Male Genitalia. University of Minnesota. pressbooks.umn.edu/ungulateanatomylabguide"
+      },
+      "lateralidad": "bilateral",
+      "trazabilidad_ids": [
+        "equ.rep.esc.018-i",
+        "equ.rep.esc.018-d"
+      ],
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha redactada a partir de material docente universitario y artículos de acceso abierto (ver referencias). No se consultaron directamente la NAV, Dyce, Budras/Sack ni Sisson. Sin apartados de accidentes ni de articulaciones; irrigación e inervación solo cuando constan en fuentes equinas. Pendiente de cotejo con NAV, Dyce y WikiVet y de revisión del usuario."
+      },
+      "historial_origen": "Consolidación bilateral de dos registros laterales sin ficha; los IDs laterales originales se conservan en trazabilidad_ids."
     },
     {
-      "id": "equ.rep.esc.018-d",
-      "es": "Mesoconducto deferente (derecho)",
-      "la": "Mesoductus deferens",
-      "sys": "rep",
-      "layer": "org",
-      "sex": "m"
-    },
-    {
-      "id": "equ.rep.esc.019-i",
-      "es": "Pliegue del conducto deferente (izquierdo)",
+      "id": "equ.rep.esc.019",
+      "es": "Pliegue del conducto deferente (bilateral)",
       "la": "Plica ductus deferentis",
       "sys": "rep",
       "layer": "org",
-      "sex": "m"
+      "sex": "m",
+      "ficha": {
+        "ubicacion": "Cavidad pélvica, como membrana que conecta los dos conductos deferentes (vista dorsal de las glándulas accesorias y de la uretra pélvica).",
+        "descripcion": "Membrana, llamada «genital fold» en la literatura en inglés, que conecta los conductos deferentes; es una estructura del desarrollo. Dentro de ella puede persistir un resto de los conductos paramesonéfricos, el útero masculino (uterus masculinus), que aparece como un engrosamiento en la línea media. La correspondencia de este nombre con el de la NAV (Plica ductus deferentis) queda por confirmar.",
+        "relaciones": "Contiene el útero masculino cuando está presente. En la ecografía transrectal del semental se han identificado el colículo seminal, el útero masculino y los conductos deferentes.",
+        "irrigacion": "No queda detallada en las fuentes equinas consultadas.",
+        "inervacion": "No queda detallada en las fuentes equinas consultadas.",
+        "funcion": "No queda detallada en las fuentes equinas consultadas.",
+        "referencias": "Larsen R (ed). CVM Large Animal Anatomy, cap. 9 «Reproductive Tracts and Genitalia» (rev. T. Clark, 2024). University of Minnesota, CC BY-NC 4.0. open.lib.umn.edu/largeanimalanatomy | Little TV, Woods GL. Ultrasonography of accessory sex glands in the stallion. J Reprod Fertil Suppl. 1987;35:87-94. PMID 3316647."
+      },
+      "lateralidad": "bilateral",
+      "trazabilidad_ids": [
+        "equ.rep.esc.019-i",
+        "equ.rep.esc.019-d"
+      ],
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha redactada a partir de material docente universitario y artículos de acceso abierto (ver referencias). No se consultaron directamente la NAV, Dyce, Budras/Sack ni Sisson. Sin apartados de accidentes ni de articulaciones; irrigación e inervación solo cuando constan en fuentes equinas. Pendiente de cotejo con NAV, Dyce y WikiVet y de revisión del usuario. Equivalencia del nombre «Plica ductus deferentis» con el «genital fold» de la fuente por confirmar con la NAV."
+      },
+      "historial_origen": "Consolidación bilateral de dos registros laterales sin ficha; los IDs laterales originales se conservan en trazabilidad_ids."
     },
     {
-      "id": "equ.rep.esc.019-d",
-      "es": "Pliegue del conducto deferente (derecho)",
-      "la": "Plica ductus deferentis",
-      "sys": "rep",
-      "layer": "org",
-      "sex": "m"
-    },
-    {
-      "id": "equ.rep.esc.020-i",
-      "es": "Ligamento de la cola del epidídimo (izquierdo)",
+      "id": "equ.rep.esc.020",
+      "es": "Ligamento de la cola del epidídimo (bilateral)",
       "la": "Ligamentum caudae epididymidis",
       "sys": "rep",
       "layer": "org",
-      "sex": "m"
+      "sex": "m",
+      "ficha": {
+        "ubicacion": "Une la cola del epidídimo con la túnica vaginal, en el polo caudal del testículo.",
+        "descripcion": "Banda que fija la cola del epidídimo a la lámina parietal de la túnica vaginal y a la fascia espermática. En el desarrollo deriva de la parte del gubernáculo llamada gubernaculum proprium.",
+        "relaciones": "Se dispone junto al ligamento propio del testículo, que une la cola del epidídimo al testículo, y al ligamento escrotal, que fija la túnica vaginal al escroto.",
+        "inserciones": "Una inserción en la cola del epidídimo y otra en la lámina parietal de la túnica vaginal y la fascia espermática.",
+        "irrigacion": "No queda detallada en las fuentes equinas consultadas.",
+        "inervacion": "No queda detallada en las fuentes equinas consultadas.",
+        "funcion": "Mantiene la cola del epidídimo unida a la túnica vaginal.",
+        "clinica": "En la criptorquidia el ligamento suele estar alargado, y el testículo retenido y la cola del epidídimo pueden presentar distintos grados de asociación.",
+        "referencias": "Rodgerson DH, Hanson RR. Cryptorchidism in horses. Part I: Anatomy, causes, and diagnosis. Compendium Equine, noviembre de 1997. | NC State University College of Veterinary Medicine. Reproductive unit, Lab 4A «Male Ungulate Urethral and Reproductive Anatomy» y Lab 5A «Male Review Lab». ncstate.pressbooks.pub/unit8reproductive | Ungulate Anatomy Lab Guide, Part 5: Male Genitalia. University of Minnesota. pressbooks.umn.edu/ungulateanatomylabguide"
+      },
+      "lateralidad": "bilateral",
+      "trazabilidad_ids": [
+        "equ.rep.esc.020-i",
+        "equ.rep.esc.020-d"
+      ],
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha redactada a partir de material docente universitario y artículos de acceso abierto (ver referencias). No se consultaron directamente la NAV, Dyce, Budras/Sack ni Sisson. Sin apartados de accidentes ni de articulaciones; irrigación e inervación solo cuando constan en fuentes equinas. Pendiente de cotejo con NAV, Dyce y WikiVet y de revisión del usuario."
+      },
+      "historial_origen": "Consolidación bilateral de dos registros laterales sin ficha; los IDs laterales originales se conservan en trazabilidad_ids."
     },
     {
-      "id": "equ.rep.esc.020-d",
-      "es": "Ligamento de la cola del epidídimo (derecho)",
-      "la": "Ligamentum caudae epididymidis",
-      "sys": "rep",
-      "layer": "org",
-      "sex": "m"
-    },
-    {
-      "id": "equ.rep.esc.021-i",
-      "es": "Ligamento propio del testículo (izquierdo)",
+      "id": "equ.rep.esc.021",
+      "es": "Ligamento propio del testículo (bilateral)",
       "la": "Ligamentum testis proprium",
       "sys": "rep",
       "layer": "org",
-      "sex": "m"
+      "sex": "m",
+      "ficha": {
+        "ubicacion": "Entre la cola del epidídimo y el polo caudal del testículo.",
+        "descripcion": "Ligamento que une la cola del epidídimo al testículo, de manera laxa en el testículo escrotal normal. En el desarrollo deriva del ligamento gonadal caudal (parte del gubernáculo).",
+        "relaciones": "Se dispone junto al ligamento de la cola del epidídimo, que une la cola a la túnica vaginal.",
+        "inserciones": "Una inserción en la cola del epidídimo y otra en el polo caudal del testículo.",
+        "irrigacion": "No queda detallada en las fuentes equinas consultadas.",
+        "inervacion": "No queda detallada en las fuentes equinas consultadas.",
+        "funcion": "Mantiene la cola del epidídimo unida al testículo.",
+        "clinica": "En una muestra de testículos de caballos, el ligamento propio estaba alargado en el 95 % de los testículos criptorquídeos y en el 34 % de los escrotales.",
+        "referencias": "Rodgerson DH, Hanson RR. Cryptorchidism in horses. Part I: Anatomy, causes, and diagnosis. Compendium Equine, noviembre de 1997. | Ungulate Anatomy Lab Guide, Part 5: Male Genitalia. University of Minnesota. pressbooks.umn.edu/ungulateanatomylabguide | Anatomical variations in epididymal-testicular fusion in stallions and their possible clinical significance. Equine Vet J. 2016;48(4):490-495 (publicado en línea el 23-jul-2015). doi:10.1111/evj.12464"
+      },
+      "lateralidad": "bilateral",
+      "trazabilidad_ids": [
+        "equ.rep.esc.021-i",
+        "equ.rep.esc.021-d"
+      ],
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha redactada a partir de material docente universitario y artículos de acceso abierto (ver referencias). No se consultaron directamente la NAV, Dyce, Budras/Sack ni Sisson. Sin apartados de accidentes ni de articulaciones; irrigación e inervación solo cuando constan en fuentes equinas. Pendiente de cotejo con NAV, Dyce y WikiVet y de revisión del usuario."
+      },
+      "historial_origen": "Consolidación bilateral de dos registros laterales sin ficha; los IDs laterales originales se conservan en trazabilidad_ids."
     },
     {
-      "id": "equ.rep.esc.021-d",
-      "es": "Ligamento propio del testículo (derecho)",
-      "la": "Ligamentum testis proprium",
-      "sys": "rep",
-      "layer": "org",
-      "sex": "m"
-    },
-    {
-      "id": "equ.rep.esc.022-i",
-      "es": "Gubernáculo del testículo (izquierdo)",
+      "id": "equ.rep.esc.022",
+      "es": "Gubernáculo del testículo (bilateral)",
       "la": "Gubernaculum testis",
       "sys": "rep",
       "layer": "org",
-      "sex": "m"
-    },
-    {
-      "id": "equ.rep.esc.022-d",
-      "es": "Gubernáculo del testículo (derecho)",
-      "la": "Gubernaculum testis",
-      "sys": "rep",
-      "layer": "org",
-      "sex": "m"
+      "sex": "m",
+      "ficha": {
+        "ubicacion": "Estructura fetal que se extiende desde el polo caudal del testículo hasta la región inguinal.",
+        "descripcion": "Cordón mesenquimatoso fetal, llamado también ligamento gonadal posterior. Tras la degeneración de la parte caudal del riñón mesonéfrico se divide en cuatro segmentos: ligamento gonadal caudal, gubernaculum proprium, pars vaginalis gubernaculi y pars infravaginalis gubernaculi, esta última continua con el ligamento gubernacular. Después del nacimiento, el ligamento gonadal caudal origina el ligamento propio del testículo, el gubernaculum proprium el ligamento de la cola del epidídimo, y la extensión inguinal (pars infravaginalis y ligamento gubernacular) el ligamento escrotal.",
+        "relaciones": "Guía al testículo hacia el anillo vaginal y a través del canal inguinal, sin contraerse activamente. Su porción caudal agrandada suele palparse en el escroto tras el parto y puede confundirse con un testículo escrotal.",
+        "irrigacion": "No queda detallada en las fuentes equinas consultadas.",
+        "inervacion": "No queda detallada en las fuentes equinas consultadas.",
+        "funcion": "Guía el descenso del testículo; la expansión del canal inguinal se relaciona con el agrandamiento de sus tres segmentos caudales y de la cola del epidídimo.",
+        "clinica": "Entre las causas mecánicas propuestas de la criptorquidia figuran el estiramiento excesivo del gubernáculo y su expansión insuficiente, junto con la de la cola del epidídimo.",
+        "referencias": "Rodgerson DH, Hanson RR. Cryptorchidism in horses. Part I: Anatomy, causes, and diagnosis. Compendium Equine, noviembre de 1997."
+      },
+      "lateralidad": "bilateral",
+      "trazabilidad_ids": [
+        "equ.rep.esc.022-i",
+        "equ.rep.esc.022-d"
+      ],
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha redactada a partir de material docente universitario y artículos de acceso abierto (ver referencias). No se consultaron directamente la NAV, Dyce, Budras/Sack ni Sisson. Sin apartados de accidentes ni de articulaciones; irrigación e inervación solo cuando constan en fuentes equinas. Pendiente de cotejo con NAV, Dyce y WikiVet y de revisión del usuario."
+      },
+      "historial_origen": "Consolidación bilateral de dos registros laterales sin ficha; los IDs laterales originales se conservan en trazabilidad_ids."
     },
     {
       "id": "equ.rep.tes.001-i",
@@ -739,36 +1032,64 @@
       "sex": "m"
     },
     {
-      "id": "equ.rep.gla.001-i",
-      "es": "Glándula vesicular (izquierda)",
+      "id": "equ.rep.gla.001",
+      "es": "Glándula vesicular (bilateral)",
       "la": "Glandula vesicularis",
       "sys": "rep",
       "layer": "org",
-      "sex": "m"
+      "sex": "m",
+      "ficha": {
+        "ubicacion": "Cavidad pélvica, a cada lado, junto a la base de la vejiga y lateral a las ampollas del conducto deferente.",
+        "descripcion": "Glándula pareada en forma de saco liso con luz, por lo que en el caballo se llama también vesícula seminal. En ecografía transrectal de sementales mide de media 26,4 ± 5,2 mm de ancho y 9,2 ± 3,1 mm de alto. Su tamaño y su ecogenicidad varían entre sementales; la luz de las vesiculares es una de las medidas con mayor asimetría entre lados.",
+        "relaciones": "Su conducto excretor se une al de la ampolla del conducto deferente, y ambos desembocan en la uretra pélvica a través del colículo seminal mediante el conducto eyaculador.",
+        "irrigacion": "No queda detallada en las fuentes equinas consultadas.",
+        "inervacion": "No queda detallada en las fuentes equinas consultadas.",
+        "funcion": "Contribuye con su secreción a la fracción líquida del eyaculado. Sus conductos se dilatan durante la emisión y la eyaculación (4,3 ± 0,7 veces por eyaculación); se detectó líquido en ellos en 6 de 17 eyaculaciones, las que produjeron gel detectable. Su diámetro total y el de su luz aumentan tras la preparación sexual y disminuyen tras la eyaculación.",
+        "especie": "En el caballo es un saco con luz, de ahí el nombre de vesícula seminal; existe también en rumiantes y cerdo, pero no en el perro ni en el gato.",
+        "clinica": "Se evalúa por ecografía transrectal.",
+        "referencias": "Larsen R (ed). CVM Large Animal Anatomy, cap. 9 «Reproductive Tracts and Genitalia» (rev. T. Clark, 2024). University of Minnesota, CC BY-NC 4.0. open.lib.umn.edu/largeanimalanatomy | Drost Project. The Visual Guide to Equine Reproduction: Accessory Sex Glands. University of Florida (visgar.vetmed.ufl.edu); imágenes de Drost M (1980) y King AC (2008). | Little TV, Woods GL. Ultrasonography of accessory sex glands in the stallion. J Reprod Fertil Suppl. 1987;35:87-94. PMID 3316647. | Pozor MA, McDonnell SM. Ultrasonographic measurements of accessory sex glands, ampullae, and urethra of normal stallions of various size types. Theriogenology. 2002;58(7):1425-1433. doi:10.1016/S0093-691X(02)01034-8. | Weber JA, Woods GL. Ultrasonographic measurement of stallion accessory sex glands and excurrent ducts during seminal emission and ejaculation. Biol Reprod. 1993;49(2):267-273. | Weber JA, Geary RT, Woods GL. Changes in accessory sex glands of stallions after sexual preparation and ejaculation. J Am Vet Med Assoc. 1990;196(7):1084-1089."
+      },
+      "lateralidad": "bilateral",
+      "trazabilidad_ids": [
+        "equ.rep.gla.001-i",
+        "equ.rep.gla.001-d"
+      ],
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha redactada a partir de material docente universitario y artículos de acceso abierto (ver referencias). No se consultaron directamente la NAV, Dyce, Budras/Sack ni Sisson. Sin apartados de accidentes ni de articulaciones; irrigación e inervación solo cuando constan en fuentes equinas. Pendiente de cotejo con NAV, Dyce y WikiVet y de revisión del usuario."
+      },
+      "historial_origen": "Consolidación bilateral de dos registros laterales sin ficha; los IDs laterales originales se conservan en trazabilidad_ids."
     },
     {
-      "id": "equ.rep.gla.001-d",
-      "es": "Glándula vesicular (derecha)",
-      "la": "Glandula vesicularis",
-      "sys": "rep",
-      "layer": "org",
-      "sex": "m"
-    },
-    {
-      "id": "equ.rep.gla.002-i",
-      "es": "Glándula ampular (izquierda)",
+      "id": "equ.rep.gla.002",
+      "es": "Glándula ampular (bilateral)",
       "la": "Glandula ampullae ductus deferentis",
       "sys": "rep",
       "layer": "org",
-      "sex": "m"
-    },
-    {
-      "id": "equ.rep.gla.002-d",
-      "es": "Glándula ampular (derecha)",
-      "la": "Glandula ampullae ductus deferentis",
-      "sys": "rep",
-      "layer": "org",
-      "sex": "m"
+      "sex": "m",
+      "ficha": {
+        "ubicacion": "Cavidad pélvica, dorsal a la vejiga, en el tramo terminal del conducto deferente.",
+        "descripcion": "Engrosamiento de la pared de la porción distal del conducto deferente. En ecografía transrectal de sementales mide de media 16,3 ± 3,6 mm de ancho y 12,9 ± 3,9 mm de alto. El contenido de su luz varía mucho entre sementales y es una de las medidas con mayor asimetría entre lados.",
+        "relaciones": "Su conducto se une al de la vesícula seminal para formar el conducto eyaculador, que desemboca en el colículo seminal de la uretra pélvica.",
+        "irrigacion": "No queda detallada en las fuentes equinas consultadas.",
+        "inervacion": "No queda detallada en las fuentes equinas consultadas.",
+        "funcion": "Contribuye al eyaculado: sus conductos se dilatan con líquido unos 2,6 s antes de la eyaculación, y el 93 % de las dilataciones (53 de 58) ocurre antes de que ésta empiece. Su diámetro total y el de su luz aumentan tras la preparación sexual y disminuyen tras la eyaculación.",
+        "especie": "Presente en el caballo, los rumiantes y el perro; ausente en el gato y poco desarrollada en el cerdo.",
+        "clinica": "Se evalúa por ecografía transrectal.",
+        "referencias": "Larsen R (ed). CVM Large Animal Anatomy, cap. 9 «Reproductive Tracts and Genitalia» (rev. T. Clark, 2024). University of Minnesota, CC BY-NC 4.0. open.lib.umn.edu/largeanimalanatomy | Drost Project. The Visual Guide to Equine Reproduction: Accessory Sex Glands. University of Florida (visgar.vetmed.ufl.edu); imágenes de Drost M (1980) y King AC (2008). | Little TV, Woods GL. Ultrasonography of accessory sex glands in the stallion. J Reprod Fertil Suppl. 1987;35:87-94. PMID 3316647. | Pozor MA, McDonnell SM. Ultrasonographic measurements of accessory sex glands, ampullae, and urethra of normal stallions of various size types. Theriogenology. 2002;58(7):1425-1433. doi:10.1016/S0093-691X(02)01034-8. | Weber JA, Woods GL. Ultrasonographic measurement of stallion accessory sex glands and excurrent ducts during seminal emission and ejaculation. Biol Reprod. 1993;49(2):267-273. | Weber JA, Geary RT, Woods GL. Changes in accessory sex glands of stallions after sexual preparation and ejaculation. J Am Vet Med Assoc. 1990;196(7):1084-1089."
+      },
+      "lateralidad": "bilateral",
+      "trazabilidad_ids": [
+        "equ.rep.gla.002-i",
+        "equ.rep.gla.002-d"
+      ],
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha redactada a partir de material docente universitario y artículos de acceso abierto (ver referencias). No se consultaron directamente la NAV, Dyce, Budras/Sack ni Sisson. Sin apartados de accidentes ni de articulaciones; irrigación e inervación solo cuando constan en fuentes equinas. Pendiente de cotejo con NAV, Dyce y WikiVet y de revisión del usuario."
+      },
+      "historial_origen": "Consolidación bilateral de dos registros laterales sin ficha; los IDs laterales originales se conservan en trazabilidad_ids."
     },
     {
       "id": "equ.rep.gla.003",
@@ -776,23 +1097,52 @@
       "la": "Prostata",
       "sys": "rep",
       "layer": "org",
-      "sex": "m"
+      "sex": "m",
+      "ficha": {
+        "ubicacion": "Alrededor de la uretra pélvica, caudal a las ampollas y a las vesículas seminales; las glándulas bulbouretrales quedan caudales a las demás glándulas accesorias.",
+        "descripcion": "Glándula impar, de gran tamaño y forma de mariposa en el semental, con dos lóbulos y un istmo. En ecografía transrectal los lóbulos superan los 34 mm de ancho y miden 23,5 ± 5,7 mm de alto, y el istmo mide 6,0 ± 1,4 mm de alto. Sus conductos se abren en la pared lateral de la uretra.",
+        "relaciones": "Rodea la uretra pélvica. El músculo uretral, esfínter de la uretra, queda caudal a la próstata.",
+        "irrigacion": "No queda detallada en las fuentes equinas consultadas.",
+        "inervacion": "No queda detallada en las fuentes equinas consultadas.",
+        "funcion": "Contribuye al eyaculado; el área de sección de sus lóbulos disminuye en los segundos previos a la eyaculación.",
+        "especie": "Presente en todas las especies domésticas.",
+        "clinica": "Se evalúa por ecografía transrectal.",
+        "referencias": "Larsen R (ed). CVM Large Animal Anatomy, cap. 9 «Reproductive Tracts and Genitalia» (rev. T. Clark, 2024). University of Minnesota, CC BY-NC 4.0. open.lib.umn.edu/largeanimalanatomy | Drost Project. The Visual Guide to Equine Reproduction: Accessory Sex Glands. University of Florida (visgar.vetmed.ufl.edu); imágenes de Drost M (1980) y King AC (2008). | Little TV, Woods GL. Ultrasonography of accessory sex glands in the stallion. J Reprod Fertil Suppl. 1987;35:87-94. PMID 3316647. | Weber JA, Woods GL. Ultrasonographic measurement of stallion accessory sex glands and excurrent ducts during seminal emission and ejaculation. Biol Reprod. 1993;49(2):267-273."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha redactada a partir de material docente universitario y artículos de acceso abierto (ver referencias). No se consultaron directamente la NAV, Dyce, Budras/Sack ni Sisson. Sin apartados de accidentes ni de articulaciones; irrigación e inervación solo cuando constan en fuentes equinas. Pendiente de cotejo con NAV, Dyce y WikiVet y de revisión del usuario. La forma de mariposa procede de una tabla comparativa de la fuente docente de Minnesota; por confirmar con Dyce o Budras/Sack."
+      }
     },
     {
-      "id": "equ.rep.gla.004-i",
-      "es": "Lóbulo de la próstata (izquierdo)",
+      "id": "equ.rep.gla.004",
+      "es": "Lóbulo de la próstata (bilateral)",
       "la": "Lobus prostatae",
       "sys": "rep",
       "layer": "org",
-      "sex": "m"
-    },
-    {
-      "id": "equ.rep.gla.004-d",
-      "es": "Lóbulo de la próstata (derecho)",
-      "la": "Lobus prostatae",
-      "sys": "rep",
-      "layer": "org",
-      "sex": "m"
+      "sex": "m",
+      "ficha": {
+        "ubicacion": "A cada lado de la uretra pélvica, caudal a las ampollas y a las vesículas seminales.",
+        "descripcion": "Cada uno de los dos lóbulos de la próstata. En ecografía transrectal de sementales superan los 34 mm de ancho y miden 23,5 ± 5,7 mm de alto. El grosor del lóbulo muestra asimetría entre lados.",
+        "relaciones": "Se unen en la línea media por el istmo de la próstata. Sus conductos se abren en la pared lateral de la uretra.",
+        "irrigacion": "No queda detallada en las fuentes equinas consultadas.",
+        "inervacion": "No queda detallada en las fuentes equinas consultadas.",
+        "funcion": "Contribuye al eyaculado; el área de sección de los lóbulos disminuye en los segundos previos a la eyaculación.",
+        "clinica": "Se evalúa por ecografía transrectal.",
+        "referencias": "Larsen R (ed). CVM Large Animal Anatomy, cap. 9 «Reproductive Tracts and Genitalia» (rev. T. Clark, 2024). University of Minnesota, CC BY-NC 4.0. open.lib.umn.edu/largeanimalanatomy | Drost Project. The Visual Guide to Equine Reproduction: Accessory Sex Glands. University of Florida (visgar.vetmed.ufl.edu); imágenes de Drost M (1980) y King AC (2008). | Little TV, Woods GL. Ultrasonography of accessory sex glands in the stallion. J Reprod Fertil Suppl. 1987;35:87-94. PMID 3316647. | Pozor MA, McDonnell SM. Ultrasonographic measurements of accessory sex glands, ampullae, and urethra of normal stallions of various size types. Theriogenology. 2002;58(7):1425-1433. doi:10.1016/S0093-691X(02)01034-8. | Weber JA, Woods GL. Ultrasonographic measurement of stallion accessory sex glands and excurrent ducts during seminal emission and ejaculation. Biol Reprod. 1993;49(2):267-273."
+      },
+      "lateralidad": "bilateral",
+      "trazabilidad_ids": [
+        "equ.rep.gla.004-i",
+        "equ.rep.gla.004-d"
+      ],
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha redactada a partir de material docente universitario y artículos de acceso abierto (ver referencias). No se consultaron directamente la NAV, Dyce, Budras/Sack ni Sisson. Sin apartados de accidentes ni de articulaciones; irrigación e inervación solo cuando constan en fuentes equinas. Pendiente de cotejo con NAV, Dyce y WikiVet y de revisión del usuario."
+      },
+      "historial_origen": "Consolidación bilateral de dos registros laterales sin ficha; los IDs laterales originales se conservan en trazabilidad_ids."
     },
     {
       "id": "equ.rep.gla.005",
@@ -800,23 +1150,52 @@
       "la": "Isthmus prostatae",
       "sys": "rep",
       "layer": "org",
-      "sex": "m"
+      "sex": "m",
+      "ficha": {
+        "ubicacion": "Línea media de la próstata, sobre la uretra pélvica, entre los dos lóbulos.",
+        "descripcion": "Porción media de la próstata que une los dos lóbulos. En ecografía transrectal de sementales mide 6,0 ± 1,4 mm de alto. La fuente docente de Minnesota designa la parte impar como «cuerpo de la próstata»; su correspondencia exacta con el término «istmo» queda por confirmar.",
+        "relaciones": "Rodea la uretra pélvica junto con los lóbulos prostáticos.",
+        "irrigacion": "No queda detallada en las fuentes equinas consultadas.",
+        "inervacion": "No queda detallada en las fuentes equinas consultadas.",
+        "funcion": "No queda detallada en las fuentes equinas consultadas.",
+        "clinica": "Se identifica y mide en la ecografía transrectal del semental.",
+        "referencias": "Larsen R (ed). CVM Large Animal Anatomy, cap. 9 «Reproductive Tracts and Genitalia» (rev. T. Clark, 2024). University of Minnesota, CC BY-NC 4.0. open.lib.umn.edu/largeanimalanatomy | Little TV, Woods GL. Ultrasonography of accessory sex glands in the stallion. J Reprod Fertil Suppl. 1987;35:87-94. PMID 3316647."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha redactada a partir de material docente universitario y artículos de acceso abierto (ver referencias). No se consultaron directamente la NAV, Dyce, Budras/Sack ni Sisson. Sin apartados de accidentes ni de articulaciones; irrigación e inervación solo cuando constan en fuentes equinas. Pendiente de cotejo con NAV, Dyce y WikiVet y de revisión del usuario. Equivalencia entre «istmo de la próstata» y el «cuerpo de la próstata» de la fuente por confirmar."
+      }
     },
     {
-      "id": "equ.rep.gla.006-i",
-      "es": "Glándula bulbouretral (izquierda)",
+      "id": "equ.rep.gla.006",
+      "es": "Glándula bulbouretral (bilateral)",
       "la": "Glandula bulbourethralis",
       "sys": "rep",
       "layer": "org",
-      "sex": "m"
-    },
-    {
-      "id": "equ.rep.gla.006-d",
-      "es": "Glándula bulbouretral (derecha)",
-      "la": "Glandula bulbourethralis",
-      "sys": "rep",
-      "layer": "org",
-      "sex": "m"
+      "sex": "m",
+      "ficha": {
+        "ubicacion": "A cada lado de la uretra pélvica, cerca del arco isquiático y caudal a las demás glándulas accesorias; parcialmente cubierta por los músculos uretral y bulboesponjoso.",
+        "descripcion": "Glándula pareada ovoide. En ecografía transrectal de sementales mide de media 19,7 ± 4,6 mm de ancho y 32,4 ± 6,7 mm de largo. En la endoscopia de la uretra se observan dos filas de aberturas a la altura del arco isquiático.",
+        "relaciones": "Se dispone a ambos lados de la uretra pélvica, en relación con la base del pene, bajo los músculos uretral y bulboesponjoso.",
+        "irrigacion": "No queda detallada en las fuentes equinas consultadas.",
+        "inervacion": "No queda detallada en las fuentes equinas consultadas.",
+        "funcion": "Contribuye al eyaculado. Su longitud y su anchura aumentan tras la preparación sexual y disminuyen tras la eyaculación; durante ésta alterna entre formas ovoides y aplanadas irregulares, sin cambio de su área de sección transversal.",
+        "especie": "Presente en todos los animales domésticos salvo el perro; en el caballo es una glándula grande.",
+        "clinica": "Se evalúa por ecografía transrectal.",
+        "referencias": "Larsen R (ed). CVM Large Animal Anatomy, cap. 9 «Reproductive Tracts and Genitalia» (rev. T. Clark, 2024). University of Minnesota, CC BY-NC 4.0. open.lib.umn.edu/largeanimalanatomy | Drost Project. The Visual Guide to Equine Reproduction: Accessory Sex Glands. University of Florida (visgar.vetmed.ufl.edu); imágenes de Drost M (1980) y King AC (2008). | Little TV, Woods GL. Ultrasonography of accessory sex glands in the stallion. J Reprod Fertil Suppl. 1987;35:87-94. PMID 3316647. | Weber JA, Woods GL. Ultrasonographic measurement of stallion accessory sex glands and excurrent ducts during seminal emission and ejaculation. Biol Reprod. 1993;49(2):267-273. | Weber JA, Geary RT, Woods GL. Changes in accessory sex glands of stallions after sexual preparation and ejaculation. J Am Vet Med Assoc. 1990;196(7):1084-1089. | Encyclopaedia Britannica. Animal reproductive system: accessory glands. britannica.com/science/animal-reproductive-system"
+      },
+      "lateralidad": "bilateral",
+      "trazabilidad_ids": [
+        "equ.rep.gla.006-i",
+        "equ.rep.gla.006-d"
+      ],
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha redactada a partir de material docente universitario y artículos de acceso abierto (ver referencias). No se consultaron directamente la NAV, Dyce, Budras/Sack ni Sisson. Sin apartados de accidentes ni de articulaciones; irrigación e inervación solo cuando constan en fuentes equinas. Pendiente de cotejo con NAV, Dyce y WikiVet y de revisión del usuario."
+      },
+      "historial_origen": "Consolidación bilateral de dos registros laterales sin ficha; los IDs laterales originales se conservan en trazabilidad_ids."
     },
     {
       "id": "equ.rep.pen.001",
@@ -1937,6 +2316,76 @@
       "fichas_con_estado_verificado": 0,
       "fuente_preservada_sin_modificaciones": true,
       "alcance": "Verifica la correspondencia exacta de los registros migrados con la fuente canónica y la integridad del JSON. No equivale a la auditoría anatómica completa ni declara verificado el sistema reproductor."
+    },
+    {
+      "tipo": "consolidacion_bilateral",
+      "estado": "en_curso",
+      "fecha": "2026-11-23",
+      "estructuras_consolidadas": [
+        "equ.rep.esc.005",
+        "equ.rep.esc.006",
+        "equ.rep.esc.007",
+        "equ.rep.esc.008",
+        "equ.rep.esc.009",
+        "equ.rep.esc.010",
+        "equ.rep.esc.011",
+        "equ.rep.esc.012",
+        "equ.rep.esc.013",
+        "equ.rep.esc.014",
+        "equ.rep.esc.015",
+        "equ.rep.esc.016",
+        "equ.rep.esc.017",
+        "equ.rep.esc.018",
+        "equ.rep.esc.019",
+        "equ.rep.esc.020",
+        "equ.rep.esc.021",
+        "equ.rep.esc.022",
+        "equ.rep.gla.001",
+        "equ.rep.gla.002",
+        "equ.rep.gla.004",
+        "equ.rep.gla.006"
+      ],
+      "total_estructuras": 216,
+      "ids_unicos": true,
+      "alcance": "Registra la consolidación de pares laterales en una ficha bilateral única (carga 1 de 5: escroto y envolturas, glándulas accesorias del macho). No sustituye la auditoría anatómica del sistema reproductor."
+    },
+    {
+      "tipo": "redaccion_fichas",
+      "carga": "1 de 5",
+      "estado": "redactadas_pendientes_de_verificacion",
+      "fecha": "2026-11-23",
+      "estructuras_con_ficha": [
+        "equ.rep.esc.001",
+        "equ.rep.esc.002",
+        "equ.rep.esc.003",
+        "equ.rep.esc.004",
+        "equ.rep.esc.005",
+        "equ.rep.esc.006",
+        "equ.rep.esc.007",
+        "equ.rep.esc.008",
+        "equ.rep.esc.009",
+        "equ.rep.esc.010",
+        "equ.rep.esc.011",
+        "equ.rep.esc.012",
+        "equ.rep.esc.013",
+        "equ.rep.esc.014",
+        "equ.rep.esc.015",
+        "equ.rep.esc.016",
+        "equ.rep.esc.017",
+        "equ.rep.esc.018",
+        "equ.rep.esc.019",
+        "equ.rep.esc.020",
+        "equ.rep.esc.021",
+        "equ.rep.esc.022",
+        "equ.rep.gla.001",
+        "equ.rep.gla.002",
+        "equ.rep.gla.003",
+        "equ.rep.gla.004",
+        "equ.rep.gla.005",
+        "equ.rep.gla.006"
+      ],
+      "total_fichas": 28,
+      "alcance": "Carga 1 de 5 del sistema reproductor: escroto, envolturas, canal inguinal, ligamentos y mesenterios testiculares, y glándulas accesorias del macho. Fichas pendientes de verificación; no declara verificado el sistema reproductor."
     }
   ]
 }
