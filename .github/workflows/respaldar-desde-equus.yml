@@ -1,0 +1,41 @@
+name: Respaldar desde Equus-pro-3D
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout ProClaVet-core
+        uses: actions/checkout@v4
+
+      - name: Checkout Equus-pro-3D
+        uses: actions/checkout@v4
+        with:
+          repository: ronaldpsantonio-creator/Equus-pro-3D
+          path: _equus_src
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Equiparar catálogos desde Equus-pro-3D
+        run: node _equus_src/scripts/sync-proclavet.mjs --export-core .
+
+      - name: Limpiar carpeta temporal
+        run: rm -rf _equus_src
+
+      - name: Guardar respaldo en ProClaVet-core
+        run: |
+          if [ -n "$(git status --porcelain data/sistemas)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/sistemas
+            git commit -m "chore(data): equiparar fichas desde Equus-pro-3D"
+            git push
+          fi
