@@ -158,245 +158,910 @@
       "es": "Neurohipófisis",
       "la": "Neurohypophysis",
       "sys": "end",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Porción dorsocaudal de la glándula hipófisis, extendida desde la eminencia media del hipotálamo a través del tallo infundibular hasta el lóbulo nervioso.",
+        "descripcion": "Prolongación ventral del diencéfalo formada por axones amielínicos de neuronas magnocelulares hipotalámicas (tracto hipotálamo-hipofisario), pituicitos gliales y cuerpos de Herring.",
+        "relaciones": "Rodeada ventral y lateralmente por la parte intermedia de la adenohipófisis dentro de la fosa hipofisaria.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Arterias hipofisarias caudales procedentes del seno cavernoso / carótida interna.",
+        "inervacion": "Constituida directamente por fibras neurosecretoras de los núcleos supraóptico y paraventricular del hipotálamo.",
+        "funcion": "Almacena y libera directamente a la circulación sistémica oxitocina y arginina-vasopresina (hormona antidiurética, ADH).",
+        "especie": "En el caballo la neurohipófisis queda casi totalmente envuelta por la adenohipófisis, con salida directa hacia la fosa hipofisaria.",
+        "clinica": "La compresión por adenomas de la parte intermedia altera la liberación de ADH y contribuye a cuadros de poliuria y polidipsia en caballos con PPID avanzado.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.end.hip.007",
       "es": "Parte nerviosa (lóbulo posterior)",
       "la": "Pars nervosa",
       "sys": "end",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Extremo distal expandido de la neurohipófisis dentro de la fosa hipofisaria del basisfenoides.",
+        "descripcion": "Parénquima nervioso blanquecino rico en terminales axonales dilatados (cuerpos de Herring) adheridos a capilares fenestrados y sostenidos por pituicitos.",
+        "relaciones": "Envuelto en toda su periferia por la parte intermedia adenohipofisaria y separado del hueso basisfenoides por la cápsula fibrosa.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Ramas capilares de las arterias hipofisarias caudales; drenaje hacia el seno intercavernoso.",
+        "inervacion": "Axones secretores de los núcleos supraóptico y paraventricular.",
+        "funcion": "Sitio efectivo de exocitosis hacia la sangre de vasopresina (regulación osmótica renal) y oxitocina (eyección láctea y contracción uterina en el parto).",
+        "especie": "En la yegua parturienta libera pulsos masivos de oxitocina durante la segunda fase del parto y al inicio del amamantamiento del potro.",
+        "clinica": "Su integridad regula el balance hídrico y la respuesta a oxitocina exógena empleada en retención placentaria y depuración uterina poscubrición.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.end.hip.008",
       "es": "Fosa hipofisaria",
       "la": "Fossa hypophysialis",
       "sys": "end",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Depresión mediana sobre la cara dorsal del cuerpo del hueso basisfenoides en la fosa craneal media.",
+        "descripcion": "Concavidad ósea lisa que conforma la silla turca equina junto con un dorso de la silla poco prominente en el caballo.",
+        "relaciones": "Aloja la glándula hipófisis y está flanqueada lateralmente por los senos cavernosos, la arteria carótida interna y los nervios craneales III, IV, V1 y VI.",
+        "accidentes": "Depresión central con borde rostral (tubérculo de la silla) y cresta caudal discreta.",
+        "articulaciones": "Pertenece al cuerpo del hueso basisfenoides unido por sincondrosis esfenooccipital e interesfenoidal.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Senos cavernosos e intercavernosos y red vascular meníngea de la base craneal.",
+        "inervacion": "Ramos meníngeos del nervio trigémino (V).",
+        "funcion": "Protege mecánicamente a la hipófisis y orienta el trayecto del seno intercavernoso venoso en la base del cráneo.",
+        "especie": "A diferencia del humano o rumiantes, el caballo posee una fosa hipofisaria relativamente poco profunda y un dorso selar bajo.",
+        "clinica": "Su escasa profundidad permite que los adenomas hipofisarios grandes se expandan dorsalmente hacia el quiasma óptico y el hipotálamo, causando ceguera o signos neurológicos centrales.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.end.epi.001",
       "es": "Epífisis (glándula pineal)",
       "la": "Epiphysis cerebri; Glandula pinealis",
       "sys": "end",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Techo del diencéfalo (epitálamo), alojada en el surco mediano dorsal entre los colículos rostrales del mesencéfalo y el esplenio del cuerpo calloso.",
+        "descripcion": "Glándula neuroendocrina impar de forma ovoide o fusiforme (~10–12 mm de longitud, ~400 mg en adultos), de color pardo rojizo y rica en pinealocitos secretores de melatonina.",
+        "relaciones": "Situada rostralmente al cerebelo y caudalmente al receso pineal del tercer ventrículo, recubierta por piamadre y muy próxima a la vena cerebral magna.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Ramas coroideas caudales de la arteria cerebral caudal.",
+        "inervacion": "Inervación simpática posganglionar desde el ganglio cervical craneal (vía nervios conarios), modulada por el tracto retinohipotalámico.",
+        "funcion": "Traduce la duración del fotoperíodo ambiental en secreción nocturna rítmica de melatonina, sincronizando los ritmos circadianos y estacionales.",
+        "especie": "En los équidos es relativamente voluminosa y su secreción de melatonina disminuye durante los días largos de primavera-verano para desencadenar la estación reproductiva.",
+        "clinica": "La administración de luz artificial vespertina inhibe la síntesis de melatonina en la epífisis y adelanta la actividad folicular ovárica en yeguas de cría.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.end.tir.001",
       "es": "Glándula tiroides",
       "la": "Glandula thyroidea",
       "sys": "end",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Región cervical craneal ventral, aplicada a las caras dorsolaterales de los primeros 2 a 4 (o hasta el 6.º) anillos traqueales, inmediatamente caudal a la laringe y medial a las arterias carótidas comunes.",
+        "descripcion": "Glándula endocrina bilobulada impar de color pardo-rojizo firme formada por dos lóbulos laterales ovoides (de ~4–5 cm de largo × 2,5 cm de ancho) unidos ventralmente a través del primer o segundo anillo traqueal por un **istmo fibroso delgado** (frecuentemente atrófico o carente de tejido glandular en el caballo adulto).",
+        "relaciones": "Cubierta lateralmente por los músculos esternohioideos, esternotiroideos y omohioideos y la glándula parótida caudalmente; en íntima vecindad medial con la tráquea y el esófago (a la izquierda), dorsolateralmente con la arteria carótida común y el tronco vagosimpático, y asociada íntimamente en sus polos con las glándulas paratiroides craneales (externas) y caudales (internas).",
+        "accidentes": "Presenta un polo craneal redondeado junto al cartílago cricoides, un polo caudal en contacto con el 4.º–6.º anillo traqueal, cápsula fibrosa propia con tabiques lobulillares foliculares y un istmo fibroso ventral muy fino o ausente en caballos viejos.",
+        "articulaciones": "No forma articulación sinovial directa; se mantiene fija por la fascia pretraqueal y pedículos vasculares contra la pared craneal de la tráquea.",
+        "inserciones": "Carece de inserciones musculares esqueléticas directas; sus lóbulos quedan suspendidos por ligamentos suspensorios fasciales hacia la laringe y tráquea.",
+        "irrigacion": "Abundante irrigación por la **arteria tiroidea craneal** (rama mayor constante de la arteria carótida común) y pequeña arteria tiroidea caudal inconstante; drenaje venoso por la vena tiroidea craneal hacia la vena yugular externa/lingüofacial.",
+        "inervacion": "Fibras simpáticas posganglionares vasomotoras del **ganglio cervical craneal** (vía plexo periarterial) y fibras parasimpáticas de ramas del **nervio vago** (nervios laríngeos craneal y recurrente).",
+        "funcion": "Sintetiza, almacena en el coloide folicular y secreta las hormonas tiroideas **tiroxina (T4)** y **triyodotironina (T3)** (reguladoras de la tasa metabólica basal, crecimiento y termogénesis), además de **calcitonina** en sus células parafoliculares C.",
+        "especie": "Particularidad clínica en *Equus caballus*: en el caballo adulto sano ambos lóbulos tiroideos son fácilmente palpables a los lados de los primeros anillos traqueales; con la edad (especialmente en caballos mayores de 15 años) son sumamente frecuentes los **adenomas tiroideos benignos** nodulares no funcionales.",
+        "clinica": "Palpable bilateralmente en el examen físico rutinario bajo la garganta: una hipertrofia unilateral o bilateral en caballos adultos suele corresponder a **adenoma folicular benigno** (eutiroideo); el hipotiroidismo primario verdadero es rarísimo en caballos adultos, mientras que en potros recién nacidos la deficiencia o exceso de yodo materno causa **bocio congénito** y síndrome de dismadurez musculoesquelética.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-24",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman) para cobertura 3D integral. Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.end.tir.002",
       "es": "Lóbulo (derecho)",
       "la": "Lobus dexter",
       "sys": "end",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Región cervical craneal derecha, adosado lateralmente a los primeros 3 a 6 anillos traqueales justo caudal a la laringe.",
+        "descripcion": "Órgano ovoide firme de color pardo rojizo oscuro (aprox. 4–5 cm de largo × 2,5–3 cm de ancho), compuesto por lobulillos de folículos rellenos de coloide tiroglobulínico.",
+        "relaciones": "Medialmente toca la tráquea y el músculo cricofaríngeo; lateralmente está cubierto por el músculo esternotirohioideo y la fascia cervical; dorsolateralmente corre la vaina carotídea derecha.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Arteria tiroidea craneal (rama constante y voluminosa de la carótida común derecha) y arteria tiroidea caudal inconstante.",
+        "inervacion": "Fibras simpáticas del ganglio cervical craneal y fibras parasimpáticas vagales.",
+        "funcion": "Secreta tiroxina (T4) y triyodotironina (T3), regulando la tasa metabólica basal, la termogénesis y el desarrollo musculoesquelético.",
+        "especie": "En el caballo ambos lóbulos tiroideos son voluminosos y están unidos por un istmo fibroso o glandular estrecho y a menudo rudimentario en el adulto.",
+        "clinica": "La hipertrofia benigna nodular (bocio hiperplásico o adenoma tiroideo en caballos mayores) suele detectarse como una masa móvil indolora detrás de la rama mandibular sin causar hipertiroidismo clínico.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.end.tir.003",
       "es": "Lóbulo (izquierdo)",
       "la": "Lobus sinister",
       "sys": "end",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Región cervical craneal izquierda, adosado lateralmente a los primeros 3 a 6 anillos traqueales inmediatamente caudal al cartílago cricoides.",
+        "descripcion": "Lóbulo izquierdo ovoide de parénquima folicular pardo rojizo (~4–5 cm × 2,5 cm), simétrico al contralateral aunque ocasionalmente ligeramente desplazado por el esófago.",
+        "relaciones": "Medialmente limita con los anillos traqueales y el esófago cervical (desviado hacia la izquierda), además del nervio laríngeo recurrente izquierdo en su cara medial/dorsal.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Arteria tiroidea craneal izquierda y drenaje por las venas tiroideas craneal y caudal hacia la yugular.",
+        "inervacion": "Plexo tiroideo (fibras simpáticas cervicales y parasimpáticas vagales).",
+        "funcion": "Biosíntesis y secreción de hormonas tiroideas (T4, T3) y calcitonina (células C parafoliculares).",
+        "especie": "La cercanía del esófago y el nervio laríngeo recurrente izquierdo en el cuello equino hace imprescindible preservar el nervio durante la hemitiroidectomía izquierda.",
+        "clinica": "Palpable en el examen físico clínico justo caudal a la laringe; las neoplasias grandes pueden comprimir la tráquea o el nervio laríngeo recurrente izquierdo.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.end.tir.004",
       "es": "Istmo tiroideo",
       "la": "Isthmus glandulae thyroideae",
       "sys": "end",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Cara ventral de la tráquea cervical proximal, alrededor del segundo al cuarto anillo traqueal, uniendo ambos lóbulos tiroideos.",
+        "descripcion": "Banda estrecha de tejido fibroso o cordón glandular delgado (en potros contiene tejido tiroideo funcional que suele atrofiarse a banda conjuntiva en adultos).",
+        "relaciones": "Cubierto ventralmente por el músculo esternohioideo y la fascia cervical profunda; dorsalmente contacta los cartílagos traqueales.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Ramas anastomóticas ventrales entre ambas arterias tiroideas craneales.",
+        "inervacion": "Fibras autónomas del plexo tiroideo.",
+        "funcion": "Puente anatómico de unión transversal entre el lóbulo tiroideo derecho y el izquierdo.",
+        "especie": "En el caballo adulto el istmo es con frecuencia puramente fibroso o muy delgado y puede situarse bastante caudalmente respecto al centro de los lóbulos.",
+        "clinica": "Referencia durante las traqueotomías de urgencia en la parte craneal del cuello y durante tiroidectomías bilaterales o unilaterales.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.end.tir.005",
       "es": "Folículos tiroideos",
       "la": "Folliculi thyroidei",
       "sys": "end",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Parénquima microscópico distribuido por todo el espesor de los lóbulos tiroideos derecho e izquierdo.",
+        "descripcion": "Unidades funcionales esféricas (30–500 µm) tapizadas por un epitelio simple cúbico o cilíndrico de tirocitos que rodea una cavidad central llena de coloide rico en tiroglobulina, rodeadas de células C parafoliculares.",
+        "relaciones": "Separados entre sí por estroma conjuntivo fino con una densa red de capilares fenestrados y capilares linfáticos.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Red capilar perifolicular densa originada en las arteriolas lobulillares de las arterias tiroideas.",
+        "inervacion": "Terminaciones simpáticas vasomotoras y moduladoras sobre el epitelio folicular.",
+        "funcion": "Captación de yoduro, organificación en tiroglobulina, endocitosis y secreción de T3/T4 al torrente sanguíneo.",
+        "especie": "En el potro recién nacido los folículos son pequeños con epitelio alto y gran actividad secretora para sostener la termogénesis y maduración ósea temprana.",
+        "clinica": "La ingestión excesiva de yodo en yeguas gestantes o déficit severo de yodo provoca bocio folicular congénito con debilidad neonatal y disgenesia ósea en el potro.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.end.tir.006",
       "es": "Cápsula fibrosa de la tiroides",
       "la": "Capsula fibrosa glandulae thyroideae",
       "sys": "end",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Envoltura fibrosa externa adherida directamente a la superficie de cada lóbulo tiroideo e istmo.",
+        "descripcion": "Cápsula delgada y resistente de tejido conectivo denso que emite tabiques vasculares al interior del parénquima glandular (cápsula verdadera, distinta de la vaina fascial peritiroidea).",
+        "relaciones": "Separa el parénquima tiroideo de las glándulas paratiroides externas situadas generalmente fuera o en el polo craneal, mientras las internas quedan bajo o dentro de esta cápsula.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Plexo subcapsular procedente de las arterias tiroideas.",
+        "inervacion": "Fibras sensitivas capsulares y autónomas perivasculares.",
+        "funcion": "Contención estructural de la glándula, soporte mecánico del lecho vascular y anclaje laxo a la tráquea.",
+        "especie": "En los équidos la cápsula verdadera está muy adherida a la cara medial del lóbulo mediante tejido conectivo hacia los anillos traqueales.",
+        "clinica": "La disección intracapsular durante la tiroidectomía ayuda a proteger el nervio laríngeo recurrente y el aporte vascular de la paratiroides externa.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.end.par.001-i",
       "es": "Glándula paratiroides externa (izquierda)",
       "la": "Glandula parathyroidea externa",
       "sys": "end",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Región cervical craneal a nivel del polo craneal o borde dorsal de la glándula tiroides del lado izquierdo (frecuentemente fuera de la cápsula tiroidea, cerca de la bifurcación carotídea o fascia cervical).",
+        "descripcion": "Glándula endocrina pequeña (5–10 mm) ovoide o aplanada, de color pardo amarillento claro, constituida por cordones de células principales productoras de paratohormona (PTH).",
+        "relaciones": "Adyacente a la arteria carótida común y al polo craneal de la tiroides del lado izquierdo, a veces embebida en tejido adiposo perivascular.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Ramas finas de la arteria tiroidea craneal o directamente de la arteria carótida común.",
+        "inervacion": "Fibras simpáticas vasomotoras; su secreción responde directamente al calcio ionizado sérico vía receptores CaSR.",
+        "funcion": "Secreta hormona paratiroidea (PTH) para elevar la calcemia mediante resorción ósea, reabsorción tubular renal de calcio y activación de vitamina D.",
+        "especie": "El caballo presenta una variabilidad anatómica notoria en la posición de la paratiroides externa (frecuentemente más craneal o próxima al timo cervical residual/entrada torácica que en otras especies).",
+        "clinica": "El hiperparatiroidismo nutricional secundario por dietas ricas en fósforo y pobres en calcio (salvado/granos) o pastos ricos en oxalatos provoca osteodistrofia fibrosa («cara grande» o «big head») por hiperactividad glandular.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.end.par.001-d",
       "es": "Glándula paratiroides externa (derecha)",
       "la": "Glandula parathyroidea externa",
       "sys": "end",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Región cervical craneal a nivel del polo craneal o borde dorsal de la glándula tiroides del lado derecho (frecuentemente fuera de la cápsula tiroidea, cerca de la bifurcación carotídea o fascia cervical).",
+        "descripcion": "Glándula endocrina pequeña (5–10 mm) ovoide o aplanada, de color pardo amarillento claro, constituida por cordones de células principales productoras de paratohormona (PTH).",
+        "relaciones": "Adyacente a la arteria carótida común y al polo craneal de la tiroides del lado derecho, a veces embebida en tejido adiposo perivascular.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Ramas finas de la arteria tiroidea craneal o directamente de la arteria carótida común.",
+        "inervacion": "Fibras simpáticas vasomotoras; su secreción responde directamente al calcio ionizado sérico vía receptores CaSR.",
+        "funcion": "Secreta hormona paratiroidea (PTH) para elevar la calcemia mediante resorción ósea, reabsorción tubular renal de calcio y activación de vitamina D.",
+        "especie": "El caballo presenta una variabilidad anatómica notoria en la posición de la paratiroides externa (frecuentemente más craneal o próxima al timo cervical residual/entrada torácica que en otras especies).",
+        "clinica": "El hiperparatiroidismo nutricional secundario por dietas ricas en fósforo y pobres en calcio (salvado/granos) o pastos ricos en oxalatos provoca osteodistrofia fibrosa («cara grande» o «big head») por hiperactividad glandular.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.end.par.002-i",
       "es": "Glándula paratiroides interna (izquierda)",
       "la": "Glandula parathyroidea interna",
       "sys": "end",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Integrada en el parénquima o bajo la cápsula de la cara medial/caudal del lóbulo tiroideo del lado izquierdo.",
+        "descripcion": "Nódulo pequeño de tejido epitelial paratiroideo (3–6 mm), más pálido que el tejido tiroideo circundante y formado por cordones compactos de células principales entre capilares sinusoidales.",
+        "relaciones": "Rodeada por folículos tiroideos o situada inmediatamente bajo la cápsula fibrosa de la tiroides del lado izquierdo.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Microcirculación intratiroidea procedente de la arteria tiroidea craneal.",
+        "inervacion": "Fibras autónomas del plexo intratiroideo.",
+        "funcion": "Contribuye de manera sinérgica con la paratiroides externa al mantenimiento de la homeostasis calcio-fósforo mediante secreción de PTH.",
+        "especie": "A diferencia del ganado bovino, en el caballo las paratiroides internas suelen estar íntimamente incluidas dentro de los lóbulos tiroideos, dificultando su preservación en tiroidectomías totales.",
+        "clinica": "El hiperparatiroidismo primario (adenoma paratiroideo) es infrecuente en équidos pero produce hipercalcemia persistente, mineralización metastásica y letargo.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.end.par.002-d",
       "es": "Glándula paratiroides interna (derecha)",
       "la": "Glandula parathyroidea interna",
       "sys": "end",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Integrada en el parénquima o bajo la cápsula de la cara medial/caudal del lóbulo tiroideo del lado derecho.",
+        "descripcion": "Nódulo pequeño de tejido epitelial paratiroideo (3–6 mm), más pálido que el tejido tiroideo circundante y formado por cordones compactos de células principales entre capilares sinusoidales.",
+        "relaciones": "Rodeada por folículos tiroideos o situada inmediatamente bajo la cápsula fibrosa de la tiroides del lado derecho.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Microcirculación intratiroidea procedente de la arteria tiroidea craneal.",
+        "inervacion": "Fibras autónomas del plexo intratiroideo.",
+        "funcion": "Contribuye de manera sinérgica con la paratiroides externa al mantenimiento de la homeostasis calcio-fósforo mediante secreción de PTH.",
+        "especie": "A diferencia del ganado bovino, en el caballo las paratiroides internas suelen estar íntimamente incluidas dentro de los lóbulos tiroideos, dificultando su preservación en tiroidectomías totales.",
+        "clinica": "El hiperparatiroidismo primario (adenoma paratiroideo) es infrecuente en équidos pero produce hipercalcemia persistente, mineralización metastásica y letargo.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.end.sup.001-i",
       "es": "Glándula suprarrenal (izquierda)",
       "la": "Glandula suprarenalis",
       "sys": "end",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Espacio retroperitoneal craneal dorsal izquierdo, situada medialmente al polo craneal del **riñón izquierdo** (al que está firmemente adosada) a nivel de la 17.ª–18.ª vértebra torácica hasta la 1.ª lumbar, lateralmente a la aorta abdominal.",
+        "descripcion": "Glándula endocrina par elongada y aplanada dorsoventralmente (más larga, delgada y plana que la derecha en el caballo, ~7–9 cm de longitud), constituida por una corteza periférica amarillenta-anaranjada de origen mesodérmico (zonas glomerulosa, fasciculada y reticular) y una médula central pardo-rojiza neuroectodérmica.",
+        "relaciones": "Medial a la superficie medial/craneal del riñón izquierdo (separada apenas por fascia y grasa perirrenal), lateral a la aorta abdominal y al pilar izquierdo del diafragma, dorsal al páncreas izquierdo y estómago/bazo, y ventralmente en contacto directo con el **ganglio celíaco izquierdo** y el plexo solar.",
+        "accidentes": "Presenta borde medial cóncavo o recto hacia la aorta, borde lateral en contacto renal, hilio ventral para la emergencia de la vena adrenal izquierda y un surco vascular superficial.",
+        "articulaciones": "No forma articulación sinovial directa; integrada en el compartimento retroperitoneal sublumbar izquierdo.",
+        "inserciones": "Carece de inserciones musculares esqueléticas; sostenida por la fascia renal retroperitoneal y pedículos vasculonerviosos.",
+        "irrigacion": "Múltiples pequeñas arterias adrenales craneales, medias y caudales procedentes de la arteria frénica caudal, aorta abdominal y arteria renal izquierda; drenaje venoso por la vena adrenal izquierda hacia la vena renal izquierda o directamente a la vena cava caudal.",
+        "inervacion": "Inervación preganglionar simpática directa y masiva desde los **nervios esplácnicos mayor y menor izquierdos** (atravesando el ganglio celíaco sin sinapsis hacia las células cromafines medulares) más fibras posganglionares vasomotoras.",
+        "funcion": "La corteza secreta mineralocorticoides (aldosterona), glucocorticoides (cortisol) y andrógenos suprarrenales esenciales para el equilibrio hidroelectrolítico y respuesta al estrés; la médula actúa como ganglio simpático modificado liberando **adrenalina y noradrenalina** directamente al torrente sanguíneo.",
+        "especie": "En *Equus caballus* la glándula suprarrenal izquierda es característica por su forma alargada en cinta o lengua estrecha y su posición ligeramente más caudal que la derecha (a nivel de T18–L1), siguiendo la asimetría renal equina.",
+        "clinica": "Sufre hiperplasia cortical difusa en caballos con **disfunción de la pars intermedia pituitaria (PPID/Cushing equino)** por exceso de ACTH crónica, o hemorragia/necrosis cortical aguda en potros neonatos con **sepsis endotoxémica** e insuficiencia adrenal relativa del enfermo crítico (CIRCI).",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-24",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman) para cobertura 3D integral. Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.end.sup.001-d",
       "es": "Glándula suprarrenal (derecha)",
       "la": "Glandula suprarenalis",
       "sys": "end",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Espacio retroperitoneal craneal dorsal derecho, ubicada más cranealmente que la izquierda (nivel de las costillas 16.ª–17.ª) entre el polo craneal medial del **riñón derecho** y la cara lateral de la **vena cava caudal**.",
+        "descripcion": "Glándula endocrina par más corta, gruesa y ligeramente piramidal/semilunar en comparación con la izquierda (~6–8 cm de longitud), integrada por una corteza externa esteroidogénica amarillenta y una médula interna pardo-oscura productora de catecolaminas.",
+        "relaciones": "Firmemente adherida medialmente a la pared de la **vena cava caudal**, craneodorsalmente en relación con el lóbulo derecho e impresión renal del hígado y el pilar derecho del diafragma, lateralmente con el borde medial del riñón derecho, y medialmente con el ganglio celíaco-mesentérico derecho.",
+        "accidentes": "Forma triangular o en coma aplanada con cara dorsal aplicada al pilar diafragmático, borde medial moldeado sobre la vena cava caudal y una vena adrenal derecha muy corta que desemboca directamente en la cava.",
+        "articulaciones": "No forma articulación sinovial directa; alojada en el espacio retroperitoneal sublumbar derecho.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas; mantenida por el tejido conectivo retroperitoneal perirrenal y su adherencia vascular a la vena cava caudal.",
+        "irrigacion": "Arterias adrenales craneales, medias y caudales derivadas de la aorta abdominal, arteria frénica caudal derecha y arteria renal derecha; drenaje venoso directo y muy corto hacia la **vena cava caudal**.",
+        "inervacion": "Fibras simpáticas preganglionares colinérgicas procedentes de los **nervios esplácnicos mayor y menor derechos** directamente sobre las células cromafines de la médula suprarrenal.",
+        "funcion": "Regula la homeostasis hidromineral (aldosterona), el metabolismo energético y la respuesta inmuno-metabólica al estrés (cortisol), además de liberar catecolaminas (adrenalina/noradrenalina) ante ejercicio máximo, dolor agudo o hipovolemia.",
+        "especie": "En el caballo la glándula suprarrenal derecha se ubica a la altura de T16–T17 (más craneal que la izquierda) y su cápsula está estrechamente adherida a la túnica externa de la vena cava caudal.",
+        "clinica": "Evaluada en necropsia de potros sépticos (hemorragia/necrosis adrenal por síndrome de Waterhouse-Friderichsen equino) y en caballos con PPID avanzado (hiperplasia cortical bilateral) o feocromocitomas medulares raros en caballos geriátricos con cólico o taquicardia refractaria.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-24",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman) para cobertura 3D integral. Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.end.sup.002-i",
       "es": "Corteza suprarrenal (izquierda)",
       "la": "Cortex glandulae suprarenalis",
       "sys": "end",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Capa periférica externa de la glándula adrenal (suprarrenal) del lado izquierdo, situada en el espacio retroperitoneal craneomedial al riñón correspondiente.",
+        "descripcion": "Parénquima esteroidogénico de color amarillo ocre firme (alrededor del 75 % del espesor glandular), organizado histológicamente en zona glomerular, fascicular y reticular.",
+        "relaciones": "Envuelta exteriormente por la cápsula fibrosa suprarrenal y rodeando centralmente a la médula suprarrenal del lado izquierdo; la derecha contacta con la vena cava caudal y la izquierda con la aorta y el riñón izquierdo.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Ramas corticales de las arterias adrenales craneal, media y caudal (derivadas de frénica caudal, aorta y arteria renal), que forman capilares sinusoidales hacia la médula.",
+        "inervacion": "Escasa inervación vasomotora; controlada principalmente por el eje hipotálamo-hipófisis-adrenal (ACTH) y el sistema renina-angiotensina.",
+        "funcion": "Sintetiza y secreta hormonas esteroideas: mineralocorticoides (aldosterona), glucocorticoides (cortisol) y andrógenos suprarrenales.",
+        "especie": "En el caballo la glándula suprarrenal izquierda tiene forma alargada y aplanada junto a la aorta/riñón izquierdo, mientras la derecha es más triangular y se apoya íntimamente en la cara lateral de la vena cava caudal.",
+        "clinica": "En potros neonatos críticamente enfermos con septicemia, la disfunción relativa de la corteza suprarrenal (CIRCI) causa hipocortisolemia relativa y shock refractario a vasopresores.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.end.sup.002-d",
       "es": "Corteza suprarrenal (derecha)",
       "la": "Cortex glandulae suprarenalis",
       "sys": "end",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Capa periférica externa de la glándula adrenal (suprarrenal) del lado derecho, situada en el espacio retroperitoneal craneomedial al riñón correspondiente.",
+        "descripcion": "Parénquima esteroidogénico de color amarillo ocre firme (alrededor del 75 % del espesor glandular), organizado histológicamente en zona glomerular, fascicular y reticular.",
+        "relaciones": "Envuelta exteriormente por la cápsula fibrosa suprarrenal y rodeando centralmente a la médula suprarrenal del lado derecho; la derecha contacta con la vena cava caudal y la izquierda con la aorta y el riñón izquierdo.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Ramas corticales de las arterias adrenales craneal, media y caudal (derivadas de frénica caudal, aorta y arteria renal), que forman capilares sinusoidales hacia la médula.",
+        "inervacion": "Escasa inervación vasomotora; controlada principalmente por el eje hipotálamo-hipófisis-adrenal (ACTH) y el sistema renina-angiotensina.",
+        "funcion": "Sintetiza y secreta hormonas esteroideas: mineralocorticoides (aldosterona), glucocorticoides (cortisol) y andrógenos suprarrenales.",
+        "especie": "En el caballo la glándula suprarrenal izquierda tiene forma alargada y aplanada junto a la aorta/riñón izquierdo, mientras la derecha es más triangular y se apoya íntimamente en la cara lateral de la vena cava caudal.",
+        "clinica": "En potros neonatos críticamente enfermos con septicemia, la disfunción relativa de la corteza suprarrenal (CIRCI) causa hipocortisolemia relativa y shock refractario a vasopresores.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.end.sup.003-i",
       "es": "Zona glomerular (izquierda)",
       "la": "Zona glomerulosa",
       "sys": "end",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Estrato más superficial de la corteza suprarrenal del lado izquierdo, inmediatamente por debajo de la cápsula fibrosa.",
+        "descripcion": "Banda delgada de células epiteliales cilíndricas altas dispuestas en arcos o glomérulos irregulares, ricas en retículo endoplasmático liso y escasas gotas lipídicas.",
+        "relaciones": "Limita externamente con la cápsula adrenal e internamente con la zona intermedia y la zona fascicular de la glándula suprarrenal del lado izquierdo.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Plexo capilar subcapsular alimentado por las arteriolas adrenales.",
+        "inervacion": "Regulación humoral predominante por angiotensina II y concentración plasmática de potasio.",
+        "funcion": "Sintetiza mineralocorticoides, fundamentalmente aldosterona, para regular la reabsorción renal de sodio y agua y la excreción de potasio.",
+        "especie": "En los équidos y carnívoros las células forman arcos bien definidos (zona arcuata/glomerulosa) claramente diferenciados del estrato fascicular subyacente.",
+        "clinica": "Esencial para la compensación hemodinámica ante deshidratación aguda, diarreas graves o pérdida de electrólitos por sudoración intensa en caballos de resistencia.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.end.sup.003-d",
       "es": "Zona glomerular (derecha)",
       "la": "Zona glomerulosa",
       "sys": "end",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Estrato más superficial de la corteza suprarrenal del lado derecho, inmediatamente por debajo de la cápsula fibrosa.",
+        "descripcion": "Banda delgada de células epiteliales cilíndricas altas dispuestas en arcos o glomérulos irregulares, ricas en retículo endoplasmático liso y escasas gotas lipídicas.",
+        "relaciones": "Limita externamente con la cápsula adrenal e internamente con la zona intermedia y la zona fascicular de la glándula suprarrenal del lado derecho.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Plexo capilar subcapsular alimentado por las arteriolas adrenales.",
+        "inervacion": "Regulación humoral predominante por angiotensina II y concentración plasmática de potasio.",
+        "funcion": "Sintetiza mineralocorticoides, fundamentalmente aldosterona, para regular la reabsorción renal de sodio y agua y la excreción de potasio.",
+        "especie": "En los équidos y carnívoros las células forman arcos bien definidos (zona arcuata/glomerulosa) claramente diferenciados del estrato fascicular subyacente.",
+        "clinica": "Esencial para la compensación hemodinámica ante deshidratación aguda, diarreas graves o pérdida de electrólitos por sudoración intensa en caballos de resistencia.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.end.sup.004-i",
       "es": "Zona fascicular (izquierda)",
       "la": "Zona fasciculata",
       "sys": "end",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Capa media y más gruesa de la corteza suprarrenal del lado izquierdo, entre la zona glomerular y la zona reticular.",
+        "descripcion": "Cordones radiales paralelos de espongiocitos poliédricos cargados de gotículas lipídicas de ésteres de colesterol, separados por capilares sinusoidales rectos.",
+        "relaciones": "Se continúa superficialmente con la zona glomerular y profundamente con la zona reticular de la adrenal del lado izquierdo.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Capilares sinusoidales longitudinales de flujo centrípeto desde la corteza externa hacia la médula.",
+        "inervacion": "Regulada directamente por la hormona adrenocorticotropa (ACTH) adenohipofisaria.",
+        "funcion": "Produce glucocorticoides (cortisol principalmente en el equino) que modulan la gluconeogénesis, la respuesta al estrés, la maduración fetal y el tono antiinflamatorio.",
+        "especie": "Su hiperplasia difusa en los últimos días de gestación en el feto equino genera el pico de cortisol necesario para el desencadenamiento del parto y la maduración pulmonar.",
+        "clinica": "Presenta hipertrofia crónica en caballos con exceso de ACTH por PPID o estrés severo prolongado (cólico crónico, laminitis); la hemorragia o necrosis en potros sépticos produce insuficiencia adrenal aguda.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.end.sup.004-d",
       "es": "Zona fascicular (derecha)",
       "la": "Zona fasciculata",
       "sys": "end",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Capa media y más gruesa de la corteza suprarrenal del lado derecho, entre la zona glomerular y la zona reticular.",
+        "descripcion": "Cordones radiales paralelos de espongiocitos poliédricos cargados de gotículas lipídicas de ésteres de colesterol, separados por capilares sinusoidales rectos.",
+        "relaciones": "Se continúa superficialmente con la zona glomerular y profundamente con la zona reticular de la adrenal del lado derecho.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Capilares sinusoidales longitudinales de flujo centrípeto desde la corteza externa hacia la médula.",
+        "inervacion": "Regulada directamente por la hormona adrenocorticotropa (ACTH) adenohipofisaria.",
+        "funcion": "Produce glucocorticoides (cortisol principalmente en el equino) que modulan la gluconeogénesis, la respuesta al estrés, la maduración fetal y el tono antiinflamatorio.",
+        "especie": "Su hiperplasia difusa en los últimos días de gestación en el feto equino genera el pico de cortisol necesario para el desencadenamiento del parto y la maduración pulmonar.",
+        "clinica": "Presenta hipertrofia crónica en caballos con exceso de ACTH por PPID o estrés severo prolongado (cólico crónico, laminitis); la hemorragia o necrosis en potros sépticos produce insuficiencia adrenal aguda.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.end.sup.005-i",
       "es": "Zona reticular (izquierda)",
       "la": "Zona reticularis",
       "sys": "end",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Capa más profunda de la corteza suprarrenal del lado izquierdo, limitando directamente con la médula suprarrenal.",
+        "descripcion": "Red anastomosada de cordones celulares cortos con citoplasma acidófilo pobre en lípidos y gránulos de lipofuscina en adultos.",
+        "relaciones": "Entre la zona fascicular externamente y las células cromafines de la médula suprarrenal internamente.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Segmento profundo de los sinusoides corticales antes de drenar al plexo medular.",
+        "inervacion": "Regulada por ACTH; escasas fibras autónomas locales.",
+        "funcion": "Síntesis de andrógenos débiles suprarrenales (como DHEA) y contribución accesoria a la producción basal de glucocorticoides.",
+        "especie": "En equinos adultos forma un límite festoneado irregular con la médula sin una cápsula intermedia rígida.",
+        "clinica": "Participa en la evaluación histopatológica de atrofia/hiperplasia cortical secundaria a tratamientos prolongados con corticosteroides o PPID.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.end.sup.005-d",
       "es": "Zona reticular (derecha)",
       "la": "Zona reticularis",
       "sys": "end",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Capa más profunda de la corteza suprarrenal del lado derecho, limitando directamente con la médula suprarrenal.",
+        "descripcion": "Red anastomosada de cordones celulares cortos con citoplasma acidófilo pobre en lípidos y gránulos de lipofuscina en adultos.",
+        "relaciones": "Entre la zona fascicular externamente y las células cromafines de la médula suprarrenal internamente.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Segmento profundo de los sinusoides corticales antes de drenar al plexo medular.",
+        "inervacion": "Regulada por ACTH; escasas fibras autónomas locales.",
+        "funcion": "Síntesis de andrógenos débiles suprarrenales (como DHEA) y contribución accesoria a la producción basal de glucocorticoides.",
+        "especie": "En equinos adultos forma un límite festoneado irregular con la médula sin una cápsula intermedia rígida.",
+        "clinica": "Participa en la evaluación histopatológica de atrofia/hiperplasia cortical secundaria a tratamientos prolongados con corticosteroides o PPID.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.end.sup.006-i",
       "es": "Médula suprarrenal (izquierda)",
       "la": "Medulla glandulae suprarenalis",
       "sys": "end",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Núcleo central oscuro de la glándula suprarrenal del lado izquierdo, rodeado por la corteza.",
+        "descripcion": "Tejido neuroendocrino derivado de la cresta neural formado por cordones y nidos de células cromafines poliédricas ricas en gránulos de catecolaminas y células ganglionares simpáticas dispersas.",
+        "relaciones": "Irrigada por sangre rica en cortisol procedente de los sinusoides corticales y drenada por una vena central adrenal grande hacia la vena renal o cava caudal.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Doble aporte: sangre venosa portal cortical (alta en cortisol para inducir la enzima PNMT) y arterias medulares directas.",
+        "inervacion": "Fibras simpáticas preganglionares colinérgicas procedentes de los nervios esplácnicos mayor y menor (actúa como ganglio simpático modificado).",
+        "funcion": "Libera adrenalina y noradrenalina directamente al torrente sanguíneo durante la respuesta aguda de «lucha o huida», aumentando frecuencia cardíaca, glucogenólisis y flujo muscular.",
+        "especie": "La vena central medular en el equino presenta paredes con haces musculares longitudinales marcados que regulan el vaciamiento venoso.",
+        "clinica": "Aunque poco frecuente, el feocromocitoma (tumor de células cromafines) se describe en caballos geriatras causando taquicardia paroxística, sudoración profusa, hipertensión o hemoperitoneo tras rotura.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.end.sup.006-d",
       "es": "Médula suprarrenal (derecha)",
       "la": "Medulla glandulae suprarenalis",
       "sys": "end",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Núcleo central oscuro de la glándula suprarrenal del lado derecho, rodeado por la corteza.",
+        "descripcion": "Tejido neuroendocrino derivado de la cresta neural formado por cordones y nidos de células cromafines poliédricas ricas en gránulos de catecolaminas y células ganglionares simpáticas dispersas.",
+        "relaciones": "Irrigada por sangre rica en cortisol procedente de los sinusoides corticales y drenada por una vena central adrenal grande hacia la vena renal o cava caudal.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Doble aporte: sangre venosa portal cortical (alta en cortisol para inducir la enzima PNMT) y arterias medulares directas.",
+        "inervacion": "Fibras simpáticas preganglionares colinérgicas procedentes de los nervios esplácnicos mayor y menor (actúa como ganglio simpático modificado).",
+        "funcion": "Libera adrenalina y noradrenalina directamente al torrente sanguíneo durante la respuesta aguda de «lucha o huida», aumentando frecuencia cardíaca, glucogenólisis y flujo muscular.",
+        "especie": "La vena central medular en el equino presenta paredes con haces musculares longitudinales marcados que regulan el vaciamiento venoso.",
+        "clinica": "Aunque poco frecuente, el feocromocitoma (tumor de células cromafines) se describe en caballos geriatras causando taquicardia paroxística, sudoración profusa, hipertensión o hemoperitoneo tras rotura.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.end.sup.007-i",
       "es": "Cápsula de la suprarrenal (izquierda)",
       "la": "Capsula glandulae suprarenalis",
       "sys": "end",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Superficie externa de la glándula suprarrenal del lado izquierdo, en contacto con la grasa retroperitoneal y fascia perirrenal.",
+        "descripcion": "Membrana resistente de tejido conectivo denso con fibras colágenas y elásticas que emite finos tabiques subcapsulares portadores de arteriolas y nervios.",
+        "relaciones": "Separa la zona glomerular de la grasa retroperitoneal, la cara visceral del hígado o vena cava caudal (derecha) y el riñón/aorta (izquierda).",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Plexo arteriolar capsular originado en las arterias frénicas caudales, renales y aorta abdominal.",
+        "inervacion": "Fibras sensitivas capsulares y ramos del plexo celíaco-mesentérico.",
+        "funcion": "Mantiene la integridad estructural de la glándula y distribuye la red vascular cortical subcapsular.",
+        "especie": "Se fusiona firmemente en el lado derecho con el tejido conectivo perivascular de la vena cava caudal en su segmento sublumbar craneal.",
+        "clinica": "La adherencia capsular a la vena cava caudal hace sumamente riesgosa la adrenalectomía derecha en comparación con el abordaje izquierdo.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.end.sup.007-d",
       "es": "Cápsula de la suprarrenal (derecha)",
       "la": "Capsula glandulae suprarenalis",
       "sys": "end",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Superficie externa de la glándula suprarrenal del lado derecho, en contacto con la grasa retroperitoneal y fascia perirrenal.",
+        "descripcion": "Membrana resistente de tejido conectivo denso con fibras colágenas y elásticas que emite finos tabiques subcapsulares portadores de arteriolas y nervios.",
+        "relaciones": "Separa la zona glomerular de la grasa retroperitoneal, la cara visceral del hígado o vena cava caudal (derecha) y el riñón/aorta (izquierda).",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Plexo arteriolar capsular originado en las arterias frénicas caudales, renales y aorta abdominal.",
+        "inervacion": "Fibras sensitivas capsulares y ramos del plexo celíaco-mesentérico.",
+        "funcion": "Mantiene la integridad estructural de la glándula y distribuye la red vascular cortical subcapsular.",
+        "especie": "Se fusiona firmemente en el lado derecho con el tejido conectivo perivascular de la vena cava caudal en su segmento sublumbar craneal.",
+        "clinica": "La adherencia capsular a la vena cava caudal hace sumamente riesgosa la adrenalectomía derecha en comparación con el abordaje izquierdo.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.end.otr.001",
       "es": "Islotes pancreáticos (de Langerhans)",
       "la": "Insulae pancreaticae",
       "sys": "end",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Microgrupos celulares diseminados por todo el parénquima exocrino del páncreas equino (lóbulo izquierdo, cuerpo y lóbulo derecho), en el abdomen craneal.",
+        "descripcion": "Microórganos endocrinos bien delimitados, pálidos y ricamente capilarizados que integran células alfa (glucagón), beta (insulina), delta (somatostatina) y PP.",
+        "relaciones": "Embebidos entre los ácinos serosos pancreáticos, próximos a conductos intercalares y capilares fenestrados.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Arteriolas aferentes de las arterias pancreaticoduodenales y rama pancreática de la arteria esplénica, conformando el eje porto-insuloacinar.",
+        "inervacion": "Fibras parasimpáticas vagales (estimulan secreción de insulina) y simpáticas del plexo celíaco (inhiben insulina y estimulan glucagón).",
+        "funcion": "Regulación fina de la glucemia y metabolismo energético mediante secreción coordinada de insulina, glucagón y somatostatina hacia la vena porta.",
+        "especie": "El caballo posee islotes relativamente grandes en el lóbulo izquierdo (cola pancreática) y una sensibilidad metabólica particular a los picos de insulina y al síndrome metabólico equino.",
+        "clinica": "La hiperinsulinemia crónica (desregulación insulínica / Síndrome Metabólico Equino) es el factor desencadenante más frecuente de laminitis endocrinopática; los insulinomas o necrosis pancreática aguda son raros pero posibles.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.end.otr.002",
       "es": "Cuerpos paraaórticos (paraganglios)",
       "la": "Paraganglia aortica abdominalia",
       "sys": "end",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Espacio retroperitoneal sublumbar ventral y lateral a la aorta abdominal, cerca del origen de las arterias mesentéricas craneal y caudal.",
+        "descripcion": "Pequeños cúmulos microscópicos de tejido cromafín paraganglionar derivados de la cresta neural, muy desarrollados en la etapa fetal y neonatal y parcialmente regresivos en el adulto.",
+        "relaciones": "Asociados íntimamente a los plexos autónomos prevertebrales aórticos (celíaco, mesentérico craneal e intermesentérico).",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Arteriolas segmentarias directamente procedentes de la aorta abdominal.",
+        "inervacion": "Ramos simpáticos preganglionares y fibras viscerales del plexo aórtico abdominal.",
+        "funcion": "Secreción accesoria de catecolaminas durante la transición fetal-neonatal y modulación neurohumoral local.",
+        "especie": "Involucionan tras el nacimiento dejando islotes cromafines residuales junto a los ganglios simpáticos abdominales.",
+        "clinica": "Pueden dar origen excepcionalmente a paragangliomas funcionales o no funcionales en el retroperitoneo equino.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.end.otr.003-i",
       "es": "Glomo carotídeo (izquierdo)",
       "la": "Glomus caroticum",
       "sys": "end",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Bifurcación de la arteria carótida común del lado izquierdo, en la región retromandibular profunda y ventral a la bolsa gutural correspondiente.",
+        "descripcion": "Pequeño corpúsculo quimiorreceptor ovoide (2–4 mm) altamente vascularizado, rico en células glómicas tipo I (neuroendocrinas) y células sustentaculares tipo II.",
+        "relaciones": "Adosado a la adventicia arterial en la bifurcación hacia carótida interna, carótida externa y occipital; vecino a la pared caudoventral de la bolsa gutural y al ganglio cervical craneal.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Arteriola glómica de la carótida común / occipital con flujo capilar muy elevado por unidad de masa.",
+        "inervacion": "Nervio del seno carotídeo (ramo del nervio glosofaríngeo, IX) y anastomosis vagosimpáticas.",
+        "funcion": "Detecta descensos de la PaO2 arterial, aumentos de PaCO2 y caídas del pH sanguíneo, desencadenando hiperventilación refleja y ajuste cardiovascular.",
+        "especie": "En el caballo guarda estrecha vecindad con el compartimento lateral y medial de la bolsa gutural, próximo al trígono carotídeo.",
+        "clinica": "Referencia quimiorreceptora fundamental durante anestesia general equina para comprender la respuesta ventilatoria a la hipoxemia y la hipercapnia.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.end.otr.003-d",
       "es": "Glomo carotídeo (derecho)",
       "la": "Glomus caroticum",
       "sys": "end",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Bifurcación de la arteria carótida común del lado derecho, en la región retromandibular profunda y ventral a la bolsa gutural correspondiente.",
+        "descripcion": "Pequeño corpúsculo quimiorreceptor ovoide (2–4 mm) altamente vascularizado, rico en células glómicas tipo I (neuroendocrinas) y células sustentaculares tipo II.",
+        "relaciones": "Adosado a la adventicia arterial en la bifurcación hacia carótida interna, carótida externa y occipital; vecino a la pared caudoventral de la bolsa gutural y al ganglio cervical craneal.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Arteriola glómica de la carótida común / occipital con flujo capilar muy elevado por unidad de masa.",
+        "inervacion": "Nervio del seno carotídeo (ramo del nervio glosofaríngeo, IX) y anastomosis vagosimpáticas.",
+        "funcion": "Detecta descensos de la PaO2 arterial, aumentos de PaCO2 y caídas del pH sanguíneo, desencadenando hiperventilación refleja y ajuste cardiovascular.",
+        "especie": "En el caballo guarda estrecha vecindad con el compartimento lateral y medial de la bolsa gutural, próximo al trígono carotídeo.",
+        "clinica": "Referencia quimiorreceptora fundamental durante anestesia general equina para comprender la respuesta ventilatoria a la hipoxemia y la hipercapnia.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.end.otr.004-i",
       "es": "Cuerpo carotídeo (izquierdo)",
       "la": "Corpus caroticum",
       "sys": "end",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Área de bifurcación carotídea del lado izquierdo, correspondiendo al cuerpo neurovascular quimiorreceptor adosado entre carótida interna y externa (sinónimo anatómico de glomo carotídeo).",
+        "descripcion": "Corpúsculo quimiorreceptor compuesto por lóbulos de células glómicas ricas en catecolaminas y capilares sinusoidales inmersos en estroma fibroelástico.",
+        "relaciones": "Íntimamente ligado al seno carotídeo barorreceptor y a los nervios glosofaríngeo (IX), vago (X) y tronco simpático cervical del lado izquierdo.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Rama arterial propia desde el ángulo de bifurcación carotídeo; drenaje en la vena occipital/yugular.",
+        "inervacion": "Aferencias sensitivas especiales del nervio glosofaríngeo (IX) hacia el núcleo del tracto solitario.",
+        "funcion": "Monitorización quimiorreceptora continua de gases sanguíneos arteriales y regulación refleja del impulso respiratorio.",
+        "especie": "En la terminología anatómica veterinaria equina conviven «glomo carotídeo» y «cuerpo carotídeo» para designar el órgano quimiorreceptor de la bifurcación.",
+        "clinica": "La manipulación o inflamación en micosis de la bolsa gutural o ligadura arterial en esa zona exige identificar con exactitud el plano de la bifurcación carotídea y sus ramos nerviosos.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.end.otr.004-d",
       "es": "Cuerpo carotídeo (derecho)",
       "la": "Corpus caroticum",
       "sys": "end",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Área de bifurcación carotídea del lado derecho, correspondiendo al cuerpo neurovascular quimiorreceptor adosado entre carótida interna y externa (sinónimo anatómico de glomo carotídeo).",
+        "descripcion": "Corpúsculo quimiorreceptor compuesto por lóbulos de células glómicas ricas en catecolaminas y capilares sinusoidales inmersos en estroma fibroelástico.",
+        "relaciones": "Íntimamente ligado al seno carotídeo barorreceptor y a los nervios glosofaríngeo (IX), vago (X) y tronco simpático cervical del lado derecho.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Rama arterial propia desde el ángulo de bifurcación carotídeo; drenaje en la vena occipital/yugular.",
+        "inervacion": "Aferencias sensitivas especiales del nervio glosofaríngeo (IX) hacia el núcleo del tracto solitario.",
+        "funcion": "Monitorización quimiorreceptora continua de gases sanguíneos arteriales y regulación refleja del impulso respiratorio.",
+        "especie": "En la terminología anatómica veterinaria equina conviven «glomo carotídeo» y «cuerpo carotídeo» para designar el órgano quimiorreceptor de la bifurcación.",
+        "clinica": "La manipulación o inflamación en micosis de la bolsa gutural o ligadura arterial en esa zona exige identificar con exactitud el plano de la bifurcación carotídea y sus ramos nerviosos.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.end.otr.005",
       "es": "Cuerpos aórticos",
       "la": "Corpora aortica",
       "sys": "end",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Mediastino medio, dispersos en la adventicia del arco aórtico y en la bifurcación del tronco pulmonar alrededor del ligamento arterioso.",
+        "descripcion": "Grupos pequeños de quimiorreceptores arteriales similares estructuralmente al glomo carotídeo, integrados por células tipo I neuroendocrinas y células de sostén.",
+        "relaciones": "Próximos al origen del tronco braquiocefálico, arco de la aorta, nervio vago izquierdo y origen del nervio laríngeo recurrente izquierdo.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Arteriolas nutricias procedentes directamente del arco aórtico y ramas bronquiales/coronarias.",
+        "inervacion": "Fibras aferentes viscerales del nervio vago (X) (nervio depresor aórtico).",
+        "funcion": "Quimiorrecepción de hipoxemia e hipercapnia en la circulación arterial proximal y envío de reflejos cardiorrespiratorios al bulbo raquídeo.",
+        "especie": "Trabajan de manera coordinada con los glomos carotídeos para mantener el impulso respiratorio ante acidosis metabólica o ejercicio máximo.",
+        "clinica": "Excepcionalmente pueden originar quemodectomas (tumores de cuerpos aórticos) en la base del corazón, provocando derrame pericárdico o compresión de grandes vasos.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     }
   ],
   "verificaciones": [

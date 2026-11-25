@@ -3066,28 +3066,104 @@
       "es": "Articulación cricoaritenoidea (izquierda)",
       "la": "Articulatio cricoarytenoidea",
       "sys": "res",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Región laríngea caudal, en el lado izquierdo, entre la cara articular aritenoidea del arco/lámina cricoidea y la base articular del cartílago aritenoides.",
+        "descripcion": "Articulación sinovial esferoidea/elipsoidea izquierda de la laringe que permite la rotación y deslizamiento del cartílago aritenoides sobre el cricoides para abducir y aducir el pliegue vocal.",
+        "relaciones": "Rodeada por cápsula articular fibrosa, membrana sinovial y cubierta dorsolateralmente por el músculo cricoaritenoideo dorsal izquierda; medialmente se halla la mucosa laríngea subglótica y contralateralmente su homóloga derecha.",
+        "accidentes": "Superficie articular convexa en el borde rostral de la lámina del cartílago cricoides y carilla cóncava en la base ventral del proceso muscular del aritenoides.",
+        "articulaciones": "Diartrosis sinovial laríngea entre los cartílagos cricoides y aritenoides.",
+        "inserciones": "Reforzada por cápsula articular y ligamento cricoaritenoideo caudal; sobre el proceso muscular contiguo se inserta el músculo cricoaritenoideo dorsal.",
+        "irrigacion": "Ramos laríngeos de las arterias tiroidea craneal y laríngea caudal.",
+        "inervacion": "Ramos articulares del nervio laríngeo recurrente (ramo del nervio vago, X) y nervio laríngeo craneal.",
+        "funcion": "Articula el movimiento de abducción del cartílago aritenoides durante la inspiración forzada y su aducción durante la deglución y la fonación.",
+        "especie": "En el equino su movilidad asimétrica constituye la base biomecánica tanto de la neuropatía laríngea recurrente como de la laringoplastia protésica (técnica de tie-back).",
+        "clinica": "La atrofia neurogénica del músculo cricoaritenoideo dorsal (sobre todo izquierdo en >90 % de los casos de hemiplejia laríngea) produce colapso del aritenoides hacia la luz glótica y «ronquido laríngeo» durante el galope; la artritis séptica o anquilosis de esta articulación limita la eficacia de la laringoplastia.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.res.lar.008-d",
       "es": "Articulación cricoaritenoidea (derecha)",
       "la": "Articulatio cricoarytenoidea",
       "sys": "res",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Región laríngea caudal, en el lado derecho, entre la cara articular aritenoidea del arco/lámina cricoidea y la base articular del cartílago aritenoides.",
+        "descripcion": "Articulación sinovial esferoidea/elipsoidea derecha de la laringe que permite la rotación y deslizamiento del cartílago aritenoides sobre el cricoides para abducir y aducir el pliegue vocal.",
+        "relaciones": "Rodeada por cápsula articular fibrosa, membrana sinovial y cubierta dorsolateralmente por el músculo cricoaritenoideo dorsal derecha; medialmente se halla la mucosa laríngea subglótica y contralateralmente su homóloga izquierda.",
+        "accidentes": "Superficie articular convexa en el borde rostral de la lámina del cartílago cricoides y carilla cóncava en la base ventral del proceso muscular del aritenoides.",
+        "articulaciones": "Diartrosis sinovial laríngea entre los cartílagos cricoides y aritenoides.",
+        "inserciones": "Reforzada por cápsula articular y ligamento cricoaritenoideo caudal; sobre el proceso muscular contiguo se inserta el músculo cricoaritenoideo dorsal.",
+        "irrigacion": "Ramos laríngeos de las arterias tiroidea craneal y laríngea caudal.",
+        "inervacion": "Ramos articulares del nervio laríngeo recurrente (ramo del nervio vago, X) y nervio laríngeo craneal.",
+        "funcion": "Articula el movimiento de abducción del cartílago aritenoides durante la inspiración forzada y su aducción durante la deglución y la fonación.",
+        "especie": "En el equino su movilidad asimétrica constituye la base biomecánica tanto de la neuropatía laríngea recurrente como de la laringoplastia protésica (técnica de tie-back).",
+        "clinica": "La atrofia neurogénica del músculo cricoaritenoideo dorsal (sobre todo izquierdo en >90 % de los casos de hemiplejia laríngea) produce colapso del aritenoides hacia la luz glótica y «ronquido laríngeo» durante el galope; la artritis séptica o anquilosis de esta articulación limita la eficacia de la laringoplastia.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.res.lar.009-i",
       "es": "Articulación cricotiroidea (izquierda)",
       "la": "Articulatio cricothyroidea",
       "sys": "res",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Región laríngea ventrolateral izquierda, entre el borde caudal del asta caudal de la lámina del cartílago tiroides y la cara articular lateral del cartílago cricoides.",
+        "descripcion": "Articulación sinovial plana a troclear izquierda que permite bascular el cartílago tiroides respecto al cricoides (movimiento en bisagra dorsoventral).",
+        "relaciones": "Cubierta externamente por el músculo cricotiroideo e inserciones del constrictor caudal de la faringe; medialmente se continúa con la membrana y ligamento cricotiroideo.",
+        "accidentes": "Carilla articular plana-ovoidea en la cara medial del asta caudal tiroidea y eminencia articular lateral del cartílago cricoides.",
+        "articulaciones": "Articulación sinovial cricotiroidea bilateral, acoplada funcionalmente con la del lado contralateral.",
+        "inserciones": "Cápsula articular fibrosa corta reforzada por los ligamentos cricotiroideos laterales y la acción del músculo cricotiroideo.",
+        "irrigacion": "Ramas de la arteria tiroidea craneal y arteria laríngea craneal.",
+        "inervacion": "Ramo externo del nervio laríngeo craneal (X).",
+        "funcion": "Modula la tensión longitudinal de los pliegues vocales y ajusta la inclinación del cartílago tiroides respecto al anillo cricoideo.",
+        "especie": "En el caballo el estrecho espacio cricotiroideo ventral delimitado entre ambas articulaciones es muy accesible por palpación externa en la región laríngea ventral.",
+        "clinica": "Referencia anatómica esencial en cirugía de vías respiratorias altas: la ventriculocordectomía láser o por laringotomía aborda el ligamento cricotiroideo ventral entre ambas articulaciones.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.res.lar.009-d",
       "es": "Articulación cricotiroidea (derecha)",
       "la": "Articulatio cricothyroidea",
       "sys": "res",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Región laríngea ventrolateral derecha, entre el borde caudal del asta caudal de la lámina del cartílago tiroides y la cara articular lateral del cartílago cricoides.",
+        "descripcion": "Articulación sinovial plana a troclear derecha que permite bascular el cartílago tiroides respecto al cricoides (movimiento en bisagra dorsoventral).",
+        "relaciones": "Cubierta externamente por el músculo cricotiroideo e inserciones del constrictor caudal de la faringe; medialmente se continúa con la membrana y ligamento cricotiroideo.",
+        "accidentes": "Carilla articular plana-ovoidea en la cara medial del asta caudal tiroidea y eminencia articular lateral del cartílago cricoides.",
+        "articulaciones": "Articulación sinovial cricotiroidea bilateral, acoplada funcionalmente con la del lado contralateral.",
+        "inserciones": "Cápsula articular fibrosa corta reforzada por los ligamentos cricotiroideos laterales y la acción del músculo cricotiroideo.",
+        "irrigacion": "Ramas de la arteria tiroidea craneal y arteria laríngea craneal.",
+        "inervacion": "Ramo externo del nervio laríngeo craneal (X).",
+        "funcion": "Modula la tensión longitudinal de los pliegues vocales y ajusta la inclinación del cartílago tiroides respecto al anillo cricoideo.",
+        "especie": "En el caballo el estrecho espacio cricotiroideo ventral delimitado entre ambas articulaciones es muy accesible por palpación externa en la región laríngea ventral.",
+        "clinica": "Referencia anatómica esencial en cirugía de vías respiratorias altas: la ventriculocordectomía láser o por laringotomía aborda el ligamento cricotiroideo ventral entre ambas articulaciones.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.res.lar.021-i",

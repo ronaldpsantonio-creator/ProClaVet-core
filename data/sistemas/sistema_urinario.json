@@ -23,427 +23,1586 @@
       "es": "Riñón (izquierdo)",
       "la": "Ren",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Techo de la cavidad abdominal dorsal izquierda (espacio retroperitoneal sublumbar izquierdo), más caudal y ventral que el riñón derecho, situado ventralmente a la última costilla (18.ª) y las apófisis transversas de las primeras dos o tres vértebras lumbares (**T18 a L2–L3**).",
+        "descripcion": "Órgano urinario par liso y firme de color pardo-rojizo, con forma característica de **habichuela o frijol** regular (~15–18 cm de longitud, ~680–750 g), revestido por cápsula fibrosa y rodeado de abundante grasa perirrenal; internamente posee corteza granulosa, médula con pirámides fusionadas en una única **cresta renal** y un **seno renal** con pelvis renal provista de dos largos **recesos terminales** dorsoventrales.",
+        "relaciones": "Dorsalmente se relaciona con el músculo psoas mayor y psoas menor izquierdos; lateralmente y ventralmente con la cola del páncreas, la base del bazo (ligamento esplenorrenal) y el colon descendente (colon menor) o asas del colon mayor izquierdo; medialmente con la aorta abdominal y la glándula suprarrenal izquierda.",
+        "accidentes": "Presenta polos craneal y caudal redondeados, borde lateral convexo, borde medial cóncavo excavado en el **hilio renal**, caras dorsal y ventral aplanadas y un pedículo vascular más largo que el derecho.",
+        "articulaciones": "No forma articulación sinovial directa; suspendido en su lecho retroperitoneal por la cápsula adiposa, presión abdominal y vasos renales.",
+        "inserciones": "Sin inserciones musculares esqueléticas; el ligamento nefroesplénico (esplenorrenal) une su fascia/borde lateral al borde dorsal del bazo formando el **espacio nefroesplénico**.",
+        "irrigacion": "Arteria renal izquierda (rama directa de la aorta abdominal, más larga y ligeramente caudal que la derecha) y múltiples arterias polares accesorias frecuentes; vena renal izquierda larga que cruza hacia la vena cava caudal.",
+        "inervacion": "Plexo renal autónomo (fibras simpáticas posganglionares vasoconstrictoras y liberadoras de renina desde el ganglio aorticorrenal y nervios esplácnicos, además de aferentes nociceptivas capsulares).",
+        "funcion": "Filtra el plasma sanguíneo, excreta desechos nitrogenados (urea, creatinina) y electrolitos (notablemente abundante calcio en équidos), regula el volumen extracelular, equilibrio ácido-base y presión arterial (sistema renina-angiotensina) y secreta eritropoyetina.",
+        "especie": "Particularidades únicas en *Equus caballus*: (1) el riñón izquierdo tiene forma clásica de frijol (a diferencia del derecho acorazonado); (2) su hilio y pelvis poseen **glándulas mucosas pélvicas** que producen una orina normalmente turbia y filante rica en cristales de carbonato cálcico; (3) **palpable transrectalmente** su polo caudal en el techo abdominal izquierdo del caballo en estación.",
+        "clinica": "Referencia anatómica clave en el diagnóstico y resolución del **atrapamiento nefroesplénico del colon mayor** (desplazamiento dorsal izquierdo sobre el ligamento que une el riñón izquierdo con el bazo); también evaluable por ecografía paralumbar izquierda y palpación rectal en casos de nefrolitiasis, nefritis o neoplasias renales.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-24",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman) para cobertura 3D integral. Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.rin.001-d",
       "es": "Riñón (derecho)",
       "la": "Ren",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Techo abdominal craneal derecho (espacio retroperitoneal intratorácico-sublumbar), situado más cranealmente que el izquierdo: ventral a las dos o tres últimas costillas (**15.ª a 17.ª–18.ª costilla**) y la apófisis transversa de la **1.ª vértebra lumbar (L1)**.",
+        "descripcion": "Órgano urinario par liso de color pardo-rojizo firme (~13–15 cm de longitud, ~700–780 g, ligeramente más ancho y corto que el izquierdo), con forma inconfundible en **corazón de naipe o triángulo redondeado**, revestido por cápsula fibrosa; internamente muestra corteza, médula con **cresta renal** única y pelvis renal con dos largos recesos terminales secretores de moco.",
+        "relaciones": "Alojado cranealmente en la profunda **impresión renal del lóbulo derecho del hígado**; dorsalmente contacta con el pilar derecho del diafragma y los músculos psoas bajo las últimas costillas; ventralmente se relaciona con la base del **ciego**, páncreas y duodeno descendente; medialmente contacta con la vena cava caudal y la glándula suprarrenal derecha.",
+        "accidentes": "Contorno cordiforme/triangular con ángulo craneal romo encajado en el hígado, ángulo lateral redondeado, borde medial excavado en el hilio renal corto, cara dorsal convexa y cara ventral ligeramente plana.",
+        "articulaciones": "No forma articulación sinovial directa; fijado sólidamente al techo subcostal derecho y al hígado por el ligamento hepatorrenal y su corto pedículo a la vena cava caudal.",
+        "inserciones": "Carece de inserciones musculares esqueléticas directas.",
+        "irrigacion": "Arteria renal derecha (rama de la aorta abdominal que cruza dorsalmente a la vena cava caudal) y vena renal derecha corta que desemboca directamente en la vena cava caudal.",
+        "inervacion": "Plexo renal derecho (ganglio aorticorrenal y nervios esplácnicos mayor/menor derechos).",
+        "funcion": "Ejecuta la ultrafiltración glomerular, concentración tubular urinaria, secreción de moco pélvico fisiológico equino y regulación endocrina de la presión arterial y eritropoyesis.",
+        "especie": "En *Equus caballus* la morfología **acorazonada** del riñón derecho y su ubicación muy craneal (bajo las costillas 15–17 dentro de la impresión renal hepática) lo hacen **impalpable por vía transrectal** en condiciones normales, a diferencia del riñón izquierdo.",
+        "clinica": "Su exploración clínica depende de la **ecografía transabdominal intercostal derecha (espacios 14.º–17.º)** y de la bioquímica renal/urianálisis; asiento frecuente de nefrolitiasis, pielonefritis ascendente, abscesos perirrenales o toxicidad tubular por AINEs (fenilbutazona) y aminoglucósidos.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-24",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman) para cobertura 3D integral. Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.rin.002-i",
       "es": "Cápsula fibrosa del riñón (izquierda)",
       "la": "Capsula fibrosa renis",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Superficie externa inmediata de todo el parénquima del riñón izquierdo.",
+        "descripcion": "Lámina delgada, lisa, brillante y resistente de tejido conectivo denso rico en colágeno con escasas fibras musculares lisas, que se invagina en el hilio renal para revestir el seno renal.",
+        "relaciones": "Separada de la corteza renal subyacente por un plano subcapsular fácil de desprender en el riñón sano, y rodeada externamente por la cápsula adiposa del lado izquierdo.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Arteriolas capsulares perforantes procedentes de las arterias interlobulares corticales y vasos perirrenales.",
+        "inervacion": "Fibras sensitivas nociceptivas procedentes del plexo renal (su distensión aguda produce dolor visceral/cólico renal).",
+        "funcion": "Contiene la presión intrarrenal fisiológica y protege mecánicamente la corteza renal frente a traumatismos.",
+        "especie": "El riñón izquierdo equino tiene forma de habichuela (frijol), se localiza ligeramente más caudal y ventral (última costilla / T18 a L2–L3) y carece de contacto hepático directo. En los équidos sanos se desprende con facilidad al examen post mórtem, salvo en nefritis intersticiales crónicas con adherencias.",
+        "clinica": "La distensión rápida de la cápsula fibrosa por hidronefrosis aguda o pielonefritis desencadena dolor abdominal agudo detectable en diagnóstico diferencial de cólico.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.rin.002-d",
       "es": "Cápsula fibrosa del riñón (derecha)",
       "la": "Capsula fibrosa renis",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Superficie externa inmediata de todo el parénquima del riñón derecho.",
+        "descripcion": "Lámina delgada, lisa, brillante y resistente de tejido conectivo denso rico en colágeno con escasas fibras musculares lisas, que se invagina en el hilio renal para revestir el seno renal.",
+        "relaciones": "Separada de la corteza renal subyacente por un plano subcapsular fácil de desprender en el riñón sano, y rodeada externamente por la cápsula adiposa del lado derecho.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Arteriolas capsulares perforantes procedentes de las arterias interlobulares corticales y vasos perirrenales.",
+        "inervacion": "Fibras sensitivas nociceptivas procedentes del plexo renal (su distensión aguda produce dolor visceral/cólico renal).",
+        "funcion": "Contiene la presión intrarrenal fisiológica y protege mecánicamente la corteza renal frente a traumatismos.",
+        "especie": "El riñón derecho equino tiene una característica forma acorazonada (de naipe), se sitúa más craneal bajo las dos o tres últimas costillas (T15–T17/L1) e imprime la fosa renal del hígado. En los équidos sanos se desprende con facilidad al examen post mórtem, salvo en nefritis intersticiales crónicas con adherencias.",
+        "clinica": "La distensión rápida de la cápsula fibrosa por hidronefrosis aguda o pielonefritis desencadena dolor abdominal agudo detectable en diagnóstico diferencial de cólico.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.rin.003-i",
       "es": "Cápsula adiposa del riñón (izquierda)",
       "la": "Capsula adiposa renis",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Envoltura adiposa perirrenal alrededor del riñón izquierdo en el espacio retroperitoneal sublumbar.",
+        "descripcion": "Cojinete de tejido adiposo blanco de grosor variable según la condición corporal, situado entre la cápsula fibrosa renal y la fascia renal.",
+        "relaciones": "Rodea por completo el órgano e ingresa parcialmente en el seno renal alrededor de los vasos y la pelvis renal del lado izquierdo.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Ramas adiposas de las arterias renales y arterias lumbares.",
+        "inervacion": "Ramos del plexo renal y nervios iliohipogástrico/ilioinguinal adyacentes.",
+        "funcion": "Amortiguación mecánica frente a vibraciones del galope y mantenimiento del posicionamiento y termorregulación renal.",
+        "especie": "El riñón izquierdo equino tiene forma de habichuela (frijol), se localiza ligeramente más caudal y ventral (última costilla / T18 a L2–L3) y carece de contacto hepático directo. Su adelgazamiento en caballos emaciados facilita la detección ecográfica de los bordes renales, pero aumenta la exposición de la cápsula renal.",
+        "clinica": "Actúa como plano anatómico de clivaje ecográfico brillante (hiperecogénico) alrededor de la corteza renal y como foco de abscedación perirrenal tras roturas pielonefríticas.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.rin.003-d",
       "es": "Cápsula adiposa del riñón (derecha)",
       "la": "Capsula adiposa renis",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Envoltura adiposa perirrenal alrededor del riñón derecho en el espacio retroperitoneal sublumbar.",
+        "descripcion": "Cojinete de tejido adiposo blanco de grosor variable según la condición corporal, situado entre la cápsula fibrosa renal y la fascia renal.",
+        "relaciones": "Rodea por completo el órgano e ingresa parcialmente en el seno renal alrededor de los vasos y la pelvis renal del lado derecho.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Ramas adiposas de las arterias renales y arterias lumbares.",
+        "inervacion": "Ramos del plexo renal y nervios iliohipogástrico/ilioinguinal adyacentes.",
+        "funcion": "Amortiguación mecánica frente a vibraciones del galope y mantenimiento del posicionamiento y termorregulación renal.",
+        "especie": "El riñón derecho equino tiene una característica forma acorazonada (de naipe), se sitúa más craneal bajo las dos o tres últimas costillas (T15–T17/L1) e imprime la fosa renal del hígado. Su adelgazamiento en caballos emaciados facilita la detección ecográfica de los bordes renales, pero aumenta la exposición de la cápsula renal.",
+        "clinica": "Actúa como plano anatómico de clivaje ecográfico brillante (hiperecogénico) alrededor de la corteza renal y como foco de abscedación perirrenal tras roturas pielonefríticas.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.rin.004-i",
       "es": "Fascia renal (izquierda)",
       "la": "Fascia renalis",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Espacio retroperitoneal sublumbar del lado izquierdo, envolviendo exteriormente a la cápsula adiposa del riñón y la glándula suprarrenal correspondiente.",
+        "descripcion": "Lámina fibrosa bilaminar (hoja anterior o prerenal y hoja posterior o retrorrenal) derivada de la fascia transversa abdominal que fija el riñón al techo sublumbar.",
+        "relaciones": "Dorsalmente se fusiona con la fascia ilíaca/psoas; ventralmente queda cubierta por el peritoneo parietal dorsal y el ligamento nefroesplénico y colon menor.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Vascularización fascial difusa procedente de las arterias lumbares y capsulares.",
+        "inervacion": "Fibras sensitivas parietales lumbares.",
+        "funcion": "Ancla el riñón y la glándula suprarrenal al techo de la cavidad abdominal, limitando la nefroptosis durante el movimiento equino.",
+        "especie": "El riñón izquierdo equino tiene forma de habichuela (frijol), se localiza ligeramente más caudal y ventral (última costilla / T18 a L2–L3) y carece de contacto hepático directo. En el lado izquierdo se integra dorsalmente con la inserción abdominal del ligamento nefroesplénico.",
+        "clinica": "Limita la diseminación de hematomas o abscesos retroperitoneales hacia la cavidad peritoneal libre.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.rin.004-d",
       "es": "Fascia renal (derecha)",
       "la": "Fascia renalis",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Espacio retroperitoneal sublumbar del lado derecho, envolviendo exteriormente a la cápsula adiposa del riñón y la glándula suprarrenal correspondiente.",
+        "descripcion": "Lámina fibrosa bilaminar (hoja anterior o prerenal y hoja posterior o retrorrenal) derivada de la fascia transversa abdominal que fija el riñón al techo sublumbar.",
+        "relaciones": "Dorsalmente se fusiona con la fascia ilíaca/psoas; ventralmente queda cubierta por el peritoneo parietal dorsal y el duodeno descendente y la base del ciego.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Vascularización fascial difusa procedente de las arterias lumbares y capsulares.",
+        "inervacion": "Fibras sensitivas parietales lumbares.",
+        "funcion": "Ancla el riñón y la glándula suprarrenal al techo de la cavidad abdominal, limitando la nefroptosis durante el movimiento equino.",
+        "especie": "El riñón derecho equino tiene una característica forma acorazonada (de naipe), se sitúa más craneal bajo las dos o tres últimas costillas (T15–T17/L1) e imprime la fosa renal del hígado. En el lado izquierdo se integra dorsalmente con la inserción abdominal del ligamento nefroesplénico.",
+        "clinica": "Limita la diseminación de hematomas o abscesos retroperitoneales hacia la cavidad peritoneal libre.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.rin.005-i",
       "es": "Hilio renal (izquierdo)",
       "la": "Hilum renale",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Borde medial cóncavo del riñón izquierdo (en el derecho orientado más ventromedialmente por su forma acorazonada).",
+        "descripcion": "Abertura o fisura longitudinal del parénquima renal por donde penetran la arteria renal y el plexo nervioso, y emergen la vena renal, los vasos linfáticos y el uréter.",
+        "relaciones": "Orientado hacia la aorta abdominal (lado izquierdo) o hacia la vena cava caudal (lado derecho), inmerso en grasa del seno renal.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Atraviesan la arteria renal principal y la vena renal.",
+        "inervacion": "Penetra el plexo nervioso renal autónomo acompañando la adventicia de la arteria renal.",
+        "funcion": "Puerta anatómica de entrada y salida de todo el pedículo vasculonervioso y excretor del riñón.",
+        "especie": "El riñón izquierdo equino tiene forma de habichuela (frijol), se localiza ligeramente más caudal y ventral (última costilla / T18 a L2–L3) y carece de contacto hepático directo. En el caballo es relativamente estrecho en el riñón izquierdo y más amplio en el borde ventromedial del riñón derecho.",
+        "clinica": "Punto clave en ecografía Doppler renal para evaluar el índice de resistencia arterial renal y el origen de urolitiasis en la salida pieloureteral.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.rin.005-d",
       "es": "Hilio renal (derecho)",
       "la": "Hilum renale",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Borde medial cóncavo del riñón derecho (en el derecho orientado más ventromedialmente por su forma acorazonada).",
+        "descripcion": "Abertura o fisura longitudinal del parénquima renal por donde penetran la arteria renal y el plexo nervioso, y emergen la vena renal, los vasos linfáticos y el uréter.",
+        "relaciones": "Orientado hacia la aorta abdominal (lado izquierdo) o hacia la vena cava caudal (lado derecho), inmerso en grasa del seno renal.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Atraviesan la arteria renal principal y la vena renal.",
+        "inervacion": "Penetra el plexo nervioso renal autónomo acompañando la adventicia de la arteria renal.",
+        "funcion": "Puerta anatómica de entrada y salida de todo el pedículo vasculonervioso y excretor del riñón.",
+        "especie": "El riñón derecho equino tiene una característica forma acorazonada (de naipe), se sitúa más craneal bajo las dos o tres últimas costillas (T15–T17/L1) e imprime la fosa renal del hígado. En el caballo es relativamente estrecho en el riñón izquierdo y más amplio en el borde ventromedial del riñón derecho.",
+        "clinica": "Punto clave en ecografía Doppler renal para evaluar el índice de resistencia arterial renal y el origen de urolitiasis en la salida pieloureteral.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.rin.006-i",
       "es": "Seno renal (izquierdo)",
       "la": "Sinus renalis",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Cavidad interna en la profundidad del hilio del riñón izquierdo, rodeada por la médula renal.",
+        "descripcion": "Espacio parenquimatoso relleno de tejido adiposo blando que aloja la pelvis renal, sus recesos terminales y la ramificación inicial de los vasos interlobares.",
+        "relaciones": "Comunica medialmente con el espacio retroperitoneal a través del hilio renal y está tapizado por una prolongación de la cápsula fibrosa.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Contiene las divisiones primarias de la arteria y vena renales.",
+        "inervacion": "Fibras autónomas del plexo renal que acompañan los vasos interlobares.",
+        "funcion": "Aloja y protege el aparato colector pélvico y los grandes troncos vasculares intrarrenales.",
+        "especie": "A diferencia del bovino (que carece de pelvis renal verdadera y aloja cálices mayores), el seno renal equino alberga una pelvis renal lisa con dos largos recesos terminales.",
+        "clinica": "La grasa del seno renal produce un centro marcadamente hiperecogénico en la ecografía transabdominal equina, útil para localizar nefrolitos.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.rin.006-d",
       "es": "Seno renal (derecho)",
       "la": "Sinus renalis",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Cavidad interna en la profundidad del hilio del riñón derecho, rodeada por la médula renal.",
+        "descripcion": "Espacio parenquimatoso relleno de tejido adiposo blando que aloja la pelvis renal, sus recesos terminales y la ramificación inicial de los vasos interlobares.",
+        "relaciones": "Comunica medialmente con el espacio retroperitoneal a través del hilio renal y está tapizado por una prolongación de la cápsula fibrosa.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Contiene las divisiones primarias de la arteria y vena renales.",
+        "inervacion": "Fibras autónomas del plexo renal que acompañan los vasos interlobares.",
+        "funcion": "Aloja y protege el aparato colector pélvico y los grandes troncos vasculares intrarrenales.",
+        "especie": "A diferencia del bovino (que carece de pelvis renal verdadera y aloja cálices mayores), el seno renal equino alberga una pelvis renal lisa con dos largos recesos terminales.",
+        "clinica": "La grasa del seno renal produce un centro marcadamente hiperecogénico en la ecografía transabdominal equina, útil para localizar nefrolitos.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.rin.007-i",
       "es": "Corteza renal (izquierda)",
       "la": "Cortex renalis",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Capa externa periférica del parénquima del riñón izquierdo, inmediatamente bajo la cápsula fibrosa.",
+        "descripcion": "Parénquima pardo rojizo finamente granuloso debido a la presencia masiva de corpúsculos renales (glomérulos + cápsula de Bowman), túbulos contorneados proximales y distales y rayos medulares.",
+        "relaciones": "Se extiende desde la cápsula hasta la unión corticomedular marcada por los vasos arcuatos, sin columnas renales profundas completas al tratarse de un riñón liso unipapilar.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Arterias interlobulares, arteriolas aferentes glomerulares y red capilar peritubular cortical.",
+        "inervacion": "Fibras simpáticas adrenérgicas sobre arteriolas aferentes, eferentes y aparato yuxtaglomerular (regulación de renina).",
+        "funcion": "Ultrafiltración glomerular del plasma sanguíneo y reabsorción selectiva inicial de agua, glucosa, aminoácidos y electrólitos.",
+        "especie": "El riñón izquierdo equino tiene forma de habichuela (frijol), se localiza ligeramente más caudal y ventral (última costilla / T18 a L2–L3) y carece de contacto hepático directo. En la ecografía renal equina normal muestra una ecogenicidad homogénea ligeramente menor o igual a la del bazo (izquierdo) y menor que el hígado (derecho).",
+        "clinica": "Principal sitio de lesión en necrosis tubular aguda por nefrotóxicos equinos (fenilbutazona/AINEs y aminoglucósidos) y glomerulonefritis inmunomediada.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.rin.007-d",
       "es": "Corteza renal (derecha)",
       "la": "Cortex renalis",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Capa externa periférica del parénquima del riñón derecho, inmediatamente bajo la cápsula fibrosa.",
+        "descripcion": "Parénquima pardo rojizo finamente granuloso debido a la presencia masiva de corpúsculos renales (glomérulos + cápsula de Bowman), túbulos contorneados proximales y distales y rayos medulares.",
+        "relaciones": "Se extiende desde la cápsula hasta la unión corticomedular marcada por los vasos arcuatos, sin columnas renales profundas completas al tratarse de un riñón liso unipapilar.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Arterias interlobulares, arteriolas aferentes glomerulares y red capilar peritubular cortical.",
+        "inervacion": "Fibras simpáticas adrenérgicas sobre arteriolas aferentes, eferentes y aparato yuxtaglomerular (regulación de renina).",
+        "funcion": "Ultrafiltración glomerular del plasma sanguíneo y reabsorción selectiva inicial de agua, glucosa, aminoácidos y electrólitos.",
+        "especie": "El riñón derecho equino tiene una característica forma acorazonada (de naipe), se sitúa más craneal bajo las dos o tres últimas costillas (T15–T17/L1) e imprime la fosa renal del hígado. En la ecografía renal equina normal muestra una ecogenicidad homogénea ligeramente menor o igual a la del bazo (izquierdo) y menor que el hígado (derecho).",
+        "clinica": "Principal sitio de lesión en necrosis tubular aguda por nefrotóxicos equinos (fenilbutazona/AINEs y aminoglucósidos) y glomerulonefritis inmunomediada.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.rin.008-i",
       "es": "Médula renal (izquierda)",
       "la": "Medulla renalis",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Capa profunda interna del parénquima del riñón izquierdo, comprendida entre la corteza externa y la cresta renal hacia el seno.",
+        "descripcion": "Parénquima estriado de color más pálido en su zona externa y rojo oscuro en su porción interna, integrado por las asas de Henle, conductos colectores y vasos rectos.",
+        "relaciones": "Fusionada en una masa piramidal continua que converge hacia una cresta renal única común, con recesos pélvicos en sus extremos craneal y caudal.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Arteriolas rectas espurias (de glomérulos yuxtamedulares) y vasos rectos venosos de contracorriente.",
+        "inervacion": "Escasa inervación simpática sobre vasos medulares.",
+        "funcion": "Genera el gradiente osmótico corticomedular necesario para concentrar la orina mediante el mecanismo multiplicador de contracorriente.",
+        "especie": "A diferencia del riñón multipiramidal bovino o porcino, las pirámides equinas se encuentran totalmente fusionadas en un parénquima medular continuo con cresta renal.",
+        "clinica": "La toxicidad crónica por antiinflamatorios no esteroideos (AINEs como fenilbutazona o flunixin meglumina) en caballos deshidratados produce necrosis papilar/medular por isquemia de los vasos rectos.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.rin.008-d",
       "es": "Médula renal (derecha)",
       "la": "Medulla renalis",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Capa profunda interna del parénquima del riñón derecho, comprendida entre la corteza externa y la cresta renal hacia el seno.",
+        "descripcion": "Parénquima estriado de color más pálido en su zona externa y rojo oscuro en su porción interna, integrado por las asas de Henle, conductos colectores y vasos rectos.",
+        "relaciones": "Fusionada en una masa piramidal continua que converge hacia una cresta renal única común, con recesos pélvicos en sus extremos craneal y caudal.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Arteriolas rectas espurias (de glomérulos yuxtamedulares) y vasos rectos venosos de contracorriente.",
+        "inervacion": "Escasa inervación simpática sobre vasos medulares.",
+        "funcion": "Genera el gradiente osmótico corticomedular necesario para concentrar la orina mediante el mecanismo multiplicador de contracorriente.",
+        "especie": "A diferencia del riñón multipiramidal bovino o porcino, las pirámides equinas se encuentran totalmente fusionadas en un parénquima medular continuo con cresta renal.",
+        "clinica": "La toxicidad crónica por antiinflamatorios no esteroideos (AINEs como fenilbutazona o flunixin meglumina) en caballos deshidratados produce necrosis papilar/medular por isquemia de los vasos rectos.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.rin.009-i",
       "es": "Cresta renal (izquierda)",
       "la": "Crista renalis",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Borde interno cóncavo longitudinal de la médula del riñón izquierdo, proyectándose directamente hacia la luz de la pelvis renal.",
+        "descripcion": "Cresta longitudinal lisa formada por la fusión completa de los ápices papilares renales (área cribosa), perforada por numerosos orificios papilares de los conductos colectores y tubulillos mucosos.",
+        "relaciones": "Bañada directamente por la orina dentro de la pelvis renal y flanqueada en ambos polos por las entradas de los recesos terminales.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Red capilar terminal de los vasos rectos medulares (zona de baja presión parcial de oxígeno).",
+        "inervacion": "Fibras sensitivas subepiteliales y autonómicas locales.",
+        "funcion": "Vierte la orina definitiva desde los conductos papilares directamente hacia la pelvis renal, además de secretar abundante moco por sus glándulas mucosas pélvicas.",
+        "especie": "En el caballo la cresta renal aloja en su submucosa abundantes glándulas mucosas tubuloalveolares (únicas en équidos), responsables del aspecto turbio y filante normal de la orina equina.",
+        "clinica": "Es el sitio predilecto de ulceración e infarto isquémico en la necrosis de cresta renal por AINEs y de mineralización en nefrolitiasis equina.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.rin.009-d",
       "es": "Cresta renal (derecha)",
       "la": "Crista renalis",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Borde interno cóncavo longitudinal de la médula del riñón derecho, proyectándose directamente hacia la luz de la pelvis renal.",
+        "descripcion": "Cresta longitudinal lisa formada por la fusión completa de los ápices papilares renales (área cribosa), perforada por numerosos orificios papilares de los conductos colectores y tubulillos mucosos.",
+        "relaciones": "Bañada directamente por la orina dentro de la pelvis renal y flanqueada en ambos polos por las entradas de los recesos terminales.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Red capilar terminal de los vasos rectos medulares (zona de baja presión parcial de oxígeno).",
+        "inervacion": "Fibras sensitivas subepiteliales y autonómicas locales.",
+        "funcion": "Vierte la orina definitiva desde los conductos papilares directamente hacia la pelvis renal, además de secretar abundante moco por sus glándulas mucosas pélvicas.",
+        "especie": "En el caballo la cresta renal aloja en su submucosa abundantes glándulas mucosas tubuloalveolares (únicas en équidos), responsables del aspecto turbio y filante normal de la orina equina.",
+        "clinica": "Es el sitio predilecto de ulceración e infarto isquémico en la necrosis de cresta renal por AINEs y de mineralización en nefrolitiasis equina.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.rin.010-i",
       "es": "Pirámide renal (izquierda)",
       "la": "Pyramis renalis",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Sectores radiales de la médula del riñón izquierdo, visibles al corte longitudinal entre los vasos interlobares.",
+        "descripcion": "Subdivisiones cónicas o en abanico de la médula renal cuyas bases limitan con la corteza en los vasos arcuatos y cuyos ápices convergen para fusionarse en la cresta renal única.",
+        "relaciones": "Separadas parcialmente por las arterias y venas interlobares y rodeadas de tejido cortical hacia la periferia.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Arteriolas rectas descendentes y vénulas rectas ascendentes.",
+        "inervacion": "Fibras simpáticas vasculares en la base corticomedular.",
+        "funcion": "Conducción paralela de los segmentos tubulares de concentración urinaria (asas de Henle y conductos colectores de Bellini) hacia la cresta renal.",
+        "especie": "Ecográficamente aparecen como estructuras triangulares hipoecoicas (anecoicas respecto a la corteza) dispuestas radialmente alrededor de la pelvis renal.",
+        "clinica": "El signo del «anillo medular» hiperecogénico en los bordes piramidales en ecografía sugiere nefropatía crónica o hipercalcemia/toxicidad mineral.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.rin.010-d",
       "es": "Pirámide renal (derecha)",
       "la": "Pyramis renalis",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Sectores radiales de la médula del riñón derecho, visibles al corte longitudinal entre los vasos interlobares.",
+        "descripcion": "Subdivisiones cónicas o en abanico de la médula renal cuyas bases limitan con la corteza en los vasos arcuatos y cuyos ápices convergen para fusionarse en la cresta renal única.",
+        "relaciones": "Separadas parcialmente por las arterias y venas interlobares y rodeadas de tejido cortical hacia la periferia.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Arteriolas rectas descendentes y vénulas rectas ascendentes.",
+        "inervacion": "Fibras simpáticas vasculares en la base corticomedular.",
+        "funcion": "Conducción paralela de los segmentos tubulares de concentración urinaria (asas de Henle y conductos colectores de Bellini) hacia la cresta renal.",
+        "especie": "Ecográficamente aparecen como estructuras triangulares hipoecoicas (anecoicas respecto a la corteza) dispuestas radialmente alrededor de la pelvis renal.",
+        "clinica": "El signo del «anillo medular» hiperecogénico en los bordes piramidales en ecografía sugiere nefropatía crónica o hipercalcemia/toxicidad mineral.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.rin.011-i",
       "es": "Columnas renales (izquierdas)",
       "la": "Columnae renales",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Espacios intersticiales entre las bases de las pirámides en la médula del riñón izquierdo.",
+        "descripcion": "Proyecciones rudimentarias de tejido cortical hacia las zonas interpiramidales que acompañan a los vasos interlobares.",
+        "relaciones": "Acompañan el trayecto de las arterias y venas interlobares entre los lóbulos fusionados del riñón equino liso.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Ramas de las arterias interlobares.",
+        "inervacion": "Fibras autónomas perivasculares del plexo renal.",
+        "funcion": "Soportan y envuelven las divisiones vasculares interlobares durante su tránsito hacia los arcos corticomedulares.",
+        "especie": "A diferencia del riñón humano o bovino, en el caballo liso y fusionado las columnas renales son mucho menos marcadas y corresponden principalmente a tabiques pseudocortico-vasculares.",
+        "clinica": "Sirven como referencia de segmentación vascular durante la evaluación ecográfica Doppler en la búsqueda de infartos renales.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.rin.011-d",
       "es": "Columnas renales (derechas)",
       "la": "Columnae renales",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Espacios intersticiales entre las bases de las pirámides en la médula del riñón derecho.",
+        "descripcion": "Proyecciones rudimentarias de tejido cortical hacia las zonas interpiramidales que acompañan a los vasos interlobares.",
+        "relaciones": "Acompañan el trayecto de las arterias y venas interlobares entre los lóbulos fusionados del riñón equino liso.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Ramas de las arterias interlobares.",
+        "inervacion": "Fibras autónomas perivasculares del plexo renal.",
+        "funcion": "Soportan y envuelven las divisiones vasculares interlobares durante su tránsito hacia los arcos corticomedulares.",
+        "especie": "A diferencia del riñón humano o bovino, en el caballo liso y fusionado las columnas renales son mucho menos marcadas y corresponden principalmente a tabiques pseudocortico-vasculares.",
+        "clinica": "Sirven como referencia de segmentación vascular durante la evaluación ecográfica Doppler en la búsqueda de infartos renales.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.rin.012-i",
       "es": "Pelvis renal (izquierda)",
       "la": "Pelvis renalis",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Interior del seno del riñón izquierdo, recibiendo directamente la cresta renal y continuándose medialmente con el uréter.",
+        "descripcion": "Dilatación infundibular de paredes fibroelásticas tapizada por urotelio y rica en glándulas mucosas pélvicas en su lámina propia, que se prolonga craneal y caudalmente en dos largos recesos terminales.",
+        "relaciones": "Abraza la cresta renal medialmente y se rodea de la grasa del seno renal y de los grandes vasos renales del lado izquierdo.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Ramas pieloureterales de la arteria renal.",
+        "inervacion": "Fibras autónomas (simpáticas L1–L4 y parasimpáticas pélvicas) y aferencias nociceptivas de distensión.",
+        "funcion": "Recoge la orina excretada desde la cresta renal y los recesos terminales, añadiendo secreción mucosa protectora e impulsándola peristálticamente hacia el uréter.",
+        "especie": "La abundante presencia de glándulas mucosas y células caliciformes en la pelvis renal y comienzo del uréter equino explica la viscosidad normal y turbidez de la orina por cristales de carbonato de calcio en suspensión.",
+        "clinica": "Sitio más habitual de alojamiento de nefrolitos de carbonato de calcio («cálculos pélvicos en asta de ciervo») y de pielonefritis ascendente en el caballo.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.rin.012-d",
       "es": "Pelvis renal (derecha)",
       "la": "Pelvis renalis",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Interior del seno del riñón derecho, recibiendo directamente la cresta renal y continuándose medialmente con el uréter.",
+        "descripcion": "Dilatación infundibular de paredes fibroelásticas tapizada por urotelio y rica en glándulas mucosas pélvicas en su lámina propia, que se prolonga craneal y caudalmente en dos largos recesos terminales.",
+        "relaciones": "Abraza la cresta renal medialmente y se rodea de la grasa del seno renal y de los grandes vasos renales del lado derecho.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Ramas pieloureterales de la arteria renal.",
+        "inervacion": "Fibras autónomas (simpáticas L1–L4 y parasimpáticas pélvicas) y aferencias nociceptivas de distensión.",
+        "funcion": "Recoge la orina excretada desde la cresta renal y los recesos terminales, añadiendo secreción mucosa protectora e impulsándola peristálticamente hacia el uréter.",
+        "especie": "La abundante presencia de glándulas mucosas y células caliciformes en la pelvis renal y comienzo del uréter equino explica la viscosidad normal y turbidez de la orina por cristales de carbonato de calcio en suspensión.",
+        "clinica": "Sitio más habitual de alojamiento de nefrolitos de carbonato de calcio («cálculos pélvicos en asta de ciervo») y de pielonefritis ascendente en el caballo.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.rin.013-i",
       "es": "Recesos terminales de la pelvis renal (izquierdos)",
       "la": "Recessus terminales pelvis renalis",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Polos craneal y caudal profundos del seno del riñón izquierdo, en continuidad directa con la pelvis renal.",
+        "descripcion": "Dos conductos ciegos largos, estrechos y de paredes delgadas que discurren desde la pelvis renal central hacia los extremos craneal y caudal de la médula para recoger la orina de los polos renales.",
+        "relaciones": "Atraviesan la grasa del seno renal próximos a las divisiones vasculares interlobares polares del lado izquierdo.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Arteriolas pélvicas procedentes de las ramas polares de la arteria renal.",
+        "inervacion": "Fibras simpáticas y sensitivas del plexo renal.",
+        "funcion": "Drenan la orina de las porciones polares craneal y caudal de la médula (donde la cresta renal no llega directamente) hacia la pelvis central.",
+        "especie": "Rasgo anatómico clásico de los équidos (junto al moco pélvico), ausente en carnívoros con pseudopapilas simples y diferente de los cálices mayores bovinos.",
+        "clinica": "La urografía excretora y la ecografía revelan dilatación precoz de estos recesos en obstrucciones ureterales parciales o nefrolitiasis.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.rin.013-d",
       "es": "Recesos terminales de la pelvis renal (derechos)",
       "la": "Recessus terminales pelvis renalis",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Polos craneal y caudal profundos del seno del riñón derecho, en continuidad directa con la pelvis renal.",
+        "descripcion": "Dos conductos ciegos largos, estrechos y de paredes delgadas que discurren desde la pelvis renal central hacia los extremos craneal y caudal de la médula para recoger la orina de los polos renales.",
+        "relaciones": "Atraviesan la grasa del seno renal próximos a las divisiones vasculares interlobares polares del lado derecho.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Arteriolas pélvicas procedentes de las ramas polares de la arteria renal.",
+        "inervacion": "Fibras simpáticas y sensitivas del plexo renal.",
+        "funcion": "Drenan la orina de las porciones polares craneal y caudal de la médula (donde la cresta renal no llega directamente) hacia la pelvis central.",
+        "especie": "Rasgo anatómico clásico de los équidos (junto al moco pélvico), ausente en carnívoros con pseudopapilas simples y diferente de los cálices mayores bovinos.",
+        "clinica": "La urografía excretora y la ecografía revelan dilatación precoz de estos recesos en obstrucciones ureterales parciales o nefrolitiasis.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.rin.014-i",
       "es": "Arterias interlobares del riñón (izquierdas)",
       "la": "Aa. interlobares renis",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Interior del parénquima del riñón izquierdo, ascendiendo entre las porciones piramidales desde el seno renal hacia la unión corticomedular.",
+        "descripcion": "Ramas arteriales musculares de división directa de las ramas principales de la arteria renal que recorren los límites interpiramidales sin anastomosarse entre sí (arterias terminales).",
+        "relaciones": "Acompañadas por las venas interlobares homónimas y plexos nerviosos simpáticos hacia la base de la médula.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Se originan en las divisiones segmentarias de la arteria renal y se continúan formando las arterias arcuatas.",
+        "inervacion": "Fibras simpáticas adrenérgicas vasoconstrictoras de la adventicia.",
+        "funcion": "Distribuyen el alto flujo sanguíneo renal (~20 % del gasto cardíaco) desde el hilio hacia las zonas corticomedulares.",
+        "especie": "Por su carácter terminal (sin colaterales eficaces entre segmentos), la oclusión de una arteria interlobar provoca un infarto renal en cuña bien delimitado.",
+        "clinica": "Los émbolos sépticos (p. ej. endocarditis o migración larvaria tromboembólica histórica de Strongylus vulgaris) producen infartos corticales triangulares.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.rin.014-d",
       "es": "Arterias interlobares del riñón (derechas)",
       "la": "Aa. interlobares renis",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Interior del parénquima del riñón derecho, ascendiendo entre las porciones piramidales desde el seno renal hacia la unión corticomedular.",
+        "descripcion": "Ramas arteriales musculares de división directa de las ramas principales de la arteria renal que recorren los límites interpiramidales sin anastomosarse entre sí (arterias terminales).",
+        "relaciones": "Acompañadas por las venas interlobares homónimas y plexos nerviosos simpáticos hacia la base de la médula.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Se originan en las divisiones segmentarias de la arteria renal y se continúan formando las arterias arcuatas.",
+        "inervacion": "Fibras simpáticas adrenérgicas vasoconstrictoras de la adventicia.",
+        "funcion": "Distribuyen el alto flujo sanguíneo renal (~20 % del gasto cardíaco) desde el hilio hacia las zonas corticomedulares.",
+        "especie": "Por su carácter terminal (sin colaterales eficaces entre segmentos), la oclusión de una arteria interlobar provoca un infarto renal en cuña bien delimitado.",
+        "clinica": "Los émbolos sépticos (p. ej. endocarditis o migración larvaria tromboembólica histórica de Strongylus vulgaris) producen infartos corticales triangulares.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.rin.015-i",
       "es": "Arterias arcuatas del riñón (izquierdas)",
       "la": "Aa. arcuatae renis",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Unión corticomedular del riñón izquierdo, arqueándose sobre las bases de las pirámides renales.",
+        "descripcion": "Arterias curvas que transcurren paralelas a la superficie renal en la frontera entre corteza y médula, sin formar arcos anastomóticos cerrados completos entre lóbulos vecinos.",
+        "relaciones": "Flanqueadas por las venas arcuatas y en contacto directo con la base de la corteza y las pirámides medulares.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Continuación terminal de las arterias interlobares; emiten radialmente las arterias interlobulares hacia la cápsula.",
+        "inervacion": "Ramos simpáticos vasomotores renales.",
+        "funcion": "Distribuyen el flujo sanguíneo a lo largo de la frontera corticomedular y dan origen a las arterias corticales radiales y a arteriolas hacia glomérulos yuxtamedulares.",
+        "especie": "Se distinguen en la ecografía de alta resolución del caballo como pequeños puntos hiperecogénicos equidistantes en el límite entre la corteza y las pirámides medulares.",
+        "clinica": "Excelente marcador anatómico ecográfico para medir con precisión el grosor cortical renal (normal ~1,5–2,5 cm en caballos adultos).",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.rin.015-d",
       "es": "Arterias arcuatas del riñón (derechas)",
       "la": "Aa. arcuatae renis",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Unión corticomedular del riñón derecho, arqueándose sobre las bases de las pirámides renales.",
+        "descripcion": "Arterias curvas que transcurren paralelas a la superficie renal en la frontera entre corteza y médula, sin formar arcos anastomóticos cerrados completos entre lóbulos vecinos.",
+        "relaciones": "Flanqueadas por las venas arcuatas y en contacto directo con la base de la corteza y las pirámides medulares.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Continuación terminal de las arterias interlobares; emiten radialmente las arterias interlobulares hacia la cápsula.",
+        "inervacion": "Ramos simpáticos vasomotores renales.",
+        "funcion": "Distribuyen el flujo sanguíneo a lo largo de la frontera corticomedular y dan origen a las arterias corticales radiales y a arteriolas hacia glomérulos yuxtamedulares.",
+        "especie": "Se distinguen en la ecografía de alta resolución del caballo como pequeños puntos hiperecogénicos equidistantes en el límite entre la corteza y las pirámides medulares.",
+        "clinica": "Excelente marcador anatómico ecográfico para medir con precisión el grosor cortical renal (normal ~1,5–2,5 cm en caballos adultos).",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.rin.016-i",
       "es": "Arterias interlobulares del riñón (izquierdas)",
       "la": "Aa. interlobulares renis",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Corteza del riñón izquierdo, ascendiendo radialmente desde la unión corticomedular hacia la cápsula fibrosa.",
+        "descripcion": "Arteriolas corticales radiales rectas que emiten perpendicularmente múltiples arteriolas aferentes hacia los corpúsculos renales corticales.",
+        "relaciones": "Rodeadas por los laberintos corticales de túbulos contorneados y acompañadas de las venas interlobulares.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Nacen de las arterias arcuatas y terminan en plexos capilares subcapsulares.",
+        "inervacion": "Control simpático de autorregulación y tono arteriolar renal.",
+        "funcion": "Alimentan todas las nefronas corticales medias y superficiales regulando la presión de perfusión glomerular.",
+        "especie": "Su patrón radial perpendicular a la cápsula permite evaluar la perfusión cortical periférica mediante Doppler color.",
+        "clinica": "La pérdida de señal Doppler en las arterias interlobulares periféricas indica vasoconstricción cortical severa en hipovolemia, endotoxemia o fallo renal agudo.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.rin.016-d",
       "es": "Arterias interlobulares del riñón (derechas)",
       "la": "Aa. interlobulares renis",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Corteza del riñón derecho, ascendiendo radialmente desde la unión corticomedular hacia la cápsula fibrosa.",
+        "descripcion": "Arteriolas corticales radiales rectas que emiten perpendicularmente múltiples arteriolas aferentes hacia los corpúsculos renales corticales.",
+        "relaciones": "Rodeadas por los laberintos corticales de túbulos contorneados y acompañadas de las venas interlobulares.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Nacen de las arterias arcuatas y terminan en plexos capilares subcapsulares.",
+        "inervacion": "Control simpático de autorregulación y tono arteriolar renal.",
+        "funcion": "Alimentan todas las nefronas corticales medias y superficiales regulando la presión de perfusión glomerular.",
+        "especie": "Su patrón radial perpendicular a la cápsula permite evaluar la perfusión cortical periférica mediante Doppler color.",
+        "clinica": "La pérdida de señal Doppler en las arterias interlobulares periféricas indica vasoconstricción cortical severa en hipovolemia, endotoxemia o fallo renal agudo.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.rin.017-i",
       "es": "Venas interlobares del riñón (izquierdas)",
       "la": "Vv. interlobares renis",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Interior del parénquima del riñón izquierdo, descendiendo paralelas a las arterias interlobares hacia el seno y el hilio renal.",
+        "descripcion": "Venas tributarias de pared delgada y sin válvulas que confluyen en el seno renal para formar la vena renal izquierda.",
+        "relaciones": "Acompañan íntimamente a las arterias homónimas entre las pirámides medulares.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Recogen sangre venosa de las venas arcuatas y de las vénulas rectas ascendentes medulares.",
+        "inervacion": "Escasa inervación vasomotora venosa perivascular.",
+        "funcion": "Retorno venoso del filtrado sanguíneo reabsorbido hacia la vena renal y la vena cava caudal.",
+        "especie": "A diferencia de las arterias, el sistema venoso intrarrenal equino presenta abundantes anastomosis entre venas vecinas (especialmente en las arcuatas).",
+        "clinica": "Evaluadas en necropsia y Doppler venoso en casos de trombosis de la vena renal o congestión venosa severa por fallo cardíaco derecho.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.rin.017-d",
       "es": "Venas interlobares del riñón (derechas)",
       "la": "Vv. interlobares renis",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Interior del parénquima del riñón derecho, descendiendo paralelas a las arterias interlobares hacia el seno y el hilio renal.",
+        "descripcion": "Venas tributarias de pared delgada y sin válvulas que confluyen en el seno renal para formar la vena renal derecha.",
+        "relaciones": "Acompañan íntimamente a las arterias homónimas entre las pirámides medulares.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Recogen sangre venosa de las venas arcuatas y de las vénulas rectas ascendentes medulares.",
+        "inervacion": "Escasa inervación vasomotora venosa perivascular.",
+        "funcion": "Retorno venoso del filtrado sanguíneo reabsorbido hacia la vena renal y la vena cava caudal.",
+        "especie": "A diferencia de las arterias, el sistema venoso intrarrenal equino presenta abundantes anastomosis entre venas vecinas (especialmente en las arcuatas).",
+        "clinica": "Evaluadas en necropsia y Doppler venoso en casos de trombosis de la vena renal o congestión venosa severa por fallo cardíaco derecho.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.rin.018-i",
       "es": "Venas arcuatas del riñón (izquierdas)",
       "la": "Vv. arcuatae renis",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Unión corticomedular del riñón izquierdo, acompañando a las arterias arcuatas.",
+        "descripcion": "Venas arqueadas con numerosas anastomosis que forman verdaderos arcos venosos intercomunicados sobre la base de las pirámides.",
+        "relaciones": "Adosadas a las arterias arcuatas entre la corteza profunda y la médula externa.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Reciben las venas interlobulares corticales y parte de los vasos rectos ascendentes; drenan en las venas interlobares.",
+        "inervacion": "Fibras simpáticas adventiciales mínimas.",
+        "funcion": "Colectan de manera redundante la sangre venosa de las nefronas corticales y medulares evitando estasis focales.",
+        "especie": "Sus múltiples anastomosis protegen al parénquima frente a obstrucciones venosas parciales a diferencia del patrón terminal arterial.",
+        "clinica": "Contribuyen a la congestión corticomedular visible en nefropatías tóxicas o choque endotóxico equino.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.rin.018-d",
       "es": "Venas arcuatas del riñón (derechas)",
       "la": "Vv. arcuatae renis",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Unión corticomedular del riñón derecho, acompañando a las arterias arcuatas.",
+        "descripcion": "Venas arqueadas con numerosas anastomosis que forman verdaderos arcos venosos intercomunicados sobre la base de las pirámides.",
+        "relaciones": "Adosadas a las arterias arcuatas entre la corteza profunda y la médula externa.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Reciben las venas interlobulares corticales y parte de los vasos rectos ascendentes; drenan en las venas interlobares.",
+        "inervacion": "Fibras simpáticas adventiciales mínimas.",
+        "funcion": "Colectan de manera redundante la sangre venosa de las nefronas corticales y medulares evitando estasis focales.",
+        "especie": "Sus múltiples anastomosis protegen al parénquima frente a obstrucciones venosas parciales a diferencia del patrón terminal arterial.",
+        "clinica": "Contribuyen a la congestión corticomedular visible en nefropatías tóxicas o choque endotóxico equino.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.rin.019-i",
       "es": "Venas interlobulares del riñón (izquierdas)",
       "la": "Vv. interlobulares renis",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Corteza del riñón izquierdo, descendiendo radialmente desde las venas estrelladas subcapsulares hasta las venas arcuatas.",
+        "descripcion": "Venas corticales rectas que drenan la red capilar peritubular de toda la corteza renal hacia la unión corticomedular.",
+        "relaciones": "Discurren paralelas a las arterias interlobulares en el laberinto cortical.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Originadas de la confluencia de capilares peritubulares y vénulas estrelladas bajo la cápsula.",
+        "inervacion": "Sin regulación simpática significativa directa.",
+        "funcion": "Devuelven a la circulación venosa el volumen filtrado reabsorbido por los túbulos contorneados proximales y distales.",
+        "especie": "Su patrón radial junto a las venas estrelladas superficiales da el aspecto veteado característico a la superficie decapsulada en congestión renal.",
+        "clinica": "La congestión venosa marcada en las vénulas subcapsulares e interlobulares es un hallazgo clásico de necropsia en cólicos con endotoxemia severa.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.rin.019-d",
       "es": "Venas interlobulares del riñón (derechas)",
       "la": "Vv. interlobulares renis",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Corteza del riñón derecho, descendiendo radialmente desde las venas estrelladas subcapsulares hasta las venas arcuatas.",
+        "descripcion": "Venas corticales rectas que drenan la red capilar peritubular de toda la corteza renal hacia la unión corticomedular.",
+        "relaciones": "Discurren paralelas a las arterias interlobulares en el laberinto cortical.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Originadas de la confluencia de capilares peritubulares y vénulas estrelladas bajo la cápsula.",
+        "inervacion": "Sin regulación simpática significativa directa.",
+        "funcion": "Devuelven a la circulación venosa el volumen filtrado reabsorbido por los túbulos contorneados proximales y distales.",
+        "especie": "Su patrón radial junto a las venas estrelladas superficiales da el aspecto veteado característico a la superficie decapsulada en congestión renal.",
+        "clinica": "La congestión venosa marcada en las vénulas subcapsulares e interlobulares es un hallazgo clásico de necropsia en cólicos con endotoxemia severa.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.ure.001-i",
       "es": "Uréter (izquierdo)",
       "la": "Ureter",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Desciende retroperitonealmente desde el hilio del riñón izquierdo en la región sublumbar caudal (L1–L2) hacia la entrada pélvica, cruza ventromedialmente sobre el borde de la pelvis y perfora oblicuamente la cara dorsolateral del cuello de la **vejiga urinaria** en el lado izquierdo.",
+        "descripcion": "Conducto fibromuscular liso tubular par de pared gruesa (~6–8 mm de diámetro y ~70–80 cm de longitud en el caballo adulto), revestido internamente por epitelio de transición (urotelio) con abundantes glándulas mucosas en su segmento proximal.",
+        "relaciones": "En su trayecto abdominal izquierdo corre medialmente al riñón izquierdo y lateralmente a la aorta abdominal sobre los músculos psoas, cruzado ventralmente por los vasos gonadales (testiculares u ováricos) izquierdos; al entrar en la pelvis discurre en el pliegue urogenital o ligamento ancho lateral (en la yegua) hasta el trígono vesical, cruzando dorsalmente al conducto deferente en el semental.",
+        "accidentes": "Presenta origen infundibular en la pelvis renal izquierda, trayecto sublumbar retroperitoneal, porción pélvica en el ligamento lateral vesical y una entrada oblicua intramural (**orificio ureteral izquierdo**) en el trígono de la vejiga (válvula fisiológica antirreflujo).",
+        "articulaciones": "No forma articulación sinovial directa; discurre libremente en el plano subperitoneal sublumbar y pélvico.",
+        "inserciones": "Sin inserciones musculares esqueléticas; su musculatura lisa longitudinal y circular se continúa en el trígono vesical.",
+        "irrigacion": "Ramas ureterales de la arteria renal izquierda (tercio craneal), arteria ilíaca interna/umbilical y arteria prostática/vaginal (tercio caudal pélvico).",
+        "inervacion": "Fibras autónomas del plexo renal, plexo intermesentérico y plexo pélvico (la peristalsis es esencialmente miogénica, modulada por fibras simpáticas/parasimpáticas y rica inervación nociceptiva).",
+        "funcion": "Conduce activamente la orina viscosa rica en moco desde la pelvis renal izquierda hasta la vejiga urinaria mediante ondas peristálticas unidireccionales e impide el reflujo vesicoureteral al colapsarse su trayecto intramural cuando la vejiga se llena.",
+        "especie": "En *Equus caballus* su mucosa proximal produce moco rico en mucopolisacáridos y su entrada oblicua en la pared vesical previene el reflujo durante las altas presiones miccionales.",
+        "clinica": "Sede de **ureterolitiasis** (obstrucción por cálculos de carbonato cálcico con cólico sublumbar agudo e hidronefrosis ipsilateral), **ureteritis** o **ectopia ureteral congénita** (incontinencia urinaria continua en potrancas con desembocadura vaginal/uretral del uréter izquierdo).",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-24",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman) para cobertura 3D integral. Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.ure.001-d",
       "es": "Uréter (derecho)",
       "la": "Ureter",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Desciende retroperitonealmente desde la pelvis del riñón derecho (a nivel de L1, ligeramente más largo en recorrido abdominal que el izquierdo por la posición más craneal del riñón derecho) a lo largo del borde lateral de la **vena cava caudal**, entrando en la cavidad pélvica para desembocar oblicuamente en el lado derecho del trígono de la **vejiga urinaria**.",
+        "descripcion": "Conducto fibromuscular tubular par (~75–85 cm de longitud en el caballo adulto) tapizado por urotelio plegado y rodeado por túnica muscular lisa en capas espirales/longitudinales y adventicia.",
+        "relaciones": "En la región sublumbar derecha discurre adherido ventralmente a los músculos psoas y paralelo al borde derecho de la vena cava caudal, dorsal al ciego y duodeno; cruza los vasos ilíacos externos/internos derechos en el estrecho pélvico y se introduce en el pliegue lateral vesical hasta perforar la pared dorsal derecha de la vejiga.",
+        "accidentes": "Presenta porción abdominal retroperitoneal, estrechamiento pélvico y segmento intramural oblicuo que finaliza en el **orificio ureteral derecho** dentro del trígono vesical.",
+        "articulaciones": "No forma articulación sinovial directa.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas.",
+        "irrigacion": "Ramas ureterales de la arteria renal derecha, arteria testicular/ovárica derecha y arterias vesical craneal/umbilical y prostática o vaginal.",
+        "inervacion": "Plexo renal derecho, plexo intermesentérico y plexo pélvico derecho (aferencias viscerales dolorosas ante dilatación aguda).",
+        "funcion": "Transporta la orina desde el riñón derecho hacia la vejiga por peristalsis continua y sella pasivamente su extremo distal durante la distensión vesical para evitar infecciones ascendentes.",
+        "especie": "Su recorrido total supera ligeramente al izquierdo en *Equus caballus* debido a la topografía más craneal del riñón derecho bajo las costillas.",
+        "clinica": "Evaluado por cistoscopia transuretral (observándose la eyección rítmica de chorros de orina desde el orificio ureteral derecho para diferenciar hematuria o piuria unilateral derecha vs izquierda) y susceptible de ruptura iatrogénica o congénita (uréter ectópico).",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-24",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman) para cobertura 3D integral. Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.ure.002-i",
       "es": "Parte abdominal del uréter (izquierda)",
       "la": "Pars abdominalis ureteris",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Espacio retroperitoneal sublumbar del lado izquierdo, desde la salida de la pelvis renal en el hilio hasta el borde craneal de la cavidad pélvica.",
+        "descripcion": "Conducto fibromuscular liso retroperitoneal (aprox. 5–8 mm de diámetro externo) revestido de urotelio, rico en glándulas mucosas ureterales solo en su tercio proximal.",
+        "relaciones": "Descansa ventralmente al músculo psoas menor y cruza dorsalmente los vasos gonadales y la arteria ilíaca externa antes de entrar en la pelvis; el derecho sigue paralelo al borde lateral de la vena cava caudal y el izquierdo a la aorta abdominal.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Rama ureteral craneal de la arteria renal y ramas segmentarias de arteria gonadal y aorta.",
+        "inervacion": "Plexos autónomos ureterales (marcapasos miógeno en la pelvis renal modulado por fibras simpáticas L1–L4 y parasimpáticas).",
+        "funcion": "Transporte unidireccional de orina y moco pélvico desde la pelvis renal hacia la parte pélvica del uréter mediante ondas peristálticas.",
+        "especie": "En los primeros centímetros de su porción abdominal contiene glándulas mucosas tubuloalveolares similares a las de la pelvis renal equina.",
+        "clinica": "Los ureterolitos suelen impactarse en su origen abdominal o al cruzar la entrada pélvica, produciendo cólico persistente, hidrouréter e hidronefrosis.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.ure.002-d",
       "es": "Parte abdominal del uréter (derecha)",
       "la": "Pars abdominalis ureteris",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Espacio retroperitoneal sublumbar del lado derecho, desde la salida de la pelvis renal en el hilio hasta el borde craneal de la cavidad pélvica.",
+        "descripcion": "Conducto fibromuscular liso retroperitoneal (aprox. 5–8 mm de diámetro externo) revestido de urotelio, rico en glándulas mucosas ureterales solo en su tercio proximal.",
+        "relaciones": "Descansa ventralmente al músculo psoas menor y cruza dorsalmente los vasos gonadales y la arteria ilíaca externa antes de entrar en la pelvis; el derecho sigue paralelo al borde lateral de la vena cava caudal y el izquierdo a la aorta abdominal.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Rama ureteral craneal de la arteria renal y ramas segmentarias de arteria gonadal y aorta.",
+        "inervacion": "Plexos autónomos ureterales (marcapasos miógeno en la pelvis renal modulado por fibras simpáticas L1–L4 y parasimpáticas).",
+        "funcion": "Transporte unidireccional de orina y moco pélvico desde la pelvis renal hacia la parte pélvica del uréter mediante ondas peristálticas.",
+        "especie": "En los primeros centímetros de su porción abdominal contiene glándulas mucosas tubuloalveolares similares a las de la pelvis renal equina.",
+        "clinica": "Los ureterolitos suelen impactarse en su origen abdominal o al cruzar la entrada pélvica, produciendo cólico persistente, hidrouréter e hidronefrosis.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.ure.003-i",
       "es": "Parte pélvica del uréter (izquierda)",
       "la": "Pars pelvina ureteris",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Cavidad pélvica del lado izquierdo, ingresando en los pliegues genitales (yegua: ligamento ancho) hasta alcanzar la cara dorsolateral del cuello de la vejiga.",
+        "descripcion": "Segmento distal más corto del uréter, con pared muscular gruesa orientada oblicuamente al atravesar la túnica muscular vesical (porción intramural valvular).",
+        "relaciones": "En el semental discurre dorsal a los conductos deferentes y glándulas vesiculares dentro del pliegue urogenital; en la yegua se sitúa en el borde medial del ligamento ancho próximo a la pared lateral vaginal.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Rama ureteral caudal procedente de la arteria prostática (macho) o arteria vaginal (yegua) y de la arteria vesical craneal.",
+        "inervacion": "Plexo pélvico (fibras parasimpáticas S2–S4 y simpáticas hipogástricas).",
+        "funcion": "Completa el transporte peristáltico hacia la vejiga e impide el reflujo vesicoureteral mediante la compresión pasiva de su trayecto intramural oblicuo.",
+        "especie": "Palpable por exploración transrectal en caballos adultos cuando se halla dilatado por cálculo o ureterocele.",
+        "clinica": "Los desgarros o ligaduras accidentales durante cirugías pélvicas o la ectopia ureteral congénita (en potrancas con incontinencia urinaria desde el nacimiento) afectan principalmente esta porción distal.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.ure.003-d",
       "es": "Parte pélvica del uréter (derecha)",
       "la": "Pars pelvina ureteris",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Cavidad pélvica del lado derecho, ingresando en los pliegues genitales (yegua: ligamento ancho) hasta alcanzar la cara dorsolateral del cuello de la vejiga.",
+        "descripcion": "Segmento distal más corto del uréter, con pared muscular gruesa orientada oblicuamente al atravesar la túnica muscular vesical (porción intramural valvular).",
+        "relaciones": "En el semental discurre dorsal a los conductos deferentes y glándulas vesiculares dentro del pliegue urogenital; en la yegua se sitúa en el borde medial del ligamento ancho próximo a la pared lateral vaginal.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Rama ureteral caudal procedente de la arteria prostática (macho) o arteria vaginal (yegua) y de la arteria vesical craneal.",
+        "inervacion": "Plexo pélvico (fibras parasimpáticas S2–S4 y simpáticas hipogástricas).",
+        "funcion": "Completa el transporte peristáltico hacia la vejiga e impide el reflujo vesicoureteral mediante la compresión pasiva de su trayecto intramural oblicuo.",
+        "especie": "Palpable por exploración transrectal en caballos adultos cuando se halla dilatado por cálculo o ureterocele.",
+        "clinica": "Los desgarros o ligaduras accidentales durante cirugías pélvicas o la ectopia ureteral congénita (en potrancas con incontinencia urinaria desde el nacimiento) afectan principalmente esta porción distal.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.ure.004-i",
       "es": "Ostio ureteral (izquierdo)",
       "la": "Ostium ureteris",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Mucosa dorsal del cuello vesical, en los ángulos craneolaterales del trígono de la vejiga del lado izquierdo.",
+        "descripcion": "Orificio en forma de hendidura oblicua rodeado por un pequeño rodete mucoso valvular sin esfínter anatómico estriado.",
+        "relaciones": "Situado simétricamente respecto al contralateral formando la base del trígono vesical; ambos convergen distalmente hacia el ostio uretral interno.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Plexo mucoso de la arteria vesical caudal/vaginal/prostática.",
+        "inervacion": "Plexo vesical submucoso y aferencias sensitivas pélvicas.",
+        "funcion": "Desembocadura rítmica en chorros de orina desde cada uréter hacia la luz vesical, actuando como válvula antirreflujo durante la micción.",
+        "especie": "En la cistoscopia equina normal ambos ostios son claramente identificables en el techo del cuello vesical emitiendo chorros periódicos de orina turbia rica en moco.",
+        "clinica": "La cistoscopia permite confirmar hematuria unilateral (p. ej., pielonefritis idiopática o adenocarcinoma renal) observando de cuál de los dos ostios ureterales emerge sangre.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.ure.004-d",
       "es": "Ostio ureteral (derecho)",
       "la": "Ostium ureteris",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Mucosa dorsal del cuello vesical, en los ángulos craneolaterales del trígono de la vejiga del lado derecho.",
+        "descripcion": "Orificio en forma de hendidura oblicua rodeado por un pequeño rodete mucoso valvular sin esfínter anatómico estriado.",
+        "relaciones": "Situado simétricamente respecto al contralateral formando la base del trígono vesical; ambos convergen distalmente hacia el ostio uretral interno.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Plexo mucoso de la arteria vesical caudal/vaginal/prostática.",
+        "inervacion": "Plexo vesical submucoso y aferencias sensitivas pélvicas.",
+        "funcion": "Desembocadura rítmica en chorros de orina desde cada uréter hacia la luz vesical, actuando como válvula antirreflujo durante la micción.",
+        "especie": "En la cistoscopia equina normal ambos ostios son claramente identificables en el techo del cuello vesical emitiendo chorros periódicos de orina turbia rica en moco.",
+        "clinica": "La cistoscopia permite confirmar hematuria unilateral (p. ej., pielonefritis idiopática o adenocarcinoma renal) observando de cuál de los dos ostios ureterales emerge sangre.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.ure.005-i",
       "es": "Pliegue ureteral (izquierdo)",
       "la": "Plica ureterica",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Superficie mucosa interna dorsal de la vejiga, extendiéndose oblicuamente desde cada ostio ureteral del lado izquierdo hacia el cuello vesical.",
+        "descripcion": "Cresta mucosa elevada formada por el trayecto submucoso del uréter intramural antes de converger en el vértice del trígono (donde forma la cresta uretral dorsal).",
+        "relaciones": "Delimita los bordes laterales del trígono de la vejiga sobre la túnica muscular detrusora.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Arterias vesicales craneales y caudales (ramas de umbilical y pudenda interna).",
+        "inervacion": "Fibras sensitivas y autónomas del plexo pélvico.",
+        "funcion": "Guía el trayecto valvular intramural del uréter para asegurar el cierre hermético del ostio al aumentar la presión intravesical.",
+        "especie": "Visible de manera nítida mediante endoscopia transuretral tanto en yeguas como en machos.",
+        "clinica": "Punto de evaluación endoscópica para diagnosticar uréteres ectópicos submucosos que atraviesan el trígono sin abrirse en él, desembocando en uretra o vagina.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.ure.005-d",
       "es": "Pliegue ureteral (derecho)",
       "la": "Plica ureterica",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Superficie mucosa interna dorsal de la vejiga, extendiéndose oblicuamente desde cada ostio ureteral del lado derecho hacia el cuello vesical.",
+        "descripcion": "Cresta mucosa elevada formada por el trayecto submucoso del uréter intramural antes de converger en el vértice del trígono (donde forma la cresta uretral dorsal).",
+        "relaciones": "Delimita los bordes laterales del trígono de la vejiga sobre la túnica muscular detrusora.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Arterias vesicales craneales y caudales (ramas de umbilical y pudenda interna).",
+        "inervacion": "Fibras sensitivas y autónomas del plexo pélvico.",
+        "funcion": "Guía el trayecto valvular intramural del uréter para asegurar el cierre hermético del ostio al aumentar la presión intravesical.",
+        "especie": "Visible de manera nítida mediante endoscopia transuretral tanto en yeguas como en machos.",
+        "clinica": "Punto de evaluación endoscópica para diagnosticar uréteres ectópicos submucosos que atraviesan el trígono sin abrirse en él, desembocando en uretra o vagina.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.vej.001",
       "es": "Vejiga urinaria",
       "la": "Vesica urinaria",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Suelo de la cavidad pélvica sobre los huesos pubis e isquion en estado vacío (órgano pélvico en el caballo adulto), proyectándose cranealmente hacia la pared abdominal ventral por encima de la línea alba cuando se distiende con orina.",
+        "descripcion": "Órgano musculomembranoso hueco piriforme impar de paredes gruesas altamente distensibles (capacidad fisiológica equina de ~2 a 4 litros), constituido por vértice craneal redondeado (con la cicatriz fibrosa del uraco), cuerpo expansible y cuello estrecho caudal continuado en la uretra; compuesto por urotelio plegado, lámina propia, potente **músculo detrusor** liso en tres capas y cubierta serosa peritoneal en su mitad craneal.",
+        "relaciones": "Ventralmente reposa sobre la sínfisis pélvica y pared abdominal caudal; dorsalmente se relaciona con el **recto** y pliegue genital (ampollas deferenciales/próstata/vesículas seminales en el semental) o con el **cuerpo uterino, cuello uterino y vagina** en la yegua; lateralmente fijada por los ligamentos laterales de la vejiga (conteniendo los ligamentos redondos vesicales/arterias umbilicales) y ventralmente por el ligamento mediano.",
+        "accidentes": "En la superficie interna dorsal del cuello presenta el **trígono vesical** liso triangular delimitado por los dos orificios ureterales craneales y el **orificio uretral interno** caudalmente.",
+        "articulaciones": "No forma articulación sinovial directa; estabilizada por los ligamentos vesicales mediano y laterales (izquierdo y derecho).",
+        "inserciones": "Sin inserciones musculares esqueléticas; su musculatura lisa forma el músculo detrusor y el esfínter vesical interno alrededor del cuello.",
+        "irrigacion": "Arterias vesicales craneales (de la porción permeable/umbilical de la arteria pudenda interna) y arterias vesicales caudales (de las arterias prostática o vaginal).",
+        "inervacion": "Doble inervación autónoma vía **plexo pélvico**: parasimpática (nervios pélvicos S2–S4, contracción del detrusor y micción), simpática (nervio hipogástrico L1–L4, relajación del detrusor y cierre del esfínter interno para continencia) y aferencias de estiramiento.",
+        "funcion": "Almacena de manera continente la orina producida continuamente por los riñones y la expulsa periódicamente mediante la contracción coordinada del músculo detrusor durante la micción.",
+        "especie": "En *Equus caballus* la vejiga vacía es enteramente intrapélvica y se palpa fácilmente por vía transrectal como una masa piriforme del tamaño de un puño; la orina equina acumulada suele contener abundante sedimento espeso de carbonato cálcico y moco («arena vesical» fisiológica leve).",
+        "clinica": "Asiento clínico frecuente de **urolitiasis (cálculos vesicales espiculados de carbonato cálcico)** con hematuria al final de la micción, **sabulosis vesical** (acumulación masiva de barro cálcico con incontinencia por rebosamiento), **rotura vesical en potros neonatos** (uroperitoneo tras parto difícil), **eversión o prolapso vesical en yeguas** postparto y parálisis vesical neurogénica por EHV-1 o toxicidad por sorgo.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-24",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman) para cobertura 3D integral. Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.vej.002",
       "es": "Vértice de la vejiga",
       "la": "Apex vesicae",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Extremo craneal redondeado de la vejiga urinaria, proyectado hacia el borde craneal del pubis en reposo y hacia el abdomen ventral al llenarse.",
+        "descripcion": "Polo ciego anterior de la vejiga recubierto íntegramente por peritoneo visceral, donde converge una cicatriz fibrosa central vestigio del uraco fetal.",
+        "relaciones": "En reposo descansa sobre el suelo pélvico craneal (sínfisis púbica); distendida contacta con las asas del colon menor y yeyuno/íleon.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Arterias vesicales craneales (ramas de las arterias umbilicales permeables en su porción proximal).",
+        "inervacion": "Plexo pélvico autónomo y fibras aferentes viscerales de distensión.",
+        "funcion": "Zona de máxima distensibilidad craneal para almacenar el volumen creciente de orina (hasta ~3–4 litros antes de la micción).",
+        "especie": "En el potro recién nacido conserva el resto del uraco en continuidad hacia el anillo umbilical.",
+        "clinica": "Es el sitio más frecuente de rotura vesical traumática durante el parto en potros neonatos (uroperitoneo neonatal) y de persistencia del uraco permeable.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.vej.003",
       "es": "Cuerpo de la vejiga",
       "la": "Corpus vesicae",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Porción media y más amplia de la vejiga urinaria, entre el vértice craneal y el cuello caudal, sobre la sínfisis púbica.",
+        "descripcion": "Saco musculomembranoso muy distensible compuesto por mucosa urotelial plegada en reposo, submucosa laxa, músculo detrusor en tres capas entrelazadas y serosa peritoneal craneodorsalmente.",
+        "relaciones": "Dorsalmente se relaciona con el recto/pliegue genital (macho) o el cuerpo uterino y vagina craneal (yegua); lateralmente está fijado por los ligamentos laterales vesicales.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Arterias vesicales craneales (de la umbilical) y ramas de las arterias vesicales caudales (prostática/vaginal).",
+        "inervacion": "Inervación parasimpática pélvica (contracción), simpática hipogástrica (relajación del cuerpo durante el llenado) y somática/sensitiva.",
+        "funcion": "Reservorio extensible de almacenamiento urinario a baja presión y cámara propulsora durante la micción.",
+        "especie": "En el caballo adulto vacío queda totalmente intrapélvico y contraído formando un órgano piriforme firme del tamaño de un puño; al llenarse rebasa el borde craneal del pubis.",
+        "clinica": "Palpable por vía transrectal; el acúmulo de sedimento calcáreo espeso («sabulosis vesical») se deposita en el suelo del cuerpo vesical en caballos con parálisis vesical o neuritis de la cauda equina.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.vej.004",
       "es": "Cuello de la vejiga",
       "la": "Cervix vesicae",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Extremo caudal estrechado de la vejiga en el suelo de la cavidad pélvica, en transición continua con la uretra.",
+        "descripcion": "Segmento cónico con musculatura lisa densa organizada en asas circulares que conforman el esfínter vesical interno funcional, desprovisto de cubierta peritoneal en gran parte de su circunferencia.",
+        "relaciones": "Ventralmente descansa sobre el hueso pubis; dorsalmente se relaciona en la yegua con la pared ventral de la vagina y en el macho con las glándulas vesiculares y próstata.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Arterias vesicales caudales (de las arterias vaginal o prostática).",
+        "inervacion": "Fuerte inervación simpática alfa-adrenérgica (nervio hipogástrico) que mantiene la continencia en reposo.",
+        "funcion": "Mantiene cerrado el paso hacia la uretra durante la fase de almacenamiento y se relaja coordinadamente al iniciarse el reflejo miccional.",
+        "especie": "En el caballo macho está abrazado inmediatamente caudalmente por el istmo de la próstata.",
+        "clinica": "La disfunción del tono simpático o el traumatismo nervioso sacro-coccígeo provoca goteo urinario continuo por rebosamiento o parálisis de la micción (sabulosis cística).",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.vej.005",
       "es": "Trígono de la vejiga",
       "la": "Trigonum vesicae",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Área triangular lisa sobre la cara mucosa dorsal del cuello de la vejiga urinaria.",
+        "descripcion": "Región triangular delimitada dorsalmente por los dos ostios ureterales y ventralmente por el ostio uretral interno, donde la mucosa carece de pliegues por adherirse directamente a la túnica muscular.",
+        "relaciones": "Limitado lateralmente por los pliegues ureterales que convergen en la cresta uretral.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Arterias vesicales caudales y ramas ureterales distales.",
+        "inervacion": "Alta densidad de terminaciones sensitivas de presión y llenado pertenecientes a los nervios pélvicos e hipogástricos.",
+        "funcion": "Canaliza los chorros de orina hacia la salida uretral evitando la formación de bolsas mucosas obstructivas durante el vaciado.",
+        "especie": "Su mucosa lisa contrasta nítidamente con el resto de la vejiga contraída de pliegues marcados durante la cistoscopia.",
+        "clinica": "Zona crítica de examen cistoscópico en pacientes con hematuria o incontinencia por uréteres ectópicos.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.vej.006",
       "es": "Músculo detrusor de la vejiga",
       "la": "M. detrusor vesicae",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Pared media (túnica muscular) completa del cuerpo y vértice de la vejiga urinaria.",
+        "descripcion": "Malla tridimensional gruesa de músculo liso organizada en estratos plexiformes externo longitudinal, medio circular y interno longitudinal que actúan como un sincitio funcional.",
+        "relaciones": "Situado entre la tela submucosa interna y la serosa peritoneal o adventicia externa.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Red intramuscular derivada de las arterias vesicales craneales y caudales.",
+        "inervacion": "Fibras parasimpáticas colinérgicas de los nervios pélvicos (S2–S4) responsables de su contracción vigorosa; receptores beta-adrenérgicos simpáticos facilitan su relajación durante el llenado.",
+        "funcion": "Permite la acomodación elástica durante el llenado y ejerce la contracción sostenida que vacía completamente la vejiga en la micción.",
+        "especie": "El espesor muscular del detrusor equino aumenta notablemente en cistitis crónicas y urolitiasis vesical.",
+        "clinica": "La atonía del detrusor es característica de la mieloencefalopatía por herpesvirus equino tipo 1 (EHV-1), polineuritis equi o intoxicación por sorgo sudán.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.vej.007-i",
       "es": "Ligamento lateral de la vejiga (izquierdo)",
       "la": "Ligamentum vesicae laterale",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Cavidad pélvica del lado izquierdo, extendiéndose desde el borde lateral de la vejiga hacia la pared pélvica lateral y el pliegue urogenital.",
+        "descripcion": "Repliegue peritoneal triangular par que contiene en su borde libre el ligamento redondo de la vejiga (arteria umbilical obliterada).",
+        "relaciones": "Conecta la pared lateral vesical con el peritoneo pélvico parietal y, en la hembra, se relaciona dorsalmente con el ligamento ancho uterino.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Ramas de la arteria vesical craneal y vasos umbilicales residuales.",
+        "inervacion": "Ramos peritoneales autónomos del plexo pélvico.",
+        "funcion": "Suspende y estabiliza lateralmente la vejiga en la cavidad pélvica evitando su torsión o desplazamiento excesivo.",
+        "especie": "A diferencia de otros mamíferos, en el caballo adulto su borde libre alberga una arteria umbilical parcialmente permeable proximalmente que origina las arterias vesicales craneales.",
+        "clinica": "Punto de referencia en laparoscopia pélvica equina para localizar los restos umbilicales internos en potros con infección ascendente del ombligo (onfaloflebitis/onfaloarteritis).",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.vej.007-d",
       "es": "Ligamento lateral de la vejiga (derecho)",
       "la": "Ligamentum vesicae laterale",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Cavidad pélvica del lado derecho, extendiéndose desde el borde lateral de la vejiga hacia la pared pélvica lateral y el pliegue urogenital.",
+        "descripcion": "Repliegue peritoneal triangular par que contiene en su borde libre el ligamento redondo de la vejiga (arteria umbilical obliterada).",
+        "relaciones": "Conecta la pared lateral vesical con el peritoneo pélvico parietal y, en la hembra, se relaciona dorsalmente con el ligamento ancho uterino.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Ramas de la arteria vesical craneal y vasos umbilicales residuales.",
+        "inervacion": "Ramos peritoneales autónomos del plexo pélvico.",
+        "funcion": "Suspende y estabiliza lateralmente la vejiga en la cavidad pélvica evitando su torsión o desplazamiento excesivo.",
+        "especie": "A diferencia de otros mamíferos, en el caballo adulto su borde libre alberga una arteria umbilical parcialmente permeable proximalmente que origina las arterias vesicales craneales.",
+        "clinica": "Punto de referencia en laparoscopia pélvica equina para localizar los restos umbilicales internos en potros con infección ascendente del ombligo (onfaloflebitis/onfaloarteritis).",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.vej.008",
       "es": "Ligamento medio de la vejiga",
       "la": "Ligamentum vesicae medianum",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Plano mediano ventral entre la cara ventral de la vejiga y el suelo pelviano/línea alba abdominal caudal.",
+        "descripcion": "Lámina peritoneal sagital media que contiene escasas fibras elásticas y conectivas (vestigio del mesenterio ventral embrionario del uraco).",
+        "relaciones": "Se extiende desde la cara ventral del vértice y cuerpo vesical hasta el suelo de la sínfisis púbica y pared abdominal ventral caudal.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Pequeños capilares peritoneales de los vasos epigástricos caudales y vesicales.",
+        "inervacion": "Aferencias parietales del peritoneo pélvico-abdominal.",
+        "funcion": "Fija sagitalmente la vejiga al suelo pélvico y previene desplazamientos laterales anómalos.",
+        "especie": "En el potro recién nacido suele presentarse bien definido y continuo hacia el uraco abdominal.",
+        "clinica": "En hernia vesical o retroflexión vesical perineal debe seccionarse o reposicionarse respetando la irrigación ventral del cuello.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.vej.009-i",
       "es": "Ligamento redondo de la vejiga (izquierdo)",
       "la": "Ligamentum teres vesicae",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Borde libre craneal del ligamento lateral de la vejiga del lado izquierdo, desde la arteria ilíaca interna hasta el vértice vesical.",
+        "descripcion": "Cordón fibroso grueso y firme formado por la porción distal obliterada de la arteria umbilical fetal; la porción proximal permanece permeable irrigando la vejiga.",
+        "relaciones": "Transcurre retroperitonealmente hacia el vértice de la vejiga y en el feto continuaba hasta el anillo umbilical junto al uraco.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Su segmento proximal permeable constituye el tronco de origen de las arterias vesicales craneales.",
+        "inervacion": "Plexo nervioso periarterial umbilical residual.",
+        "funcion": "Soporte ligamentoso lateral del vértice vesical y vía vascular craneal para el órgano.",
+        "especie": "En potros neonatos conserva luz permeable trombosándose progresivamente tras el nacimiento; su infección origina onfaloarteritis bilateral.",
+        "clinica": "La ecografía umbilical en potros debe explorar el trayecto bilateral de las arterias umbilicales hacia la vejiga para descartar abscesos ocultos causantes de septicemia.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.vej.009-d",
       "es": "Ligamento redondo de la vejiga (derecho)",
       "la": "Ligamentum teres vesicae",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Borde libre craneal del ligamento lateral de la vejiga del lado derecho, desde la arteria ilíaca interna hasta el vértice vesical.",
+        "descripcion": "Cordón fibroso grueso y firme formado por la porción distal obliterada de la arteria umbilical fetal; la porción proximal permanece permeable irrigando la vejiga.",
+        "relaciones": "Transcurre retroperitonealmente hacia el vértice de la vejiga y en el feto continuaba hasta el anillo umbilical junto al uraco.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Su segmento proximal permeable constituye el tronco de origen de las arterias vesicales craneales.",
+        "inervacion": "Plexo nervioso periarterial umbilical residual.",
+        "funcion": "Soporte ligamentoso lateral del vértice vesical y vía vascular craneal para el órgano.",
+        "especie": "En potros neonatos conserva luz permeable trombosándose progresivamente tras el nacimiento; su infección origina onfaloarteritis bilateral.",
+        "clinica": "La ecografía umbilical en potros debe explorar el trayecto bilateral de las arterias umbilicales hacia la vejiga para descartar abscesos ocultos causantes de septicemia.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.vej.010",
       "es": "Ostio uretral interno",
       "la": "Ostium urethrae internum",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Vértice caudal del trígono vesical, en la transición entre el cuello de la vejiga y el inicio de la uretra pélvica.",
+        "descripcion": "Abertura circular o estrellada tapizada de mucosa plegada y rodeada por músculo liso cervical (esfínter funcional interno).",
+        "relaciones": "Marca el extremo distal del trígono vesical y el origen de la cresta uretral en el macho.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Arterias vesicales caudales (prostática / vaginal).",
+        "inervacion": "Fibras simpáticas alfa-adrenérgicas (cierre tónico) y parasimpáticas pélvicas (apertura).",
+        "funcion": "Puerta de salida de la orina hacia la uretra, permaneciendo cerrada durante el llenado vesical y durante la eyaculación en el semental.",
+        "especie": "En el caballo macho su cierre simpático vigoroso evita la eyaculación retrógrada hacia la vejiga.",
+        "clinica": "Referencia anatómica clave al pasar sondas urinarias transuretrales y durante cistotomías laparoscópicas o perineales para extraer cálculos vesicales.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.uet.001",
       "es": "Músculo uretral",
       "la": "M. urethralis",
       "sys": "uri",
-      "layer": "org"
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Pared de la porción pélvica de la uretra (y rodeando todo el trayecto uretral femenino en el suelo de la pelvis).",
+        "descripcion": "Manguito grueso de fibras musculares estriadas esqueléticas (rabdoesfínter o músculo de Wilson) que envuelve circunferencialmente el estrato vascular submucoso y el músculo liso uretral.",
+        "relaciones": "Dorsalmente en el macho se relaciona con las glándulas bulbouretrales y próstata; en la yegua se dispone entre la uretra y la pared ventral de la vagina.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Ramas de la arteria pudenda interna (arteria prostática en macho / vaginal en yegua).",
+        "inervacion": "Inervación somática motora voluntaria por el nervio pudendo (S2–S4).",
+        "funcion": "Control voluntario de la continencia urinaria externa, cierre al final de la micción y propulsión pulsátil del eyaculado hacia la uretra esponjosa en el macho.",
+        "especie": "Particularmente desarrollado en la uretra pélvica del semental y castrado.",
+        "clinica": "La anestesia epidural caudal o los bloqueos del nervio pudendo relajan el músculo uretral para facilitar maniobras endoscópicas o extracción de cálculos impactados en el arco isquiático.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.uet.002",
@@ -451,7 +1610,26 @@
       "la": "Urethra feminina",
       "sys": "uri",
       "layer": "org",
-      "sex": "f"
+      "sex": "f",
+      "ficha": {
+        "ubicacion": "Suelo de la cavidad pélvica de la yegua, discurriendo caudodorsalmente desde el cuello vesical hasta el vestíbulo vaginal.",
+        "descripcion": "Conducto corto (6–8 cm de longitud) pero muy ancho y dilatable (1,5–2 cm), revestido de urotelio/epitelio estratificado, submucosa venosa cavernosa y potente capa muscular lisa y estriada (músculo uretral).",
+        "relaciones": "Adherida íntimamente en su cara dorsal a la pared ventral de la vagina y apoyada ventralmente sobre el suelo óseo de la pelvis.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Arteria vaginal y ramas de la arteria pudenda interna.",
+        "inervacion": "Nervio pudendo (somático) y plexo pélvico (autónomo).",
+        "funcion": "Conduce rápidamente la orina durante la micción desde la vejiga al vestíbulo vaginal.",
+        "especie": "Su gran diámetro y corta longitud hacen que los urolitos vesicales pequeños pasen con facilidad en la yegua, a diferencia de los machos.",
+        "clinica": "Permite una cateterización manual directa y sencilla guiando la sonda a través del meato bajo la válvula mucosa en el suelo vestibulovaginal.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.uet.003",
@@ -459,7 +1637,26 @@
       "la": "Ostium urethrae externum",
       "sys": "uri",
       "layer": "org",
-      "sex": "f"
+      "sex": "f",
+      "ficha": {
+        "ubicacion": "Línea media del suelo del vestíbulo vaginal de la yegua, inmediatamente craneal a la unión vestíbulo-vaginal y ventral al pliegue transverso del himen.",
+        "descripcion": "Abertura amplia (permite el paso de uno a dos dedos) cubierta parcialmente por un pliegue mucoso dirigido caudalmente (válvula mucosa sobre el ostio).",
+        "relaciones": "Situado 8–10 cm craneal a la comisura ventral de la vulva, justo por debajo de la lámina mucosa vestibular.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Ramas vestibulares de las arterias vaginal y pudenda interna.",
+        "inervacion": "Ramos sensitivos del nervio pudendo.",
+        "funcion": "Desembocadura urinaria de la yegua hacia el vestíbulo vaginal, con el pliegue mucoso orientando el flujo caudalmente y protegiendo frente a la entrada de reflujo hacia la vagina craneal.",
+        "especie": "La presencia del pliegue mucoso dorsal sobre el ostio uretral evita confusiones con el fórnix o divertículo suburetral (inexistente o mínimo en la yegua, a diferencia de vaca y cerda).",
+        "clinica": "Referencia anatómica obligatoria para la toma estéril de muestras de orina o lavado vesical, así como para evaluar reflujo de orina hacia la vagina craneal (urovagina) en yeguas multíparas.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.uet.004",
@@ -467,7 +1664,26 @@
       "la": "Urethra masculina",
       "sys": "uri",
       "layer": "org",
-      "sex": "m"
+      "sex": "m",
+      "ficha": {
+        "ubicacion": "Cavidad pélvica, arco isquiático y cara ventral del pene desde el cuello de la vejiga hasta el glande.",
+        "descripcion": "Conducto fibromuscular largo (~70–90 cm) común a los aparatos urinario y genital en el caballo y castrado, dividido en una porción pélvica y otra esponjosa extrapélvica.",
+        "relaciones": "Envuelto sucesivamente por la próstata, el músculo uretral, las glándulas bulbouretrales, el músculo bulbospongioso y el cuerpo esponjoso del pene.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Arterias prostática, uretrales y arterias del bulbo del pene (pudenda interna).",
+        "inervacion": "Nervio pudendo, nervios cavernosos y plexo pélvico.",
+        "funcion": "Conducción exclusiva de orina durante la micción y de semen y secreciones accesorias durante la eyaculación.",
+        "especie": "A diferencia de los rumiantes o carnívoros, en el caballo macho la uretra pélvica es larga y de diámetro uniforme antes de doblarse alrededor del arco isquiático sin presentar estrechamientos óseos o flexura sigmoidea fija.",
+        "clinica": "Los cálculos uretrales en machos equinos suelen quedar atrapados en la fosa del glande (proceso uretral) o sobre el arco isquiático, requiriendo uretrotomía perineal o litotricia endoscópica.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.uet.005",
@@ -475,7 +1691,26 @@
       "la": "Pars pelvina urethrae",
       "sys": "uri",
       "layer": "org",
-      "sex": "m"
+      "sex": "m",
+      "ficha": {
+        "ubicacion": "Suelo de la cavidad pélvica del caballo macho, extendiéndose desde el ostio uretral interno hasta el arco isquiático.",
+        "descripcion": "Segmento intrapélvico (10–12 cm) de lumen amplio dilatable, rodeado por un denso estrato cavernoso submucoso y el grueso músculo uretral estriado.",
+        "relaciones": "En su techo dorsal recibe el colículo seminal (conductos eyaculadores y utrículo prostático), los conductillos prostáticos y, más caudalmente en dos hileras, los conductillos de las glándulas bulbouretrales.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Ramas de las arterias prostática y pudenda interna.",
+        "inervacion": "Nervio pudendo y fibras simpáticas/parasimpáticas del plexo pélvico.",
+        "funcion": "Cámara de mezcla seminal previa a la eyaculación y vía de conducción urinaria pélvica.",
+        "especie": "Palpable ventralmente por examen transrectal siguiendo la línea media sobre el suelo pélvico en el semental y castrado.",
+        "clinica": "La exploración endoscópica (uretroscopia) permite inspeccionar el colículo seminal y detectar vesiculitis seminal o hemorragias provenientes de las glándulas accesorias.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.uet.006",
@@ -483,7 +1718,26 @@
       "la": "Pars spongiosa urethrae",
       "sys": "uri",
       "layer": "org",
-      "sex": "m"
+      "sex": "m",
+      "ficha": {
+        "ubicacion": "Arco isquiático y surco uretral ventral del pene hasta el proceso uretral en la fosa del glande.",
+        "descripcion": "Segmento extrapélvico largo de la uretra masculina rodeado en toda su longitud por el cuerpo esponjoso del pene y el músculo bulbospongioso.",
+        "relaciones": "Dorsalmente se aloja en el surco ventral del cuerpo cavernoso del pene; ventralmente es superficial y palpable en el periné.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Arteria del bulbo del pene y arterias profundas/dorsales del pene (pudenda interna y obturatriz).",
+        "inervacion": "Nervio dorsal del pene (pudendo) y fibras autónomas eréctiles.",
+        "funcion": "Conduce orina y semen a lo largo del pene; su cuerpo esponjoso amortigua la presión evitando el colapso luminal durante la erección.",
+        "especie": "En el caballo sobresale libremente 2–3 cm en el extremo distal como proceso uretral dentro de la fosa del glande, un rasgo muy característico de los équidos.",
+        "clinica": "Un sitio clásico de obstrucción uretral o «bean» de esmegma compresivo en la fosa del glande y de desgarros uretrales hemorrágicos (hemospermia en sementales de monta) justo bajo el arco isquiático.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.uet.007",
@@ -491,7 +1745,26 @@
       "la": "Colliculus seminalis",
       "sys": "uri",
       "layer": "org",
-      "sex": "m"
+      "sex": "m",
+      "ficha": {
+        "ubicacion": "Pared dorsal de la porción pélvica inicial de la uretra del caballo macho, a nivel del istmo prostático (~4–5 cm caudal al cuello vesical).",
+        "descripcion": "Prominencia mucosa ovalada sobre la cresta uretral donde desembocan bilateralmente las ampollas del conducto deferente y conductos de las glándulas vesiculares (y el utrículo prostático impar si existe).",
+        "relaciones": "Flanqueado lateralmente por los senos prostáticos donde vierten los numerosos conductillos excretores de la próstata.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Ramas de la arteria prostática.",
+        "inervacion": "Fibras simpáticas y sensitivas del plexo prostático/pélvico.",
+        "funcion": "Punto anatómico de emisión donde convergen espermatozoides y líquido vesicular hacia la uretra pélvica durante la fase de emisión sexual.",
+        "especie": "Muy bien definido en el semental y presente aunque algo atrofiado en el caballo castrado.",
+        "clinica": "Objetivo directo de la endoscopia reproductiva para diagnosticar obstrucciones ampulares, vesiculitis purulenta o cateterizar las glándulas vesiculares.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     },
     {
       "id": "equ.uri.uet.008",
@@ -499,7 +1772,26 @@
       "la": "Ostium urethrae externum",
       "sys": "uri",
       "layer": "org",
-      "sex": "m"
+      "sex": "m",
+      "ficha": {
+        "ubicacion": "Vértice libre del proceso uretral del pene equino, proyectándose en el centro de la fosa del glande.",
+        "descripcion": "Orificio terminal de la uretra masculina situado en el extremo de una prolongación cilíndrica libre (proceso uretral de 2–3 cm) recubierta por tejido eréctil esponjoso.",
+        "relaciones": "Rodeado circunferencialmente por el seno uretral y la corona del glande, frecuentemente expuesto a secreciones prepuciales.",
+        "accidentes": "Estructura sin accidentes óseos propios; presenta límites anatómicos bien definidos.",
+        "articulaciones": "No conforma una articulación sinovial directa; se integra en su compartimento topográfico.",
+        "inserciones": "Sin inserciones musculares esqueléticas directas, salvo fascias, ligamentos o cápsulas de sostén asociadas.",
+        "irrigacion": "Continuación distal de los vasos del cuerpo esponjoso y arterias dorsales del pene.",
+        "inervacion": "Terminaciones sensitivas muy abundantes del nervio dorsal del pene.",
+        "funcion": "Dirige el chorro urinario al exterior y proyecta el semen directamente contra el orificio uterino externo durante la cópula.",
+        "especie": "La protrusión tubular libre del proceso uretral rodeada por una fosa del glande profunda es una peculiaridad distintiva del caballo (y difiere notablemente del ganado vacuno o canino).",
+        "clinica": "El esmegma acumulado en la fosa y seno uretral forma masas endurecidas («frijoles» o beans) que comprimen el proceso uretral produciendo disuria; también es asiento frecuente de carcinoma de células escamosas o habronemiasis cutánea.",
+        "referencias": "Nomina Anatomica Veterinaria (NAV, 6.ª ed.).\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Schlütersche; 2011.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5.ª ed. Elsevier; 2018.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7.ª ed. Thieme; 2020.\nSisson S, Grossman JD. Anatomía de los animales domésticos. 5.ª ed. Salvat/Elsevier."
+      },
+      "revision": {
+        "estado": "redactada_pendiente_de_verificacion",
+        "fecha": "2026-11-23",
+        "alcance": "Ficha anatómica completa de 12 campos redactada con base en anatomía veterinaria equina comparada (NAV, Budras/Sack, Dyce, König/Liebich, Sisson/Grossman). Pendiente de auditoría editorial final."
+      }
     }
   ],
   "verificaciones": [
